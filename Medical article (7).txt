@@ -1,0 +1,937 @@
+PMID- 34610768
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20220128
+LR  - 20220128
+IS  - 1471-2954 (Electronic)
+IS  - 0962-8452 (Print)
+IS  - 0962-8452 (Linking)
+VI  - 288
+IP  - 1960
+DP  - 2021 Oct 13
+TI  - Nature calls: intelligence and natural foraging style predict poor welfare in 
+      captive parrots.
+PG  - 20211952
+LID - 10.1098/rspb.2021.1952 [doi]
+LID - 20211952
+AB  - Understanding why some species thrive in captivity, while others struggle to 
+      adjust, can suggest new ways to improve animal care. Approximately half of all 
+      Psittaciformes, a highly threatened order, live in zoos, breeding centres and 
+      private homes. Here, some species are prone to behavioural and reproductive 
+      problems that raise conservation and ethical concerns. To identify risk factors, 
+      we analysed data on hatching rates in breeding centres (115 species, 10 255 
+      pairs) and stereotypic behaviour (SB) in private homes (50 species, 1378 
+      individuals), using phylogenetic comparative methods (PCMs). Small captive 
+      population sizes predicted low hatch rates, potentially due to genetic 
+      bottlenecks, inbreeding and low availability of compatible mates. Species 
+      naturally reliant on diets requiring substantial handling were most prone to 
+      feather-damaging behaviours (e.g. self-plucking), indicating inadequacies in the 
+      composition or presentation of feed (often highly processed). Parrot species with 
+      relatively large brains were most prone to oral and whole-body SB: the first 
+      empirical evidence that intelligence can confer poor captive welfare. Together, 
+      results suggest that more naturalistic diets would improve welfare, and that 
+      intelligent psittacines need increased cognitive stimulation. These findings 
+      should help improve captive parrot care and inspire further PCM research to 
+      understand species differences in responses to captivity.
+FAU - Mellor, Emma L
+AU  - Mellor EL
+AD  - Bristol Veterinary School, University of Bristol, Bristol, UK.
+FAU - McDonald Kinkaid, Heather K
+AU  - McDonald Kinkaid HK
+AD  - Formerly, Animal Biosciences Department, University of Guelph, Canada.
+FAU - Mendl, Michael T
+AU  - Mendl MT
+AUID- ORCID: 0000-0002-5302-1871
+AD  - Bristol Veterinary School, University of Bristol, Bristol, UK.
+FAU - Cuthill, Innes C
+AU  - Cuthill IC
+AUID- ORCID: 0000-0002-5007-8856
+AD  - School of Biological Sciences, University of Bristol, Bristol, UK.
+FAU - van Zeeland, Yvonne R A
+AU  - van Zeeland YRA
+AD  - Department of Companion Animal Clinical Science, Utrecht University, The 
+      Netherlands.
+FAU - Mason, Georgia J
+AU  - Mason GJ
+AUID- ORCID: 0000-0001-8045-4579
+AD  - Department of Integrative Biology, University of Guelph, Canada.
+LA  - eng
+SI  - figshare/10.6084/m9.figshare.c.5646498
+SI  - Dryad/10.5061/dryad.ns1rn8psb
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20211006
+PL  - England
+TA  - Proc Biol Sci
+JT  - Proceedings. Biological sciences
+JID - 101245157
+SB  - IM
+MH  - Animals
+MH  - Animals, Zoo
+MH  - Breeding
+MH  - Humans
+MH  - Intelligence
+MH  - *Parrots
+MH  - Phylogeny
+PMC - PMC8493207
+OTO - NOTNLM
+OT  - abnormal behaviour
+OT  - animal welfare
+OT  - captive breeding
+OT  - parrots
+OT  - phylogenetic comparative methods
+OT  - stress
+EDAT- 2021/10/07 06:00
+MHDA- 2022/01/29 06:00
+CRDT- 2021/10/06 05:29
+PHST- 2021/10/06 05:29 [entrez]
+PHST- 2021/10/07 06:00 [pubmed]
+PHST- 2022/01/29 06:00 [medline]
+AID - rspb20211952 [pii]
+AID - 10.1098/rspb.2021.1952 [doi]
+PST - ppublish
+SO  - Proc Biol Sci. 2021 Oct 13;288(1960):20211952. doi: 10.1098/rspb.2021.1952. Epub 
+      2021 Oct 6.
+
+PMID- 35890976
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20220728
+LR  - 20220731
+IS  - 1424-8220 (Electronic)
+IS  - 1424-8220 (Linking)
+VI  - 22
+IP  - 14
+DP  - 2022 Jul 15
+TI  - LightFD: Real-Time Fault Diagnosis with Edge Intelligence for Power Transformers.
+LID - 10.3390/s22145296 [doi]
+LID - 5296
+AB  - Power fault monitoring based on acoustic waves has gained a great deal of 
+      attention in industry. Existing methods for fault diagnosis typically collect 
+      sound signals on site and transmit them to a back-end server for analysis, which 
+      may fail to provide a real-time response due to transmission packet loss and 
+      latency. However, the limited computing power of edge devices and the existing 
+      methods for feature extraction pose a significant challenge to performing 
+      diagnosis on the edge. In this paper, we propose a fast Lightweight Fault 
+      Diagnosis method for power transformers, referred to as LightFD, which integrates 
+      several technical components. Firstly, before feature extraction, we design an 
+      asymmetric Hamming-cosine window function to reduce signal spectrum leakage and 
+      ensure data integrity. Secondly, we design a multidimensional spatio-temporal 
+      feature extraction method to extract acoustic features. Finally, we design a 
+      parallel dual-layer, dual-channel lightweight neural network to realize the 
+      classification of different fault types on edge devices with limited computing 
+      power. Extensive simulation and experimental results show that the diagnostic 
+      precision and recall of LightFD reach 94.64% and 95.33%, which represent an 
+      improvement of 4% and 1.6% over the traditional SVM method, respectively.
+FAU - Fu, Xinhua
+AU  - Fu X
+AUID- ORCID: 0000-0002-4039-6869
+AD  - School of Information Science and Technology, Northwest University, Xi'an 710100, 
+      China.
+FAU - Yang, Kejun
+AU  - Yang K
+AD  - Anhui Nanrui Jiyuan Electricity Grid Technical Co., Ltd., Hefei 230088, China.
+FAU - Liu, Min
+AU  - Liu M
+AD  - Anhui Zhongke Haoyin Intelligent Technology Co., Ltd., Hefei 230000, China.
+FAU - Xing, Tianzhang
+AU  - Xing T
+AD  - School of Information Science and Technology, Northwest University, Xi'an 710100, 
+      China.
+FAU - Wu, Chase
+AU  - Wu C
+AUID- ORCID: 0000-0002-8218-1209
+AD  - Department of Computer Science, New Jersey Institute of Technology, Newark, NJ 
+      07102, USA.
+LA  - eng
+PT  - Journal Article
+DEP - 20220715
+PL  - Switzerland
+TA  - Sensors (Basel)
+JT  - Sensors (Basel, Switzerland)
+JID - 101204366
+SB  - IM
+MH  - Computer Simulation
+MH  - *Electric Power Supplies
+MH  - Intelligence
+MH  - *Neural Networks, Computer
+PMC - PMC9322841
+OTO - NOTNLM
+OT  - Mel Frequency Cepstrum Coefficient (MFCC)
+OT  - fault diagnosis
+OT  - power transformer
+OT  - sound signal
+OT  - spectrogram
+COIS- The authors declare no conflict of interest.
+EDAT- 2022/07/28 06:00
+MHDA- 2022/07/29 06:00
+CRDT- 2022/07/27 01:42
+PHST- 2022/06/09 00:00 [received]
+PHST- 2022/07/07 00:00 [revised]
+PHST- 2022/07/12 00:00 [accepted]
+PHST- 2022/07/27 01:42 [entrez]
+PHST- 2022/07/28 06:00 [pubmed]
+PHST- 2022/07/29 06:00 [medline]
+AID - s22145296 [pii]
+AID - sensors-22-05296 [pii]
+AID - 10.3390/s22145296 [doi]
+PST - epublish
+SO  - Sensors (Basel). 2022 Jul 15;22(14):5296. doi: 10.3390/s22145296.
+
+PMID- 36152522
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20231023
+LR  - 20231023
+IS  - 1876-035X (Electronic)
+IS  - 1876-0341 (Print)
+IS  - 1876-0341 (Linking)
+VI  - 15
+IP  - 10
+DP  - 2022 Oct
+TI  - Utilizing geospatial intelligence and user modeling to allow for a customized 
+      health awareness campaign during the pandemic: The case of COVID-19 in Saudi 
+      Arabia.
+PG  - 1124-1133
+LID - S1876-0341(22)00233-7 [pii]
+LID - 10.1016/j.jiph.2022.08.018 [doi]
+AB  - BACKGROUND: As of 2022, people are getting better at learning how to coexist with 
+      the Covid-19 global pandemic. In Saudi Arabia, many attempts have been made to 
+      raise public health awareness. However, most health awareness campaigns are 
+      generic and might not influence the desired behavior among individuals. 
+      OBJECTIVES: This study aims to apply geospatial intelligence and user modeling to 
+      profile the districts of the city of Jeddah. This customized map can provide a 
+      baseline for a customized health awareness campaign that targets the locals of 
+      each district individually based on the virus spread level. METHODOLOGY: It is 
+      ongoing research, which has resulted in the creation of a health messages library 
+      in the first phase [1]. This paper focuses on a second phase of the research 
+      study, which aims to provide a customized baseline for this campaign by applying 
+      the geospatial artificial intelligence technique known as space-time cube (STC). 
+      STC was applied to create a local map of the Saudi city of Jeddah, representing 
+      three different profiles for the city's districts. The model is built using valid 
+      COVID-19 clinical data obtained from one of Jeddah's general hospitals. RESULTS 
+      AND IMPLICATIONS: When applied, STC displays three profiles for the districts of 
+      Jeddah city: high infection, moderate infection, and low infection. To assess the 
+      geo-intelligent map, a new instrument was created and validated. The usability 
+      and practicality of this map were quantitatively evaluated in a cross-sectional 
+      survey using the goal-question-metric measurement framework, and a total of 43 
+      participants filled out the questionnaire. The results indicate that the 
+      geo-intelligent map is suitable for everyday use, as evidenced by the 
+      participants' responses. We argue that the developed instrument can also be used 
+      to assess any geo-intelligence map. This research provides a legitimate approach 
+      to customizing health awareness messages during pandemics.
+CI  - Copyright © 2022 The Authors. Published by Elsevier Ltd.. All rights reserved.
+FAU - Alrige, Mayda
+AU  - Alrige M
+AD  - Department of Information Systems, King Abdulaziz University, Jeddah, Saudi 
+      Arabia. Electronic address: malraegi@kau.edu.sa.
+FAU - Bitar, Hind
+AU  - Bitar H
+AD  - Department of Information Systems, King Abdulaziz University, Jeddah, Saudi 
+      Arabia.
+FAU - Meccawy, Maram
+AU  - Meccawy M
+AD  - Department of Information Systems, King Abdulaziz University, Jeddah, Saudi 
+      Arabia.
+FAU - Mullachery, Balakrishnan
+AU  - Mullachery B
+AD  - Center for Information Systems & Technology (CISAT), Claremont Graduate 
+      University, Claremont, USA.
+LA  - eng
+PT  - Journal Article
+DEP - 20220901
+PL  - England
+TA  - J Infect Public Health
+JT  - Journal of infection and public health
+JID - 101487384
+SB  - IM
+MH  - Humans
+MH  - *COVID-19/epidemiology
+MH  - Saudi Arabia/epidemiology
+MH  - Pandemics/prevention & control
+MH  - Artificial Intelligence
+MH  - Cross-Sectional Studies
+MH  - Intelligence
+PMC - PMC9433335
+OTO - NOTNLM
+OT  - COVID-19
+OT  - Customization
+OT  - Geospatial intelligence
+OT  - Health awareness campaign
+OT  - Space-time cube (STC)
+OT  - User modeling
+COIS- Conflicts of Interest No conflict of interest.
+EDAT- 2022/09/25 06:00
+MHDA- 2023/10/23 12:42
+CRDT- 2022/09/24 18:27
+PHST- 2022/06/08 00:00 [received]
+PHST- 2022/08/08 00:00 [revised]
+PHST- 2022/08/28 00:00 [accepted]
+PHST- 2023/10/23 12:42 [medline]
+PHST- 2022/09/25 06:00 [pubmed]
+PHST- 2022/09/24 18:27 [entrez]
+AID - S1876-0341(22)00233-7 [pii]
+AID - 10.1016/j.jiph.2022.08.018 [doi]
+PST - ppublish
+SO  - J Infect Public Health. 2022 Oct;15(10):1124-1133. doi: 
+      10.1016/j.jiph.2022.08.018. Epub 2022 Sep 1.
+
+PMID- 37831697
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20231023
+LR  - 20231025
+IS  - 1932-6203 (Electronic)
+IS  - 1932-6203 (Linking)
+VI  - 18
+IP  - 10
+DP  - 2023
+TI  - Teacher-class relationship and emotional intelligence in the academic output and 
+      generic competence of higher education students.
+PG  - e0292120
+LID - 10.1371/journal.pone.0292120 [doi]
+LID - e0292120
+AB  - Academic output of students is considered as a crucial element and it is affected 
+      by various aspects. Teacher-class relationship, emotional intelligence and 
+      generic competence are the elements which can have a considerable effect on the 
+      academic output of the students. Current study was intended to find out the 
+      moderating role of teacher-class relationship, emotional intelligence in the 
+      academic output and generic competence of higher education students. All the 
+      teachers and students of University of Sargodha were the population of the study. 
+      The sample was taken from four departments of different faculties of University 
+      of Sargodha i.e., Faculty of Agriculture, Faculty of Medical and Health Sciences, 
+      Faculty of Arts and Humanities and Faculty of Social Sciences. For this study, a 
+      sample of 21 teachers and 320 students from regular and self-support programs was 
+      selected conveniently from University of Sargodha. For data collection, three 
+      adapted instruments were used. Findings of current study concluded an 
+      insignificant moderating role of teacher-class relationship and emotional 
+      intelligence in the academic output and generic competence of students at higher 
+      education. The results of present study provide guideline to curriculum 
+      developers for developing the generic competence of students so that they can 
+      progress in future prospects which will eventually make contribution towards 
+      economy, moreover, stakeholder may take steps in order to develop the emotional 
+      intelligence of students by providing them needful counseling and trainings which 
+      will improve the academic output of students.
+CI  - Copyright: © 2023 Yasmeen et al. This is an open access article distributed under 
+      the terms of the Creative Commons Attribution License, which permits unrestricted 
+      use, distribution, and reproduction in any medium, provided the original author 
+      and source are credited.
+FAU - Yasmeen, Rahat
+AU  - Yasmeen R
+AUID- ORCID: 0000-0001-5557-7833
+AD  - Department of Education, University of Sargodha, Sargodha, Pakistan.
+FAU - Shah, Ashfaque Ahmad
+AU  - Shah AA
+AD  - Department of Educational Development, University of Baltistan, Skardu, Pakistan.
+FAU - Naseer, Sehrish
+AU  - Naseer S
+AD  - Department of Education, University of Sargodha, Sargodha, Pakistan.
+FAU - Syeda, Zunaira Fatima
+AU  - Syeda ZF
+AD  - Department of Education, University of Sargodha, Sargodha, Pakistan.
+LA  - eng
+PT  - Journal Article
+DEP - 20231013
+PL  - United States
+TA  - PLoS One
+JT  - PloS one
+JID - 101285081
+SB  - IM
+MH  - Humans
+MH  - *Students/psychology
+MH  - *Emotional Intelligence
+MH  - Faculty
+MH  - Curriculum
+PMC - PMC10575501
+COIS- The authors have declared that no competing interests exist.
+EDAT- 2023/10/13 18:43
+MHDA- 2023/10/23 01:18
+CRDT- 2023/10/13 13:34
+PHST- 2022/10/31 00:00 [received]
+PHST- 2023/09/12 00:00 [accepted]
+PHST- 2023/10/23 01:18 [medline]
+PHST- 2023/10/13 18:43 [pubmed]
+PHST- 2023/10/13 13:34 [entrez]
+AID - PONE-D-22-29096 [pii]
+AID - 10.1371/journal.pone.0292120 [doi]
+PST - epublish
+SO  - PLoS One. 2023 Oct 13;18(10):e0292120. doi: 10.1371/journal.pone.0292120. 
+      eCollection 2023.
+
+PMID- 35983131
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20220822
+LR  - 20220822
+IS  - 1687-5273 (Electronic)
+IS  - 1687-5265 (Print)
+VI  - 2022
+DP  - 2022
+TI  - Research on the Development of Hospital Intelligent Finance Based on Artificial 
+      Intelligence.
+PG  - 6549766
+LID - 10.1155/2022/6549766 [doi]
+LID - 6549766
+AB  - Based on the development background of the interweaving and integration of 
+      computer technology and Internet technology, China's artificial intelligence 
+      industry is quietly rising. In the social life of the information age, the 
+      artificial intelligence industry represented by machine deep learning is playing 
+      a very important role. This study in combination with the background of the new 
+      health reform, in view of the reform of the medical industry, analyzes the 
+      connotation of financial wisdom based on the important role of the hospital 
+      financial development problems, puts forward the development direction of 
+      artificial intelligence hospital financial wisdom development measures, designed 
+      to meet the changing external environment demand, reduces human costs, and 
+      improves the overall efficiency of hospital financial fund management. Based on 
+      the evaluation results, this paper proposes the correct direction for the 
+      development of hospital intelligence finance by using the BP neural network 
+      model. After the analysis, it is found that the development of artificial 
+      intelligence is an important measure to promote the development of hospital 
+      intelligent finance. In other words, hospital intelligent financial management is 
+      the product of the continuous progress of artificial intelligence technology. At 
+      the present stage, the intelligent financial management problems of hospitals are 
+      mainly as follows: (1) lack of financial informatization, (2) lack of perfect 
+      financial risk early warning system, and (3) the phenomenon of "information 
+      island" in the financial system. After analyzing the above problems, the research 
+      believes that the development of hospital intelligent finance based on artificial 
+      intelligence needs to solve the above thorny problems, so as to improve the 
+      outcome of hospital intelligent finance development. The following work should be 
+      done: (1) strengthen the design of information sharing module, (2) intelligent 
+      control of the cost of hospitals, and (3) intelligent treatment of hospital 
+      accounting. Combining the development of artificial intelligence and hospital 
+      intelligent finance theory, combined with the actual trend of financial 
+      intelligence development under the background of artificial intelligence 
+      development in the new era, it provides scientific basis for the development of 
+      hospital intelligent finance.
+CI  - Copyright © 2022 Mengxuan Ma.
+FAU - Ma, Mengxuan
+AU  - Ma M
+AUID- ORCID: 0000-0002-4253-3994
+AD  - Hubei Cancer Hospital, Tongji Medical College, Huazhong University of Science and 
+      Technology, Wuhan, Hubei 430079, China.
+LA  - eng
+PT  - Journal Article
+DEP - 20220809
+PL  - United States
+TA  - Comput Intell Neurosci
+JT  - Computational intelligence and neuroscience
+JID - 101279357
+SB  - IM
+MH  - *Artificial Intelligence
+MH  - *Health Care Reform
+MH  - Hospitals
+MH  - Humans
+MH  - Intelligence
+MH  - Neural Networks, Computer
+PMC - PMC9381220
+COIS- The author declares no conflicts of interest.
+EDAT- 2022/08/20 06:00
+MHDA- 2022/08/23 06:00
+CRDT- 2022/08/19 02:14
+PHST- 2022/04/28 00:00 [received]
+PHST- 2022/05/18 00:00 [revised]
+PHST- 2022/05/23 00:00 [accepted]
+PHST- 2022/08/19 02:14 [entrez]
+PHST- 2022/08/20 06:00 [pubmed]
+PHST- 2022/08/23 06:00 [medline]
+AID - 10.1155/2022/6549766 [doi]
+PST - epublish
+SO  - Comput Intell Neurosci. 2022 Aug 9;2022:6549766. doi: 10.1155/2022/6549766. 
+      eCollection 2022.
+
+PMID- 31211362
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20210322
+LR  - 20220129
+IS  - 1460-2199 (Electronic)
+IS  - 1047-3211 (Print)
+IS  - 1047-3211 (Linking)
+VI  - 30
+IP  - 1
+DP  - 2020 Jan 10
+TI  - A Hierarchical Watershed Model of Fluid Intelligence in Childhood and 
+      Adolescence.
+PG  - 339-352
+LID - 10.1093/cercor/bhz091 [doi]
+AB  - Fluid intelligence is the capacity to solve novel problems in the absence of 
+      task-specific knowledge and is highly predictive of outcomes like educational 
+      attainment and psychopathology. Here, we modeled the neurocognitive architecture 
+      of fluid intelligence in two cohorts: the Centre for Attention, Leaning and 
+      Memory sample (CALM) (N = 551, aged 5-17 years) and the Enhanced Nathan Kline 
+      Institute-Rockland Sample (NKI-RS) (N = 335, aged 6-17 years). We used 
+      multivariate structural equation modeling to test a preregistered watershed model 
+      of fluid intelligence. This model predicts that white matter contributes to 
+      intermediate cognitive phenotypes, like working memory and processing speed, 
+      which, in turn, contribute to fluid intelligence. We found that this model 
+      performed well for both samples and explained large amounts of variance in fluid 
+      intelligence (R2CALM = 51.2%, R2NKI-RS = 78.3%). The relationship between 
+      cognitive abilities and white matter differed with age, showing a dip in strength 
+      around ages 7-12 years. This age effect may reflect a reorganization of the 
+      neurocognitive architecture around pre- and early puberty. Overall, these 
+      findings highlight that intelligence is part of a complex hierarchical system of 
+      partially independent effects.
+CI  - © The Author(s) 2019. Published by Oxford University Press.
+FAU - Fuhrmann, Delia
+AU  - Fuhrmann D
+AD  - MRC Cognition and Brain Sciences Unit, University of Cambridge, Cambridge, UK.
+FAU - Simpson-Kent, Ivan L
+AU  - Simpson-Kent IL
+AD  - MRC Cognition and Brain Sciences Unit, University of Cambridge, Cambridge, UK.
+FAU - Bathelt, Joe
+AU  - Bathelt J
+AD  - MRC Cognition and Brain Sciences Unit, University of Cambridge, Cambridge, UK.
+CN  - CALM Team
+FAU - Kievit, Rogier A
+AU  - Kievit RA
+AD  - MRC Cognition and Brain Sciences Unit, University of Cambridge, Cambridge, UK.
+LA  - eng
+GR  - MC-A060-5PR60/Medical Research Council/United Kingdom
+GR  - MC_U105559837/MRC_/Medical Research Council/United Kingdom
+GR  - 107392/Wellcome Trust/United Kingdom
+GR  - MC_UU_00005/9/MRC_/Medical Research Council/United Kingdom
+GR  - MC_UU_00005/10/MRC_/Medical Research Council/United Kingdom
+GR  - MC_UP_1401/1/MRC_/Medical Research Council/United Kingdom
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PL  - United States
+TA  - Cereb Cortex
+JT  - Cerebral cortex (New York, N.Y. : 1991)
+JID - 9110718
+SB  - IM
+MH  - Adolescent
+MH  - Brain/anatomy & histology/*physiology
+MH  - Child
+MH  - Child, Preschool
+MH  - Cognition/physiology
+MH  - Female
+MH  - Humans
+MH  - Intelligence/*physiology
+MH  - Magnetic Resonance Imaging
+MH  - Male
+MH  - *Models, Neurological
+MH  - Neuropsychological Tests
+MH  - White Matter/anatomy & histology/*physiology
+PMC - PMC7029679
+MID - EMS84600
+OTO - NOTNLM
+OT  - fractional anisotropy
+OT  - processing speed
+OT  - structural equation modeling
+OT  - watershed model
+OT  - working memory
+FIR - Holmes, Joni
+IR  - Holmes J
+FIR - Gathercole, Susan
+IR  - Gathercole S
+FIR - Astle, Duncan
+IR  - Astle D
+FIR - Manly, Tom
+IR  - Manly T
+FIR - Kievit, Rogier
+IR  - Kievit R
+EDAT- 2019/06/19 06:00
+MHDA- 2021/03/23 06:00
+CRDT- 2019/06/19 06:00
+PHST- 2018/12/12 00:00 [received]
+PHST- 2019/03/18 00:00 [revised]
+PHST- 2019/04/04 00:00 [accepted]
+PHST- 2019/06/19 06:00 [pubmed]
+PHST- 2021/03/23 06:00 [medline]
+PHST- 2019/06/19 06:00 [entrez]
+AID - 5513536 [pii]
+AID - bhz091 [pii]
+AID - 10.1093/cercor/bhz091 [doi]
+PST - ppublish
+SO  - Cereb Cortex. 2020 Jan 10;30(1):339-352. doi: 10.1093/cercor/bhz091.
+
+PMID- 34990157
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20220815
+LR  - 20230802
+IS  - 1939-2222 (Electronic)
+IS  - 0096-3445 (Print)
+IS  - 0022-1015 (Linking)
+VI  - 151
+IP  - 8
+DP  - 2022 Aug
+TI  - Genetic associations between executive functions and intelligence: A combined 
+      twin and adoption study.
+PG  - 1745-1761
+LID - 10.1037/xge0001168 [doi]
+AB  - Much debate has concerned the separability of executive function abilities and 
+      intelligence, with some evidence that the 2 constructs are genetically 
+      indistinguishable in children and adolescents but phenotypically and genetically 
+      distinct in older adolescents and adults. The current study leveraged data from 
+      twin and adoption studies to examine executive function's genetic structure in 
+      adulthood (M = 33.15 years, SD = 4.96) and its overlap with intelligence. 1,238 
+      individuals (170 MZ twin pairs, 154 DZ twin pairs, 95 biological sibling pairs, 
+      80 adoptive sibling pairs, and 240 unpaired individuals) completed 6 executive 
+      function tasks as well as the Weschler Adult Intelligence Scale-III as part of 
+      the Colorado Adoption/Twin study of Life span behavioral development and 
+      cognitive aging (CATSLife). Results replicated the unity/diversity model of 
+      executive function that distinguishes general executive function abilities 
+      (Common EF) from abilities specific to working memory updating 
+      (Updating-specific) and mental set shifting (Shifting-specific). In the final 
+      model, broad-sense heritability was high for Common EF (h² = .72), 
+      Updating-specific (h² = 1.0), and Shifting-specific (h² = .60) factors, as well 
+      as for full-scale intelligence (h² = .74). Intelligence was phenotypically and 
+      genetically correlated with Common EF (r = .49, broad-sense r(g) = .44) and 
+      Updating-specific (r = .60, r(g) = .69) abilities. This study represents the 
+      first executive function study to apply the adoption design. Leveraging the 
+      combined twin and adoptive design allowed us to estimate both additive and 
+      nonadditive genetic effects underlying these associations. These findings 
+      highlight the commonality and separability of executive function and 
+      intelligence. Common EF abilities are distinct from intelligence in adulthood, 
+      with intelligence also strongly associated with Updating-specific abilities. 
+      (PsycInfo Database Record (c) 2022 APA, all rights reserved).
+FAU - Gustavson, Daniel E
+AU  - Gustavson DE
+AUID- ORCID: 0000-0002-1470-4928
+AD  - Department of Medicine.
+FAU - Reynolds, Chandra A
+AU  - Reynolds CA
+AUID- ORCID: 0000-0001-6502-7173
+AD  - Department of Psychology.
+FAU - Corley, Robin P
+AU  - Corley RP
+AUID- ORCID: 0000-0002-2938-4170
+AD  - Institute for Behavioral Genetics.
+FAU - Wadsworth, Sally J
+AU  - Wadsworth SJ
+AUID- ORCID: 0000-0002-1909-6677
+AD  - Institute for Behavioral Genetics.
+FAU - Hewitt, John K
+AU  - Hewitt JK
+AUID- ORCID: 0000-0001-9415-2723
+AD  - Institute for Behavioral Genetics.
+FAU - Friedman, Naomi P
+AU  - Friedman NP
+AUID- ORCID: 0000-0002-4901-808X
+AD  - Institute for Behavioral Genetics.
+LA  - eng
+GR  - R01 DC016977/DC/NIDCD NIH HHS/United States
+GR  - R01 AG046938/AG/NIA NIH HHS/United States
+GR  - R01 DA046064/DA/NIDA NIH HHS/United States
+GR  - R03 AG065643/AG/NIA NIH HHS/United States
+GR  - R01 MH063207/MH/NIMH NIH HHS/United States
+GR  - NH/NIH HHS/United States
+GR  - U01 DA046413/DA/NIDA NIH HHS/United States
+GR  - NH/NIH HHS/United States
+PT  - Journal Article
+PT  - Twin Study
+DEP - 20220106
+PL  - United States
+TA  - J Exp Psychol Gen
+JT  - Journal of experimental psychology. General
+JID - 7502587
+SB  - IM
+MH  - Adolescent
+MH  - Adult
+MH  - Child
+MH  - *Executive Function
+MH  - Humans
+MH  - *Intelligence/genetics
+MH  - Longevity
+MH  - Memory, Short-Term
+MH  - Twins/genetics
+PMC - PMC9256856
+MID - NIHMS1758812
+COIS- We have no known conflicts of interest to disclose.
+EDAT- 2022/01/07 06:00
+MHDA- 2022/08/16 06:00
+CRDT- 2022/01/06 17:11
+PHST- 2022/01/07 06:00 [pubmed]
+PHST- 2022/08/16 06:00 [medline]
+PHST- 2022/01/06 17:11 [entrez]
+AID - 2022-19142-001 [pii]
+AID - 10.1037/xge0001168 [doi]
+PST - ppublish
+SO  - J Exp Psychol Gen. 2022 Aug;151(8):1745-1761. doi: 10.1037/xge0001168. Epub 2022 
+      Jan 6.
+
+PMID- 34634605
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20211124
+LR  - 20211124
+IS  - 1879-2782 (Electronic)
+IS  - 0893-6080 (Linking)
+VI  - 144
+DP  - 2021 Dec
+TI  - World model learning and inference.
+PG  - 573-590
+LID - S0893-6080(21)00361-0 [pii]
+LID - 10.1016/j.neunet.2021.09.011 [doi]
+AB  - Understanding information processing in the brain-and creating general-purpose 
+      artificial intelligence-are long-standing aspirations of scientists and engineers 
+      worldwide. The distinctive features of human intelligence are high-level 
+      cognition and control in various interactions with the world including the self, 
+      which are not defined in advance and are vary over time. The challenge of 
+      building human-like intelligent machines, as well as progress in brain science 
+      and behavioural analyses, robotics, and their associated theoretical 
+      formalisations, speaks to the importance of the world-model learning and 
+      inference. In this article, after briefly surveying the history and challenges of 
+      internal model learning and probabilistic learning, we introduce the free energy 
+      principle, which provides a useful framework within which to consider neuronal 
+      computation and probabilistic world models. Next, we showcase examples of human 
+      behaviour and cognition explained under that principle. We then describe symbol 
+      emergence in the context of probabilistic modelling, as a topic at the frontiers 
+      of cognitive robotics. Lastly, we review recent progress in creating human-like 
+      intelligence by using novel probabilistic programming languages. The striking 
+      consensus that emerges from these studies is that probabilistic descriptions of 
+      learning and inference are powerful and effective ways to create human-like 
+      artificial intelligent machines and to understand intelligence in the context of 
+      how humans interact with their world.
+CI  - Copyright © 2021 The Author(s). Published by Elsevier Ltd.. All rights reserved.
+FAU - Friston, Karl
+AU  - Friston K
+AD  - Wellcome Centre for Human Neuroimaging, Institute of Neurology, University 
+      College London (UCL), WC1N 3BG, UK. Electronic address: k.friston@ucl.ac.uk.
+FAU - Moran, Rosalyn J
+AU  - Moran RJ
+AD  - Department of Neuroimaging, Institute of Psychiatry, Psychology & Neuroscience, 
+      King's College London, SE5 8AF, UK. Electronic address: rosalyn.moran@kcl.ac.uk.
+FAU - Nagai, Yukie
+AU  - Nagai Y
+AD  - International Research Center for Neurointelligence (IRCN), The University of 
+      Tokyo, Tokyo, Japan. Electronic address: nagai.yukie@mail.u-tokyo.ac.jp.
+FAU - Taniguchi, Tadahiro
+AU  - Taniguchi T
+AD  - College of Information Science and Engineering, Ritsumeikan University, Shiga, 
+      Japan. Electronic address: taniguchi@em.ci.ritsumei.ac.jp.
+FAU - Gomi, Hiroaki
+AU  - Gomi H
+AD  - NTT Communication Science Labs., Nippon Telegraph and Telephone, Kanawaga, Japan. 
+      Electronic address: hiroaki.gomi.ga@hco.ntt.co.jp.
+FAU - Tenenbaum, Josh
+AU  - Tenenbaum J
+AD  - Department of Brain and Cognitive Sciences, MIT, Cambridge, MA, USA; The Center 
+      for Brains, Minds and Machines, MIT, Cambridge, MA, USA. Electronic address: 
+      jbt@mit.edu.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+DEP - 20210921
+PL  - United States
+TA  - Neural Netw
+JT  - Neural networks : the official journal of the International Neural Network 
+      Society
+JID - 8805018
+SB  - IM
+MH  - *Artificial Intelligence
+MH  - Brain
+MH  - Cognition
+MH  - Humans
+MH  - Intelligence
+MH  - *Models, Statistical
+OTO - NOTNLM
+OT  - Bayesian inference
+OT  - Cognitive development
+OT  - Free energy principle
+OT  - Generative model
+OT  - Predictive coding
+OT  - Probabilistic inference
+COIS- Declaration of Competing Interest The authors declare that they have no known 
+      competing financial interests or personal relationships that could have appeared 
+      to influence the work reported in this paper.
+EDAT- 2021/10/12 06:00
+MHDA- 2021/11/25 06:00
+CRDT- 2021/10/11 20:22
+PHST- 2021/02/15 00:00 [received]
+PHST- 2021/07/28 00:00 [revised]
+PHST- 2021/09/09 00:00 [accepted]
+PHST- 2021/10/12 06:00 [pubmed]
+PHST- 2021/11/25 06:00 [medline]
+PHST- 2021/10/11 20:22 [entrez]
+AID - S0893-6080(21)00361-0 [pii]
+AID - 10.1016/j.neunet.2021.09.011 [doi]
+PST - ppublish
+SO  - Neural Netw. 2021 Dec;144:573-590. doi: 10.1016/j.neunet.2021.09.011. Epub 2021 
+      Sep 21.
+
+PMID- 31451633
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20200403
+LR  - 20200403
+IS  - 1091-6490 (Electronic)
+IS  - 0027-8424 (Print)
+IS  - 0027-8424 (Linking)
+VI  - 116
+IP  - 37
+DP  - 2019 Sep 10
+TI  - The joint influence of intelligence and practice on skill development throughout 
+      the life span.
+PG  - 18363-18369
+LID - 10.1073/pnas.1819086116 [doi]
+AB  - The relative importance of different factors in the development of human skills 
+      has been extensively discussed. Research on expertise indicates that focused 
+      practice may be the sole determinant of skill, while intelligence researchers 
+      underline the relative importance of abilities at even the highest level of 
+      skill. There is indeed a large body of research that acknowledges the role of 
+      both factors in skill development and retention. It is, however, unknown how 
+      intelligence and practice come together to enable the acquisition and retention 
+      of complex skills across the life span. Instead of focusing on the 2 factors, 
+      intelligence and practice, in isolation, here we look at their interplay 
+      throughout development. In a longitudinal study that tracked chess players 
+      throughout their careers, we show that both intelligence and practice positively 
+      affect the acquisition and retention of chess skill. Importantly, the nonlinear 
+      interaction between the 2 factors revealed that more intelligent individuals 
+      benefited more from practice. With the same amount of practice, they acquired 
+      chess skill more quickly than less intelligent players, reached a higher peak 
+      performance, and arrested decline in older age. Our research demonstrates the 
+      futility of scrutinizing the relative importance of highly intertwined factors in 
+      human development.
+FAU - Vaci, Nemanja
+AU  - Vaci N
+AD  - Department of Psychiatry, Warneford Hospital, Oxford University, Oxford OX3 7JX, 
+      United Kingdom.
+FAU - Edelsbrunner, Peter
+AU  - Edelsbrunner P
+AD  - Department of Humanities, Social and Political Sciences, Eidgenössische 
+      Technische Hochschule Zürich (ETH Zurich), 8092 Zürich, Switzerland.
+FAU - Stern, Elsbeth
+AU  - Stern E
+AD  - Department of Humanities, Social and Political Sciences, Eidgenössische 
+      Technische Hochschule Zürich (ETH Zurich), 8092 Zürich, Switzerland.
+FAU - Neubauer, Aljoscha
+AU  - Neubauer A
+AD  - Institute of Psychology, University of Graz, 8010 Graz, Austria.
+FAU - Bilalić, Merim
+AU  - Bilalić M
+AD  - Department of Psychology, Northumbria University, Newcastle NE1 8ST, United 
+      Kingdom merim.bilalic@northumbria.ac.uk.
+FAU - Grabner, Roland H
+AU  - Grabner RH
+AD  - Institute of Psychology, University of Graz, 8010 Graz, Austria.
+LA  - eng
+PT  - Journal Article
+DEP - 20190826
+PL  - United States
+TA  - Proc Natl Acad Sci U S A
+JT  - Proceedings of the National Academy of Sciences of the United States of America
+JID - 7505876
+SB  - IM
+MH  - Adolescent
+MH  - Adult
+MH  - Aged
+MH  - *Aging
+MH  - Child
+MH  - Female
+MH  - Humans
+MH  - *Intelligence
+MH  - *Longevity
+MH  - Longitudinal Studies
+MH  - Male
+MH  - Middle Aged
+MH  - Play and Playthings
+MH  - Young Adult
+PMC - PMC6744885
+OTO - NOTNLM
+OT  - aging
+OT  - chess
+OT  - expertise
+OT  - intelligence
+OT  - practice
+COIS- The authors declare no conflict of interest.
+EDAT- 2019/08/28 06:00
+MHDA- 2020/04/04 06:00
+CRDT- 2019/08/28 06:00
+PHST- 2019/08/28 06:00 [pubmed]
+PHST- 2020/04/04 06:00 [medline]
+PHST- 2019/08/28 06:00 [entrez]
+AID - 1819086116 [pii]
+AID - 201819086 [pii]
+AID - 10.1073/pnas.1819086116 [doi]
+PST - ppublish
+SO  - Proc Natl Acad Sci U S A. 2019 Sep 10;116(37):18363-18369. doi: 
+      10.1073/pnas.1819086116. Epub 2019 Aug 26.
+
+PMID- 32345987
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20201130
+LR  - 20210428
+IS  - 2045-2322 (Electronic)
+IS  - 2045-2322 (Linking)
+VI  - 10
+IP  - 1
+DP  - 2020 Apr 28
+TI  - The relationship between chronotype and intelligence: the importance of work 
+      timing.
+PG  - 7105
+LID - 10.1038/s41598-020-62917-9 [doi]
+LID - 7105
+AB  - Sleep-wake patterns show substantial biological determination, but they are also 
+      subject to individual choice and societal pressure. Some evidence suggests that 
+      high IQ is associated with later sleep patterns. However, it is unclear whether 
+      the relationship between IQ and later sleep is due to biological or social 
+      effects, such as the timing of working hours. We investigated the association 
+      between habitual sleep timing during work days and work-free days, working time 
+      and membership in Mensa, an organization of highly intelligent individuals 
+      (IQ  ≥130) using a sample of 1,172 adults split between Mensa members and age- 
+      and sex-matched volunteers from a large web-based database. We found no 
+      difference in chronotype, and the later sleep timing of Mensa members on work 
+      days was fully accounted for by later work start times. Our results indicate that 
+      later sleep timing in those with higher IQs is not due to physiological 
+      differences, but rather due to later work schedules. Later working times and the 
+      resulting lower social jetlag may be one of the reasons why higher IQ is 
+      associated with lower prospective morbidity and mortality.
+FAU - Ujma, Péter P
+AU  - Ujma PP
+AD  - Institute of Behavioural Sciences, Semmelweis University, Budapest, Hungary.
+AD  - National Institute of Clinical Neuroscience, Budapest, Hungary.
+FAU - Baudson, Tanja G
+AU  - Baudson TG
+AD  - Mensa in Germany, Cham, Germany.
+AD  - Institute for Globally Distributed Open Research and Education (IGDORE), Bali, 
+      Indonesia.
+FAU - Bódizs, Róbert
+AU  - Bódizs R
+AD  - Institute of Behavioural Sciences, Semmelweis University, Budapest, Hungary. 
+      bodizs.robert@med.semmelweis-univ.hu.
+AD  - National Institute of Clinical Neuroscience, Budapest, Hungary. 
+      bodizs.robert@med.semmelweis-univ.hu.
+FAU - Dresler, Martin
+AU  - Dresler M
+AD  - Donders Institute for Brain, Cognition and Behaviour, Radboud University Medical 
+      Centre, Nijmegen, Netherlands.
+LA  - eng
+PT  - Clinical Trial
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20200428
+PL  - England
+TA  - Sci Rep
+JT  - Scientific reports
+JID - 101563288
+SB  - IM
+MH  - Adult
+MH  - Age Factors
+MH  - Circadian Rhythm/*physiology
+MH  - Female
+MH  - Humans
+MH  - Intelligence/*physiology
+MH  - Male
+MH  - Middle Aged
+MH  - Prospective Studies
+MH  - Sex Factors
+MH  - Sleep/*physiology
+MH  - Time Factors
+PMC - PMC7188801
+COIS- The authors declare no competing interests.
+EDAT- 2020/04/30 06:00
+MHDA- 2020/12/01 06:00
+CRDT- 2020/04/30 06:00
+PHST- 2019/12/19 00:00 [received]
+PHST- 2020/03/18 00:00 [accepted]
+PHST- 2020/04/30 06:00 [entrez]
+PHST- 2020/04/30 06:00 [pubmed]
+PHST- 2020/12/01 06:00 [medline]
+AID - 10.1038/s41598-020-62917-9 [pii]
+AID - 62917 [pii]
+AID - 10.1038/s41598-020-62917-9 [doi]
+PST - epublish
+SO  - Sci Rep. 2020 Apr 28;10(1):7105. doi: 10.1038/s41598-020-62917-9.

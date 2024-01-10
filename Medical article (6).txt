@@ -1,0 +1,878 @@
+PMID- 33998304
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20211025
+LR  - 20230818
+IS  - 1474-7049 (Electronic)
+IS  - 1474-7049 (Linking)
+VI  - 19
+IP  - 2
+DP  - 2021 Apr-Jun
+TI  - Bullshit Ability as an Honest Signal of Intelligence.
+PG  - 14747049211000317
+LID - 10.1177/14747049211000317 [doi]
+LID - 14747049211000317
+AB  - Navigating social systems efficiently is critical to our species. Humans appear 
+      endowed with a cognitive system that has formed to meet the unique challenges 
+      that emerge for highly social species. Bullshitting, communication characterised 
+      by an intent to be convincing or impressive without concern for truth, is 
+      ubiquitous within human societies. Across two studies (N = 1,017), we assess 
+      participants' ability to produce satisfying and seemingly accurate bullshit as an 
+      honest signal of their intelligence. We find that bullshit ability is associated 
+      with an individual's intelligence and individuals capable of producing more 
+      satisfying bullshit are judged by second-hand observers to be more intelligent. 
+      We interpret these results as adding evidence for intelligence being geared 
+      towards the navigation of social systems. The ability to produce satisfying 
+      bullshit may serve to assist individuals in negotiating their social world, both 
+      as an energetically efficient strategy for impressing others and as an honest 
+      signal of intelligence.
+FAU - Turpin, Martin Harry
+AU  - Turpin MH
+AUID- ORCID: 0000-0001-9655-4726
+AD  - Department of Psychology, 8430University of Waterloo, Ontario, Canada.
+FAU - Kara-Yakoubian, Mane
+AU  - Kara-Yakoubian M
+AD  - Department of Psychology, 7984Ryerson University, Ontario, Canada.
+FAU - Walker, Alexander C
+AU  - Walker AC
+AD  - Department of Psychology, 8430University of Waterloo, Ontario, Canada.
+FAU - Walker, Heather E K
+AU  - Walker HEK
+AD  - Department of Psychology, 3653University of Guelph, Ontario, Canada.
+FAU - Fugelsang, Jonathan A
+AU  - Fugelsang JA
+AD  - Department of Psychology, 8430University of Waterloo, Ontario, Canada.
+FAU - Stolz, Jennifer A
+AU  - Stolz JA
+AD  - Department of Psychology, 8430University of Waterloo, Ontario, Canada.
+LA  - eng
+PT  - Journal Article
+PL  - England
+TA  - Evol Psychol
+JT  - Evolutionary psychology : an international journal of evolutionary approaches to 
+      psychology and behavior
+JID - 101219668
+SB  - IM
+MH  - *Communication
+MH  - Humans
+MH  - *Intelligence
+PMC - PMC10303565
+OTO - NOTNLM
+OT  - bullshit
+OT  - individual differences
+OT  - intelligence
+OT  - social navigation
+OT  - social signaling
+COIS- The author(s) declared no potential conflicts of interest with respect to the 
+      research, authorship, and/or publication of this article.
+EDAT- 2021/05/18 06:00
+MHDA- 2021/10/26 06:00
+CRDT- 2021/05/17 08:43
+PHST- 2021/05/17 08:43 [entrez]
+PHST- 2021/05/18 06:00 [pubmed]
+PHST- 2021/10/26 06:00 [medline]
+AID - 10.1177_14747049211000317 [pii]
+AID - 10.1177/14747049211000317 [doi]
+PST - ppublish
+SO  - Evol Psychol. 2021 Apr-Jun;19(2):14747049211000317. doi: 
+      10.1177/14747049211000317.
+
+PMID- 37300076
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20230612
+LR  - 20230612
+IS  - 1424-8220 (Electronic)
+IS  - 1424-8220 (Linking)
+VI  - 23
+IP  - 11
+DP  - 2023 Jun 5
+TI  - Load Balancing Using Artificial Intelligence for Cloud-Enabled Internet of 
+      Everything in Healthcare Domain.
+LID - 10.3390/s23115349 [doi]
+LID - 5349
+AB  - The emergence of the Internet of Things (IoT) and its subsequent evolution into 
+      the Internet of Everything (IoE) is a result of the rapid growth of information 
+      and communication technologies (ICT). However, implementing these technologies 
+      comes with certain obstacles, such as the limited availability of energy 
+      resources and processing power. Consequently, there is a need for 
+      energy-efficient and intelligent load-balancing models, particularly in 
+      healthcare, where real-time applications generate large volumes of data. This 
+      paper proposes a novel, energy-aware artificial intelligence (AI)-based load 
+      balancing model that employs the Chaotic Horse Ride Optimization Algorithm 
+      (CHROA) and big data analytics (BDA) for cloud-enabled IoT environments. The 
+      CHROA technique enhances the optimization capacity of the Horse Ride Optimization 
+      Algorithm (HROA) using chaotic principles. The proposed CHROA model balances the 
+      load, optimizes available energy resources using AI techniques, and is evaluated 
+      using various metrics. Experimental results show that the CHROA model outperforms 
+      existing models. For instance, while the Artificial Bee Colony (ABC), 
+      Gravitational Search Algorithm (GSA), and Whale Defense Algorithm with Firefly 
+      Algorithm (WD-FA) techniques attain average throughputs of 58.247 Kbps, 59.957 
+      Kbps, and 60.819 Kbps, respectively, the CHROA model achieves an average 
+      throughput of 70.122 Kbps. The proposed CHROA-based model presents an innovative 
+      approach to intelligent load balancing and energy optimization in cloud-enabled 
+      IoT environments. The results highlight its potential to address critical 
+      challenges and contribute to developing efficient and sustainable IoT/IoE 
+      solutions.
+FAU - Aqeel, Ibrahim
+AU  - Aqeel I
+AUID- ORCID: 0000-0002-1211-5425
+AD  - College of Computer Science & IT, Jazan University, Jazan 45142, Saudi Arabia.
+FAU - Khormi, Ibrahim Mohsen
+AU  - Khormi IM
+AD  - College of Computer Science & IT, Jazan University, Jazan 45142, Saudi Arabia.
+FAU - Khan, Surbhi Bhatia
+AU  - Khan SB
+AD  - Department of Electrical and Computer Engineering, Lebanese American University, 
+      Byblos 13-5053, Lebanon.
+AD  - Department of Data Science, School of Science, Engineering and Environment, 
+      University of Salford, Manchester M5 4WT, UK.
+FAU - Shuaib, Mohammed
+AU  - Shuaib M
+AUID- ORCID: 0000-0001-6657-2587
+AD  - College of Computer Science & IT, Jazan University, Jazan 45142, Saudi Arabia.
+FAU - Almusharraf, Ahlam
+AU  - Almusharraf A
+AUID- ORCID: 0000-0002-3206-547X
+AD  - Department of Business Administration, College of Business and Administration, 
+      Princess Nourah bint Abdulrahman University, P.O. Box 84428, Riyadh 11671, Saudi 
+      Arabia.
+FAU - Alam, Shadab
+AU  - Alam S
+AUID- ORCID: 0000-0003-0504-4515
+AD  - College of Computer Science & IT, Jazan University, Jazan 45142, Saudi Arabia.
+FAU - Alkhaldi, Nora A
+AU  - Alkhaldi NA
+AUID- ORCID: 0000-0003-1279-1033
+AD  - Department of Computer Science, College of Computer Science and Information 
+      Technology, King Faisal University, Al Hasa 31982, Saudi Arabia.
+LA  - eng
+PT  - Journal Article
+DEP - 20230605
+PL  - Switzerland
+TA  - Sensors (Basel)
+JT  - Sensors (Basel, Switzerland)
+JID - 101204366
+SB  - IM
+MH  - Animals
+MH  - Horses
+MH  - *Artificial Intelligence
+MH  - *Algorithms
+MH  - Intelligence
+MH  - Awareness
+MH  - Internet
+PMC - PMC10256013
+OTO - NOTNLM
+OT  - Internet of Everything
+OT  - Internet of Things
+OT  - big data analytics
+OT  - cloud computing
+OT  - clustering
+OT  - healthcare
+OT  - load balancing
+COIS- The authors declare no conflict of interest.
+EDAT- 2023/06/10 15:14
+MHDA- 2023/06/12 06:42
+CRDT- 2023/06/10 01:22
+PHST- 2023/04/13 00:00 [received]
+PHST- 2023/05/21 00:00 [revised]
+PHST- 2023/05/24 00:00 [accepted]
+PHST- 2023/06/12 06:42 [medline]
+PHST- 2023/06/10 15:14 [pubmed]
+PHST- 2023/06/10 01:22 [entrez]
+AID - s23115349 [pii]
+AID - sensors-23-05349 [pii]
+AID - 10.3390/s23115349 [doi]
+PST - epublish
+SO  - Sensors (Basel). 2023 Jun 5;23(11):5349. doi: 10.3390/s23115349.
+
+PMID- 34751066
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20220406
+LR  - 20220406
+IS  - 2331-2165 (Electronic)
+IS  - 2331-2165 (Linking)
+VI  - 25
+DP  - 2021 Jan-Dec
+TI  - New Avenues in Audio Intelligence: Towards Holistic Real-life Audio 
+      Understanding.
+PG  - 23312165211046135
+LID - 10.1177/23312165211046135 [doi]
+LID - 23312165211046135
+AB  - Computer audition (i.e., intelligent audio) has made great strides in recent 
+      years; however, it is still far from achieving holistic hearing abilities, which 
+      more appropriately mimic human-like understanding. Within an audio scene, a human 
+      listener is quickly able to interpret layers of sound at a single time-point, 
+      with each layer varying in characteristics such as location, state, and trait. 
+      Currently, integrated machine listening approaches, on the other hand, will 
+      mainly recognise only single events. In this context, this contribution aims to 
+      provide key insights and approaches, which can be applied in computer audition to 
+      achieve the goal of a more holistic intelligent understanding system, as well as 
+      identifying challenges in reaching this goal. We firstly summarise the 
+      state-of-the-art in traditional signal-processing-based audio pre-processing and 
+      feature representation, as well as automated learning such as by deep neural 
+      networks. This concerns, in particular, audio interpretation, decomposition, 
+      understanding, as well as ontologisation. We then present an agent-based approach 
+      for integrating these concepts as a holistic audio understanding system. Based on 
+      this, concluding, avenues are given towards reaching the ambitious goal of 
+      'holistic human-parity' machine listening abilities.
+FAU - Schuller, Björn
+AU  - Schuller B
+AD  - 26522University of Augsburg, Augsburg, Germany.
+AD  - GLAM - Group on Language, Audio & Music, Imperial College, London, UK.
+AD  - aud EERING GmbH, Germany.
+FAU - Baird, Alice
+AU  - Baird A
+AUID- ORCID: 0000-0002-7003-5650
+AD  - 26522University of Augsburg, Augsburg, Germany.
+FAU - Gebhard, Alexander
+AU  - Gebhard A
+AD  - 26522University of Augsburg, Augsburg, Germany.
+FAU - Amiriparian, Shahin
+AU  - Amiriparian S
+AD  - 26522University of Augsburg, Augsburg, Germany.
+AD  - aud EERING GmbH, Germany.
+FAU - Keren, Gil
+AU  - Keren G
+AD  - 26522University of Augsburg, Augsburg, Germany.
+FAU - Schmitt, Maximilian
+AU  - Schmitt M
+AD  - 26522University of Augsburg, Augsburg, Germany.
+FAU - Cummins, Nicholas
+AU  - Cummins N
+AD  - 26522University of Augsburg, Augsburg, Germany.
+AD  - Department of Biostatistics and Health Informatics, IoPPN, King's College London, 
+      UK.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PL  - United States
+TA  - Trends Hear
+JT  - Trends in hearing
+JID - 101635698
+SB  - IM
+MH  - Humans
+MH  - Intelligence
+MH  - Learning
+MH  - *Neural Networks, Computer
+MH  - *Signal Processing, Computer-Assisted
+MH  - Sound
+PMC - PMC8581779
+OTO - NOTNLM
+OT  - audio intelligence
+OT  - computer audition
+OT  - machine learning
+COIS- Declaration of Conflicting Interests: The authors declared no potential conflicts 
+      of interest with respect to the research, authorship, and/or publication of this 
+      article.
+EDAT- 2021/11/10 06:00
+MHDA- 2022/04/07 06:00
+CRDT- 2021/11/09 08:46
+PHST- 2021/11/09 08:46 [entrez]
+PHST- 2021/11/10 06:00 [pubmed]
+PHST- 2022/04/07 06:00 [medline]
+AID - 10.1177_23312165211046135 [pii]
+AID - 10.1177/23312165211046135 [doi]
+PST - ppublish
+SO  - Trends Hear. 2021 Jan-Dec;25:23312165211046135. doi: 10.1177/23312165211046135.
+
+PMID- 34886404
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20211214
+LR  - 20211214
+IS  - 1660-4601 (Electronic)
+IS  - 1661-7827 (Print)
+IS  - 1660-4601 (Linking)
+VI  - 18
+IP  - 23
+DP  - 2021 Dec 1
+TI  - Adopting Artificial Intelligence in Public Healthcare: The Effect of Social Power 
+      and Learning Algorithms.
+LID - 10.3390/ijerph182312682 [doi]
+LID - 12682
+AB  - Although the use of artificial intelligence (AI) in healthcare is still in its 
+      early stages, it is important to understand the factors influencing its adoption. 
+      Using a qualitative multi-case study of three hospitals in China, we explored the 
+      research of factors affecting AI adoption from a social power perspective with 
+      consideration of the learning algorithm abilities of AI systems. Data were 
+      collected through semi-structured interviews, participative observations, and 
+      document analysis, and analyzed using NVivo 11. We classified six social powers 
+      into knowledge-based and non-knowledge-based power structures, revealing a social 
+      power pattern related to the learning algorithm ability of AI.
+FAU - Sun, Tara Qian
+AU  - Sun TQ
+AD  - Department of Digitalization, Copenhagen Business School, 2000 Frederiksberg, 
+      Denmark.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20211201
+PL  - Switzerland
+TA  - Int J Environ Res Public Health
+JT  - International journal of environmental research and public health
+JID - 101238455
+SB  - IM
+MH  - *Algorithms
+MH  - *Artificial Intelligence
+MH  - Delivery of Health Care
+MH  - Health Facilities
+MH  - Intelligence
+PMC - PMC8656642
+OTO - NOTNLM
+OT  - AI adoption
+OT  - IT adoption
+OT  - artificial intelligence
+OT  - healthcare
+OT  - influencing factor
+OT  - learning algorithm
+OT  - social power
+COIS- The authors declare no conflict of interest.
+EDAT- 2021/12/11 06:00
+MHDA- 2021/12/15 06:00
+CRDT- 2021/12/10 01:10
+PHST- 2021/11/12 00:00 [received]
+PHST- 2021/11/25 00:00 [revised]
+PHST- 2021/11/30 00:00 [accepted]
+PHST- 2021/12/10 01:10 [entrez]
+PHST- 2021/12/11 06:00 [pubmed]
+PHST- 2021/12/15 06:00 [medline]
+AID - ijerph182312682 [pii]
+AID - ijerph-18-12682 [pii]
+AID - 10.3390/ijerph182312682 [doi]
+PST - epublish
+SO  - Int J Environ Res Public Health. 2021 Dec 1;18(23):12682. doi: 
+      10.3390/ijerph182312682.
+
+PMID- 34861961
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20211208
+LR  - 20221221
+IS  - 1532-8228 (Electronic)
+IS  - 0883-9417 (Print)
+IS  - 0883-9417 (Linking)
+VI  - 35
+IP  - 6
+DP  - 2021 Dec
+TI  - The role of spiritual intelligence in predicting the empathy levels of nurses 
+      with COVID-19 patients.
+PG  - 658-663
+LID - S0883-9417(21)00157-6 [pii]
+LID - 10.1016/j.apnu.2021.10.007 [doi]
+AB  - AIM: Given the prolongation of the newly emerging COVID-19 pandemic and the 
+      significance of caring for the patients by nursing staff, investigating and 
+      planning for the different psychological dimensions of this group is of paramount 
+      importance. Hence, this study investigated the role of spiritual intelligence in 
+      predicting nurses' empathizing with COVID-19 patients. METHODS: This 
+      descriptive-correlation study was conducted in 2021 on nurses caring for COVID-19 
+      patients in three public hospitals. The researchers used two standard 
+      questionnaires, including the Jefferson Scale of Empathy (JSE) and Spiritual 
+      Intelligence (SI), for data collection. The collected data were analyzed in 
+      SPSS16 using descriptive statistics and the following: The Mann-Whitney U test, 
+      Kruskal-Wallis test, Regression, chi-square test, and Pearson and Spearman 
+      correlations. RESULTS: The statistical population consisted of 338 nurses with an 
+      average age of 34 and ten years of work experience. There was a significant 
+      positive relationship between the empathy scores and spiritual intelligence 
+      scores of the nurses caring for COVID-19 patients (P < 0.05). It was also 
+      concluded from the regression analysis that, spiritual intelligence affect 
+      empathy. Mean score of empathy was higher in hospitals where more nursing staff 
+      had MSc degrees. There was a significant difference between the empathy scores of 
+      the three hospitals (P < 0.05). CONCLUSION: The results indicated that there is a 
+      positive relationship between empathy and spiritual intelligence. Therefor 
+      improving spiritual intelligence is the appropriate strategy to ameliorate 
+      empathy during the COVID19 pandemic. At the same time, study indicated attention 
+      to the issue of nurses' mental health. Hence, it was suggested to incorporate 
+      these issues in the training programs and national/international decisions.
+CI  - Copyright © 2021 Elsevier Inc. All rights reserved.
+FAU - Aliabadi, Parastoo Karimi
+AU  - Aliabadi PK
+AD  - Department of Family Medicine, Diabetes Research Center, Mazandaran University of 
+      Medical Sciences, Mazandaran, Iran.
+FAU - Zazoly, Atefeh Zabihi
+AU  - Zazoly AZ
+AD  - Center for Educational Research in Medical Sciences (CERMS), Department of 
+      Medical Education, School of Medicine, Iran University of Medical Sciences, 
+      Tehran, Iran. Electronic address: zabihi1823@gmail.com.
+FAU - Sohrab, Mehrnoush
+AU  - Sohrab M
+AD  - Department of Internal Medicine, Diabetes Research Center, Mazandaran University 
+      of Medical Sciences, Mazandaran, Iran.
+FAU - Neyestani, Farkhondeh
+AU  - Neyestani F
+AD  - Master of Science in Clinical Psychology, Imam Khomeini Hospital, Mazandaran 
+      University of Medical Sciences, Mazandaran, Iran.
+FAU - Nazari, Nahid
+AU  - Nazari N
+AD  - Bachelor of Nursing, Fatemeh Zahra Hospital, Mazandaran University of Medical 
+      Sciences, Mazandaran, Iran.
+FAU - Mousavi, Seyed Hassan
+AU  - Mousavi SH
+AD  - Master of Science in Media Management, Fatemeh Zahra Hospital, Mazandaran 
+      University of Medical Sciences, Mazandaran, Iran.
+FAU - Fallah, Abolghasem
+AU  - Fallah A
+AD  - Internal Medicine Specialist, Fatemeh Zahra Hospital, Mazandaran University of 
+      Medical Sciences, Mazandaran, Iran.
+FAU - Youneszadeh, Majid
+AU  - Youneszadeh M
+AD  - Fatemeh Zahra Hospital, Mazandaran University of Medical Sciences, Mazandaran, 
+      Iran.
+FAU - Ghasemiyan, Masoumeh
+AU  - Ghasemiyan M
+AD  - Bachelor of Nursing, Fatemeh Zahra Hospital, Mazandaran University of Medical 
+      Sciences, Mazandaran, Iran.
+FAU - Ferdowsi, Mohammad
+AU  - Ferdowsi M
+AD  - Fatemeh Zahra Hospital, Mazandaran University of Medical Sciences, Mazandaran, 
+      Iran.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20211024
+PL  - United States
+TA  - Arch Psychiatr Nurs
+JT  - Archives of psychiatric nursing
+JID - 8708534
+SB  - IM
+MH  - Adult
+MH  - *COVID-19
+MH  - Empathy
+MH  - Humans
+MH  - Intelligence
+MH  - Pandemics
+MH  - SARS-CoV-2
+MH  - Surveys and Questionnaires
+PMC - PMC8541884
+OTO - NOTNLM
+OT  - COVID-19
+OT  - Empathy
+OT  - Nurse
+OT  - Spiritual intelligence
+EDAT- 2021/12/05 06:00
+MHDA- 2021/12/15 06:00
+CRDT- 2021/12/04 05:27
+PHST- 2021/06/01 00:00 [received]
+PHST- 2021/10/04 00:00 [revised]
+PHST- 2021/10/18 00:00 [accepted]
+PHST- 2021/12/04 05:27 [entrez]
+PHST- 2021/12/05 06:00 [pubmed]
+PHST- 2021/12/15 06:00 [medline]
+AID - S0883-9417(21)00157-6 [pii]
+AID - 10.1016/j.apnu.2021.10.007 [doi]
+PST - ppublish
+SO  - Arch Psychiatr Nurs. 2021 Dec;35(6):658-663. doi: 10.1016/j.apnu.2021.10.007. 
+      Epub 2021 Oct 24.
+
+PMID- 36203731
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20221010
+LR  - 20231013
+IS  - 1687-5273 (Electronic)
+IS  - 1687-5265 (Print)
+VI  - 2022
+DP  - 2022
+TI  - Deep Intelligence-Driven Efficient Forecasting for the Agriculture Economy of 
+      Computational Social Systems.
+PG  - 2854675
+LID - 10.1155/2022/2854675 [doi]
+LID - 2854675
+AB  - In the vision of smart cities, everything is highly connected with the aid of 
+      computational intelligence. Therefore, the cyber-physical society has been named 
+      a computational social system for a long time. Due to the high relation with vast 
+      populations' national livelihood, agriculture will still serve as a core industry 
+      in the national economy. As a result, this study focused on an efficient 
+      forecasting method for the agriculture economy. In recent years, the conception 
+      of deep intelligence has received overall prevalence in academia because of its 
+      excellent performance in implementing intelligent information processing tasks. 
+      Hence, this paper utilized deep intelligence driven by neural networks and 
+      managed to investigate an efficient prediction method for the agriculture economy 
+      of computational social systems. To fit the time-series forecasting scene of the 
+      long-term development of the agriculture economy, the convolutional neural 
+      network model is slightly improved by revising its parallel structure into the 
+      recurrent format. Finally, simulations on realistic datasets are carried out to 
+      evaluate the proposed forecasting method.
+CI  - Copyright © 2022 Xuelan Li et al.
+FAU - Li, Xuelan
+AU  - Li X
+AUID- ORCID: 0000-0003-0071-0224
+AD  - School of Management, Anhui Science and Technology University, Bengbu, Anhui 
+      233030, China.
+FAU - Li, Xiao
+AU  - Li X
+AD  - Faculty of Metallurgical and Energy Engineering, Kunming University of Science 
+      and Technology, Kunming 650093, China.
+FAU - Jiang, Jiyu
+AU  - Jiang J
+AUID- ORCID: 0000-0002-6528-4513
+AD  - School of Economics and Management, Anhui Agricultural University, Hefei, Anhui 
+      230036, China.
+LA  - eng
+PT  - Journal Article
+PT  - Retracted Publication
+DEP - 20220927
+PL  - United States
+TA  - Comput Intell Neurosci
+JT  - Computational intelligence and neuroscience
+JID - 101279357
+SB  - IM
+RIN - Comput Intell Neurosci. 2023 Oct 4;2023:9832124. PMID: 37829910
+MH  - *Agriculture
+MH  - Cities
+MH  - Forecasting
+MH  - Intelligence
+MH  - *Neural Networks, Computer
+PMC - PMC9532071
+COIS- The authors declare that they have no conflicts of interest.
+EDAT- 2022/10/08 06:00
+MHDA- 2022/10/12 06:00
+CRDT- 2022/10/07 02:39
+PHST- 2022/06/17 00:00 [received]
+PHST- 2022/08/30 00:00 [revised]
+PHST- 2022/09/06 00:00 [accepted]
+PHST- 2022/10/07 02:39 [entrez]
+PHST- 2022/10/08 06:00 [pubmed]
+PHST- 2022/10/12 06:00 [medline]
+AID - 10.1155/2022/2854675 [doi]
+PST - epublish
+SO  - Comput Intell Neurosci. 2022 Sep 27;2022:2854675. doi: 10.1155/2022/2854675. 
+      eCollection 2022.
+
+PMID- 34213087
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20210922
+LR  - 20220129
+IS  - 2162-3279 (Electronic)
+VI  - 11
+IP  - 8
+DP  - 2021 Aug
+TI  - Relationship between intelligence quotient measures and computerized 
+      neurocognitive performance in 22q11.2 deletion syndrome.
+PG  - e2221
+LID - 10.1002/brb3.2221 [doi]
+LID - e2221
+AB  - Intelligence quotient (IQ) testing is standard for evaluating cognitive abilities 
+      in genomic studies but requires professional expertise in administration and 
+      interpretation, and IQ scores do not translate into insights on implicated brain 
+      systems that can link genes to behavior. Individuals with 22q11.2 deletion 
+      syndrome (22q11.2DS) often undergo IQ testing to address special needs, but 
+      access to testing in resource-limited settings is challenging. The brief Penn 
+      Computerized Neurocognitive Battery (CNB) provides measures of cognitive 
+      abilities related to brain systems and can screen for cognitive dysfunction. To 
+      examine the relation between CNB measures and IQ, we evaluated participants with 
+      the 22q11.2DS from Philadelphia and Tel Aviv (N = 117; 52 females; mean age 18.8) 
+      who performed both an IQ test and the CNB with a maximum of 5 years between 
+      administrations and a subsample (n = 24) who had both IQ and CNB assessments at 
+      two time points. We estimated domain-level CNB scores using exploratory factor 
+      analysis (including bifactor for overall scores) and related those scores 
+      (intraclass correlations (ICCs)) to the IQ scores. We found that the overall CNB 
+      accuracy score showed similar correlations between time 1 and time 2 as IQ (0.775 
+      for IQ and 0.721 for CNB accuracy), correlated well with the IQ scores 
+      (ICC = 0.565 and 0.593 for time 1 and time 2, respectively), and correlated 
+      similarly with adaptive functioning (0.165 and 0.172 for IQ and CNB, 
+      respectively). We provide a crosswalk (from linear equating) between standardized 
+      CNB and IQ scores. Results suggest that one can substitute the CNB for IQ testing 
+      in future genetic studies that aim to probe specific domains of brain-behavior 
+      relations beyond IQ.
+CI  - © 2021 The Authors. Brain and Behavior published by Wiley Periodicals LLC.
+FAU - Gur, Ruben C
+AU  - Gur RC
+AUID- ORCID: 0000-0002-9657-1996
+AD  - Department of Psychiatry, Brain Behavior Laboratory, Perelman School of Medicine, 
+      University of Pennsylvania, Philadelphia, Pennsylvania, USA.
+AD  - Lifespan Brain Institute (LiBI), Children's Hospital of Philadelphia and Penn 
+      Medicine, Philadelphia, Pennsylvania, USA.
+FAU - Moore, Tyler M
+AU  - Moore TM
+AD  - Department of Psychiatry, Brain Behavior Laboratory, Perelman School of Medicine, 
+      University of Pennsylvania, Philadelphia, Pennsylvania, USA.
+AD  - Lifespan Brain Institute (LiBI), Children's Hospital of Philadelphia and Penn 
+      Medicine, Philadelphia, Pennsylvania, USA.
+FAU - Weinberger, Ronnie
+AU  - Weinberger R
+AD  - The Behavioral Neurogenetics Center, Edmond and Lily Safra Children's Hospital, 
+      Child Psychiatry Division, Sheba Medical Center, Tel Hashomer, Ramat Gan, Israel.
+FAU - Mekori-Domachevsky, Ehud
+AU  - Mekori-Domachevsky E
+AD  - The Behavioral Neurogenetics Center, Edmond and Lily Safra Children's Hospital, 
+      Child Psychiatry Division, Sheba Medical Center, Tel Hashomer, Ramat Gan, Israel.
+AD  - Department of Psychiatry, Sackler Faculty of Medicine, Tel Aviv University, Tel 
+      Aviv, Israel.
+FAU - Gross, Raz
+AU  - Gross R
+AD  - The Behavioral Neurogenetics Center, Edmond and Lily Safra Children's Hospital, 
+      Child Psychiatry Division, Sheba Medical Center, Tel Hashomer, Ramat Gan, Israel.
+AD  - Department of Psychiatry, Sackler Faculty of Medicine, Tel Aviv University, Tel 
+      Aviv, Israel.
+FAU - Emanuel, Beverly S
+AU  - Emanuel BS
+AD  - Division of Human Genetics and 22q and You Center, Children's Hospital of 
+      Philadelphia, Department of Pediatrics, Perelman School of Medicine, University 
+      of Pennsylvania, Philadelphia, Pennsylvania, USA.
+FAU - Zackai, Elaine H
+AU  - Zackai EH
+AD  - Division of Human Genetics and 22q and You Center, Children's Hospital of 
+      Philadelphia, Department of Pediatrics, Perelman School of Medicine, University 
+      of Pennsylvania, Philadelphia, Pennsylvania, USA.
+FAU - Moss, Edward
+AU  - Moss E
+AD  - Division of Human Genetics and 22q and You Center, Children's Hospital of 
+      Philadelphia, Department of Pediatrics, Perelman School of Medicine, University 
+      of Pennsylvania, Philadelphia, Pennsylvania, USA.
+FAU - Gallagher, Robert Sean
+AU  - Gallagher RS
+AD  - Department of Psychiatry, Brain Behavior Laboratory, Perelman School of Medicine, 
+      University of Pennsylvania, Philadelphia, Pennsylvania, USA.
+AD  - Lifespan Brain Institute (LiBI), Children's Hospital of Philadelphia and Penn 
+      Medicine, Philadelphia, Pennsylvania, USA.
+FAU - McGinn, Daniel E
+AU  - McGinn DE
+AD  - Division of Human Genetics and 22q and You Center, Children's Hospital of 
+      Philadelphia, Department of Pediatrics, Perelman School of Medicine, University 
+      of Pennsylvania, Philadelphia, Pennsylvania, USA.
+FAU - Crowley, Terrence Blaine
+AU  - Crowley TB
+AUID- ORCID: 0000-0002-3272-5458
+AD  - Division of Human Genetics and 22q and You Center, Children's Hospital of 
+      Philadelphia, Department of Pediatrics, Perelman School of Medicine, University 
+      of Pennsylvania, Philadelphia, Pennsylvania, USA.
+FAU - McDonald-McGinn, Donna
+AU  - McDonald-McGinn D
+AD  - Division of Human Genetics and 22q and You Center, Children's Hospital of 
+      Philadelphia, Department of Pediatrics, Perelman School of Medicine, University 
+      of Pennsylvania, Philadelphia, Pennsylvania, USA.
+FAU - Gothelf, Doron
+AU  - Gothelf D
+AD  - The Behavioral Neurogenetics Center, Edmond and Lily Safra Children's Hospital, 
+      Child Psychiatry Division, Sheba Medical Center, Tel Hashomer, Ramat Gan, Israel.
+AD  - Department of Psychiatry, Sackler Faculty of Medicine, Tel Aviv University, Tel 
+      Aviv, Israel.
+AD  - Sagol School of Neuroscience, Tel Aviv University, Tel Aviv, Israel.
+FAU - Gur, Raquel E
+AU  - Gur RE
+AD  - Department of Psychiatry, Brain Behavior Laboratory, Perelman School of Medicine, 
+      University of Pennsylvania, Philadelphia, Pennsylvania, USA.
+AD  - Lifespan Brain Institute (LiBI), Children's Hospital of Philadelphia and Penn 
+      Medicine, Philadelphia, Pennsylvania, USA.
+LA  - eng
+GR  - U01 MH101722/MH/NIMH NIH HHS/United States
+GR  - U01 MH119758/MH/NIMH NIH HHS/United States
+GR  - U01 MH119738/MH/NIMH NIH HHS/United States
+GR  - U01 MH101719/MH/NIMH NIH HHS/United States
+GR  - R01 MH117014/MH/NIMH NIH HHS/United States
+PT  - Journal Article
+PT  - Research Support, N.I.H., Extramural
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20210702
+PL  - United States
+TA  - Brain Behav
+JT  - Brain and behavior
+JID - 101570837
+SB  - IM
+MH  - Adolescent
+MH  - *Arachnodactyly
+MH  - *DiGeorge Syndrome
+MH  - Female
+MH  - Humans
+MH  - Intelligence/genetics
+MH  - Intelligence Tests
+MH  - *Marfan Syndrome
+PMC - PMC8413730
+OTO - NOTNLM
+OT  - 22q11.2 deletion syndrome
+OT  - IQ
+OT  - Penn Computerized Neurocognitive Battery
+OT  - intelligence
+OT  - linear equating
+COIS- The authors declare that they have no conflict of interest.
+EDAT- 2021/07/03 06:00
+MHDA- 2021/09/23 06:00
+CRDT- 2021/07/02 09:11
+PHST- 2021/04/18 00:00 [revised]
+PHST- 2021/01/11 00:00 [received]
+PHST- 2021/05/15 00:00 [accepted]
+PHST- 2021/07/03 06:00 [pubmed]
+PHST- 2021/09/23 06:00 [medline]
+PHST- 2021/07/02 09:11 [entrez]
+AID - BRB32221 [pii]
+AID - 10.1002/brb3.2221 [doi]
+PST - ppublish
+SO  - Brain Behav. 2021 Aug;11(8):e2221. doi: 10.1002/brb3.2221. Epub 2021 Jul 2.
+
+PMID- 32103598
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20210427
+LR  - 20210427
+IS  - 1469-3178 (Electronic)
+IS  - 1469-221X (Print)
+IS  - 1469-221X (Linking)
+VI  - 21
+IP  - 3
+DP  - 2020 Mar 4
+TI  - Plants, climate and humans: Plant intelligence changes everything.
+PG  - e50109
+LID - 10.15252/embr.202050109 [doi]
+LID - e50109
+AB  - Plants play a more active role in shaping their environment than most climate 
+      models assume. Understanding their specific behavior could have profound impact 
+      on predicting future climate changes.
+CI  - © 2020 The Authors. Published under the terms of the CC BY NC ND 4.0 license.
+FAU - Baluška, František
+AU  - Baluška F
+AD  - University of Bonn, Bonn, Germany.
+FAU - Mancuso, Stefano
+AU  - Mancuso S
+AD  - University of Firenze, Firenze, Italy.
+LA  - eng
+PT  - Journal Article
+DEP - 20200227
+PL  - England
+TA  - EMBO Rep
+JT  - EMBO reports
+JID - 100963049
+SB  - IM
+CIN - EMBO Rep. 2020 May 6;21(5):e50495. PMID: 32301205
+CIN - EMBO Rep. 2020 May 6;21(5):e50395. PMID: 32301219
+MH  - *Climate Change
+MH  - Humans
+MH  - Intelligence
+MH  - *Plants
+PMC - PMC7054678
+EDAT- 2020/02/28 06:00
+MHDA- 2021/04/28 06:00
+CRDT- 2020/02/28 06:00
+PHST- 2020/02/28 06:00 [pubmed]
+PHST- 2021/04/28 06:00 [medline]
+PHST- 2020/02/28 06:00 [entrez]
+AID - EMBR202050109 [pii]
+AID - 10.15252/embr.202050109 [doi]
+PST - ppublish
+SO  - EMBO Rep. 2020 Mar 4;21(3):e50109. doi: 10.15252/embr.202050109. Epub 2020 Feb 
+      27.
+
+PMID- 36433219
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20221129
+LR  - 20221213
+IS  - 1424-8220 (Electronic)
+IS  - 1424-8220 (Linking)
+VI  - 22
+IP  - 22
+DP  - 2022 Nov 9
+TI  - Advances in Intelligent Vehicle Control.
+LID - 10.3390/s22228622 [doi]
+LID - 8622
+AB  - Advanced intelligent vehicle control systems have evolved in the last few decades 
+      thanks to the use of artificial-intelligence-based techniques, the appearance of 
+      new sensors, and the development of technology necessary for their implementation 
+      [...].
+FAU - Cabrera, Juan A
+AU  - Cabrera JA
+AUID- ORCID: 0000-0003-2748-4861
+AD  - Department of Mechanical Engineering, University of Malaga, 29071 Malaga, Spain.
+LA  - eng
+PT  - Editorial
+DEP - 20221109
+PL  - Switzerland
+TA  - Sensors (Basel)
+JT  - Sensors (Basel, Switzerland)
+JID - 101204366
+SB  - IM
+MH  - *Artificial Intelligence
+MH  - *Intelligence
+PMC - PMC9697982
+COIS- The author declares no conflict of interest.
+EDAT- 2022/11/27 06:00
+MHDA- 2022/11/30 06:00
+CRDT- 2022/11/26 01:35
+PHST- 2022/11/03 00:00 [received]
+PHST- 2022/11/04 00:00 [accepted]
+PHST- 2022/11/26 01:35 [entrez]
+PHST- 2022/11/27 06:00 [pubmed]
+PHST- 2022/11/30 06:00 [medline]
+AID - s22228622 [pii]
+AID - sensors-22-08622 [pii]
+AID - 10.3390/s22228622 [doi]
+PST - epublish
+SO  - Sensors (Basel). 2022 Nov 9;22(22):8622. doi: 10.3390/s22228622.
+
+PMID- 36401377
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20221122
+LR  - 20230103
+IS  - 1536-5964 (Electronic)
+IS  - 0025-7974 (Print)
+IS  - 0025-7974 (Linking)
+VI  - 101
+IP  - 46
+DP  - 2022 Nov 18
+TI  - Mediating effects of emotional intelligence on the relationship between empathy 
+      and humanistic care ability in nursing students: A cross-sectional descriptive 
+      study.
+PG  - e31673
+LID - 10.1097/MD.0000000000031673 [doi]
+LID - e31673
+AB  - Patient-centered nursing holistic care is of utmost important to the nursing 
+      profession, and humanistic care cultivation has become a global nursing education 
+      concern. This study aimed to examine the relationship among emotional 
+      intelligence, empathy and humanistic care ability in nursing students, and to 
+      determine whether positive emotional intelligence could mediate the relationship 
+      between empathy and humanistic care ability. This study used a cross-sectional, 
+      descriptive design. A total of 323 nursing students was enrolled from one medical 
+      university in Heilongjiang Province, China. The emotional intelligence 
+      questionnaires, empathy scale and humanistic care ability scale were used to 
+      quantify participants' responses. There was no significant difference in gender, 
+      residence, single-child family and leader experience of nursing students' 
+      humanistic care ability. However, the significant differences were found in grade 
+      (t = 4.55, P < .01) and major interests (t = 7.06, P < .01). Obviously, there was 
+      positive correlation between positive emotional intelligence and empathy 
+      (R = 0.37, P < .01), and positive correlation between humanistic care ability and 
+      emotional intelligence (R = 0.62, P < .01), and empathy (R = 0.57, P < .01). 
+      Furthermore, emotional intelligence (β = 0.21, P < .01) had a significant 
+      mediating effect on the relationship between humanistic care ability and empathy. 
+      Nurse educators should improve the empathy of nursing students by developing and 
+      implementing emotional intelligence programs, in order to improve their 
+      humanistic care ability.
+CI  - Copyright © 2022 the Author(s). Published by Wolters Kluwer Health, Inc.
+FAU - Lina, Meng
+AU  - Lina M
+AD  - Department of Nursing, Harbin Medical University, Heilongjiang, China.
+FAU - Qin, Guan
+AU  - Qin G
+AD  - Department of Education, Harbin Medical University, Heilongjiang, China.
+FAU - Yang, Li
+AU  - Yang L
+AUID- ORCID: 0000-0003-1606-0529
+AD  - Department of Nursing, Harbin Medical University, Heilongjiang, China.
+LA  - eng
+PT  - Journal Article
+PL  - United States
+TA  - Medicine (Baltimore)
+JT  - Medicine
+JID - 2985248R
+SB  - IM
+MH  - Humans
+MH  - *Students, Nursing/psychology
+MH  - Empathy
+MH  - Cross-Sectional Studies
+MH  - Emotional Intelligence
+MH  - Humanism
+PMC - PMC9678621
+COIS- The authors have no conflicts of interest to disclose.
+EDAT- 2022/11/20 06:00
+MHDA- 2022/11/23 06:00
+CRDT- 2022/11/19 01:04
+PHST- 2022/11/19 01:04 [entrez]
+PHST- 2022/11/20 06:00 [pubmed]
+PHST- 2022/11/23 06:00 [medline]
+AID - 00005792-202211180-00016 [pii]
+AID - 10.1097/MD.0000000000031673 [doi]
+PST - ppublish
+SO  - Medicine (Baltimore). 2022 Nov 18;101(46):e31673. doi: 
+      10.1097/MD.0000000000031673.

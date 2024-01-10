@@ -1,0 +1,758 @@
+PMID- 35458882
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20220426
+LR  - 20220429
+IS  - 1424-8220 (Electronic)
+IS  - 1424-8220 (Linking)
+VI  - 22
+IP  - 8
+DP  - 2022 Apr 9
+TI  - Intelligence Sensors and Sensing Spaces for Smart Home and Environment.
+LID - 10.3390/s22082898 [doi]
+LID - 2898
+AB  - Practitioners in the domains of architecture, engineering, and construction have 
+      conducted considerable research on smart homes and smart environments [...].
+FAU - Kim, Mi Jeong
+AU  - Kim MJ
+AUID- ORCID: 0000-0002-0727-2741
+AD  - School of Architecture, Hanyang University, Seoul 04763, Korea.
+FAU - Jun, Han Jong
+AU  - Jun HJ
+AUID- ORCID: 0000-0003-1798-183X
+AD  - School of Architecture, Hanyang University, Seoul 04763, Korea.
+LA  - eng
+GR  - NRF-2019R1A2C1087344/the National Research Foundation of Korea(NRF) grant funded 
+      by the Korea government/
+PT  - Editorial
+DEP - 20220409
+PL  - Switzerland
+TA  - Sensors (Basel)
+JT  - Sensors (Basel, Switzerland)
+JID - 101204366
+SB  - IM
+MH  - *Engineering
+MH  - *Intelligence
+PMC - PMC9030261
+COIS- The authors declare no conflict of interest.
+EDAT- 2022/04/24 06:00
+MHDA- 2022/04/27 06:00
+CRDT- 2022/04/23 01:16
+PHST- 2022/04/06 00:00 [received]
+PHST- 2022/04/07 00:00 [accepted]
+PHST- 2022/04/23 01:16 [entrez]
+PHST- 2022/04/24 06:00 [pubmed]
+PHST- 2022/04/27 06:00 [medline]
+AID - s22082898 [pii]
+AID - sensors-22-02898 [pii]
+AID - 10.3390/s22082898 [doi]
+PST - epublish
+SO  - Sensors (Basel). 2022 Apr 9;22(8):2898. doi: 10.3390/s22082898.
+
+PMID- 37558186
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20230913
+LR  - 20231102
+IS  - 1873-1899 (Electronic)
+IS  - 0734-9750 (Print)
+IS  - 0734-9750 (Linking)
+VI  - 68
+DP  - 2023 Nov
+TI  - The technology, opportunities, and challenges of Synthetic Biological 
+      Intelligence.
+PG  - 108233
+LID - S0734-9750(23)00140-4 [pii]
+LID - 10.1016/j.biotechadv.2023.108233 [doi]
+AB  - Integrating neural cultures developed through synthetic biology methods with 
+      digital computing has enabled the early development of Synthetic Biological 
+      Intelligence (SBI). Recently, key studies have emphasized the advantages of 
+      biological neural systems in some information processing tasks. However, neither 
+      the technology behind this early development, nor the potential ethical 
+      opportunities or challenges, have been explored in detail yet. Here, we review 
+      the key aspects that facilitate the development of SBI and explore potential 
+      applications. Considering these foreseeable use cases, various ethical 
+      implications are proposed. Ultimately, this work aims to provide a robust 
+      framework to structure ethical considerations to ensure that SBI technology can 
+      be both researched and applied responsibly.
+CI  - Copyright © 2023 The Authors. Published by Elsevier Inc. All rights reserved.
+FAU - Kagan, Brett J
+AU  - Kagan BJ
+AD  - Cortical Labs, Melbourne, VIC, Australia. Electronic address: 
+      brett@corticallabs.com.
+FAU - Gyngell, Christopher
+AU  - Gyngell C
+AD  - Murdoch Children's Research Institute, Melbourne, VIC, Australia; University of 
+      Melbourne, Melbourne, VIC, Australia.
+FAU - Lysaght, Tamra
+AU  - Lysaght T
+AD  - Centre for Biomedical Ethics, Yong Loo Lin School of Medicine, National 
+      University of Singapore, Singapore.
+FAU - Cole, Victor M
+AU  - Cole VM
+AD  - Centre for Biomedical Ethics, Yong Loo Lin School of Medicine, National 
+      University of Singapore, Singapore.
+FAU - Sawai, Tsutomu
+AU  - Sawai T
+AD  - Graduate School of Humanities and Social Sciences, Hiroshima University, 
+      Hiroshima, Japan; Institute for the Advanced Study of Human Biology (ASHBi), 
+      Kyoto University, Kyoto, Japan.
+FAU - Savulescu, Julian
+AU  - Savulescu J
+AD  - Murdoch Children's Research Institute, Melbourne, VIC, Australia; University of 
+      Melbourne, Melbourne, VIC, Australia; Centre for Biomedical Ethics, Yong Loo Lin 
+      School of Medicine, National University of Singapore, Singapore.
+LA  - eng
+GR  - WT_/Wellcome Trust/United Kingdom
+GR  - 203132/WT_/Wellcome Trust/United Kingdom
+GR  - WT203132/Z/16/Z/WT_/Wellcome Trust/United Kingdom
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PT  - Review
+DEP - 20230807
+PL  - England
+TA  - Biotechnol Adv
+JT  - Biotechnology advances
+JID - 8403708
+SB  - IM
+MH  - *Technology
+MH  - *Intelligence
+MH  - Synthetic Biology
+PMC - PMC7615149
+MID - EMS188474
+OTO - NOTNLM
+OT  - Biocomputing
+OT  - Ethics
+OT  - Intelligence
+OT  - Neuroscience
+OT  - Synthetic biology
+COIS- Declaration of Competing Interest B.J.K. is an inventor on patents for technology 
+      related to this paper along with being employed at and holding shares in Cortical 
+      Labs Pty Ltd., Melbourne, Australia. No specific funding or other incentives were 
+      provided for involvement in this publication and there are no further potential 
+      conflicts of interest to disclose.
+EDAT- 2023/08/10 00:42
+MHDA- 2023/09/13 06:42
+CRDT- 2023/08/09 19:28
+PHST- 2023/05/11 00:00 [received]
+PHST- 2023/07/15 00:00 [revised]
+PHST- 2023/08/05 00:00 [accepted]
+PHST- 2023/09/13 06:42 [medline]
+PHST- 2023/08/10 00:42 [pubmed]
+PHST- 2023/08/09 19:28 [entrez]
+AID - S0734-9750(23)00140-4 [pii]
+AID - 10.1016/j.biotechadv.2023.108233 [doi]
+PST - ppublish
+SO  - Biotechnol Adv. 2023 Nov;68:108233. doi: 10.1016/j.biotechadv.2023.108233. Epub 
+      2023 Aug 7.
+
+PMID- 32027832
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20200330
+LR  - 20200330
+IS  - 1097-4199 (Electronic)
+IS  - 0896-6273 (Linking)
+VI  - 105
+IP  - 3
+DP  - 2020 Feb 5
+TI  - Artificial and Natural Intelligence: From Invention to Discovery.
+PG  - 413-415
+LID - S0896-6273(20)30040-4 [pii]
+LID - 10.1016/j.neuron.2020.01.014 [doi]
+AB  - An international group of researchers met in November 2019 in Beijing to explore 
+      the intersection of neuroscience and AI. The aim was to offer a fertile ground 
+      for stimulating discussions and ideas, including issues such as policy making and 
+      the future of neuroscience and AI across the globe.
+CI  - Copyright © 2020.
+FAU - Zhaoping, Li
+AU  - Zhaoping L
+AD  - University of Tübingen, Tübingen, Germany; Max Planck Institute for Biological 
+      Cybernetics, Tübingen, Germany. Electronic address: li.zhaoping@tuebingen.mpg.de.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+PL  - United States
+TA  - Neuron
+JT  - Neuron
+JID - 8809320
+SB  - IM
+MH  - Artificial Intelligence/*trends
+MH  - Beijing
+MH  - Congresses as Topic/*trends
+MH  - Humans
+MH  - Intelligence/*physiology
+MH  - Inventions/*trends
+MH  - Neurosciences/methods/trends
+EDAT- 2020/02/07 06:00
+MHDA- 2020/03/31 06:00
+CRDT- 2020/02/07 06:00
+PHST- 2020/02/07 06:00 [entrez]
+PHST- 2020/02/07 06:00 [pubmed]
+PHST- 2020/03/31 06:00 [medline]
+AID - S0896-6273(20)30040-4 [pii]
+AID - 10.1016/j.neuron.2020.01.014 [doi]
+PST - ppublish
+SO  - Neuron. 2020 Feb 5;105(3):413-415. doi: 10.1016/j.neuron.2020.01.014.
+
+PMID- 36772138
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20230214
+LR  - 20230214
+IS  - 1424-8220 (Electronic)
+IS  - 1424-8220 (Linking)
+VI  - 23
+IP  - 3
+DP  - 2023 Jan 18
+TI  - Special Issue "Emotion Intelligence Based on Smart Sensing".
+LID - 10.3390/s23031098 [doi]
+LID - 1098
+AB  - Emotional intelligence is essential to maintaining human relationships in 
+      communities, organizations, and societies [...].
+FAU - Park, Sung
+AU  - Park S
+AUID- ORCID: 0000-0002-1242-9264
+AD  - Department of Emotion Engineering, Sangmyung University, Seoul 03016, Republic of 
+      Korea.
+FAU - Whang, Mincheol
+AU  - Whang M
+AUID- ORCID: 0000-0003-4301-9089
+AD  - Department of Human-Centered Artificial Intelligence, Sangmyung University, Seoul 
+      03016, Republic of Korea.
+LA  - eng
+PT  - Editorial
+DEP - 20230118
+PL  - Switzerland
+TA  - Sensors (Basel)
+JT  - Sensors (Basel, Switzerland)
+JID - 101204366
+SB  - IM
+MH  - Humans
+MH  - *Emotional Intelligence
+MH  - *Emotions
+PMC - PMC9919134
+COIS- The authors declare no conflict of interest.
+EDAT- 2023/02/12 06:00
+MHDA- 2023/02/15 06:00
+CRDT- 2023/02/11 01:42
+PHST- 2022/12/13 00:00 [received]
+PHST- 2023/01/12 00:00 [accepted]
+PHST- 2023/02/11 01:42 [entrez]
+PHST- 2023/02/12 06:00 [pubmed]
+PHST- 2023/02/15 06:00 [medline]
+AID - s23031098 [pii]
+AID - sensors-23-01098 [pii]
+AID - 10.3390/s23031098 [doi]
+PST - epublish
+SO  - Sensors (Basel). 2023 Jan 18;23(3):1098. doi: 10.3390/s23031098.
+
+PMID- 37685946
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20230911
+LR  - 20230911
+IS  - 1422-0067 (Electronic)
+IS  - 1422-0067 (Linking)
+VI  - 24
+IP  - 17
+DP  - 2023 Aug 24
+TI  - Intelligent Insulin vs. Artificial Intelligence for Type 1 Diabetes: Will the 
+      Real Winner Please Stand Up?
+LID - 10.3390/ijms241713139 [doi]
+LID - 13139
+AB  - Research in the treatment of type 1 diabetes has been addressed into two main 
+      areas: the development of "intelligent insulins" capable of auto-regulating their 
+      own levels according to glucose concentrations, or the exploitation of artificial 
+      intelligence (AI) and its learning capacity, to provide decision support systems 
+      to improve automated insulin therapy. This review aims to provide a synthetic 
+      overview of the current state of these two research areas, providing an outline 
+      of the latest development in the search for "intelligent insulins," and the 
+      results of new and promising advances in the use of artificial intelligence to 
+      regulate automated insulin infusion and glucose control. The future of insulin 
+      treatment in type 1 diabetes appears promising with AI, with research nearly 
+      reaching the possibility of finally having a "closed-loop" artificial pancreas.
+FAU - Cambuli, Valentina Maria
+AU  - Cambuli VM
+AD  - Diabetology and Metabolic Diseaseas, San Michele Hospital, ARNAS Giuseppe Brotzu, 
+      09121 Cagliari, Italy.
+FAU - Baroni, Marco Giorgio
+AU  - Baroni MG
+AUID- ORCID: 0000-0002-3224-6078
+AD  - Department of Clinical Medicine, Public Health, Life and Environmental Sciences, 
+      University of L'Aquila, 67100 L'Aquila, Italy.
+AD  - Neuroendocrinology and Metabolic Diseases, IRCCS Neuromed, 86077 Pozzilli, Italy.
+LA  - eng
+GR  - FFO-BANDO PSD-MESVA 2022/Department of Clinical Medicine, Public Health, Life and 
+      Environmental Sciences (MeSVA),/
+PT  - Journal Article
+PT  - Review
+DEP - 20230824
+PL  - Switzerland
+TA  - Int J Mol Sci
+JT  - International journal of molecular sciences
+JID - 101092791
+RN  - 0 (Insulin)
+RN  - 0 (Insulin, Regular, Human)
+SB  - IM
+MH  - Humans
+MH  - *Insulin
+MH  - *Diabetes Mellitus, Type 1/drug therapy
+MH  - Artificial Intelligence
+MH  - Insulin, Regular, Human
+MH  - Intelligence
+PMC - PMC10488097
+OTO - NOTNLM
+OT  - artificial intelligence (AI)
+OT  - automated insulin delivery systems
+OT  - concanavalin A (ConA)
+OT  - continuous glucose monitoring (CGM)
+OT  - deep learning (DL)
+OT  - glucose oxidase (GOx)
+OT  - glucose-responsive insulin (GRI)
+OT  - intelligent insulin
+OT  - machine learning (ML)
+OT  - phenylboronic acid (PBA)
+COIS- The authors declare no conflict of interest. The funder had no role in the design 
+      or in the writing of the manuscript.
+EDAT- 2023/09/09 11:43
+MHDA- 2023/09/11 06:43
+CRDT- 2023/09/09 01:10
+PHST- 2023/07/29 00:00 [received]
+PHST- 2023/08/18 00:00 [revised]
+PHST- 2023/08/22 00:00 [accepted]
+PHST- 2023/09/11 06:43 [medline]
+PHST- 2023/09/09 11:43 [pubmed]
+PHST- 2023/09/09 01:10 [entrez]
+AID - ijms241713139 [pii]
+AID - ijms-24-13139 [pii]
+AID - 10.3390/ijms241713139 [doi]
+PST - epublish
+SO  - Int J Mol Sci. 2023 Aug 24;24(17):13139. doi: 10.3390/ijms241713139.
+
+PMID- 36991773
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20230331
+LR  - 20230401
+IS  - 1424-8220 (Electronic)
+IS  - 1424-8220 (Linking)
+VI  - 23
+IP  - 6
+DP  - 2023 Mar 13
+TI  - Convergence of Artificial Intelligence and Neuroscience towards the Diagnosis of 
+      Neurological Disorders-A Scoping Review.
+LID - 10.3390/s23063062 [doi]
+LID - 3062
+AB  - Artificial intelligence (AI) is a field of computer science that deals with the 
+      simulation of human intelligence using machines so that such machines gain 
+      problem-solving and decision-making capabilities similar to that of the human 
+      brain. Neuroscience is the scientific study of the struczture and cognitive 
+      functions of the brain. Neuroscience and AI are mutually interrelated. These two 
+      fields help each other in their advancements. The theory of neuroscience has 
+      brought many distinct improvisations into the AI field. The biological neural 
+      network has led to the realization of complex deep neural network architectures 
+      that are used to develop versatile applications, such as text processing, speech 
+      recognition, object detection, etc. Additionally, neuroscience helps to validate 
+      the existing AI-based models. Reinforcement learning in humans and animals has 
+      inspired computer scientists to develop algorithms for reinforcement learning in 
+      artificial systems, which enables those systems to learn complex strategies 
+      without explicit instruction. Such learning helps in building complex 
+      applications, like robot-based surgery, autonomous vehicles, gaming applications, 
+      etc. In turn, with its ability to intelligently analyze complex data and extract 
+      hidden patterns, AI fits as a perfect choice for analyzing neuroscience data that 
+      are very complex. Large-scale AI-based simulations help neuroscientists test 
+      their hypotheses. Through an interface with the brain, an AI-based system can 
+      extract the brain signals and commands that are generated according to the 
+      signals. These commands are fed into devices, such as a robotic arm, which helps 
+      in the movement of paralyzed muscles or other human parts. AI has several use 
+      cases in analyzing neuroimaging data and reducing the workload of radiologists. 
+      The study of neuroscience helps in the early detection and diagnosis of 
+      neurological disorders. In the same way, AI can effectively be applied to the 
+      prediction and detection of neurological disorders. Thus, in this paper, a 
+      scoping review has been carried out on the mutual relationship between AI and 
+      neuroscience, emphasizing the convergence between AI and neuroscience in order to 
+      detect and predict various neurological disorders.
+FAU - Surianarayanan, Chellammal
+AU  - Surianarayanan C
+AD  - Centre of Distance and Online Education, Bharathidasan University, 
+      Tiruchirappalli 620024, India.
+FAU - Lawrence, John Jeyasekaran
+AU  - Lawrence JJ
+AD  - Cardiff School of Technologies, Cardiff Metropolitan University, Cardiff CF5 2YB, 
+      UK.
+FAU - Chelliah, Pethuru Raj
+AU  - Chelliah PR
+AUID- ORCID: 0000-0001-5220-0408
+AD  - Edge AI Division, Reliance Jio Platforms Ltd., Bangalore 560103, India.
+FAU - Prakash, Edmond
+AU  - Prakash E
+AUID- ORCID: 0000-0001-9129-0186
+AD  - Research Center for Creative Arts, University for the Creative Arts (UCA), 
+      Farnham GU9 7DS, UK.
+FAU - Hewage, Chaminda
+AU  - Hewage C
+AUID- ORCID: 0000-0001-7593-6661
+AD  - Cardiff School of Technologies, Cardiff Metropolitan University, Cardiff CF5 2YB, 
+      UK.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+DEP - 20230313
+PL  - Switzerland
+TA  - Sensors (Basel)
+JT  - Sensors (Basel, Switzerland)
+JID - 101204366
+SB  - IM
+MH  - Animals
+MH  - Humans
+MH  - *Artificial Intelligence
+MH  - Neural Networks, Computer
+MH  - Algorithms
+MH  - Intelligence
+MH  - *Nervous System Diseases
+PMC - PMC10053494
+OTO - NOTNLM
+OT  - artificial intelligence
+OT  - deep neural network
+OT  - neurological disorders
+OT  - neuroscience
+COIS- The authors declare no conflict of interest.
+EDAT- 2023/03/31 06:00
+MHDA- 2023/03/31 06:42
+CRDT- 2023/03/30 01:02
+PHST- 2023/01/25 00:00 [received]
+PHST- 2023/03/09 00:00 [revised]
+PHST- 2023/03/09 00:00 [accepted]
+PHST- 2023/03/31 06:42 [medline]
+PHST- 2023/03/30 01:02 [entrez]
+PHST- 2023/03/31 06:00 [pubmed]
+AID - s23063062 [pii]
+AID - sensors-23-03062 [pii]
+AID - 10.3390/s23063062 [doi]
+PST - epublish
+SO  - Sensors (Basel). 2023 Mar 13;23(6):3062. doi: 10.3390/s23063062.
+
+PMID- 36251633
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20221020
+LR  - 20221020
+IS  - 1932-6203 (Electronic)
+IS  - 1932-6203 (Linking)
+VI  - 17
+IP  - 10
+DP  - 2022
+TI  - General intelligence and executive functioning are overlapping but separable at 
+      genetic and molecular pathway levels: An analytical review of existing GWAS 
+      findings.
+PG  - e0272368
+LID - 10.1371/journal.pone.0272368 [doi]
+LID - e0272368
+AB  - Understanding the genomic architecture and molecular mechanisms of cognitive 
+      functioning in healthy individuals is critical for developing tailored 
+      interventions to enhance cognitive functioning, as well as for identifying 
+      targets for treating impaired cognition. There has been substantial progress in 
+      uncovering the genetic composition of the general cognitive ability (g). However, 
+      there is an ongoing debate whether executive functioning (EF)-another key 
+      predictor of cognitive health and performance, is separable from general g. To 
+      provide an analytical review on existing findings on genetic influences on the 
+      relationship between g and EF, we re-analysed a subset of genome-wide association 
+      studies (GWAS) from the GWAS catalogue that used measures of g and EF as outcomes 
+      in non-clinical populations. We identified two sets of single nucleotide 
+      polymorphisms (SNPs) associated with g (1,372 SNPs across 12 studies), and EF 
+      (300 SNPs across 5 studies) at p<5x10-6. A comparative analysis of 
+      GWAS-identified g and EF SNPs in high linkage disequilibrium (LD), followed by 
+      pathway enrichment analyses suggest that g and EF are overlapping but separable 
+      at genetic variant and molecular pathway levels, however more evidence is 
+      required to characterize the genetic overlap/distinction between the two 
+      constructs. While not without limitations, these findings may have implications 
+      for navigating further research towards translatable genetic findings for 
+      cognitive remediation, enhancement, and augmentation.
+FAU - Ciobanu, Liliana G
+AU  - Ciobanu LG
+AD  - Discipline of Psychiatry, University of Adelaide, Adelaide, SA, Australia.
+FAU - Stankov, Lazar
+AU  - Stankov L
+AD  - School of Psychology, The University of Sydney, Sydney, NSW, Australia.
+FAU - Schubert, K Oliver
+AU  - Schubert KO
+AD  - Discipline of Psychiatry, University of Adelaide, Adelaide, SA, Australia.
+AD  - Northern Adelaide Mental Health Services, Adelaide, SA, Australia.
+FAU - Amare, Azmeraw T
+AU  - Amare AT
+AD  - Discipline of Psychiatry, University of Adelaide, Adelaide, SA, Australia.
+AD  - National Health and Medical Research Council (NHMRC) Centre of Research 
+      Excellence in Frailty and Healthy Ageing, University of Adelaide, Adelaide, 
+      Australia.
+FAU - Jawahar, M Catharine
+AU  - Jawahar MC
+AD  - Discipline of Psychiatry, University of Adelaide, Adelaide, SA, Australia.
+FAU - Lawrence-Wood, Ellie
+AU  - Lawrence-Wood E
+AD  - Discipline of Psychiatry, University of Adelaide, Adelaide, SA, Australia.
+FAU - Mills, Natalie T
+AU  - Mills NT
+AD  - Discipline of Psychiatry, University of Adelaide, Adelaide, SA, Australia.
+FAU - Knight, Matthew
+AU  - Knight M
+AD  - Discipline of Psychiatry, University of Adelaide, Adelaide, SA, Australia.
+AD  - Weapons and Combat Systems Division, Defence Science & Technology Group, 
+      Edinburgh, SA, Australia.
+FAU - Clark, Scott R
+AU  - Clark SR
+AD  - Discipline of Psychiatry, University of Adelaide, Adelaide, SA, Australia.
+FAU - Aidman, Eugene
+AU  - Aidman E
+AD  - School of Psychology, The University of Sydney, Sydney, NSW, Australia.
+AD  - School of Biomedical Sciences & Pharmacy, University of Newcastle, Callaghan, 
+      NSW, Australia.
+AD  - Land Division, Defence Science & Technology Group, Edinburgh, SA, Australia.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PT  - Review
+DEP - 20221017
+PL  - United States
+TA  - PLoS One
+JT  - PloS one
+JID - 101285081
+SB  - IM
+MH  - Humans
+MH  - *Executive Function
+MH  - Genome-Wide Association Study
+MH  - *Intelligence/genetics
+MH  - Linkage Disequilibrium
+MH  - Polymorphism, Single Nucleotide
+PMC - PMC9576059
+COIS- The authors have declared that no competing interests exist.
+EDAT- 2022/10/18 06:00
+MHDA- 2022/10/20 06:00
+CRDT- 2022/10/17 13:32
+PHST- 2022/01/18 00:00 [received]
+PHST- 2022/07/18 00:00 [accepted]
+PHST- 2022/10/17 13:32 [entrez]
+PHST- 2022/10/18 06:00 [pubmed]
+PHST- 2022/10/20 06:00 [medline]
+AID - PONE-D-22-01630 [pii]
+AID - 10.1371/journal.pone.0272368 [doi]
+PST - epublish
+SO  - PLoS One. 2022 Oct 17;17(10):e0272368. doi: 10.1371/journal.pone.0272368. 
+      eCollection 2022.
+
+PMID- 37481382
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20230814
+LR  - 20231003
+IS  - 1471-499X (Electronic)
+IS  - 1471-4914 (Print)
+IS  - 1471-4914 (Linking)
+VI  - 29
+IP  - 9
+DP  - 2023 Sep
+TI  - Future medicine: from molecular pathways to the collective intelligence of the 
+      body.
+PG  - 687-710
+LID - S1471-4914(23)00142-9 [pii]
+LID - 10.1016/j.molmed.2023.06.007 [doi]
+AB  - The remarkable anatomical homeostasis exhibited by complex living organisms 
+      suggests that they are inherently reprogrammable information-processing systems 
+      that offer numerous interfaces to their physiological and anatomical 
+      problem-solving capacities. We briefly review data suggesting that the multiscale 
+      competency of living forms affords a new path for biomedicine that exploits the 
+      innate collective intelligence of tissues and organs. The concept of tissue-level 
+      allostatic goal-directedness is already bearing fruit in clinical practice. We 
+      sketch a roadmap towards 'somatic psychiatry' by using advances in bioelectricity 
+      and behavioral neuroscience to design methods that induce self-repair of 
+      structure and function. Relaxing the assumption that cellular control mechanisms 
+      are static, exploiting powerful concepts from cybernetics, behavioral science, 
+      and developmental biology may spark definitive solutions to current biomedical 
+      challenges.
+CI  - Copyright © 2023 Elsevier Ltd. All rights reserved.
+FAU - Lagasse, Eric
+AU  - Lagasse E
+AD  - McGowan Institute for Regenerative Medicine and Department of Pathology, School 
+      of Medicine, University of Pittsburgh, Pittsburgh, PA, USA.
+FAU - Levin, Michael
+AU  - Levin M
+AD  - Allen Discovery Center, Tufts University, Medford, MA, USA; Wyss Institute for 
+      Biologically Inspired Engineering, Harvard University, Boston, MA, USA. 
+      Electronic address: michael.levin@tufts.edu.
+LA  - eng
+GR  - R01 DK114282/DK/NIDDK NIH HHS/United States
+GR  - R56 NS113810/NS/NINDS NIH HHS/United States
+PT  - Journal Article
+PT  - Research Support, N.I.H., Extramural
+PT  - Research Support, Non-U.S. Gov't
+PT  - Review
+DEP - 20230720
+PL  - England
+TA  - Trends Mol Med
+JT  - Trends in molecular medicine
+JID - 100966035
+SB  - IM
+MH  - Humans
+MH  - Homeostasis/physiology
+MH  - *Intelligence
+PMC - PMC10527237
+MID - NIHMS1911946
+OTO - NOTNLM
+OT  - bioelectricity
+OT  - cognition
+OT  - regenerative medicine
+OT  - top-down control
+COIS- Declaration of interests M.L. is a cofounder of Morphoceuticals, a company 
+      working in the regenerative medicine space, and is supported by Astonishing Labs, 
+      a company that includes the targeting of computational capacities of pathways 
+      among its goals. E.L. is a cofounder of LyGenesis, a clinical stage cell therapy 
+      company that transforms a the lymph nodes of a patient into bioreactors that are 
+      able to grow functional ectopic organs.
+EDAT- 2023/07/23 01:11
+MHDA- 2023/08/14 06:41
+PMCR- 2024/09/01
+CRDT- 2023/07/22 21:58
+PHST- 2023/04/25 00:00 [received]
+PHST- 2023/06/20 00:00 [revised]
+PHST- 2023/06/22 00:00 [accepted]
+PHST- 2024/09/01 00:00 [pmc-release]
+PHST- 2023/08/14 06:41 [medline]
+PHST- 2023/07/23 01:11 [pubmed]
+PHST- 2023/07/22 21:58 [entrez]
+AID - S1471-4914(23)00142-9 [pii]
+AID - 10.1016/j.molmed.2023.06.007 [doi]
+PST - ppublish
+SO  - Trends Mol Med. 2023 Sep;29(9):687-710. doi: 10.1016/j.molmed.2023.06.007. Epub 
+      2023 Jul 20.
+
+PMID- 35534677
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20220826
+LR  - 20220827
+IS  - 1435-232X (Electronic)
+IS  - 1434-5161 (Print)
+IS  - 1434-5161 (Linking)
+VI  - 67
+IP  - 9
+DP  - 2022 Sep
+TI  - Inferring intelligence of ancient people based on modern genomic studies.
+PG  - 527-532
+LID - 10.1038/s10038-022-01039-8 [doi]
+AB  - Quantification of ancient human intelligence has become possible with recent 
+      advances in polygenic prediction. Intelligence is a complex trait that has both 
+      environmental and genetic components and high heritability. Large-scale 
+      genome-wide association studies based on ~270,000 individuals have demonstrated 
+      highly significant single-nucleotide polymorphisms (SNPs) associated with 
+      intelligence in present-day humans. We utilized those previously reported 12,037 
+      SNPs to estimate a genetic component of intelligence in ancient Funadomari Jomon 
+      individual from 3700 years BP as well as four individuals of Afanasievo nuclear 
+      family from about 4100 years BP and who are considered anatomically modern 
+      humans. We have demonstrated that ancient individuals could have been not 
+      inferior in intelligence compared to present-day humans through assessment of the 
+      genetic component of intelligence. We have also confirmed that alleles associated 
+      with intelligence tend to spread equally between ancestral and derived origin 
+      suggesting that intelligence may be a neutral trait in human evolution.
+CI  - © 2022. The Author(s).
+FAU - Dauyey, Kaisar
+AU  - Dauyey K
+AUID- ORCID: 0000-0003-0533-9778
+AD  - Department of Genetics, School of Life Science, Graduate University for Advanced 
+      Studies (SOKENDAI), Mishima, Shizuoka, 411-8540, Japan.
+AD  - SAITOU Laboratory, National Institute of Genetics, Mishima, Shizuoka, 411-8540, 
+      Japan.
+FAU - Saitou, Naruya
+AU  - Saitou N
+AD  - Department of Genetics, School of Life Science, Graduate University for Advanced 
+      Studies (SOKENDAI), Mishima, Shizuoka, 411-8540, Japan. saitounr@nig.ac.jp.
+AD  - SAITOU Laboratory, National Institute of Genetics, Mishima, Shizuoka, 411-8540, 
+      Japan. saitounr@nig.ac.jp.
+LA  - eng
+GR  - 18H05506/Ministry of Education, Culture, Sports, Science and Technology (MEXT)/
+PT  - Journal Article
+DEP - 20220509
+PL  - England
+TA  - J Hum Genet
+JT  - Journal of human genetics
+JID - 9808008
+SB  - IM
+MH  - Alleles
+MH  - *Genome-Wide Association Study
+MH  - Genomics
+MH  - Humans
+MH  - *Intelligence/genetics
+MH  - Multifactorial Inheritance
+MH  - Polymorphism, Single Nucleotide
+PMC - PMC9402434
+COIS- The authors declare no competing interests.
+EDAT- 2022/05/10 06:00
+MHDA- 2022/08/27 06:00
+CRDT- 2022/05/09 23:26
+PHST- 2022/02/20 00:00 [received]
+PHST- 2022/04/20 00:00 [accepted]
+PHST- 2022/04/18 00:00 [revised]
+PHST- 2022/05/10 06:00 [pubmed]
+PHST- 2022/08/27 06:00 [medline]
+PHST- 2022/05/09 23:26 [entrez]
+AID - 10.1038/s10038-022-01039-8 [pii]
+AID - 1039 [pii]
+AID - 10.1038/s10038-022-01039-8 [doi]
+PST - ppublish
+SO  - J Hum Genet. 2022 Sep;67(9):527-532. doi: 10.1038/s10038-022-01039-8. Epub 2022 
+      May 9.
+
+PMID- 32301219
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20201026
+LR  - 20201026
+IS  - 1469-3178 (Electronic)
+IS  - 1469-221X (Print)
+IS  - 1469-221X (Linking)
+VI  - 21
+IP  - 5
+DP  - 2020 May 6
+TI  - Plant "intelligence" changes nothing.
+PG  - e50395
+LID - 10.15252/embr.202050395 [doi]
+LID - e50395
+FAU - Robinson, David G
+AU  - Robinson DG
+AD  - Centre for Organismal Studies, University of Heidelberg, Heidelberg, Germany.
+FAU - Draguhn, Andreas
+AU  - Draguhn A
+AD  - Institut für Physiologie und Pathophysiologie, Medizinischen Fakultät, University 
+      of Heidelberg, Heidelberg, Germany.
+FAU - Taiz, Lincoln
+AU  - Taiz L
+AD  - Department of Molecular, Cellular and Developmental Biology, University of 
+      California Santa Cruz, Santa Cruz, CA, USA.
+LA  - eng
+PT  - Comment
+PT  - Letter
+DEP - 20200416
+PL  - England
+TA  - EMBO Rep
+JT  - EMBO reports
+JID - 100963049
+SB  - IM
+CON - EMBO Rep. 2020 Mar 4;21(3):e50109. PMID: 32103598
+CIN - EMBO Rep. 2020 May 6;21(5):e50495. PMID: 32301205
+MH  - Humans
+MH  - Intelligence
+MH  - *Plant Development
+MH  - *Plants
+PMC - PMC7202214
+OAB - A comment on “Plants, climate and humans”.[Image: see text]
+OABL- eng
+EDAT- 2020/04/18 06:00
+MHDA- 2020/10/27 06:00
+CRDT- 2020/04/18 06:00
+PHST- 2020/04/18 06:00 [pubmed]
+PHST- 2020/10/27 06:00 [medline]
+PHST- 2020/04/18 06:00 [entrez]
+AID - EMBR202050395 [pii]
+AID - 10.15252/embr.202050395 [doi]
+PST - ppublish
+SO  - EMBO Rep. 2020 May 6;21(5):e50395. doi: 10.15252/embr.202050395. Epub 2020 Apr 
+      16.
