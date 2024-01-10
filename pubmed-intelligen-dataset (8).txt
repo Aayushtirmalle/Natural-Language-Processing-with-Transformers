@@ -1,0 +1,848 @@
+PMID- 37786653
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20231102
+IS  - 1871-4080 (Print)
+IS  - 1871-4099 (Electronic)
+IS  - 1871-4080 (Linking)
+VI  - 17
+IP  - 5
+DP  - 2023 Oct
+TI  - Preface for special issue on nonlinear dynamics modeling and control for brain 
+      science and brain-like intelligence.
+PG  - 1117-1118
+LID - 10.1007/s11571-023-09959-7 [doi]
+FAU - Han, Fang
+AU  - Han F
+AD  - College of Information Science and Technology, Donghua University, Shanghai, 
+      China. ROR: https://ror.org/035psfh38. GRID: grid.255169.c. ISNI: 0000 0000 9141 
+      4786
+FAU - Wang, Qingyun
+AU  - Wang Q
+AD  - Department of Dynamics and Control, Beihang University, Beijing, China. ROR: 
+      https://ror.org/00wk2mp56. GRID: grid.64939.31. ISNI: 0000 0000 9999 1211
+FAU - Su, Jianzhong
+AU  - Su J
+AD  - Department of Mathematics, University of Texas at Arlington, Arlington, USA. ROR: 
+      https://ror.org/019kgqr73. GRID: grid.267315.4. ISNI: 0000 0001 2181 9515
+LA  - eng
+PT  - Editorial
+DEP - 20230418
+PL  - Netherlands
+TA  - Cogn Neurodyn
+JT  - Cognitive neurodynamics
+JID - 101306907
+PMC - PMC10542058
+EDAT- 2023/10/03 06:47
+MHDA- 2023/10/03 06:48
+PMCR- 2024/10/01
+CRDT- 2023/10/03 03:45
+PHST- 2024/10/01 00:00 [pmc-release]
+PHST- 2023/10/03 06:48 [medline]
+PHST- 2023/10/03 06:47 [pubmed]
+PHST- 2023/10/03 03:45 [entrez]
+AID - 9959 [pii]
+AID - 10.1007/s11571-023-09959-7 [doi]
+PST - ppublish
+SO  - Cogn Neurodyn. 2023 Oct;17(5):1117-1118. doi: 10.1007/s11571-023-09959-7. Epub 
+      2023 Apr 18.
+
+PMID- 37786547
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20231004
+IS  - 2769-2795 (Electronic)
+IS  - 2313-1934 (Print)
+IS  - 2769-2795 (Linking)
+VI  - 9
+IP  - 2
+DP  - 2023 Summer
+TI  - Predictors and occurrence of postoperative cognitive dysfunction in children 
+      undergoing noncardiac surgery: A prospective cohort study.
+PG  - 148-156
+LID - 10.1002/ibra.12066 [doi]
+AB  - In children after cardiac surgery, alterations in cognitive ability and behavior 
+      are increasingly common, but whether postoperative cognitive dysfunction (POCD) 
+      occurs in children undergoing noncardiac surgery is not known. The present study 
+      was performed to investigate the incidence rate and potential risk factors of 
+      early neurocognitive dysfunction in children after noncardiac surgery. Two 
+      hundred patients aged between 4 and 14 years old underwent elective noncardiac 
+      surgery and 100 healthy age-matched controls were enrolled in this prospective 
+      observational study. Wechsler Preschool and Primary Scale of Intelligence or 
+      Wechsler Intelligence Scale for Children-Revised were conducted 1 day before and 
+      3 days after surgery. POCD was calculated and diagnosed as a combined Z score. 
+      Any factors that differed between POCD and non-POCD group (p < 0.10) were tested 
+      together by multivariate logistic regression analysis against the cognitive 
+      outcome of patients, to find out the independent risk factors of POCD. The 
+      general incidence of POCD was 15.6%. The univariate analysis revealed that POCD 
+      was associated with general anesthesia, surgical and anesthesia duration, early 
+      postoperative fever (EPF), and surgical history. However, only the history of 
+      surgery (p = 0.029), anesthesia duration (p = 0.010), and EPF (p < 0.001) were 
+      demonstrated to be independent risk factors for POCD. The occurrence rate of 
+      early POCD after noncardiac surgery in children is 15.6%. Children who had 
+      surgical history, longer anesthesia duration, or EPF are more prone to develop 
+      POCD.
+CI  - © 2022 The Authors. Ibrain published by Affiliated Hospital of Zunyi Medical 
+      University (AHZMU) and Wiley‐VCH GmbH.
+FAU - Han, Fang-Fang
+AU  - Han FF
+AUID- ORCID: 0000-0001-8019-8093
+AD  - The First Clinical Medical College of Lanzhou University Lanzhou Gansu P.R. 
+      China.
+AD  - Department of Anesthesiology and Operating Theater The First Hospital of Lanzhou 
+      University Lanzhou Gansu P.R. China.
+FAU - Wang, Xiu-Mei
+AU  - Wang XM
+AD  - Department of Anesthesiology and Operating Theater The First Hospital of Lanzhou 
+      University Lanzhou Gansu P.R. China.
+FAU - Zhang, Hai-Jun
+AU  - Zhang HJ
+AD  - The First Clinical Medical College of Lanzhou University Lanzhou Gansu P.R. 
+      China.
+AD  - Department of Anesthesiology and Operating Theater The First Hospital of Lanzhou 
+      University Lanzhou Gansu P.R. China.
+FAU - Wang, Jun-Ze
+AU  - Wang JZ
+AD  - The First Clinical Medical College of Lanzhou University Lanzhou Gansu P.R. 
+      China.
+FAU - Bao, Zhen-Xing
+AU  - Bao ZX
+AD  - The First Clinical Medical College of Lanzhou University Lanzhou Gansu P.R. 
+      China.
+FAU - Li, Yu-Lan
+AU  - Li YL
+AD  - Department of Anesthesiology and Operating Theater The First Hospital of Lanzhou 
+      University Lanzhou Gansu P.R. China.
+LA  - eng
+PT  - Journal Article
+DEP - 20220910
+PL  - United States
+TA  - Ibrain
+JT  - Ibrain
+JID - 9918680988706676
+PMC - PMC10528770
+OTO - NOTNLM
+OT  - anesthesia
+OT  - children
+OT  - cognitive dysfunction
+OT  - surgery
+OT  - surgical history
+COIS- The authors declare no conflict of interest.
+EDAT- 2023/10/03 06:47
+MHDA- 2023/10/03 06:48
+CRDT- 2023/10/03 03:41
+PHST- 2021/12/24 00:00 [received]
+PHST- 2022/08/23 00:00 [revised]
+PHST- 2022/08/25 00:00 [accepted]
+PHST- 2023/10/03 06:48 [medline]
+PHST- 2023/10/03 06:47 [pubmed]
+PHST- 2023/10/03 03:41 [entrez]
+AID - IBRA12066 [pii]
+AID - 10.1002/ibra.12066 [doi]
+PST - epublish
+SO  - Ibrain. 2022 Sep 10;9(2):148-156. doi: 10.1002/ibra.12066. eCollection 2023 
+      Summer.
+
+PMID- 37786524
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20231004
+IS  - 2769-2795 (Electronic)
+IS  - 2313-1934 (Print)
+IS  - 2769-2795 (Linking)
+VI  - 9
+IP  - 1
+DP  - 2023 Spring
+TI  - Dyslexia with and without Irlen syndrome: A study of influence on abilities and 
+      brain-derived neurotrophic factor level.
+PG  - 32-42
+LID - 10.1002/ibra.12080 [doi]
+AB  - The presence of comorbid Irlen syndrome (IS) in children with developmental 
+      dyslexia (DD) may have an impact on their reading and cognitive abilities. 
+      Furthermore, the brain-derived neurotrophic factor (BDNF) was reported to be 
+      expressed in brain areas involved in cognitive and visual processing. The aim of 
+      this study was to evaluate some cognitive abilities of a group of dyslexic 
+      children with IS and to measure and compare the plasma BDNF level to dyslexic 
+      children without IS and neurotypical (NT) children. The participants were 60 
+      children with DD (30 in the DD + IS group; 30 in the DD group) and 30 NT 
+      children. The Irlen reading perceptual scale, the Stanford Binet intelligence 
+      scale, 4th ed, the dyslexia assessment test, and the Illinois test of 
+      psycholinguistic abilities were used. The BDNF level was measured using the 
+      enzyme-linked immunosorbent assay. One-minute writing and visual closure deficits 
+      were more prevalent, while phonemic segmentation deficits were less prevalent in 
+      the DD + IS group compared to the DD group. The BDNF level in the DD groups was 
+      lower than that in NT children (p < 0.001). Some reading and non-reading tasks 
+      were influenced by the presence of a coexisting IS. The reduced BDNF level could 
+      play a role in the deficits noticed in the abilities of children with DD.
+CI  - © 2022 The Authors. Ibrain published by Affiliated Hospital of Zunyi Medical 
+      University (AHZMU) and Wiley‐VCH GmbH.
+FAU - Abdelraouf, Ehab R
+AU  - Abdelraouf ER
+AD  - Children with Special Needs Research Department, Medical Research and Clinical 
+      Studies Institute National Research Centre Cairo Egypt.
+AD  - Learning Disability and Neurorehabilitation Research Field, Medical Research 
+      Centre of Excellence National Research Centre Cairo Egypt.
+FAU - Kilany, Ayman
+AU  - Kilany A
+AD  - Children with Special Needs Research Department, Medical Research and Clinical 
+      Studies Institute National Research Centre Cairo Egypt.
+AD  - Pediatric Neurology Research Field, Medical Research Centre of Excellence 
+      National Research Centre Cairo Egypt.
+FAU - Elhadidy, Mohamed E
+AU  - Elhadidy ME
+AD  - Children with Special Needs Research Department, Medical Research and Clinical 
+      Studies Institute National Research Centre Cairo Egypt.
+FAU - Zeidan, Hala M
+AU  - Zeidan HM
+AD  - Children with Special Needs Research Department, Medical Research and Clinical 
+      Studies Institute National Research Centre Cairo Egypt.
+FAU - Elsaied, Amal
+AU  - Elsaied A
+AD  - Children with Special Needs Research Department, Medical Research and Clinical 
+      Studies Institute National Research Centre Cairo Egypt.
+AD  - Learning Disability and Neurorehabilitation Research Field, Medical Research 
+      Centre of Excellence National Research Centre Cairo Egypt.
+FAU - Eid, Ola M
+AU  - Eid OM
+AD  - Ophthalmology Research Field, Medical Research Centre of Excellence National 
+      Research Centre Cairo Egypt.
+FAU - El-Saied, Mostafa M
+AU  - El-Saied MM
+AD  - Children with Special Needs Research Department, Medical Research and Clinical 
+      Studies Institute National Research Centre Cairo Egypt.
+AD  - Learning Disability and Neurorehabilitation Research Field, Medical Research 
+      Centre of Excellence National Research Centre Cairo Egypt.
+FAU - Anwar, Rasha
+AU  - Anwar R
+AD  - Irlen Egypt Center Cairo Egypt.
+FAU - Nashaat, Neveen H
+AU  - Nashaat NH
+AUID- ORCID: 0000-0003-1553-9327
+AD  - Children with Special Needs Research Department, Medical Research and Clinical 
+      Studies Institute National Research Centre Cairo Egypt.
+AD  - Learning Disability and Neurorehabilitation Research Field, Medical Research 
+      Centre of Excellence National Research Centre Cairo Egypt.
+LA  - eng
+PT  - Journal Article
+DEP - 20221201
+PL  - United States
+TA  - Ibrain
+JT  - Ibrain
+JID - 9918680988706676
+PMC - PMC10529325
+OTO - NOTNLM
+OT  - BDNF level
+OT  - Irlen syndrome
+OT  - cognitive abilities
+OT  - dyslexia
+COIS- The authors declare no conflict of interest.
+EDAT- 2023/10/03 06:46
+MHDA- 2023/10/03 06:47
+CRDT- 2023/10/03 03:40
+PHST- 2022/09/01 00:00 [received]
+PHST- 2022/11/09 00:00 [revised]
+PHST- 2022/11/10 00:00 [accepted]
+PHST- 2023/10/03 06:47 [medline]
+PHST- 2023/10/03 06:46 [pubmed]
+PHST- 2023/10/03 03:40 [entrez]
+AID - IBRA12080 [pii]
+AID - 10.1002/ibra.12080 [doi]
+PST - epublish
+SO  - Ibrain. 2022 Dec 1;9(1):32-42. doi: 10.1002/ibra.12080. eCollection 2023 Spring.
+
+PMID- 37786489
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20231004
+IS  - 2514-6645 (Print)
+IS  - 2514-6653 (Electronic)
+IS  - 2514-6645 (Linking)
+VI  - 10
+IP  - 1
+DP  - 2023 Mar
+TI  - The implementation of artificial intelligence in radiology: a narrative review of 
+      patient perspectives.
+PG  - 63-68
+LID - 10.7861/fhj.2022-0097 [doi]
+AB  - AIM: To synthesise research on the view of the public and patients of the use of 
+      artificial intelligence (AI) in radiology investigations. METHODS: A literature 
+      review of narrative synthesis of qualitative and quantitative studies that 
+      reported views of the public and patients toward the use of AI in radiology. 
+      RESULTS: Only seven studies related to patient and public views were retrieved, 
+      suggesting that this is an underexplored area of research. Two broad themes, of 
+      confidence in the capabilities of AI, and the accountability and transparency of 
+      AI, were identified. CONCLUSIONS: Both optimism and concerns were expressed by 
+      participants. Transparency in the implementation of AI, scientific validation, 
+      clear regulation and accountability were expected. Combined human and AI 
+      interpretation of imaging was strongly favoured over AI acting autonomously. The 
+      review highlights the limited engagement of the public in the adoption of AI in a 
+      radiology setting. Successful implementation of AI in this field will require 
+      demonstrating not only adequate accuracy of the technology, but also its 
+      acceptance by patients.
+CI  - © Royal College of Physicians 2023. All rights reserved.
+FAU - Hemphill, Scott
+AU  - Hemphill S
+AD  - Sir Charles Gairdner Hospital, Perth, Australia.
+FAU - Jackson, Katherine
+AU  - Jackson K
+AD  - Leeds Institute of Health Sciences, University of Leeds, Leeds, UK.
+FAU - Bradley, Stephen
+AU  - Bradley S
+AD  - Leeds Teaching Hospitals NHS Trust, Leeds, UK.
+FAU - Bhartia, Bobby
+AU  - Bhartia B
+AD  - Leeds Teaching Hospitals NHS Trust, Leeds, UK.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+PL  - England
+TA  - Future Healthc J
+JT  - Future healthcare journal
+JID - 101711246
+PMC - PMC10538685
+OTO - NOTNLM
+OT  - artificial intelligence
+OT  - machine learning
+OT  - patient perspective
+OT  - radiology
+EDAT- 2023/10/03 06:46
+MHDA- 2023/10/03 06:47
+CRDT- 2023/10/03 03:39
+PHST- 2023/10/03 06:47 [medline]
+PHST- 2023/10/03 06:46 [pubmed]
+PHST- 2023/10/03 03:39 [entrez]
+AID - futurehealth [pii]
+AID - 10.7861/fhj.2022-0097 [doi]
+PST - ppublish
+SO  - Future Healthc J. 2023 Mar;10(1):63-68. doi: 10.7861/fhj.2022-0097.
+
+PMID- 37786401
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20231004
+IS  - 2055-2076 (Print)
+IS  - 2055-2076 (Electronic)
+IS  - 2055-2076 (Linking)
+VI  - 9
+DP  - 2023 Jan-Dec
+TI  - Review: Machine learning in precision pharmacotherapy of type 2 diabetes-A 
+      promising future or a glimpse of hope?
+PG  - 20552076231203879
+LID - 10.1177/20552076231203879 [doi]
+LID - 20552076231203879
+AB  - Precision pharmacotherapy of diabetes requires judicious selection of the optimal 
+      therapeutic agent for individual patients. Artificial intelligence (AI), a 
+      swiftly expanding discipline, holds substantial potential to transform current 
+      practices in diabetes diagnosis and management. This manuscript provides a 
+      comprehensive review of contemporary research investigating drug responses in 
+      patient subgroups, stratified via either supervised or unsupervised machine 
+      learning approaches. The prevalent algorithmic workflow for investigating drug 
+      responses using machine learning involves cohort selection, data processing, 
+      predictor selection, development and validation of machine learning methods, 
+      subgroup allocation, and subsequent analysis of drug response. Despite the 
+      promising feature, current research does not yet provide sufficient evidence to 
+      implement machine learning algorithms into routine clinical practice, due to a 
+      lack of simplicity, validation, or demonstrated efficacy. Nevertheless, we 
+      anticipate that the evolving evidence base will increasingly substantiate the 
+      role of machine learning in molding precision pharmacotherapy for diabetes.
+CI  - © The Author(s) 2023.
+FAU - Zou, Xiantong
+AU  - Zou X
+AUID- ORCID: 0000-0002-3262-2168
+AD  - Department of Endocrinology and Metabolism, Peking University People's Hospital, 
+      Beijing, China. RINGGOLD: 71185
+FAU - Liu, Yingning
+AU  - Liu Y
+AD  - Department of Endocrinology and Metabolism, Peking University People's Hospital, 
+      Beijing, China. RINGGOLD: 71185
+FAU - Ji, Linong
+AU  - Ji L
+AD  - Department of Endocrinology and Metabolism, Peking University People's Hospital, 
+      Beijing, China. RINGGOLD: 71185
+LA  - eng
+PT  - Journal Article
+PT  - Review
+DEP - 20230929
+PL  - United States
+TA  - Digit Health
+JT  - Digital health
+JID - 101690863
+PMC - PMC10541760
+OTO - NOTNLM
+OT  - Diabetes
+OT  - machine learning
+OT  - personalized medicine
+OT  - pharmacotherapy
+COIS- The authors declared no potential conflicts of interest with respect to the 
+      research, authorship, and/or publication of this article.
+EDAT- 2023/10/03 06:47
+MHDA- 2023/10/03 06:48
+CRDT- 2023/10/03 03:36
+PHST- 2023/02/06 00:00 [received]
+PHST- 2023/09/08 00:00 [accepted]
+PHST- 2023/10/03 06:48 [medline]
+PHST- 2023/10/03 06:47 [pubmed]
+PHST- 2023/10/03 03:36 [entrez]
+AID - 10.1177_20552076231203879 [pii]
+AID - 10.1177/20552076231203879 [doi]
+PST - epublish
+SO  - Digit Health. 2023 Sep 29;9:20552076231203879. doi: 10.1177/20552076231203879. 
+      eCollection 2023 Jan-Dec.
+
+PMID- 37786254
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20231225
+LR  - 20240102
+IS  - 1930-7837 (Electronic)
+IS  - 0022-0337 (Linking)
+VI  - 87
+IP  - 12
+DP  - 2023 Dec
+TI  - Leveraging machine learning to create user-friendly models to mitigate 
+      appointment failure at dental school clinics.
+PG  - 1735-1745
+LID - 10.1002/jdd.13375 [doi]
+AB  - PURPOSE/OBJECTIVES: This study had a twofold outcome. The first aim was to 
+      develop an efficient, machine learning (ML) model using data from a dental school 
+      clinic (DSC) electronic health record (EHR). This model identified patients with 
+      a high likelihood of failing an appointment and provided a user-friendly system 
+      with a rating score that would alert clinicians and administrators of patients at 
+      high risk of no-show appointments. The second aim was to identify key factors 
+      with ML modeling that contributed to patient no-show appointments. METHODS: Using 
+      de-identified data from a DSC EHR, eight ML algorithms were evaluated: simple 
+      decision tree, bagging regressor classifier, random forest classifier, gradient 
+      boosted regression, AdaBoost regression, XGBoost regression, neural network, and 
+      logistic regression classifier. The performance of each model was assessed using 
+      a confusion matrix with different threshold level of probability; precision, 
+      recall and predicted accuracy on each threshold; receiver-operating 
+      characteristic curve (ROC) and area under curve (AUC); as well as F1 score. 
+      RESULTS: The ML models agreed on the threshold of probability score at 0.20-0.25 
+      with Bagging classifier as the model that performed best with a F1 score of 0.41 
+      and AUC of 0.76. Results showed a strong correlation between appointment failure 
+      and appointment confirmation, patient's age, number of visits before the 
+      appointment, total number of prior failed appointments, appointment lead time, as 
+      well as the patient's total number of medical alerts. CONCLUSIONS: Altogether, 
+      the implementation of this user-friendly ML model can improve DSC workflow, 
+      benefiting dental students learning outcomes and optimizing personalized patient 
+      care.
+CI  - © 2023 American Dental Education Association.
+FAU - Cuevas-Nunez, Maria
+AU  - Cuevas-Nunez M
+AD  - College of Dental Medicine-Illinois, Midwestern University, Downers Grove, 
+      Illinois, USA.
+FAU - Pan, Allen
+AU  - Pan A
+AD  - Midwestern University, Downers Grove, Illinois, USA.
+FAU - Sangalli, Linda
+AU  - Sangalli L
+AD  - College of Dental Medicine-Illinois, Midwestern University, Downers Grove, 
+      Illinois, USA.
+FAU - Haering, Harold J
+AU  - Haering HJ
+AD  - College of Dental Medicine-Illinois, Midwestern University, Downers Grove, 
+      Illinois, USA.
+FAU - Mitchell, John C
+AU  - Mitchell JC
+AUID- ORCID: 0000-0002-4065-3327
+AD  - College of Dental Medicine-Illinois, Midwestern University, Downers Grove, 
+      Illinois, USA.
+AD  - College of Dental Medicine-Arizona, Midwestern University, Glendale, Arizona, 
+      USA.
+LA  - eng
+PT  - Journal Article
+DEP - 20231002
+PL  - United States
+TA  - J Dent Educ
+JT  - Journal of dental education
+JID - 8000150
+SB  - IM
+MH  - Humans
+MH  - *Schools, Dental
+MH  - *Machine Learning
+MH  - Electronic Health Records
+MH  - Schools
+OTO - NOTNLM
+OT  - artificial intelligence
+OT  - dental school clinics
+OT  - machine learning
+OT  - no-show visits
+OT  - predictive modeling
+EDAT- 2023/10/03 06:47
+MHDA- 2023/12/25 06:41
+CRDT- 2023/10/03 02:27
+PHST- 2023/08/04 00:00 [revised]
+PHST- 2023/04/06 00:00 [received]
+PHST- 2023/08/26 00:00 [accepted]
+PHST- 2023/12/25 06:41 [medline]
+PHST- 2023/10/03 06:47 [pubmed]
+PHST- 2023/10/03 02:27 [entrez]
+AID - 10.1002/jdd.13375 [doi]
+PST - ppublish
+SO  - J Dent Educ. 2023 Dec;87(12):1735-1745. doi: 10.1002/jdd.13375. Epub 2023 Oct 2.
+
+PMID- 37784142
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20231004
+LR  - 20231121
+IS  - 1471-2458 (Electronic)
+IS  - 1471-2458 (Linking)
+VI  - 23
+IP  - 1
+DP  - 2023 Oct 2
+TI  - What works in advocating for food advertising policy change across an english 
+      region - a realist evaluation.
+PG  - 1896
+LID - 10.1186/s12889-023-16829-8 [doi]
+LID - 1896
+AB  - BACKGROUND: With increasing recognition of the role of commercial determinants of 
+      health, local areas in England have sought to restrict the advertising of 
+      products high in fat, salt and sugar (HFSS) on council-owned spaces, as part of 
+      wider strategies to reduce obesity. While there is some evidence of the impact of 
+      such policy change on behaviour, little is known about what works in the process 
+      of implementing this policy change. METHODS: Guided by a realist evaluation 
+      framework that explores the interaction between context, mechanism and outcomes, 
+      this study aims to investigate the factors that influence the restriction of 
+      outdoor advertising of HFSS products in one region in England. It refines a 
+      programme theory co-produced with stakeholders from 14 local authorities within a 
+      region and uses multiple data sources from each area with an in-depth examination 
+      of four case study sites. Data sources include longitudinal realist interviews, 
+      focus groups and surveys with policy advocates and policy stakeholders. Data were 
+      analysed retroductively to understand the causal link between context, mechanism 
+      and outcomes. RESULTS: Outcomes were driven by five dominant mechanisms: a 
+      strategic and staggered approach to stakeholder engagement, gathering 
+      intelligence, identifying policy champions, building relationships, reframing the 
+      issue; and two secondary mechanisms of amplifying the issue and increasing public 
+      will. These led to varied outcomes with no changes in formal policy position 
+      within the evaluation period but draft policy guidance in place and changes in 
+      political will demonstrated. Dominant context factors influencing change included 
+      having a named and resourced policy advocate in place supported by an external 
+      Community of Improvement and having existing aligned local objectives. 
+      Organisational complexity and change, financial concerns, lack of local examples, 
+      ideological positions and the pandemic were also influencing contextual factors. 
+      CONCLUSION: Effecting policy change in this area requires the commitment of an 
+      extended period and the valuing of short-term policy outcomes, such as increasing 
+      political will. The importance of a resourced and well-supported policy advocate 
+      to lead this work is fundamental and the commercially sensitive nature of this 
+      policy change means that a complex interplay of mechanisms is required which may 
+      be dominated by a strategically staggered approach to stakeholder engagement.
+CI  - © 2023. BioMed Central Ltd., part of Springer Nature.
+FAU - Sykes, Susie
+AU  - Sykes S
+AD  - London South Bank University, 101 Borough Road, SE1 0AA, London, England. 
+      sykess@lsbu.ac.uk.
+FAU - Watkins, Megan
+AU  - Watkins M
+AD  - London South Bank University, 101 Borough Road, SE1 0AA, London, England.
+FAU - Bond, Matthew
+AU  - Bond M
+AD  - London South Bank University, 101 Borough Road, SE1 0AA, London, England.
+FAU - Jenkins, Catherine
+AU  - Jenkins C
+AD  - London South Bank University, 101 Borough Road, SE1 0AA, London, England.
+FAU - Wills, Jane
+AU  - Wills J
+AD  - London South Bank University, 101 Borough Road, SE1 0AA, London, England.
+LA  - eng
+GR  - NIHR131568/DH_/Department of Health/United Kingdom
+GR  - NIHR133204/DH_/Department of Health/United Kingdom
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20231002
+PL  - England
+TA  - BMC Public Health
+JT  - BMC public health
+JID - 100968562
+SB  - IM
+MH  - Humans
+MH  - *Advertising
+MH  - *Nutrition Policy
+MH  - England
+MH  - Obesity/epidemiology/prevention & control
+MH  - Focus Groups
+PMC - PMC10544363
+OTO - NOTNLM
+OT  - HFSS advertising
+OT  - Public health advocacy
+OT  - Public health policy
+OT  - Realist evaluation
+COIS- The authors declare that they have no competing interests.
+EDAT- 2023/10/03 00:41
+MHDA- 2023/10/04 06:44
+CRDT- 2023/10/02 23:51
+PHST- 2023/01/11 00:00 [received]
+PHST- 2023/09/25 00:00 [accepted]
+PHST- 2023/10/04 06:44 [medline]
+PHST- 2023/10/03 00:41 [pubmed]
+PHST- 2023/10/02 23:51 [entrez]
+AID - 10.1186/s12889-023-16829-8 [pii]
+AID - 16829 [pii]
+AID - 10.1186/s12889-023-16829-8 [doi]
+PST - epublish
+SO  - BMC Public Health. 2023 Oct 2;23(1):1896. doi: 10.1186/s12889-023-16829-8.
+
+PMID- 37784122
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20231004
+LR  - 20231120
+IS  - 1746-1596 (Electronic)
+IS  - 1746-1596 (Linking)
+VI  - 18
+IP  - 1
+DP  - 2023 Oct 3
+TI  - Artificial intelligence in diagnostic pathology.
+PG  - 109
+LID - 10.1186/s13000-023-01375-z [doi]
+LID - 109
+AB  - Digital pathology (DP) is being increasingly employed in cancer diagnostics, 
+      providing additional tools for faster, higher-quality, accurate diagnosis. The 
+      practice of diagnostic pathology has gone through a staggering transformation 
+      wherein new tools such as digital imaging, advanced artificial intelligence (AI) 
+      algorithms, and computer-aided diagnostic techniques are being used for 
+      assisting, augmenting and empowering the computational histopathology and 
+      AI-enabled diagnostics. This is paving the way for advancement in precision 
+      medicine in cancer. Automated whole slide imaging (WSI) scanners are now 
+      rendering diagnostic quality, high-resolution images of entire glass slides and 
+      combining these images with innovative digital pathology tools is making it 
+      possible to integrate imaging into all aspects of pathology reporting including 
+      anatomical, clinical, and molecular pathology. The recent approvals of WSI 
+      scanners for primary diagnosis by the FDA as well as the approval of prostate AI 
+      algorithm has paved the way for starting to incorporate this exciting technology 
+      for use in primary diagnosis. AI tools can provide a unique platform for 
+      innovations and advances in anatomical and clinical pathology workflows. In this 
+      review, we describe the milestones and landmark trials in the use of AI in 
+      clinical pathology with emphasis on future directions.
+CI  - © 2023. BioMed Central Ltd., part of Springer Nature.
+FAU - Shafi, Saba
+AU  - Shafi S
+AD  - Department of Pathology, The Ohio State University Wexner Medical Center, E409 
+      Doan Hall, 410 West 10th Ave, Columbus, OH, 43210, USA.
+FAU - Parwani, Anil V
+AU  - Parwani AV
+AD  - Department of Pathology, The Ohio State University Wexner Medical Center, E409 
+      Doan Hall, 410 West 10th Ave, Columbus, OH, 43210, USA. anil.parwani@osumc.edu.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+DEP - 20231003
+PL  - England
+TA  - Diagn Pathol
+JT  - Diagnostic pathology
+JID - 101251558
+SB  - IM
+MH  - Male
+MH  - Humans
+MH  - Artificial Intelligence
+MH  - Diagnostic Imaging/methods
+MH  - *Pathology, Clinical
+MH  - Prostate
+MH  - *Neoplasms
+PMC - PMC10546747
+OTO - NOTNLM
+OT  - Algorithms
+OT  - Artificial intelligence
+OT  - Future
+OT  - Pathology
+COIS- The authors declare no competing interests.
+EDAT- 2023/10/03 00:42
+MHDA- 2023/10/04 06:43
+CRDT- 2023/10/02 23:50
+PHST- 2023/06/21 00:00 [received]
+PHST- 2023/07/21 00:00 [accepted]
+PHST- 2023/10/04 06:43 [medline]
+PHST- 2023/10/03 00:42 [pubmed]
+PHST- 2023/10/02 23:50 [entrez]
+AID - 10.1186/s13000-023-01375-z [pii]
+AID - 1375 [pii]
+AID - 10.1186/s13000-023-01375-z [doi]
+PST - epublish
+SO  - Diagn Pathol. 2023 Oct 3;18(1):109. doi: 10.1186/s13000-023-01375-z.
+
+PMID- 37783819
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20231023
+LR  - 20231115
+IS  - 1460-9568 (Electronic)
+IS  - 0953-816X (Linking)
+VI  - 58
+IP  - 8
+DP  - 2023 Oct
+TI  - Emotional intelligence, spelling performance and intelligence quotient 
+      differences based on the executive function profile of schoolchildren.
+PG  - 3879-3891
+LID - 10.1111/ejn.16152 [doi]
+AB  - The aim of this study was to determine the correlation of intelligence quotient 
+      with spelling performance, executive functions and emotional intelligence and to 
+      analyse the profiles in executive functions presented by the participants and the 
+      differences at the level of intelligence quotient, spelling performance and 
+      emotional intelligence. The sample consisted of 125 Spanish primary school 
+      students (58 girls and 67 boys) in a rural environment, with a mean age of 10.92 
+      (±.68) years. Intelligence quotient and spelling performance were measured using 
+      the BADyG test; executive functions were assessed using the NIH EXAMINER battery 
+      and emotional intelligence was assessed using the Bar-On questionnaire. The 
+      results show a high correlation of intelligence quotient with spelling 
+      performance, executive functions and two emotional intelligence dimensions 
+      (adaptability and interpersonal). Two clusters were observed: a high executive 
+      functions profile (n = 74, 59.7%), with high scores on all measured variables 
+      (working memory, planning, cognitive flexibility, inhibition and verbal fluency), 
+      and a low executive functions profile (n = 50, 40.3%) with low scores on all 
+      executive functions-related variables. The multivariate analysis of variance 
+      (MANCOVA) found variations between the different clusters in the intelligence 
+      quotient, spelling performance and interpersonal emotional intelligence 
+      variables, showing that students with a higher executive functions profile had a 
+      higher intelligence quotient, spelling performance and interpersonal emotional 
+      intelligence values. This study could help to better define what kind of teaching 
+      methodology favours the development of academic performance in schoolchildren and 
+      the connections between important educational aspects such as emotional 
+      intelligence and executive functions.
+CI  - © 2023 The Authors. European Journal of Neuroscience published by Federation of 
+      European Neuroscience Societies and John Wiley & Sons Ltd.
+FAU - Muñoz-Parreño, Julián Alfonso
+AU  - Muñoz-Parreño JA
+AD  - Faculty of Health Sciences and Faculty of Education, Universidad Isabel I and 
+      Universidad Alfonso X, Burgos and Madrid, Spain.
+FAU - Belando-Pedreño, Noelia
+AU  - Belando-Pedreño N
+AUID- ORCID: 0000-0002-2067-0816
+AD  - Faculty of Sport Sciences, Universidad Europea de Madrid, Spain.
+FAU - Valero-Valenzuela, Alfonso
+AU  - Valero-Valenzuela A
+AD  - Research group of Salud, Actividad Física y Educación (SAFE), Department of 
+      Physical Education and Sport, Faculty of Sport Science, University of Murcia, San 
+      Javier Campus, Murcia, Spain.
+LA  - eng
+PT  - Journal Article
+DEP - 20231002
+PL  - France
+TA  - Eur J Neurosci
+JT  - The European journal of neuroscience
+JID - 8918110
+SB  - IM
+MH  - Male
+MH  - Female
+MH  - Humans
+MH  - Child
+MH  - *Executive Function/physiology
+MH  - *Memory, Short-Term
+MH  - Emotional Intelligence
+MH  - Students/psychology
+MH  - Inhibition, Psychological
+OTO - NOTNLM
+OT  - academic performance
+OT  - emotional competence
+OT  - language
+OT  - primary school
+EDAT- 2023/10/03 00:42
+MHDA- 2023/10/23 01:18
+CRDT- 2023/10/02 23:29
+PHST- 2023/09/07 00:00 [revised]
+PHST- 2022/09/04 00:00 [received]
+PHST- 2023/09/08 00:00 [accepted]
+PHST- 2023/10/23 01:18 [medline]
+PHST- 2023/10/03 00:42 [pubmed]
+PHST- 2023/10/02 23:29 [entrez]
+AID - 10.1111/ejn.16152 [doi]
+PST - ppublish
+SO  - Eur J Neurosci. 2023 Oct;58(8):3879-3891. doi: 10.1111/ejn.16152. Epub 2023 Oct 
+      2.
+
+PMID- 37783711
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20231117
+IS  - 2041-1723 (Electronic)
+IS  - 2041-1723 (Linking)
+VI  - 14
+IP  - 1
+DP  - 2023 Oct 2
+TI  - Generative complex networks within a dynamic memristor with intrinsic 
+      variability.
+PG  - 6134
+LID - 10.1038/s41467-023-41921-3 [doi]
+LID - 6134
+AB  - Artificial neural networks (ANNs) have gained considerable momentum in the past 
+      decade. Although at first the main task of the ANN paradigm was to tune the 
+      connection weights in fixed-architecture networks, there has recently been 
+      growing interest in evolving network architectures toward the goal of creating 
+      artificial general intelligence. Lagging behind this trend, current ANN hardware 
+      struggles for a balance between flexibility and efficiency but cannot achieve 
+      both. Here, we report on a novel approach for the on-demand generation of complex 
+      networks within a single memristor where multiple virtual nodes are created by 
+      time multiplexing and the non-trivial topological features, such as 
+      small-worldness, are generated by exploiting device dynamics with intrinsic 
+      cycle-to-cycle variability. When used for reservoir computing, memristive complex 
+      networks can achieve a noticeable increase in memory capacity a and respectable 
+      performance boost compared to conventional reservoirs trivially implemented as 
+      fully connected networks. This work expands the functionality of memristors for 
+      ANN computing.
+CI  - © 2023. Springer Nature Limited.
+FAU - Guo, Yunpeng
+AU  - Guo Y
+AD  - Department of Precision Instrument, Center for Brain Inspired Computing Research, 
+      Tsinghua University, Beijing, 100084, China.
+FAU - Duan, Wenrui
+AU  - Duan W
+AUID- ORCID: 0000-0002-7791-9686
+AD  - School of Instrument Science and Opto Electronics Engineering, Laboratory of 
+      Intelligent Microsystems, Beijing Information Science & Technology University, 
+      Beijing, 100101, China. duanwr10@buaa.edu.cn.
+FAU - Liu, Xue
+AU  - Liu X
+AD  - Department of Precision Instrument, Center for Brain Inspired Computing Research, 
+      Tsinghua University, Beijing, 100084, China. liuqingxue@mail.tsinghua.edu.cn.
+AD  - School of Integrated Circuits, Tsinghua University, Beijing, 100084, China. 
+      liuqingxue@mail.tsinghua.edu.cn.
+FAU - Wang, Xinxin
+AU  - Wang X
+AD  - Department of Precision Instrument, Center for Brain Inspired Computing Research, 
+      Tsinghua University, Beijing, 100084, China.
+FAU - Wang, Lidan
+AU  - Wang L
+AUID- ORCID: 0000-0003-0730-4202
+AD  - School of Artificial Intelligence, Southwest University, Chongqing, 400715, 
+      China.
+FAU - Duan, Shukai
+AU  - Duan S
+AUID- ORCID: 0000-0002-0040-3796
+AD  - School of Artificial Intelligence, Southwest University, Chongqing, 400715, 
+      China.
+FAU - Ma, Cheng
+AU  - Ma C
+AUID- ORCID: 0000-0003-4496-3514
+AD  - Department of Precision Instrument, Center for Brain Inspired Computing Research, 
+      Tsinghua University, Beijing, 100084, China. macheng@tsinghua.edu.cn.
+FAU - Li, Huanglong
+AU  - Li H
+AUID- ORCID: 0000-0002-1777-7807
+AD  - Department of Precision Instrument, Center for Brain Inspired Computing Research, 
+      Tsinghua University, Beijing, 100084, China. li_huanglong@mail.tsinghua.edu.cn.
+AD  - Chinese Institute for Brain Research, Beijing, 102206, China. 
+      li_huanglong@mail.tsinghua.edu.cn.
+LA  - eng
+GR  - 61974082/National Natural Science Foundation of China (National Science 
+      Foundation of China)/
+PT  - Journal Article
+DEP - 20231002
+PL  - England
+TA  - Nat Commun
+JT  - Nature communications
+JID - 101528555
+SB  - IM
+PMC - PMC10545788
+COIS- The authors declare no competing interests.
+EDAT- 2023/10/03 00:42
+MHDA- 2023/10/03 00:43
+CRDT- 2023/10/02 23:19
+PHST- 2023/02/03 00:00 [received]
+PHST- 2023/09/21 00:00 [accepted]
+PHST- 2023/10/03 00:43 [medline]
+PHST- 2023/10/03 00:42 [pubmed]
+PHST- 2023/10/02 23:19 [entrez]
+AID - 10.1038/s41467-023-41921-3 [pii]
+AID - 41921 [pii]
+AID - 10.1038/s41467-023-41921-3 [doi]
+PST - epublish
+SO  - Nat Commun. 2023 Oct 2;14(1):6134. doi: 10.1038/s41467-023-41921-3.

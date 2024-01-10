@@ -1,0 +1,783 @@
+PMID- 37779408
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20231216
+LR  - 20231216
+IS  - 1875-5453 (Electronic)
+IS  - 1389-2002 (Linking)
+VI  - 24
+IP  - 9
+DP  - 2023
+TI  - Artificial Intelligence in Drug Formulation and Development: Applications and 
+      Future Prospects.
+PG  - 622-634
+LID - 10.2174/0113892002265786230921062205 [doi]
+AB  - Artificial Intelligence (AI) has emerged as a powerful tool in various domains, 
+      and the field of drug formulation and development is no exception. This review 
+      article aims to provide an overview of the applications of AI in drug formulation 
+      and development and explore its future prospects. The article begins by 
+      introducing the fundamental concepts of AI, including machine learning, deep 
+      learning, and artificial neural networks and their relevance in the 
+      pharmaceutical industry. Furthermore, the article discusses the network and tools 
+      of AI and its applications in the pharmaceutical development process, including 
+      various areas, such as drug discovery, manufacturing, quality control, clinical 
+      trial management, and drug delivery. The utilization of AI in various 
+      conventional as well as modified dosage forms has been compiled. It also 
+      highlights the challenges and limitations associated with the implementation of 
+      AI in this field, including data availability, model interpretability, and 
+      regulatory considerations. Finally, the article presents the future prospects of 
+      AI in drug formulation and development, emphasizing the potential for 
+      personalized medicine, precision drug targeting, and rapid formulation 
+      optimization. It also discusses the ethical implications of AI in this context, 
+      including issues of privacy, bias, and accountability.
+CI  - Copyright© Bentham Science Publishers; For any queries, please email at 
+      epub@benthamscience.net.
+FAU - Noorain
+AU  - Noorain
+AD  - Department of Pharmaceutics, School of Pharmaceutical Education and Research, 
+      Jamia Hamdard, New Delhi, 110062, India.
+FAU - Srivastava, Varsha
+AU  - Srivastava V
+AD  - Department of Pharmacognosy and Phytochemistry, Centre of Excellence in Unani 
+      Medicine (Pharmacognosy and Pharmacology), School of Pharmaceutical Education and 
+      Research, Jamia Hamdard, New Delhi, 110062, India.
+FAU - Parveen, Bushra
+AU  - Parveen B
+AD  - Department of Pharmacology, School of Pharmaceutical Education and Research, 
+      Jamia Hamdard, New Delhi, 110062, India.
+FAU - Parveen, Rabea
+AU  - Parveen R
+AD  - Department of Pharmaceutics, School of Pharmaceutical Education and Research, 
+      Jamia Hamdard, New Delhi, 110062, India.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+PL  - Netherlands
+TA  - Curr Drug Metab
+JT  - Current drug metabolism
+JID - 100960533
+SB  - IM
+MH  - Humans
+MH  - *Artificial Intelligence
+MH  - Drug Compounding
+MH  - *Machine Learning
+MH  - Drug Delivery Systems
+MH  - Drug Development
+OTO - NOTNLM
+OT  - Artificial Intelligence (AI)
+OT  - Artificial Neural Network (ANN)
+OT  - Deep Learning (DL)
+OT  - Machine Learning (ML)
+OT  - drug delivery.
+OT  - drug formulation
+OT  - drug product development
+OT  - formulation optimization
+OT  - precision medicine
+OT  - virtual screening
+EDAT- 2023/10/02 06:42
+MHDA- 2023/12/17 09:44
+CRDT- 2023/10/02 03:09
+PHST- 2023/06/05 00:00 [received]
+PHST- 2023/08/30 00:00 [revised]
+PHST- 2023/09/01 00:00 [accepted]
+PHST- 2023/12/17 09:44 [medline]
+PHST- 2023/10/02 06:42 [pubmed]
+PHST- 2023/10/02 03:09 [entrez]
+AID - CDM-EPUB-134705 [pii]
+AID - 10.2174/0113892002265786230921062205 [doi]
+PST - ppublish
+SO  - Curr Drug Metab. 2023;24(9):622-634. doi: 10.2174/0113892002265786230921062205.
+
+PMID- 37779387
+OWN - NLM
+STAT- Publisher
+LR  - 20231002
+IS  - 1873-5843 (Electronic)
+IS  - 0887-6177 (Linking)
+DP  - 2023 Sep 29
+TI  - Cognitive Profile in Autism and ADHD: A Meta-Analysis of Performance on the 
+      WAIS-IV and WISC-V.
+LID - acad073 [pii]
+LID - 10.1093/arclin/acad073 [doi]
+AB  - OBJECTIVE: Previous research has suggested that neurodevelopmental conditions may 
+      be associated with distinctive cognitive profiles on the Wechsler intelligence 
+      tests (of which the most recent editions are the WAIS-IV and WISC-V). However, 
+      the extent to which a cognitive profile can be reliably identified for 
+      individuals meeting criteria for autism or ADHD remains unclear. The present 
+      review investigated this issue. METHOD: A search was conducted in PsycInfo, 
+      Embase, and Medline in October 2022 for papers reporting the performance of 
+      children or adults diagnosed with autism or ADHD on the WAIS-IV or the WISC-V. 
+      Test scores were aggregated using meta-analysis. RESULTS: Scores were analyzed 
+      from over 1,800 neurodivergent people reported across 18 data sources. Autistic 
+      children and adults performed in the typical range for verbal and nonverbal 
+      reasoning, but scored ~1 SD below the mean for processing speed and had slightly 
+      reduced scores on working memory. This provides evidence for a "spiky" cognitive 
+      profile in autism. Performance of children and adults with ADHD was mostly at 
+      age-expected levels, with slightly reduced scores for working memory. CONCLUSION: 
+      Although the pattern of performance on the Wechsler tests is not sufficiently 
+      sensitive or specific to use for diagnostic purposes, autism appears to be 
+      associated with a cognitive profile of relative strengths in verbal and nonverbal 
+      reasoning and a weakness in processing speed. Attention deficit hyperactivity 
+      disorder appears less associated with a particular cognitive profile. Autistic 
+      individuals may especially benefit from a cognitive assessment to identify and 
+      support with their strengths and difficulties.
+CI  - © The Author(s) 2023. Published by Oxford University Press. All rights reserved. 
+      For permissions, please e-mail: journals.permission@oup.com.
+FAU - Wilson, Alexander C
+AU  - Wilson AC
+AD  - School of Psychology, Newcastle University, Newcastle Upon Tyne, UK.
+LA  - eng
+PT  - Journal Article
+DEP - 20230929
+PL  - United States
+TA  - Arch Clin Neuropsychol
+JT  - Archives of clinical neuropsychology : the official journal of the National 
+      Academy of Neuropsychologists
+JID - 9004255
+SB  - IM
+OTO - NOTNLM
+OT  - ADHD
+OT  - Autism
+OT  - Cognitive functioning
+OT  - Cognitive profile
+OT  - Wechsler Intelligence Scale
+EDAT- 2023/10/02 06:42
+MHDA- 2023/10/02 06:42
+CRDT- 2023/10/02 02:53
+PHST- 2023/08/25 00:00 [accepted]
+PHST- 2023/10/02 06:42 [medline]
+PHST- 2023/10/02 06:42 [pubmed]
+PHST- 2023/10/02 02:53 [entrez]
+AID - 7286382 [pii]
+AID - 10.1093/arclin/acad073 [doi]
+PST - aheadofprint
+SO  - Arch Clin Neuropsychol. 2023 Sep 29:acad073. doi: 10.1093/arclin/acad073.
+
+PMID- 37779351
+OWN - NLM
+STAT- Publisher
+LR  - 20231002
+IS  - 2194-802X (Electronic)
+IS  - 2194-802X (Linking)
+DP  - 2023 Oct 3
+TI  - Enhancing clinical reasoning with Chat Generative Pre-trained Transformer: a 
+      practical guide.
+LID - 10.1515/dx-2023-0116 [doi]
+AB  - OBJECTIVES: This study aimed to elucidate effective methodologies for utilizing 
+      the generative artificial intelligence (AI) system, namely the Chat Generative 
+      Pre-trained Transformer (ChatGPT), in improving clinical reasoning abilities 
+      among clinicians. METHODS: We conducted a comprehensive exploration of the 
+      capabilities of ChatGPT, emphasizing two main areas: (1) efficient utilization of 
+      ChatGPT, with a focus on application and language selection, input methodology, 
+      and output verification; and (2) specific strategies to bolster clinical 
+      reasoning using ChatGPT, including self-learning via simulated clinical case 
+      creation and engagement with published case reports. RESULTS: Effective AI-based 
+      clinical reasoning development requires a clear delineation of both system roles 
+      and user needs. All outputs from the system necessitate rigorous verification 
+      against credible medical resources. When used in self-learning scenarios, 
+      capabilities of ChatGPT in clinical case creation notably enhanced disease 
+      comprehension. CONCLUSIONS: The efficient use of generative AIs, as exemplified 
+      by ChatGPT, can impressively enhance clinical reasoning among medical 
+      professionals. Adopting these cutting-edge tools promises a bright future for 
+      continuous advancements in clinicians' diagnostic skills, heralding a 
+      transformative era in digital healthcare.
+CI  - © 2023 Walter de Gruyter GmbH, Berlin/Boston.
+FAU - Hirosawa, Takanobu
+AU  - Hirosawa T
+AUID- ORCID: 0000-0002-3573-8203
+AD  - Department of Diagnostic and Generalist Medicine, Dokkyo Medical University, 
+      Tochigi, Japan.
+FAU - Shimizu, Taro
+AU  - Shimizu T
+AD  - Department of Diagnostic and Generalist Medicine, Dokkyo Medical University, 
+      Tochigi, Japan.
+LA  - eng
+PT  - Journal Article
+DEP - 20231003
+PL  - Germany
+TA  - Diagnosis (Berl)
+JT  - Diagnosis (Berlin, Germany)
+JID - 101654734
+SB  - IM
+OTO - NOTNLM
+OT  - diagnosis
+OT  - diagnostic excellence
+OT  - large language model
+OT  - natural language processing
+OT  - self-learning
+EDAT- 2023/10/02 06:42
+MHDA- 2023/10/02 06:42
+CRDT- 2023/10/02 02:23
+PHST- 2023/08/30 00:00 [received]
+PHST- 2023/09/04 00:00 [accepted]
+PHST- 2023/10/02 06:42 [medline]
+PHST- 2023/10/02 06:42 [pubmed]
+PHST- 2023/10/02 02:23 [entrez]
+AID - dx-2023-0116 [pii]
+AID - 10.1515/dx-2023-0116 [doi]
+PST - aheadofprint
+SO  - Diagnosis (Berl). 2023 Oct 3. doi: 10.1515/dx-2023-0116.
+
+PMID- 37779349
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20231218
+LR  - 20231218
+IS  - 2163-8306 (Electronic)
+IS  - 2163-8306 (Linking)
+VI  - 12
+IP  - 12
+DP  - 2023 Dec
+TI  - Quantitative systems pharmacology in the age of artificial intelligence.
+PG  - 1823-1826
+LID - 10.1002/psp4.13047 [doi]
+FAU - Ribba, Benjamin
+AU  - Ribba B
+AD  - Roche Pharma Research and Early Development (pRED), Roche Innovation Center, F. 
+      Hoffmann-La Roche Ltd., Basel, Switzerland.
+LA  - eng
+PT  - Journal Article
+DEP - 20231001
+PL  - United States
+TA  - CPT Pharmacometrics Syst Pharmacol
+JT  - CPT: pharmacometrics & systems pharmacology
+JID - 101580011
+SB  - IM
+MH  - Humans
+MH  - *Artificial Intelligence
+MH  - *Network Pharmacology
+PMC - PMC10725257
+COIS- The author is an employee and shareholder of F. Hoffmann‐La Roche Ltd.
+EDAT- 2023/10/02 06:42
+MHDA- 2023/12/18 06:42
+CRDT- 2023/10/02 02:23
+PHST- 2023/08/30 00:00 [revised]
+PHST- 2023/07/20 00:00 [received]
+PHST- 2023/08/31 00:00 [accepted]
+PHST- 2023/12/18 06:42 [medline]
+PHST- 2023/10/02 06:42 [pubmed]
+PHST- 2023/10/02 02:23 [entrez]
+AID - PSP413047 [pii]
+AID - 10.1002/psp4.13047 [doi]
+PST - ppublish
+SO  - CPT Pharmacometrics Syst Pharmacol. 2023 Dec;12(12):1823-1826. doi: 
+      10.1002/psp4.13047. Epub 2023 Oct 1.
+
+PMID- 37779275
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20231031
+LR  - 20231115
+IS  - 1469-1825 (Electronic)
+IS  - 0140-525X (Linking)
+VI  - 46
+DP  - 2023 Oct 2
+TI  - Fractals and artificial intelligence to decrypt ideography and understand the 
+      evolution of language.
+PG  - e254
+LID - 10.1017/S0140525X23000808 [doi]
+AB  - Self-sufficient ideographies are rare because they are stifled by the issue of 
+      standardization. Similar issues arise with abstract art or drawings created by 
+      young children or great apes. We propose that mathematical indices and artificial 
+      intelligence can help us decode ideography, and if not to understand its meaning, 
+      at least to know that meaning exists.
+FAU - Sueur, Cédric
+AU  - Sueur C
+AUID- ORCID: 0000-0001-8206-2739
+AD  - Université de Strasbourg, CNRS, IPHC UMR 7178, Strasbourg, 
+      France cedric.sueur@iphc.cnrs.fr; 
+      https://sites.google.com/site/cedricsueuranimalbehaviour/.
+AD  - Institut Universitaire de France, Paris, France.
+FAU - Pelé, Marie
+AU  - Pelé M
+AUID- ORCID: 0000-0003-2297-5522
+AD  - ANTHROPO-LAB, ETHICS EA7446, Université Catholique de Lille, Lille, 
+      France marie.pele@univ-catholille.fr www.ethobiosciences.com.
+LA  - eng
+PT  - Comment
+PT  - Journal Article
+DEP - 20231002
+PL  - England
+TA  - Behav Brain Sci
+JT  - The Behavioral and brain sciences
+JID - 7808666
+SB  - IM
+CON - Behav Brain Sci. 2022 Oct 18;46:e233. PMID: 36254782
+CIN - Behav Brain Sci. 2023 Oct 02;46:e260. PMID: 37779296
+MH  - Child
+MH  - Animals
+MH  - Humans
+MH  - Child, Preschool
+MH  - *Artificial Intelligence
+MH  - Fractals
+MH  - Language
+MH  - *Hominidae
+EDAT- 2023/10/02 06:42
+MHDA- 2023/10/31 06:42
+CRDT- 2023/10/02 01:23
+PHST- 2023/10/31 06:42 [medline]
+PHST- 2023/10/02 06:42 [pubmed]
+PHST- 2023/10/02 01:23 [entrez]
+AID - S0140525X23000808 [pii]
+AID - 10.1017/S0140525X23000808 [doi]
+PST - epublish
+SO  - Behav Brain Sci. 2023 Oct 2;46:e254. doi: 10.1017/S0140525X23000808.
+
+PMID- 37779250
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20231003
+LR  - 20231004
+IS  - 1477-4054 (Electronic)
+IS  - 1467-5463 (Linking)
+VI  - 24
+IP  - 6
+DP  - 2023 Sep 22
+TI  - MMiKG: a knowledge graph-based platform for path mining of microbiota-mental 
+      diseases interactions.
+LID - bbad340 [pii]
+LID - 10.1093/bib/bbad340 [doi]
+AB  - The microbiota-gut-brain axis denotes a two-way system of interactions between 
+      the gut and the brain, comprising three key components: (1) gut microbiota, (2) 
+      intermediates and (3) mental ailments. These constituents communicate with one 
+      another to induce changes in the host's mood, cognition and demeanor. Knowledge 
+      concerning the regulation of the host central nervous system by gut microbiota is 
+      fragmented and mostly confined to disorganized or semi-structured unrestricted 
+      texts. Such a format hinders the exploration and comprehension of unknown 
+      territories or the further advancement of artificial intelligence systems. Hence, 
+      we collated crucial information by scrutinizing an extensive body of literature, 
+      amalgamated the extant knowledge of the microbiota-gut-brain axis and depicted it 
+      in the form of a knowledge graph named MMiKG, which can be visualized on the 
+      GraphXR platform and the Neo4j database, correspondingly. By merging various 
+      associated resources and deducing prospective connections between gut microbiota 
+      and the central nervous system through MMiKG, users can acquire a more 
+      comprehensive perception of the pathogenesis of mental disorders and generate 
+      novel insights for advancing therapeutic measures. As a free and open-source 
+      platform, MMiKG can be accessed at http://yangbiolab.cn:8501/ with no login 
+      requirement.
+CI  - © The Author(s) 2023. Published by Oxford University Press. All rights reserved. 
+      For Permissions, please email: journals.permissions@oup.com.
+FAU - Sun, Haoran
+AU  - Sun H
+AD  - School of Medical Imaging, Fujian Medical University, Fuzhou 350122, China.
+FAU - Song, Zhaoqi
+AU  - Song Z
+AD  - Department of Bioinformatics, Fujian Key Laboratory of Medical Bioinformatics, 
+      School of Medical Technology and Engineering, Fujian Medical University, Fuzhou 
+      350122, China.
+FAU - Chen, Qiuming
+AU  - Chen Q
+AD  - School of Medical Imaging, Fujian Medical University, Fuzhou 350122, China.
+FAU - Wang, Meiling
+AU  - Wang M
+AD  - Department of Bioinformatics, Fujian Key Laboratory of Medical Bioinformatics, 
+      School of Medical Technology and Engineering, Fujian Medical University, Fuzhou 
+      350122, China.
+FAU - Tang, Furong
+AU  - Tang F
+AD  - Department of Basic Medical Sciences, School of Medicine, Tsinghua University, 
+      Beijing 100084, China.
+FAU - Dou, Lijun
+AU  - Dou L
+AD  - Genomic Medicine Institute, Lerner Research Institute, Cleveland, OH 44106, USA.
+FAU - Zou, Quan
+AU  - Zou Q
+AD  - Institute of Fundamental and Frontier Sciences, University of Electronic Science 
+      and Technology of China, Chengdu 610054, China.
+FAU - Yang, Fenglong
+AU  - Yang F
+AD  - Department of Bioinformatics, Fujian Key Laboratory of Medical Bioinformatics, 
+      School of Medical Technology and Engineering, Fujian Medical University, Fuzhou 
+      350122, China.
+AD  - Key Laboratory of Ministry of Education for Gastrointestinal Cancer, School of 
+      Basic Medical Sciences, Fujian Medical University, Fuzhou 350122, China.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PL  - England
+TA  - Brief Bioinform
+JT  - Briefings in bioinformatics
+JID - 100912837
+SB  - IM
+MH  - Humans
+MH  - Artificial Intelligence
+MH  - Pattern Recognition, Automated
+MH  - Prospective Studies
+MH  - *Mental Disorders
+MH  - Brain
+MH  - *Microbiota
+OTO - NOTNLM
+OT  - MGB axis
+OT  - gut microbiota
+OT  - intermediate
+OT  - knowledge graph
+OT  - mental disease
+EDAT- 2023/10/02 06:42
+MHDA- 2023/10/03 06:46
+CRDT- 2023/10/02 00:52
+PHST- 2023/04/26 00:00 [received]
+PHST- 2023/08/21 00:00 [revised]
+PHST- 2023/09/12 00:00 [accepted]
+PHST- 2023/10/03 06:46 [medline]
+PHST- 2023/10/02 06:42 [pubmed]
+PHST- 2023/10/02 00:52 [entrez]
+AID - 7287430 [pii]
+AID - 10.1093/bib/bbad340 [doi]
+PST - ppublish
+SO  - Brief Bioinform. 2023 Sep 22;24(6):bbad340. doi: 10.1093/bib/bbad340.
+
+PMID- 37779221
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20231031
+LR  - 20231031
+IS  - 1793-6462 (Electronic)
+IS  - 0129-0657 (Linking)
+VI  - 33
+IP  - 11
+DP  - 2023 Nov
+TI  - Human Gait Activity Recognition Using Multimodal Sensors.
+PG  - 2350058
+LID - 10.1142/S0129065723500582 [doi]
+AB  - Human activity recognition is an application of machine learning with the aim of 
+      identifying activities from the gathered activity raw data acquired by different 
+      sensors. In medicine, human gait is commonly analyzed by doctors to detect 
+      abnormalities and determine possible treatments for the patient. Monitoring the 
+      patient's activity is paramount in evaluating the treatment's evolution. This 
+      type of classification is still not enough precise, which may lead to unfavorable 
+      reactions and responses. A novel methodology that reduces the complexity of 
+      extracting features from multimodal sensors is proposed to improve human activity 
+      classification based on accelerometer data. A sliding window technique is used to 
+      demarcate the first dominant spectral amplitude, decreasing dimensionality and 
+      improving feature extraction. In this work, we compared several state-of-art 
+      machine learning classifiers evaluated on the HuGaDB dataset and validated on our 
+      dataset. Several configurations to reduce features and training time were 
+      analyzed using multimodal sensors: all-axis spectrum, single-axis spectrum, and 
+      sensor reduction.
+FAU - Teran-Pineda, Diego
+AU  - Teran-Pineda D
+AUID- ORCID: 0000-0003-0899-3564
+AD  - Department of Computer Languages and Computer Science, University of Málaga 
+      Bulevar Louis Pasteur, 35, 29071, Málaga, Spain.
+AD  - Biomedical Research Institute of Málaga (IBIMA), C/ Doctor Miguel Díaz Recio, 28, 
+      29010, Málaga, Spain.
+FAU - Thurnhofer-Hemsi, Karl
+AU  - Thurnhofer-Hemsi K
+AUID- ORCID: 0000-0001-6519-1213
+AD  - Department of Computer Languages and Computer Science, University of Málaga 
+      Bulevar Louis Pasteur, 35, 29071, Málaga, Spain.
+AD  - Biomedical Research Institute of Málaga (IBIMA), C/ Doctor Miguel Díaz Recio, 28, 
+      29010, Málaga, Spain.
+FAU - Domínguez, Enrique
+AU  - Domínguez E
+AUID- ORCID: 0000-0002-2232-4562
+AD  - Department of Computer Languages and Computer Science, University of Málaga 
+      Bulevar Louis Pasteur, 35, 29071, Málaga, Spain.
+AD  - Biomedical Research Institute of Málaga (IBIMA), C/ Doctor Miguel Díaz Recio, 28, 
+      29010, Málaga, Spain.
+LA  - eng
+PT  - Journal Article
+DEP - 20230930
+PL  - Singapore
+TA  - Int J Neural Syst
+JT  - International journal of neural systems
+JID - 9100527
+SB  - IM
+MH  - Humans
+MH  - *Human Activities
+MH  - *Gait
+MH  - Machine Learning
+MH  - Algorithms
+OTO - NOTNLM
+OT  - Sensor classification
+OT  - activity recognition
+OT  - complex feature extraction
+OT  - computational intelligence
+OT  - signal processing
+EDAT- 2023/10/02 06:42
+MHDA- 2023/10/31 06:42
+CRDT- 2023/10/02 00:12
+PHST- 2023/10/31 06:42 [medline]
+PHST- 2023/10/02 06:42 [pubmed]
+PHST- 2023/10/02 00:12 [entrez]
+AID - 10.1142/S0129065723500582 [doi]
+PST - ppublish
+SO  - Int J Neural Syst. 2023 Nov;33(11):2350058. doi: 10.1142/S0129065723500582. Epub 
+      2023 Sep 30.
+
+PMID- 37779213
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20231004
+LR  - 20231122
+IS  - 1756-3305 (Electronic)
+IS  - 1756-3305 (Linking)
+VI  - 16
+IP  - 1
+DP  - 2023 Oct 2
+TI  - EggCountAI: a convolutional neural network-based software for counting of Aedes 
+      aegypti mosquito eggs.
+PG  - 341
+LID - 10.1186/s13071-023-05956-1 [doi]
+LID - 341
+AB  - BACKGROUND: Mosquito-borne diseases exert a huge impact on both animal and human 
+      populations, posing substantial health risks. The behavioural and fitness traits 
+      of mosquitoes, such as locomotion and fecundity, are crucial factors that 
+      influence the spread of diseases. In existing egg-counting tools, each image 
+      requires separate processing with adjustments to various parameters such as 
+      intensity threshold and egg area size. Furthermore, accuracy decreases 
+      significantly when dealing with clustered or overlapping eggs. To overcome these 
+      issues, we have developed EggCountAI, a Mask Region-based Convolutional Neural 
+      Network (RCNN)-based free automatic egg-counting tool for Aedes aegypti 
+      mosquitoes. METHODS: The study design involves developing EggCountAI for counting 
+      mosquito eggs and comparing its performance with two commonly employed 
+      tools-ICount and MECVision-using 10 microscopic and 10 macroscopic images of eggs 
+      laid by females on a paper strip. The results were validated through manual egg 
+      counting on the strips using ImageJ software. Two different models were trained 
+      on macroscopic and microscopic images to enhance egg detection accuracy, 
+      achieving mean average precision, mean average recall, and F1-scores of 0.92, 
+      0.90, and 0.91 for the microscopic model, and 0.91, 0.90, and 0.90 for the 
+      macroscopic model, respectively. EggCountAI automatically counts eggs in a folder 
+      containing egg strip images, offering adaptable filtration for handling 
+      impurities of varying sizes. RESULTS: The results obtained from EggCountAI 
+      highlight its remarkable performance, achieving overall accuracy of 98.88% for 
+      micro images and 96.06% for macro images. EggCountAI significantly outperformed 
+      ICount and MECVision, with ICount achieving 81.71% accuracy for micro images and 
+      82.22% for macro images, while MECVision achieved 68.01% accuracy for micro 
+      images and 51.71% for macro images. EggCountAI also excelled in other statistical 
+      parameters, with mean absolute error of 1.90 eggs for micro, 74.30 eggs for 
+      macro, and a strong correlation and R-squared value (0.99) for both micro and 
+      macro. The superior performance of EggCountAI was most evident when handling 
+      overlapping or clustered eggs. CONCLUSION: Accurate detection and counting of 
+      mosquito eggs enables the identification of preferred egg-laying sites and 
+      facilitates optimal placement of oviposition traps, enhancing targeted vector 
+      control efforts and disease transmission prevention. In future research, the tool 
+      holds the potential to extend its application to monitor mosquito feeding 
+      preferences.
+CI  - © 2023. BioMed Central Ltd., part of Springer Nature.
+FAU - Javed, Nouman
+AU  - Javed N
+AD  - Institute for Intelligent Systems Research and Innovation, Deakin University, 
+      Geelong, VIC, 3216, Australia.
+AD  - CSIRO Health & Biosecurity, Australian Centre for Disease Preparedness, Geelong, 
+      VIC, 3220, Australia.
+FAU - López-Denman, Adam J
+AU  - López-Denman AJ
+AD  - CSIRO Health & Biosecurity, Australian Centre for Disease Preparedness, Geelong, 
+      VIC, 3220, Australia.
+FAU - Paradkar, Prasad N
+AU  - Paradkar PN
+AD  - CSIRO Health & Biosecurity, Australian Centre for Disease Preparedness, Geelong, 
+      VIC, 3220, Australia.
+FAU - Bhatti, Asim
+AU  - Bhatti A
+AD  - Institute for Intelligent Systems Research and Innovation, Deakin University, 
+      Geelong, VIC, 3216, Australia. asim.bhatti@deakin.edu.au.
+LA  - eng
+PT  - Journal Article
+DEP - 20231002
+PL  - England
+TA  - Parasit Vectors
+JT  - Parasites & vectors
+JID - 101462774
+SB  - IM
+MH  - Animals
+MH  - Female
+MH  - Humans
+MH  - *Aedes
+MH  - Mosquito Vectors
+MH  - Software
+MH  - Neural Networks, Computer
+MH  - Oviposition
+PMC - PMC10544470
+OTO - NOTNLM
+OT  - Artificial intelligence
+OT  - Egg counting
+OT  - EggCountAI
+OT  - Epidemiological models
+OT  - Fecundity
+OT  - ICount
+OT  - MECVision
+OT  - Mask RCNN
+COIS- The authors declare no competing interests.
+EDAT- 2023/10/02 00:41
+MHDA- 2023/10/04 06:43
+CRDT- 2023/10/01 23:15
+PHST- 2023/06/14 00:00 [received]
+PHST- 2023/08/28 00:00 [accepted]
+PHST- 2023/10/04 06:43 [medline]
+PHST- 2023/10/02 00:41 [pubmed]
+PHST- 2023/10/01 23:15 [entrez]
+AID - 10.1186/s13071-023-05956-1 [pii]
+AID - 5956 [pii]
+AID - 10.1186/s13071-023-05956-1 [doi]
+PST - epublish
+SO  - Parasit Vectors. 2023 Oct 2;16(1):341. doi: 10.1186/s13071-023-05956-1.
+
+PMID- 37779171
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20231003
+LR  - 20231121
+IS  - 2045-2322 (Electronic)
+IS  - 2045-2322 (Linking)
+VI  - 13
+IP  - 1
+DP  - 2023 Oct 1
+TI  - Comparing ChatGPT and GPT-4 performance in USMLE soft skill assessments.
+PG  - 16492
+LID - 10.1038/s41598-023-43436-9 [doi]
+LID - 16492
+AB  - The United States Medical Licensing Examination (USMLE) has been a subject of 
+      performance study for artificial intelligence (AI) models. However, their 
+      performance on questions involving USMLE soft skills remains unexplored. This 
+      study aimed to evaluate ChatGPT and GPT-4 on USMLE questions involving 
+      communication skills, ethics, empathy, and professionalism. We used 80 
+      USMLE-style questions involving soft skills, taken from the USMLE website and the 
+      AMBOSS question bank. A follow-up query was used to assess the models' 
+      consistency. The performance of the AI models was compared to that of previous 
+      AMBOSS users. GPT-4 outperformed ChatGPT, correctly answering 90% compared to 
+      ChatGPT's 62.5%. GPT-4 showed more confidence, not revising any responses, while 
+      ChatGPT modified its original answers 82.5% of the time. The performance of GPT-4 
+      was higher than that of AMBOSS's past users. Both AI models, notably GPT-4, 
+      showed capacity for empathy, indicating AI's potential to meet the complex 
+      interpersonal, ethical, and professional demands intrinsic to the practice of 
+      medicine.
+CI  - © 2023. Springer Nature Limited.
+FAU - Brin, Dana
+AU  - Brin D
+AD  - Department of Diagnostic Imaging, Chaim Sheba Medical Center, Ramat Gan, Israel. 
+      dannabrin@gmail.com.
+AD  - Faculty of Medicine, Tel-Aviv University, Tel-Aviv, Israel. dannabrin@gmail.com.
+FAU - Sorin, Vera
+AU  - Sorin V
+AD  - Department of Diagnostic Imaging, Chaim Sheba Medical Center, Ramat Gan, Israel.
+AD  - Faculty of Medicine, Tel-Aviv University, Tel-Aviv, Israel.
+FAU - Vaid, Akhil
+AU  - Vaid A
+AD  - The Charles Bronfman Institute of Personalized Medicine, Icahn School of Medicine 
+      at Mount Sinai, New York, NY, USA.
+FAU - Soroush, Ali
+AU  - Soroush A
+AD  - Division of Data-Driven and Digital Medicine (D3M), Icahn School of Medicine at 
+      Mount Sinai, New York, NY, USA.
+FAU - Glicksberg, Benjamin S
+AU  - Glicksberg BS
+AD  - Hasso Plattner Institute for Digital Health, Icahn School of Medicine at Mount 
+      Sinai, New York, NY, USA.
+FAU - Charney, Alexander W
+AU  - Charney AW
+AD  - The Charles Bronfman Institute of Personalized Medicine, Icahn School of Medicine 
+      at Mount Sinai, New York, NY, USA.
+FAU - Nadkarni, Girish
+AU  - Nadkarni G
+AD  - Division of Data-Driven and Digital Medicine (D3M), The Charles Bronfman 
+      Institute of Personalized Medicine, Icahn School of Medicine at Mount Sinai, New 
+      York, NY, USA.
+FAU - Klang, Eyal
+AU  - Klang E
+AD  - Department of Diagnostic Imaging, Chaim Sheba Medical Center, Ramat Gan, Israel.
+AD  - Faculty of Medicine, Tel-Aviv University, Tel-Aviv, Israel.
+LA  - eng
+PT  - Journal Article
+DEP - 20231001
+PL  - England
+TA  - Sci Rep
+JT  - Scientific reports
+JID - 101563288
+SB  - IM
+MH  - *Artificial Intelligence
+MH  - *Medicine
+MH  - Empathy
+MH  - Mental Processes
+PMC - PMC10543445
+COIS- The authors declare no competing interests.
+EDAT- 2023/10/02 00:41
+MHDA- 2023/10/03 06:47
+CRDT- 2023/10/01 23:09
+PHST- 2023/07/26 00:00 [received]
+PHST- 2023/09/23 00:00 [accepted]
+PHST- 2023/10/03 06:47 [medline]
+PHST- 2023/10/02 00:41 [pubmed]
+PHST- 2023/10/01 23:09 [entrez]
+AID - 10.1038/s41598-023-43436-9 [pii]
+AID - 43436 [pii]
+AID - 10.1038/s41598-023-43436-9 [doi]
+PST - epublish
+SO  - Sci Rep. 2023 Oct 1;13(1):16492. doi: 10.1038/s41598-023-43436-9.
+
+PMID- 37779015
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20231031
+LR  - 20231031
+IS  - 1347-5231 (Electronic)
+IS  - 0031-6903 (Linking)
+VI  - 143
+IP  - 10
+DP  - 2023
+TI  - [Fostering Pharmacists to Succeed in a Drastically Changing Society].
+PG  - 847-855
+LID - 10.1248/yakushi.23-00083-9 [doi]
+AB  - In 2006, Japan's pharmaceutical science education was revised to a 6-year 
+      enrollment course, placing greater emphasis on cultivating practical clinical 
+      ability. Quality Assurance (QA) measures have been implemented including offering 
+      education based on a model core curriculum and third-party assessments. In August 
+      2021, Ministry of Education, Culture, Sports, Science and Technology (MEXT) 
+      launched an investigative commission to review the above. For QA, the commission 
+      summarized a comprehensive report in August 2022 for items including: modality of 
+      selecting entrants; revising enrollment limits; securing education management; 
+      information disclosure; corresponding to pharmaceutical education assessments. 
+      For revising the model core curriculum, the commission is reviewing 
+      correspondence to: demographic changes due to decreasing birthrates, an ageing 
+      population, changes in the structure of diseases; rising and emerging infectious 
+      diseases; utilizing Big Data and artificial intelligence (AI). As Japan's ageing 
+      population is forecast to peak in 2040s, pharmacists must be fostered to provide 
+      safe and quality medicine towards a drastically changing future. Medical care is 
+      provided through the collaboration of various professions. In such changing 
+      demographics, team medicine is crucial to provide quality medical care. Moreover, 
+      towards all medical professions sharing the same vision, revisions to the model 
+      core curricula for medical and dental education are also being reviewed. The 
+      commission is now reviewing detailed curricula to foster pharmacists with 
+      competencies to: comprehensively assess patients and ordinary citizens; utilize 
+      information science and technology; professionalism. Towards securing quality 
+      pharmaceutical education, pharmaceutical departments at universities must also 
+      organize and implement an educational curriculum based on the Model Core 
+      Curriculum for Pharmaceutical Education. This paper will introduce the 
+      investigative commission's review.
+FAU - Sakai, Hiromichi
+AU  - Sakai H
+AD  - Medical Education Division, Higher Education Bureau, Ministry of Education, 
+      Culture, Sports, Science and Technology (MEXT).
+FAU - Okubo, Masato
+AU  - Okubo M
+AD  - Medical Education Division, Higher Education Bureau, Ministry of Education, 
+      Culture, Sports, Science and Technology (MEXT).
+LA  - jpn
+PT  - English Abstract
+PT  - Journal Article
+PL  - Japan
+TA  - Yakugaku Zasshi
+JT  - Yakugaku zasshi : Journal of the Pharmaceutical Society of Japan
+JID - 0413613
+RN  - 0 (Pharmaceutical Preparations)
+SB  - IM
+MH  - Humans
+MH  - *Pharmacists
+MH  - *Artificial Intelligence
+MH  - Curriculum
+MH  - Educational Status
+MH  - Pharmaceutical Preparations
+OTO - NOTNLM
+OT  - model core curriculum
+OT  - pharmaceutical education
+OT  - securing quality
+EDAT- 2023/10/02 00:41
+MHDA- 2023/10/31 06:42
+CRDT- 2023/10/01 22:13
+PHST- 2023/10/31 06:42 [medline]
+PHST- 2023/10/02 00:41 [pubmed]
+PHST- 2023/10/01 22:13 [entrez]
+AID - 10.1248/yakushi.23-00083-9 [doi]
+PST - ppublish
+SO  - Yakugaku Zasshi. 2023;143(10):847-855. doi: 10.1248/yakushi.23-00083-9.

@@ -1,0 +1,893 @@
+PMID- 37771410
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20231031
+IS  - 2817-1705 (Electronic)
+IS  - 2817-1705 (Linking)
+VI  - 2
+DP  - 2023 Jan-Dec
+TI  - Artificial Intelligence-Enabled Software Prototype to Inform Opioid 
+      Pharmacovigilance From Electronic Health Records: Development and Usability 
+      Study.
+LID - e45000 [pii]
+LID - 10.2196/45000 [doi]
+AB  - BACKGROUND: The use of patient health and treatment information captured in 
+      structured and unstructured formats in computerized electronic health record 
+      (EHR) repositories could potentially augment the detection of safety signals for 
+      drug products regulated by the US Food and Drug Administration (FDA). Natural 
+      language processing and other artificial intelligence (AI) techniques provide 
+      novel methodologies that could be leveraged to extract clinically useful 
+      information from EHR resources. OBJECTIVE: Our aim is to develop a novel 
+      AI-enabled software prototype to identify adverse drug event (ADE) safety signals 
+      from free-text discharge summaries in EHRs to enhance opioid drug safety and 
+      research activities at the FDA. METHODS: We developed a prototype for web-based 
+      software that leverages keyword and trigger-phrase searching with rule-based 
+      algorithms and deep learning to extract candidate ADEs for specific opioid drugs 
+      from discharge summaries in the Medical Information Mart for Intensive Care III 
+      (MIMIC III) database. The prototype uses MedSpacy components to identify relevant 
+      sections of discharge summaries and a pretrained natural language processing 
+      (NLP) model, Spark NLP for Healthcare, for named entity recognition. Fifteen FDA 
+      staff members provided feedback on the prototype's features and functionalities. 
+      RESULTS: Using the prototype, we were able to identify known, labeled, 
+      opioid-related adverse drug reactions from text in EHRs. The AI-enabled model 
+      achieved accuracy, recall, precision, and F(1)-scores of 0.66, 0.69, 0.64, and 
+      0.67, respectively. FDA participants assessed the prototype as highly desirable 
+      in user satisfaction, visualizations, and in the potential to support drug safety 
+      signal detection for opioid drugs from EHR data while saving time and manual 
+      effort. Actionable design recommendations included (1) enlarging the tabs and 
+      visualizations; (2) enabling more flexibility and customizations to fit end 
+      users' individual needs; (3) providing additional instructional resources; (4) 
+      adding multiple graph export functionality; and (5) adding project summaries. 
+      CONCLUSIONS: The novel prototype uses innovative AI-based techniques to automate 
+      searching for, extracting, and analyzing clinically useful information captured 
+      in unstructured text in EHRs. It increases efficiency in harnessing real-world 
+      data for opioid drug safety and increases the usability of the data to support 
+      regulatory review while decreasing the manual research burden.
+FAU - Sorbello, Alfred
+AU  - Sorbello A
+AD  - Center for Drug Evaluation and Research, US Food and Drug Administration, Silver 
+      Spring, MD, United States.
+FAU - Haque, Syed Arefinul
+AU  - Haque SA
+AD  - Center for Drug Evaluation and Research, US Food and Drug Administration, Silver 
+      Spring, MD, United States.
+FAU - Hasan, Rashedul
+AU  - Hasan R
+AD  - Center for Drug Evaluation and Research, US Food and Drug Administration, Silver 
+      Spring, MD, United States.
+FAU - Jermyn, Richard
+AU  - Jermyn R
+AD  - Neuromuscular Institute, Rowan-Virtua School of Osteopathic Medicine, Stratford, 
+      NJ, United States.
+FAU - Hussein, Ahmad
+AU  - Hussein A
+AD  - Neuromuscular Institute, Rowan-Virtua School of Osteopathic Medicine, Stratford, 
+      NJ, United States.
+FAU - Vega, Alex
+AU  - Vega A
+AD  - Neuromuscular Institute, Rowan-Virtua School of Osteopathic Medicine, Stratford, 
+      NJ, United States.
+FAU - Zembrzuski, Krzysztof
+AU  - Zembrzuski K
+AD  - Neuromuscular Institute, Rowan-Virtua School of Osteopathic Medicine, Stratford, 
+      NJ, United States.
+FAU - Ripple, Anna
+AU  - Ripple A
+AD  - Lister Hill National Center for Biomedical Communications, National Library of 
+      Medicine-National Institutes of Health, Rockville, MD, United States.
+FAU - Ahadpour, Mitra
+AU  - Ahadpour M
+AD  - Center for Drug Evaluation and Research, US Food and Drug Administration, Silver 
+      Spring, MD, United States.
+LA  - eng
+GR  - FD999999/ImFDA/Intramural FDA HHS/United States
+GR  - Z99 LM999999/ImNIH/Intramural NIH HHS/United States
+PT  - Journal Article
+DEP - 20230718
+PL  - Canada
+TA  - JMIR AI
+JT  - JMIR AI
+JID - 9918645789006676
+PMC - PMC10538589
+MID - NIHMS1924944
+OTO - NOTNLM
+OT  - EHR
+OT  - Food and Drug Administration
+OT  - artificial intelligence
+OT  - deep learning
+OT  - drug
+OT  - electronic health records
+OT  - natural language
+OT  - pharmacovigilance
+OT  - real world data
+OT  - software application
+COIS- Conflicts of Interest None declared.
+EDAT- 2023/09/29 06:44
+MHDA- 2023/09/29 06:45
+CRDT- 2023/09/29 03:46
+PHST- 2023/09/29 06:45 [medline]
+PHST- 2023/09/29 06:44 [pubmed]
+PHST- 2023/09/29 03:46 [entrez]
+AID - e45000 [pii]
+AID - 10.2196/45000 [doi]
+PST - ppublish
+SO  - JMIR AI. 2023 Jan-Dec;2:e45000. doi: 10.2196/45000. Epub 2023 Jul 18.
+
+PMID- 37771250
+OWN - NLM
+STAT- Publisher
+LR  - 20230929
+IS  - 1399-5618 (Electronic)
+IS  - 1398-5647 (Linking)
+DP  - 2023 Sep 28
+TI  - A chat about bipolar disorder.
+LID - 10.1111/bdi.13379 [doi]
+AB  - OBJECTIVES: This study aimed to assess the capabilities of ChatGPT (Chat 
+      Generative Pre-Trained Transformer) in generating informative content related to 
+      bipolar disorders. The objectives were to evaluate its ability to provide 
+      accurate information on symptoms, classification, causes, and management of 
+      bipolar disorder and to explore its creativity in generating topic-related songs. 
+      METHODS: ChatGPT3 was used for the study, and a series of clinically relevant 
+      questions were asked to test its knowledge and creativity. Questions ranged from 
+      common symptom descriptions to more artistic requests for songs related to 
+      bipolar disorder. RESULTS: ChatGPT demonstrated the capacity to provide basic and 
+      informative material on bipolar disorders, including descriptions of symptoms, 
+      classification types, causes, and treatment options. It also showed creativity in 
+      generating songs that capture the nuances of bipolar symptoms, both during high 
+      and low states. CONCLUSIONS: While ChatGPT3 can offer superficial information on 
+      psychiatric topics like bipolar disorder, its inability to provide accurate and 
+      up-to-date references limits its utility for creating a comprehensive review 
+      article for scientific journals. However, it may be helpful in generating 
+      educational material and assisting in component tasks for those with bipolar 
+      disorder or other psychiatric conditions. As newer versions of AI models are 
+      continually developed, their capabilities in producing more accurate and advanced 
+      content will need further evaluation.
+CI  - © 2023 The Authors. Bipolar Disorders published by John Wiley & Sons Ltd.
+FAU - Parker, Gordon
+AU  - Parker G
+AUID- ORCID: 0000-0003-3424-5519
+AD  - Discipline of Psychiatry and Mental Health, School of Clinical Medicine, Faculty 
+      of Medicine and Health, University of New South Wales, Sydney, New South Wales, 
+      Australia.
+FAU - Spoelma, Michael J
+AU  - Spoelma MJ
+AUID- ORCID: 0000-0003-2844-0748
+AD  - Discipline of Psychiatry and Mental Health, School of Clinical Medicine, Faculty 
+      of Medicine and Health, University of New South Wales, Sydney, New South Wales, 
+      Australia.
+AD  - Black Dog Institute, Sydney, New South Wales, Australia.
+LA  - eng
+GR  - National Health and Medical Research Council/
+PT  - Journal Article
+DEP - 20230928
+PL  - Denmark
+TA  - Bipolar Disord
+JT  - Bipolar disorders
+JID - 100883596
+SB  - IM
+OTO - NOTNLM
+OT  - artificial intelligence
+OT  - bipolar disorder
+OT  - research
+EDAT- 2023/09/29 06:44
+MHDA- 2023/09/29 06:44
+CRDT- 2023/09/29 03:09
+PHST- 2023/09/29 06:44 [medline]
+PHST- 2023/09/29 06:44 [pubmed]
+PHST- 2023/09/29 03:09 [entrez]
+AID - 10.1111/bdi.13379 [doi]
+PST - aheadofprint
+SO  - Bipolar Disord. 2023 Sep 28. doi: 10.1111/bdi.13379.
+
+PMID- 37771067
+OWN - NLM
+STAT- Publisher
+LR  - 20230929
+IS  - 1742-6723 (Electronic)
+IS  - 1742-6723 (Linking)
+DP  - 2023 Sep 28
+TI  - Machine learning in clinical practice: Evaluation of an artificial intelligence 
+      tool after implementation.
+LID - 10.1111/1742-6723.14325 [doi]
+AB  - OBJECTIVE: Artificial intelligence (AI) has gradually found its way into 
+      healthcare, and its future integration into clinical practice is inevitable. In 
+      the present study, we evaluate the accuracy of a novel AI algorithm designed to 
+      predict admission based on a triage note after clinical implementation. This is 
+      the first of such studies to investigate real-time AI performance in the 
+      emergency setting. METHODS: The novel AI algorithm that predicts admission using 
+      a triage note was translated into clinical practice and integrated within St 
+      Vincent's Hospital Melbourne's electronic emergency patient management system. 
+      The data were collected from 1 January 2021 to 17 August 2022 to evaluate the 
+      diagnostic accuracy of the AI system after implementation. RESULTS: A total of 
+      77 125 ED presentations were included. The live AI algorithm has a sensitivity of 
+      73.1% (95% confidence interval 72.5-73.8), specificity of 74.3% (73.9-74.7), 
+      positive predictive value of 50% (49.6-50.4) and negative predictive value of 
+      88.7% (88.5-89) with a total accuracy of 74% (73.7-74.3). The accuracy of the 
+      system was at the lowest for admission to psychiatric units (34%) and at the 
+      highest for gastroenterology and medical admission (84% and 80%, respectively). 
+      CONCLUSION: Our study showed the diagnostic evaluation of a real-time AI clinical 
+      decision-support tool became less accurate than the original. Although real-time 
+      sensitivity and specificity of the AI tool was still acceptable as a 
+      decision-support tool in the ED, we propose that continuous training and 
+      evaluation of AI-enabled clinical support tools in healthcare are conducted to 
+      ensure consistent accuracy and performance to prevent inadvertent consequences.
+CI  - © 2023 The Authors. Emergency Medicine Australasia published by John Wiley & Sons 
+      Australia, Ltd on behalf of Australasian College for Emergency Medicine.
+FAU - Akhlaghi, Hamed
+AU  - Akhlaghi H
+AUID- ORCID: 0000-0002-3929-7265
+AD  - Department of Emergency Medicine, St Vincent's Hospital Melbourne, Melbourne, 
+      Victoria, Australia.
+AD  - Department of Medical Education, The University of Melbourne, Melbourne, 
+      Victoria, Australia.
+AD  - Faculty of Health, Deakin University, Melbourne, Victoria, Australia.
+FAU - Freeman, Sam
+AU  - Freeman S
+AD  - Department of Emergency Medicine, St Vincent's Hospital Melbourne, Melbourne, 
+      Victoria, Australia.
+AD  - SensiLab, Monash University, Melbourne, Victoria, Australia.
+FAU - Vari, Cynthia
+AU  - Vari C
+AD  - Department of Emergency Medicine, St Vincent's Hospital Melbourne, Melbourne, 
+      Victoria, Australia.
+FAU - McKenna, Bede
+AU  - McKenna B
+AD  - Department of Emergency Medicine, St Vincent's Hospital Melbourne, Melbourne, 
+      Victoria, Australia.
+FAU - Braitberg, George
+AU  - Braitberg G
+AUID- ORCID: 0000-0002-4013-3364
+AD  - Department of Emergency Medicine, Austin Health, Melbourne, Victoria, Australia.
+AD  - Department of Critical Care, The University of Melbourne, Melbourne, Victoria, 
+      Australia.
+FAU - Karro, Jonathan
+AU  - Karro J
+AD  - Department of Emergency Medicine, St Vincent's Hospital Melbourne, Melbourne, 
+      Victoria, Australia.
+FAU - Tahayori, Bahman
+AU  - Tahayori B
+AUID- ORCID: 0000-0002-4927-0023
+AD  - Florey Institute of Neuroscience and Mental Health, The University of Melbourne, 
+      Melbourne, Victoria, Australia.
+LA  - eng
+GR  - Microsoft/
+PT  - Journal Article
+DEP - 20230928
+PL  - Australia
+TA  - Emerg Med Australas
+JT  - Emergency medicine Australasia : EMA
+JID - 101199824
+SB  - IM
+OTO - NOTNLM
+OT  - artificial intelligence
+OT  - emergency department
+OT  - machine learning
+OT  - research translation
+OT  - triage note
+EDAT- 2023/09/29 06:44
+MHDA- 2023/09/29 06:44
+CRDT- 2023/09/29 00:33
+PHST- 2023/09/14 00:00 [revised]
+PHST- 2023/04/18 00:00 [received]
+PHST- 2023/09/19 00:00 [accepted]
+PHST- 2023/09/29 06:44 [medline]
+PHST- 2023/09/29 06:44 [pubmed]
+PHST- 2023/09/29 00:33 [entrez]
+AID - 10.1111/1742-6723.14325 [doi]
+PST - aheadofprint
+SO  - Emerg Med Australas. 2023 Sep 28. doi: 10.1111/1742-6723.14325.
+
+PMID- 37771061
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20231004
+LR  - 20231004
+IS  - 2639-9636 (Print)
+IS  - 2639-9636 (Linking)
+VI  - 38
+IP  - 10
+DP  - 2023 Oct 1
+TI  - Artificial Intelligence: The Future Is Here.
+PG  - 427-428
+LID - 10.4140/TCP.n.2023.427 [doi]
+AB  - Although artificial intelligence (AI) has been around since the 1950s, it has 
+      become a phenomenon within the past couple of years, peaking in online search 
+      results in early 2023, following the release of OpenAI's ChatGPT. Inevitably, 
+      concerns began to surface over the impact that AI would have on jobs in an 
+      advanced economy like the United States.
+FAU - Baldwin, Paul
+AU  - Baldwin P
+AD  - Baldwin Health Policy Group LLC.
+LA  - eng
+PT  - Journal Article
+PL  - United States
+TA  - Sr Care Pharm
+JT  - The Senior care pharmacist
+JID - 101737969
+SB  - IM
+MH  - *Artificial Intelligence
+EDAT- 2023/09/29 06:44
+MHDA- 2023/10/04 06:43
+CRDT- 2023/09/29 00:33
+PHST- 2023/10/04 06:43 [medline]
+PHST- 2023/09/29 06:44 [pubmed]
+PHST- 2023/09/29 00:33 [entrez]
+AID - 10.4140/TCP.n.2023.427 [doi]
+PST - ppublish
+SO  - Sr Care Pharm. 2023 Oct 1;38(10):427-428. doi: 10.4140/TCP.n.2023.427.
+
+PMID- 37770977
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20231122
+LR  - 20231130
+IS  - 1756-3305 (Electronic)
+IS  - 1756-3305 (Linking)
+VI  - 16
+IP  - 1
+DP  - 2023 Sep 28
+TI  - Artificial intelligence, parasites and parasitic diseases.
+PG  - 340
+LID - 10.1186/s13071-023-05972-1 [doi]
+LID - 340
+FAU - Dantas-Torres, Filipe
+AU  - Dantas-Torres F
+AD  - Aggeu Magalhães Institute, Oswaldo Cruz Foundation (Fiocruz), Recife, PE, Brazil. 
+      dantastorrespv@gmail.com.
+LA  - eng
+PT  - Editorial
+DEP - 20230928
+PL  - England
+TA  - Parasit Vectors
+JT  - Parasites & vectors
+JID - 101462774
+SB  - IM
+MH  - Animals
+MH  - *Parasites/genetics
+MH  - Artificial Intelligence
+MH  - *Parasitic Diseases/parasitology
+PMC - PMC10540454
+COIS- Filipe Dantas-Torres is the Editor-in-Chief of Parasites & Vectors.
+EDAT- 2023/09/29 00:42
+MHDA- 2023/11/22 06:42
+CRDT- 2023/09/28 23:55
+PHST- 2023/11/22 06:42 [medline]
+PHST- 2023/09/29 00:42 [pubmed]
+PHST- 2023/09/28 23:55 [entrez]
+AID - 10.1186/s13071-023-05972-1 [pii]
+AID - 5972 [pii]
+AID - 10.1186/s13071-023-05972-1 [doi]
+PST - epublish
+SO  - Parasit Vectors. 2023 Sep 28;16(1):340. doi: 10.1186/s13071-023-05972-1.
+
+PMID- 37770765
+OWN - NLM
+STAT- Publisher
+LR  - 20230928
+IS  - 1432-2307 (Electronic)
+IS  - 0945-6317 (Linking)
+DP  - 2023 Sep 28
+TI  - Standardized pathology report for HER2 testing in compliance with 2023 ASCO/CAP 
+      updates and 2023 ESMO consensus statements on HER2-low breast cancer.
+LID - 10.1007/s00428-023-03656-w [doi]
+AB  - Since the release of the DESTINY-Breast04 (DB-04) trial findings in June 2022, 
+      the field of pathology has seen a renaissance of HER2 as a predictive biomarker 
+      in breast cancer. The trial focused on patients with metastatic breast cancer who 
+      were classified as "HER2-low," i.e., those with immunohistochemistry (IHC) HER2 
+      1 + or 2 + and negative in situ hybridization (ISH) results. The study revealed 
+      that treating these patients with trastuzumab deruxtecan (T-DXd) instead of the 
+      oncologist's chosen chemotherapy led to outstanding improvements in survival. 
+      This has challenged the existing binary HER2 pathological classification system, 
+      which categorized tumors as either positive (overexpression/amplification) or 
+      negative, as per the ASCO/CAP 2018 guideline reaffirmed by ASCO/CAP 2023 
+      guideline update. Given that DB-04 excluded patients with HER2 IHC score 0 
+      status, the results of the ongoing DB-06 trial may shed further light on the 
+      potential benefits of T-DXd therapy for these patients. Roughly half of all 
+      breast cancers are estimated to belong to the HER2-low category, which does not 
+      represent a distinct or specific subtype of cancer. Instead, it encompasses a 
+      diverse group of tumors that exhibit clinical, morphological, 
+      immunohistochemical, and molecular variations. However, HER2-low offers a 
+      distinctive biomarker status that identifies a specific therapeutic regimen 
+      (i.e., T-DXd) linked to a favorable prognosis in breast cancer. This unique 
+      association emphasizes the importance of accurately identifying these tumors. 
+      Differentiating between a HER2 IHC score 0 and score 1 + has not been clinically 
+      significant until now. To ensure accurate classification and avoid misdiagnosis, 
+      it is necessary to adopt standardized procedures, guidelines, and specialized 
+      training for pathologists in interpreting HER2 expression in the lower spectrum. 
+      Additionally, the utilization of artificial intelligence holds promise in 
+      supporting this endeavor. Here, we address the current state of the art and 
+      unresolved issues in assessing HER2-low status, with a particular emphasis on the 
+      score 0. We explore the dilemma surrounding the exclusion of HER2-zero patients 
+      from potentially beneficial therapy based on traditional HER2 testing. 
+      Additionally, we examine the clinical context, considering that DB-04 primarily 
+      involved heavily pretreated late-stage metastatic breast cancers. We also delve 
+      into emerging evidence suggesting that extrapolating HER2-low status from the 
+      original diagnosis may lead to misleading results. Finally, we provide 
+      recommendations for conducting high-quality testing and propose a standardized 
+      pathology report in compliance with 2023 ASCO/CAP updates and 2023 ESMO consensus 
+      statements on HER2-low breast cancer.
+CI  - © 2023. The Author(s).
+FAU - Ivanova, Mariia
+AU  - Ivanova M
+AUID- ORCID: 0000-0002-7636-1000
+AD  - Division of Pathology, IEO European Institute of Oncology IRCCS, 20141, Milan, 
+      Italy.
+FAU - Porta, Francesca Maria
+AU  - Porta FM
+AUID- ORCID: 0000-0003-2841-5024
+AD  - Division of Pathology, IEO European Institute of Oncology IRCCS, 20141, Milan, 
+      Italy.
+FAU - D'Ercole, Marianna
+AU  - D'Ercole M
+AUID- ORCID: 0000-0003-1857-8823
+AD  - Division of Pathology, IEO European Institute of Oncology IRCCS, 20141, Milan, 
+      Italy.
+FAU - Pescia, Carlo
+AU  - Pescia C
+AUID- ORCID: 0000-0003-0657-506X
+AD  - Division of Pathology, IEO European Institute of Oncology IRCCS, 20141, Milan, 
+      Italy.
+FAU - Sajjadi, Elham
+AU  - Sajjadi E
+AUID- ORCID: 0000-0001-7401-1843
+AD  - Division of Pathology, IEO European Institute of Oncology IRCCS, 20141, Milan, 
+      Italy.
+AD  - Department of Oncology and Hemato-Oncology, University of Milan, 20122, Milan, 
+      Italy.
+FAU - Cursano, Giulia
+AU  - Cursano G
+AUID- ORCID: 0000-0002-6735-8598
+AD  - Division of Pathology, IEO European Institute of Oncology IRCCS, 20141, Milan, 
+      Italy.
+FAU - De Camilli, Elisa
+AU  - De Camilli E
+AUID- ORCID: 0000-0002-0668-9422
+AD  - Division of Pathology, IEO European Institute of Oncology IRCCS, 20141, Milan, 
+      Italy.
+FAU - Pala, Oriana
+AU  - Pala O
+AUID- ORCID: 0000-0001-5484-2105
+AD  - Division of Pathology, IEO European Institute of Oncology IRCCS, 20141, Milan, 
+      Italy.
+FAU - Mazzarol, Giovanni
+AU  - Mazzarol G
+AUID- ORCID: 0000-0002-7812-8499
+AD  - Division of Pathology, IEO European Institute of Oncology IRCCS, 20141, Milan, 
+      Italy.
+FAU - Venetis, Konstantinos
+AU  - Venetis K
+AUID- ORCID: 0000-0002-0163-879X
+AD  - Division of Pathology, IEO European Institute of Oncology IRCCS, 20141, Milan, 
+      Italy.
+FAU - Guerini-Rocco, Elena
+AU  - Guerini-Rocco E
+AUID- ORCID: 0000-0003-2001-7582
+AD  - Division of Pathology, IEO European Institute of Oncology IRCCS, 20141, Milan, 
+      Italy.
+AD  - Department of Oncology and Hemato-Oncology, University of Milan, 20122, Milan, 
+      Italy.
+FAU - Curigliano, Giuseppe
+AU  - Curigliano G
+AUID- ORCID: 0000-0003-1781-2518
+AD  - Department of Oncology and Hemato-Oncology, University of Milan, 20122, Milan, 
+      Italy.
+AD  - Division of New Drugs and Early Drug Development for Innovative Therapies, IEO, 
+      European Institute of Oncology IRCCS, 20141, Milan, Italy.
+FAU - Viale, Giuseppe
+AU  - Viale G
+AUID- ORCID: 0000-0003-1882-7068
+AD  - Division of Pathology, IEO European Institute of Oncology IRCCS, 20141, Milan, 
+      Italy.
+FAU - Fusco, Nicola
+AU  - Fusco N
+AUID- ORCID: 0000-0002-9101-9131
+AD  - Division of Pathology, IEO European Institute of Oncology IRCCS, 20141, Milan, 
+      Italy. nicola.fusco@ieo.it.
+AD  - Department of Oncology and Hemato-Oncology, University of Milan, 20122, Milan, 
+      Italy. nicola.fusco@ieo.it.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+DEP - 20230928
+PL  - Germany
+TA  - Virchows Arch
+JT  - Virchows Archiv : an international journal of pathology
+JID - 9423843
+SB  - IM
+OTO - NOTNLM
+OT  - Biomarkers
+OT  - Breast cancer
+OT  - HER2
+OT  - HER2-low
+OT  - Pathology report
+EDAT- 2023/09/29 00:42
+MHDA- 2023/09/29 00:42
+CRDT- 2023/09/28 23:42
+PHST- 2023/07/20 00:00 [received]
+PHST- 2023/09/13 00:00 [accepted]
+PHST- 2023/09/03 00:00 [revised]
+PHST- 2023/09/29 00:42 [medline]
+PHST- 2023/09/29 00:42 [pubmed]
+PHST- 2023/09/28 23:42 [entrez]
+AID - 10.1007/s00428-023-03656-w [pii]
+AID - 10.1007/s00428-023-03656-w [doi]
+PST - aheadofprint
+SO  - Virchows Arch. 2023 Sep 28. doi: 10.1007/s00428-023-03656-w.
+
+PMID- 37770703
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+DCOM- 20231216
+LR  - 20231228
+IS  - 1545-7230 (Electronic)
+IS  - 1042-9670 (Linking)
+VI  - 47
+IP  - 6
+DP  - 2023 Dec
+TI  - Artificial Intelligence in Psychiatry: Threat or Blessing?
+PG  - 587-588
+LID - 10.1007/s40596-023-01874-7 [doi]
+FAU - Pak, Thomas Kun
+AU  - Pak TK
+AUID- ORCID: 0000-0003-2716-1210
+AD  - University of Texas Southwestern Medical Center, Dallas, TX, USA. 
+      pakmdphd@gmail.com.
+FAU - Montelongo Hernandez, Cesar Eber
+AU  - Montelongo Hernandez CE
+AD  - University of Texas Southwestern Medical Center, Dallas, TX, USA.
+FAU - Do, Carter Nguyen
+AU  - Do CN
+AD  - Rush Medical College, Chicago, IL, USA.
+LA  - eng
+PT  - Editorial
+DEP - 20230928
+PL  - United States
+TA  - Acad Psychiatry
+JT  - Academic psychiatry : the journal of the American Association of Directors of 
+      Psychiatric Residency Training and the Association for Academic Psychiatry
+JID - 8917200
+SB  - IM
+EDAT- 2023/09/29 00:41
+MHDA- 2023/09/29 00:42
+CRDT- 2023/09/28 23:39
+PHST- 2023/07/09 00:00 [received]
+PHST- 2023/09/18 00:00 [accepted]
+PHST- 2023/09/29 00:42 [medline]
+PHST- 2023/09/29 00:41 [pubmed]
+PHST- 2023/09/28 23:39 [entrez]
+AID - 10.1007/s40596-023-01874-7 [pii]
+AID - 10.1007/s40596-023-01874-7 [doi]
+PST - ppublish
+SO  - Acad Psychiatry. 2023 Dec;47(6):587-588. doi: 10.1007/s40596-023-01874-7. Epub 
+      2023 Sep 28.
+
+PMID- 37770637
+OWN - NLM
+STAT- Publisher
+LR  - 20230928
+IS  - 1432-5241 (Electronic)
+IS  - 0364-216X (Linking)
+DP  - 2023 Sep 28
+TI  - Exploring the Potential of ChatGPT-4 in Responding to Common Questions About 
+      Abdominoplasty: An AI-Based Case Study of a Plastic Surgery Consultation.
+LID - 10.1007/s00266-023-03660-0 [doi]
+AB  - BACKGROUND: With the increasing integration of artificial intelligence (AI) in 
+      health care, AI chatbots like ChatGPT-4 are being used to deliver health 
+      information. OBJECTIVES: This study aimed to assess the capability of ChatGPT-4 
+      in answering common questions related to abdominoplasty, evaluating its potential 
+      as an adjunctive tool in patient education and preoperative consultation. 
+      METHODS: A variety of common questions about abdominoplasty were submitted to 
+      ChatGPT-4. These questions were sourced from a question list provided by the 
+      American Society of Plastic Surgery to ensure their relevance and 
+      comprehensiveness. An experienced plastic surgeon meticulously evaluated the 
+      responses generated by ChatGPT-4 in terms of informational depth, response 
+      articulation, and competency to determine the proficiency of the AI in providing 
+      patient-centered information. RESULTS: The study showed that ChatGPT-4 can give 
+      clear answers, making it useful for answering common queries. However, it 
+      struggled with personalized advice and sometimes provided incorrect or outdated 
+      references. Overall, ChatGPT-4 can effectively share abdominoplasty information, 
+      which may help patients better understand the procedure. Despite these positive 
+      findings, the AI needs more refinement, especially in providing personalized and 
+      accurate information, to fully meet patient education needs in plastic surgery. 
+      CONCLUSIONS: Although ChatGPT-4 shows promise as a resource for patient 
+      education, continuous improvements and rigorous checks are essential for its 
+      beneficial integration into healthcare settings. The study emphasizes the need 
+      for further research, particularly focused on improving the personalization and 
+      accuracy of AI responses. LEVEL OF EVIDENCE V: This journal requires that authors 
+      assign a level of evidence to each article. For a full description of these 
+      Evidence-Based Medicine ratings, please refer to the Table of Contents or the 
+      online Instructions to Authors www.springer.com/00266 .
+CI  - © 2023. Springer Science+Business Media, LLC, part of Springer Nature and 
+      International Society of Aesthetic Plastic Surgery.
+FAU - Li, Wenbo
+AU  - Li W
+AD  - Department of Nursing, Jinzhou Medical University, Jinzhou, 121001, China.
+FAU - Chen, Junjiang
+AU  - Chen J
+AD  - Department of Burn Plastic and Medical Aesthetic Surgery, The First Affiliated 
+      Hospital, Jinzhou Medical University, Jinzhou, China.
+FAU - Chen, Fengmin
+AU  - Chen F
+AD  - Department of Colorectal Surgery, The First Affiliated Hospital, Jinzhou Medical 
+      University, Jinzhou, China.
+FAU - Liang, Jiaqing
+AU  - Liang J
+AD  - Department of Nursing, Jinzhou Medical University, Jinzhou, 121001, China.
+FAU - Yu, Hongyu
+AU  - Yu H
+AD  - Department of Nursing, Jinzhou Medical University, Jinzhou, 121001, China. 
+      15840040053@163.com.
+LA  - eng
+PT  - Journal Article
+DEP - 20230928
+PL  - United States
+TA  - Aesthetic Plast Surg
+JT  - Aesthetic plastic surgery
+JID - 7701756
+SB  - IM
+OTO - NOTNLM
+OT  - Abdominoplasty
+OT  - Artificial intelligence
+OT  - ChatGPT
+OT  - ChatGPT-4
+OT  - Chatbot
+EDAT- 2023/09/29 00:42
+MHDA- 2023/09/29 00:42
+CRDT- 2023/09/28 23:35
+PHST- 2023/07/12 00:00 [received]
+PHST- 2023/09/06 00:00 [accepted]
+PHST- 2023/09/29 00:42 [medline]
+PHST- 2023/09/29 00:42 [pubmed]
+PHST- 2023/09/28 23:35 [entrez]
+AID - 10.1007/s00266-023-03660-0 [pii]
+AID - 10.1007/s00266-023-03660-0 [doi]
+PST - aheadofprint
+SO  - Aesthetic Plast Surg. 2023 Sep 28. doi: 10.1007/s00266-023-03660-0.
+
+PMID- 37770569
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20240108
+LR  - 20240108
+IS  - 1432-1459 (Electronic)
+IS  - 0340-5354 (Print)
+IS  - 0340-5354 (Linking)
+VI  - 271
+IP  - 1
+DP  - 2024 Jan
+TI  - IQ changes after pediatric epilepsy surgery: a systematic review and 
+      meta-analysis.
+PG  - 177-187
+LID - 10.1007/s00415-023-12002-8 [doi]
+AB  - OBJECTIVE: This systematic review aimed to assess the intellectual outcome of 
+      children who underwent surgery for epilepsy. METHODS: A systematic review of 
+      electronic databases was conducted on December 3, 2021, for PubMed and January 
+      11, 2022, for Web of Science. The review was conducted according to the PRISMA 
+      guidelines. The included studies reported on intelligence quotient (IQ) or 
+      developmental quotient (DQ) before and after epilepsy surgery in children. 
+      Studies were included, if the patients had medically intractable epilepsy and if 
+      the study reported mainly on curative surgical procedures. We conducted a 
+      random-effects meta-analysis to determine the mean change of IQ/DQ. RESULTS: 
+      Fifty-seven studies reporting on a total of 2593 patients met the inclusion 
+      criteria. The mean age at surgery was 9.2 years (± 3.44; range 
+      2.4 months-19.81 years). Thirty-eight studies showed IQ/DQ improvement on a group 
+      level, 8 yielded stable IQ/DQ, and 19 showed deterioration. Pooled analysis 
+      revealed a significant mean gain in FSIQ of + 2.52 FSIQ points (95% CI 
+      1.12-3.91). The pooled mean difference in DQ was + 1.47 (95% CI - 6.5 to 9.5). 
+      The pooled mean difference in IQ/DQ was 0.73 (95% CI - 4.8 to 6.2). Mean FSIQ 
+      gain was significantly higher in patients who reached seizure freedom 
+      (+ 5.58 ± 8.27) than in patients who did not (+ 0.23 ± 5.65). It was also 
+      significantly higher in patients who stopped ASM after surgery (+ 6.37 ± 3.80) 
+      than in patients who did not (+ 2.01 ± 2.41). Controlled studies showed a better 
+      outcome in the surgery group compared to the non-surgery group. There was no 
+      correlation between FSIQ change and age at surgery, epilepsy duration to surgery, 
+      and preoperative FSIQ. SIGNIFICANCE: The present review indicates that there is a 
+      mean gain in FSIQ and DQ in children with medically intractable epilepsy after 
+      surgery. The mean gain of 2.52 FSIQ points reflects more likely sustainability of 
+      intellectual function rather than improvement after surgery. Seizure-free and 
+      ASM-free patients reach higher FSIQ gains. More research is needed to evaluate 
+      individual changes after specific surgery types and their effect on long-term 
+      follow-up.
+CI  - © 2023. The Author(s).
+FAU - Schmidlechner, Tristan
+AU  - Schmidlechner T
+AD  - Division of Pediatric Neurology, Developmental Medicine and Social Pediatrics, 
+      Department of Pediatrics, Dr. Von Hauner Children's Hospital, University 
+      Hospital, Ludwig-Maximilians-University Munich, Lindwurmstreet 4, 80337, Munich, 
+      Germany.
+FAU - Zaddach, Malin
+AU  - Zaddach M
+AUID- ORCID: 0000-0001-7584-0811
+AD  - Division of Pediatric Neurology, Developmental Medicine and Social Pediatrics, 
+      Department of Pediatrics, Dr. Von Hauner Children's Hospital, University 
+      Hospital, Ludwig-Maximilians-University Munich, Lindwurmstreet 4, 80337, Munich, 
+      Germany.
+FAU - Heinen, Florian
+AU  - Heinen F
+AUID- ORCID: 0000-0002-3872-6136
+AD  - Division of Pediatric Neurology, Developmental Medicine and Social Pediatrics, 
+      Department of Pediatrics, Dr. Von Hauner Children's Hospital, University 
+      Hospital, Ludwig-Maximilians-University Munich, Lindwurmstreet 4, 80337, Munich, 
+      Germany.
+FAU - Cornell, Sonia
+AU  - Cornell S
+AD  - Division of Pediatric Neurology, Developmental Medicine and Social Pediatrics, 
+      Department of Pediatrics, Dr. Von Hauner Children's Hospital, University 
+      Hospital, Ludwig-Maximilians-University Munich, Lindwurmstreet 4, 80337, Munich, 
+      Germany.
+FAU - Ramantani, Georgia
+AU  - Ramantani G
+AUID- ORCID: 0000-0002-7931-2327
+AD  - Department of Neuropediatrics, University Children's Hospital, Zurich, 
+      Switzerland.
+AD  - University of Zurich, Zurich, Switzerland.
+FAU - Rémi, Jan
+AU  - Rémi J
+AUID- ORCID: 0000-0003-1527-9350
+AD  - Department of Neurology, University Hospital, Ludwig-Maximilians-University 
+      Munich, Munich, Germany.
+AD  - Comprehensive Epilepsy Center, University Hospital, Ludwig-Maximilians-University 
+      Munich, Munich, Germany.
+FAU - Vollmar, Christian
+AU  - Vollmar C
+AUID- ORCID: 0000-0002-4630-7484
+AD  - Department of Neurology, University Hospital, Ludwig-Maximilians-University 
+      Munich, Munich, Germany.
+AD  - Comprehensive Epilepsy Center, University Hospital, Ludwig-Maximilians-University 
+      Munich, Munich, Germany.
+FAU - Kunz, Mathias
+AU  - Kunz M
+AUID- ORCID: 0000-0003-1641-450X
+AD  - Department of Neurosurgery, University Hospital, Ludwig-Maximilians-University 
+      Munich, Munich, Germany.
+AD  - Comprehensive Epilepsy Center, University Hospital, Ludwig-Maximilians-University 
+      Munich, Munich, Germany.
+FAU - Borggraefe, Ingo
+AU  - Borggraefe I
+AUID- ORCID: 0000-0002-8484-5945
+AD  - Division of Pediatric Neurology, Developmental Medicine and Social Pediatrics, 
+      Department of Pediatrics, Dr. Von Hauner Children's Hospital, University 
+      Hospital, Ludwig-Maximilians-University Munich, Lindwurmstreet 4, 80337, Munich, 
+      Germany. ingo.borggraefe@med.uni-muenchen.de.
+AD  - Comprehensive Epilepsy Center, University Hospital, Ludwig-Maximilians-University 
+      Munich, Munich, Germany. ingo.borggraefe@med.uni-muenchen.de.
+LA  - eng
+PT  - Journal Article
+PT  - Meta-Analysis
+PT  - Review
+PT  - Systematic Review
+DEP - 20230928
+PL  - Germany
+TA  - J Neurol
+JT  - Journal of neurology
+JID - 0423161
+SB  - IM
+MH  - Child
+MH  - Humans
+MH  - *Drug Resistant Epilepsy/surgery
+MH  - Intelligence
+MH  - *Epilepsy/surgery
+MH  - Intelligence Tests
+MH  - Treatment Outcome
+PMC - PMC10770207
+OTO - NOTNLM
+OT  - Children
+OT  - Cognition
+OT  - Epilepsy surgery
+OT  - Neuropsychology
+OT  - Outcome
+COIS- The authors have no relevant financial or non-financial interests to disclose.
+EDAT- 2023/09/29 00:41
+MHDA- 2024/01/08 06:43
+CRDT- 2023/09/28 23:30
+PHST- 2023/08/17 00:00 [received]
+PHST- 2023/09/10 00:00 [accepted]
+PHST- 2023/09/07 00:00 [revised]
+PHST- 2024/01/08 06:43 [medline]
+PHST- 2023/09/29 00:41 [pubmed]
+PHST- 2023/09/28 23:30 [entrez]
+AID - 10.1007/s00415-023-12002-8 [pii]
+AID - 12002 [pii]
+AID - 10.1007/s00415-023-12002-8 [doi]
+PST - ppublish
+SO  - J Neurol. 2024 Jan;271(1):177-187. doi: 10.1007/s00415-023-12002-8. Epub 2023 Sep 
+      28.
+
+PMID- 37770339
+OWN - NLM
+STAT- Publisher
+LR  - 20230928
+IS  - 1873-4898 (Electronic)
+IS  - 1477-5131 (Linking)
+DP  - 2023 Sep 16
+TI  - Urologist validation of an artificial intelligence-based tool for automated 
+      estimation of penile curvature.
+LID - S1477-5131(23)00408-4 [pii]
+LID - 10.1016/j.jpurol.2023.09.008 [doi]
+AB  - INTRODUCTION: Severity of penile curvature (PC) is commonly used to select the 
+      optimal surgical intervention for hypospadias, either alone or in conjunction 
+      with other phenotypic characteristics. Despite this, current literature on the 
+      accuracy and precision of different PC measurement techniques in hypospadias 
+      patients remains limited. PURPOSE: Assess the feasibility and validity of an 
+      artificial intelligence (AI)-based model for automatic measurement of PC. 
+      MATERIAL AND METHODS: Seven 3D-printed penile models with variable degrees of 
+      ventral PC were used to evaluate and compare interobserver agreement in 
+      estimation of penile curvatures using various measurement techniques (including 
+      visual inspection, goniometer, manual estimation via a mobile application, and an 
+      AI-based angle estimation app. In addition, each participant was required to 
+      complete a questionnaire about their background and experience. RESULTS: 
+      Thirty-five clinical practitioners participated in the study, including pediatric 
+      urologists, pediatric surgeons, and urologists. For each PC assessment method, 
+      time required, mean absolute error (MAE), and inter-rater agreement were 
+      assessed. For goniometer-based measurement, the lowest MAE achieved was derived 
+      from a model featuring 86° PC. When using either UVI (unaid visual inspection), 
+      mobile apps, or AI-based measurement, MAE was lowest when assessing a model with 
+      88° PC, indicating that high-grade cases can be quantified more reliably. Indeed, 
+      MAE was highest when PC angle ranged between 40° and 58° for all the investigated 
+      measurement tools. In fact, among these methodologies, AI-based assessment 
+      achieved the lowest MAE and highest level of inter-class correlation, with an 
+      average measurement time of only 22 s. CONCLUSION: AI-based PC measurement models 
+      are more practical and consistent than the alternative curvature assessment tools 
+      already available. The AI method described in this study could help surgeons and 
+      hypospadiology researchers to measure PC more accurately.
+CI  - Copyright © 2023 Journal of Pediatric Urology Company. Published by Elsevier Ltd. 
+      All rights reserved.
+FAU - Abbas, Tariq O
+AU  - Abbas TO
+AD  - Pediatric Urology Section, Surgery Department, Sidra Medicine, Doha, Qatar; 
+      College of Medicine, Qatar University, Doha, Qatar; Department of Surgery, Weill 
+      Cornell Medicine Qatar, Doha, Qatar. Electronic address: tabbas@sidra.org.
+FAU - AbdelMoniem, Mohamed
+AU  - AbdelMoniem M
+AD  - Electrical Engineering, Qatar University, Qatar.
+FAU - Villanueva, Carlos
+AU  - Villanueva C
+AD  - Phoenix Children's Hospital, Phoenix, USA.
+FAU - Al Hamidi, Yasser
+AU  - Al Hamidi Y
+AD  - Texas A&M University at Qatar, Doha, P.O. Box 23874, Qatar.
+FAU - Elkadhi, Abderrahman
+AU  - Elkadhi A
+AD  - Pediatric Urology Section, Surgery Department, Sidra Medicine, Doha, Qatar.
+FAU - AlSalihi, Muthana
+AU  - AlSalihi M
+AD  - Pediatric Urology Section, Surgery Department, Sidra Medicine, Doha, Qatar; 
+      Department of Surgery, Weill Cornell Medicine Qatar, Doha, Qatar.
+FAU - Pippi Salle, J L
+AU  - Pippi Salle JL
+AD  - Pediatric Urology Section, Surgery Department, Sidra Medicine, Doha, Qatar.
+FAU - Abrar, Sakib
+AU  - Abrar S
+AD  - Electrical Engineering, Qatar University, Qatar.
+FAU - Chowdhury, Muhammad
+AU  - Chowdhury M
+AD  - Electrical Engineering, Qatar University, Qatar.
+LA  - eng
+PT  - Journal Article
+DEP - 20230916
+PL  - England
+TA  - J Pediatr Urol
+JT  - Journal of pediatric urology
+JID - 101233150
+SB  - IM
+OTO - NOTNLM
+OT  - Artificial intelligence
+OT  - Goniometer
+OT  - Hypospadias
+OT  - Mobile application
+OT  - Penile curvature
+COIS- Conflict of interest All co-authors have nothing to declare.
+EDAT- 2023/09/29 00:42
+MHDA- 2023/09/29 00:42
+CRDT- 2023/09/28 21:56
+PHST- 2023/04/10 00:00 [received]
+PHST- 2023/07/20 00:00 [revised]
+PHST- 2023/09/14 00:00 [accepted]
+PHST- 2023/09/29 00:42 [medline]
+PHST- 2023/09/29 00:42 [pubmed]
+PHST- 2023/09/28 21:56 [entrez]
+AID - S1477-5131(23)00408-4 [pii]
+AID - 10.1016/j.jpurol.2023.09.008 [doi]
+PST - aheadofprint
+SO  - J Pediatr Urol. 2023 Sep 16:S1477-5131(23)00408-4. doi: 
+      10.1016/j.jpurol.2023.09.008.

@@ -1,0 +1,953 @@
+PMID- 37782004
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20231222
+LR  - 20240102
+IS  - 1365-3148 (Electronic)
+IS  - 0958-7578 (Linking)
+VI  - 33
+IP  - 6
+DP  - 2023 Dec
+TI  - Comparing transfusion practice at multiple hospitals using electronically 
+      collected and analysed data.
+PG  - 453-459
+LID - 10.1111/tme.13008 [doi]
+AB  - BACKGROUND: Comparisons of transfusion practice between organisations are 
+      time-consuming using manual methods for data collection. We performed a 
+      feasibility study to determine whether large-scale transfusion data from three 
+      English hospitals could be combined to allow comparisons of transfusion practice. 
+      METHODS: Clinical, laboratory and transfusion data from patients discharged 
+      between 1 April 2016 and 31 March 2017 were extracted from Patient Administration 
+      Systems (PAS), Laboratory Information Management Systems (LIMS), and electronic 
+      transfusion systems at three NHS hospitals, which are academic medical centres 
+      based in large cities outside London. A centralised database and business 
+      intelligence software were used to compare the data. RESULTS: The dataset 
+      contained 748 982 episodes of patient care with 91 410 blood components 
+      transfused. The study confirms the results of previous studies finding peaks in 
+      the ages of transfusion in the 0-4 years age range, in women of childbearing 
+      ages, and in males over 60 years. The number of components transfused per 1000 
+      bed days was used as a standardised comparator. Red cell utilisation was 42.4, 
+      40.4 and 49.5 units/1000 bed days and platelet utilisation 11.69, 7.76, and 
+      11.66 units/1000 bed days. 60.5% (6848/11 310) of Group O D negative red cell 
+      units were transfused to non-group O D negative recipients. An analysis of 
+      component usage highlighted variations in practice, for example platelet usage 
+      for cardiac surgery varied from 2.4% to 7.3% across the three hospitals. 
+      CONCLUSION: This feasibility study demonstrates that large electronic datasets 
+      from hospitals can be combined to identify areas for targeted interventions to 
+      improve transfusion practice.
+CI  - © 2023 British Blood Transfusion Society.
+FAU - D'Souza, Ross
+AU  - D'Souza R
+AD  - NHS Blood and Transplant, Liverpool, UK.
+FAU - Dhesi, Amanpreet Singh
+AU  - Dhesi AS
+AUID- ORCID: 0000-0002-4626-1287
+AD  - NHS Blood and Transplant, Liverpool, UK.
+FAU - Pendry, Kate
+AU  - Pendry K
+AD  - NHS Blood and Transplant, Liverpool, UK.
+AD  - Manchester University NHS Foundation Trust, Manchester, UK.
+FAU - Charlton, Andrew
+AU  - Charlton A
+AD  - NHS Blood and Transplant, Liverpool, UK.
+AD  - The Newcastle upon Tyne Hospitals NHS Foundation Trust, Newcastle, UK.
+FAU - Staples, Sophie
+AU  - Staples S
+AD  - Oxford University Hospitals NHS Foundation Trust, Oxford, UK.
+FAU - Watkins, Nicholas A
+AU  - Watkins NA
+AD  - NHS Blood and Transplant, Liverpool, UK.
+FAU - Murphy, Michael F
+AU  - Murphy MF
+AD  - NHS Blood and Transplant, Liverpool, UK.
+AD  - Oxford University Hospitals NHS Foundation Trust, Oxford, UK.
+AD  - Radcliffe Department of Medicine, University of Oxford, Oxford, United Kingdom.
+LA  - eng
+GR  - NHS Blood and Transplant/
+PT  - Journal Article
+DEP - 20231002
+PL  - England
+TA  - Transfus Med
+JT  - Transfusion medicine (Oxford, England)
+JID - 9301182
+SB  - IM
+MH  - Male
+MH  - Humans
+MH  - Female
+MH  - Middle Aged
+MH  - *Erythrocyte Transfusion
+MH  - Blood Transfusion
+MH  - Hospitals
+MH  - Blood Component Transfusion
+MH  - *Cardiac Surgical Procedures
+EDAT- 2023/10/02 12:42
+MHDA- 2023/12/22 06:42
+CRDT- 2023/10/02 07:43
+PHST- 2023/08/02 00:00 [revised]
+PHST- 2023/04/13 00:00 [received]
+PHST- 2023/09/09 00:00 [accepted]
+PHST- 2023/12/22 06:42 [medline]
+PHST- 2023/10/02 12:42 [pubmed]
+PHST- 2023/10/02 07:43 [entrez]
+AID - 10.1111/tme.13008 [doi]
+PST - ppublish
+SO  - Transfus Med. 2023 Dec;33(6):453-459. doi: 10.1111/tme.13008. Epub 2023 Oct 2.
+
+PMID- 37781963
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20231204
+LR  - 20231204
+IS  - 1939-9170 (Electronic)
+IS  - 0012-9658 (Linking)
+VI  - 104
+IP  - 12
+DP  - 2023 Dec
+TI  - Deep learning with citizen science data enables estimation of species diversity 
+      and composition at continental extents.
+PG  - e4175
+LID - 10.1002/ecy.4175 [doi]
+AB  - Effective solutions to conserve biodiversity require accurate community- and 
+      species-level information at relevant, actionable scales and across entire 
+      species' distributions. However, data and methodological constraints have limited 
+      our ability to provide such information in robust ways. Herein we employ a 
+      Deep-Reasoning Network implementation of the Deep Multivariate Probit Model 
+      (DMVP-DRNets), an end-to-end deep neural network framework, to exploit large 
+      observational and environmental data sets together and estimate landscape-scale 
+      species diversity and composition at continental extents. We present results from 
+      a novel year-round analysis of North American avifauna using data from over nine 
+      million eBird checklists and 72 environmental covariates. We highlight the 
+      utility of our information by identifying critical areas of high species 
+      diversity for a single group of conservation concern, the North American wood 
+      warblers, while capturing spatiotemporal variation in species' environmental 
+      associations and interspecific interactions. In so doing, we demonstrate the type 
+      of accurate, high-resolution information on biodiversity that deep learning 
+      approaches such as DMVP-DRNets can provide and that is needed to inform 
+      ecological research and conservation decision-making at multiple scales.
+CI  - © 2023 The Ecological Society of America.
+FAU - Davis, Courtney L
+AU  - Davis CL
+AUID- ORCID: 0000-0002-6467-4288
+AD  - Cornell Laboratory of Ornithology, Cornell University, Ithaca, New York, USA.
+FAU - Bai, Yiwei
+AU  - Bai Y
+AD  - Department of Computer Science, Cornell University, Ithaca, New York, USA.
+FAU - Chen, Di
+AU  - Chen D
+AD  - Department of Computer Science, Cornell University, Ithaca, New York, USA.
+FAU - Robinson, Orin
+AU  - Robinson O
+AUID- ORCID: 0000-0001-8935-1242
+AD  - Cornell Laboratory of Ornithology, Cornell University, Ithaca, New York, USA.
+FAU - Ruiz-Gutierrez, Viviana
+AU  - Ruiz-Gutierrez V
+AUID- ORCID: 0000-0001-7116-1168
+AD  - Cornell Laboratory of Ornithology, Cornell University, Ithaca, New York, USA.
+FAU - Gomes, Carla P
+AU  - Gomes CP
+AUID- ORCID: 0000-0002-4441-7225
+AD  - Department of Computer Science, Cornell University, Ithaca, New York, USA.
+FAU - Fink, Daniel
+AU  - Fink D
+AUID- ORCID: 0000-0002-8368-1248
+AD  - Cornell Laboratory of Ornithology, Cornell University, Ithaca, New York, USA.
+LA  - eng
+GR  - Leon Levy Foundation/
+GR  - CCF-1522054/National Science Foundation/
+GR  - CNS-1059284/National Science Foundation/
+GR  - DBI-1939187/National Science Foundation/
+GR  - The Wolf Creek Foundation/
+GR  - FA9550-23-1-0322/Air Force Office of Scientific Research/
+GR  - AFOSR/DURIP-FA9550-21-1-0316/Air Force Office of Scientific Research/
+GR  - USDA-NIFA-2023-67021-39829/U.S. Department of Agriculture's National Institute 
+      for Food and Agriculture/
+GR  - Eric and Wendy Schmidt AI in Science Postdoctoral Fellowship, a Schmidt Futures 
+      program/
+PT  - Journal Article
+DEP - 20231023
+PL  - United States
+TA  - Ecology
+JT  - Ecology
+JID - 0043541
+SB  - IM
+MH  - *Citizen Science
+MH  - *Deep Learning
+MH  - Biodiversity
+OTO - NOTNLM
+OT  - artificial intelligence
+OT  - biodiversity
+OT  - critical areas
+OT  - eBird
+OT  - joint species distribution modeling
+OT  - species richness
+EDAT- 2023/10/02 12:42
+MHDA- 2023/12/04 12:42
+CRDT- 2023/10/02 07:03
+PHST- 2023/06/13 00:00 [revised]
+PHST- 2022/12/13 00:00 [received]
+PHST- 2023/08/25 00:00 [accepted]
+PHST- 2023/12/04 12:42 [medline]
+PHST- 2023/10/02 12:42 [pubmed]
+PHST- 2023/10/02 07:03 [entrez]
+AID - 10.1002/ecy.4175 [doi]
+PST - ppublish
+SO  - Ecology. 2023 Dec;104(12):e4175. doi: 10.1002/ecy.4175. Epub 2023 Oct 23.
+
+PMID- 37781823
+OWN - NLM
+STAT- Publisher
+LR  - 20231002
+IS  - 1878-7401 (Electronic)
+IS  - 0928-7329 (Linking)
+DP  - 2023 Sep 21
+TI  - Evaluation of children's oral diagnosis and treatment using imaging examination 
+      using AI based Internet of Things.
+LID - 10.3233/THC-230099 [doi]
+AB  - BACKGROUND: Although cone beam computed tomography (CBCT) plays an important role 
+      in the diagnosis and treatment of oral diseases, its image segmentation method 
+      needs to be further improved, and there are still objections about the clinical 
+      application effect of general anesthesia (GA) on children's dental fear (CDF). 
+      OBJECTIVE: This study aimed to investigate the application value of CBCT based on 
+      intelligent computer segmentation model in oral diagnosis and treatment of 
+      children in the context of biomedical signals, and to analyze the alleviating 
+      effect of GA on CDF. METHODS: Based on the regional level set (CV) algorithm, the 
+      local binary fitting (LBF) model was introduced to optimize it, and the tooth 
+      CBCT image segmentation model CV-LBF was established to compare the segmentation 
+      accuracy (SA), maximum symmetric surface distance (MSSD), average symmetric 
+      surface distance (ASSD), over segmentation rate (OR), and under segmentation rate 
+      (UR) between these model and other algorithms. 82 children with CDF were divided 
+      into general anesthesia group (GAG) (n= 38) and controls (n= 44) according to the 
+      voluntary principle of their families. Children in GAG were treated with GA and 
+      controls with protective fixed intervention. Children's fear survey 
+      schedule-dental subscale (CFSS-DS) and Venham scores were counted before 
+      intervention in the two groups. CFSS-DS scores were recorded at 2 hours after 
+      intervention and after recovery in children in GAG. CFSS-DS and Venham scores 
+      were performed in all children 1 week after surgery. RESULTS: The results showed 
+      that the S⁢A value of CV-LBF algorithm was higher than that of region growing 
+      algorithm (P< 0.05). OR, UR, MSSD, and ASSD values of CV-LBF algorithm were 
+      evidently lower than those of other algorithms (P< 0.05). CFSS-DS scores were 
+      lower in GAG than in controls 2 hours after intervention and at return visits 
+      after 1 week of intervention (P< 0.001), and Venham scores were lower in GAG than 
+      in controls after intervention (P< 0.001). After intervention, the proportion of 
+      children with Venham grade 0, 1, 2, and 3 was obviously higher in GAG than in 
+      controls (P< 0.001), while the proportion of children with Venham grade 4 and 5 
+      was clearly higher in controls than in GAG (P< 0.001). CONCLUSION: The results 
+      revealed that the computer intelligent segmentation model CV-LBF has potential 
+      application value in CBCT image segmentation of children's teeth, and GA can 
+      effectively alleviate anxiety of children with CDF and can be used as biomedical 
+      signals.
+FAU - Li, Yan
+AU  - Li Y
+AD  - Department of Anesthesiology, Yantai Mountain Hospital, Yantai, Shandong, China.
+FAU - Qu, Qizhi
+AU  - Qu Q
+AD  - CT/MR Division, Liaocheng Third People's Hospital, Liaocheng, Shandong, China.
+FAU - Yue, Yuxue
+AU  - Yue Y
+AD  - CT/MR Division, Liaocheng Third People's Hospital, Liaocheng, Shandong, China.
+FAU - Guo, Yuxuan
+AU  - Guo Y
+AD  - Department of Stomatology, Affiliated Hospital of Northwest University/Xi'an 
+      Third Hospital, Xi'an, Shaanxi, China.
+FAU - Yi, Xiuna
+AU  - Yi X
+AD  - Department of Anesthesiology, Yantai Mountain Hospital, Yantai, Shandong, China.
+LA  - eng
+PT  - Journal Article
+DEP - 20230921
+PL  - Netherlands
+TA  - Technol Health Care
+JT  - Technology and health care : official journal of the European Society for 
+      Engineering and Medicine
+JID - 9314590
+SB  - IM
+OTO - NOTNLM
+OT  - Artificial intelligence
+OT  - children’s dental fear
+OT  - cone beam computed tomography (CBCT)
+OT  - general anesthesia
+OT  - oral cavity in children
+EDAT- 2023/10/02 06:42
+MHDA- 2023/10/02 06:42
+CRDT- 2023/10/02 05:28
+PHST- 2023/10/02 06:42 [medline]
+PHST- 2023/10/02 06:42 [pubmed]
+PHST- 2023/10/02 05:28 [entrez]
+AID - THC230099 [pii]
+AID - 10.3233/THC-230099 [doi]
+PST - aheadofprint
+SO  - Technol Health Care. 2023 Sep 21. doi: 10.3233/THC-230099.
+
+PMID- 37781788
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20231101
+LR  - 20231101
+IS  - 1525-6073 (Electronic)
+IS  - 0742-0528 (Linking)
+VI  - 40
+IP  - 9
+DP  - 2023 Sep 2
+TI  - Circadian preference and physical and cognitive performance in adolescence: A 
+      scoping review.
+PG  - 1296-1331
+LID - 10.1080/07420528.2023.2256901 [doi]
+AB  - Adolescence is a crucial period of development which coincides with changes in 
+      circadian rhythmicity. This may augment the impact of circadian preference on 
+      performance in this group. We aimed to scope the literature available on 
+      chronotypes and their effect on physical and mental aspects of performance in 
+      adolescents. Studies were identified by systematically searching bibliographical 
+      databases and grey literature. The Morningness-Eveningness Questionnaire was the 
+      most frequently reported tool for circadian preference assessment. Academic 
+      achievement was the most prevailing outcome, with evidence suggesting that 
+      morning type adolescents tend to outperform evening types, yet the results vary 
+      depending on multiple factors. Performance in tests of intelligence and executive 
+      functions was generally better at optimal times of the day (synchrony effect). 
+      Physical performance was examined in 8 studies, with very heterogeneous outcomes. 
+      Although the associations between circadian preference and performance in 
+      adolescents are evident in some areas, there are many factors that may be 
+      involved in the relationship and require further investigation. This review 
+      highlights the assessment of physical performance in relation to chronotypes, the 
+      multidimensional assessment of circadian preference, and the need for 
+      longitudinal studies as priorities for further research.Protocol: OSF 
+      Registration - Public registration, DOI: 10.17605/OSF.IO/UCA3Z.
+FAU - Vidueira, Vanessa F
+AU  - Vidueira VF
+AUID- ORCID: 0000-0002-2171-1595
+AD  - Moray House School of Education and Sport, Institute for Sport, Physical 
+      Education and Health Sciences (ISPEHS), University of Edinburgh, Edinburgh, UK.
+FAU - Booth, Josie N
+AU  - Booth JN
+AUID- ORCID: 0000-0002-2867-9719
+AD  - Moray House School of Education and Sport, Institute for Education, Community and 
+      Society (IECS), University of Edinburgh, Edinburgh, UK.
+FAU - Saunders, David H
+AU  - Saunders DH
+AUID- ORCID: 0000-0001-8901-4617
+AD  - Moray House School of Education and Sport, Institute for Sport, Physical 
+      Education and Health Sciences (ISPEHS), University of Edinburgh, Edinburgh, UK.
+FAU - Sproule, John
+AU  - Sproule J
+AUID- ORCID: 0000-0002-9148-6362
+AD  - Moray House School of Education and Sport, Institute for Sport, Physical 
+      Education and Health Sciences (ISPEHS), University of Edinburgh, Edinburgh, UK.
+FAU - Turner, Anthony P
+AU  - Turner AP
+AUID- ORCID: 0000-0003-1202-6649
+AD  - Moray House School of Education and Sport, Institute for Sport, Physical 
+      Education and Health Sciences (ISPEHS), Human Performance Science Research Group, 
+      University of Edinburgh, Edinburgh, UK.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+DEP - 20231009
+PL  - England
+TA  - Chronobiol Int
+JT  - Chronobiology international
+JID - 8501362
+SB  - IM
+MH  - Humans
+MH  - Adolescent
+MH  - *Circadian Rhythm
+MH  - Sleep
+MH  - *Academic Success
+MH  - Surveys and Questionnaires
+MH  - Cognition
+OTO - NOTNLM
+OT  - Circadian rhythm
+OT  - adolescence
+OT  - chronotype
+OT  - circadian preference
+OT  - morningness-eveningness
+OT  - performance
+EDAT- 2023/10/02 06:42
+MHDA- 2023/11/01 12:45
+CRDT- 2023/10/02 05:28
+PHST- 2023/11/01 12:45 [medline]
+PHST- 2023/10/02 06:42 [pubmed]
+PHST- 2023/10/02 05:28 [entrez]
+AID - 10.1080/07420528.2023.2256901 [doi]
+PST - ppublish
+SO  - Chronobiol Int. 2023 Sep 2;40(9):1296-1331. doi: 10.1080/07420528.2023.2256901. 
+      Epub 2023 Oct 9.
+
+PMID- 37781703
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20231004
+IS  - 1663-9812 (Print)
+IS  - 1663-9812 (Electronic)
+IS  - 1663-9812 (Linking)
+VI  - 14
+DP  - 2023
+TI  - Approach to machine learning for extraction of real-world data variables from 
+      electronic health records.
+PG  - 1180962
+LID - 10.3389/fphar.2023.1180962 [doi]
+LID - 1180962
+AB  - Background: As artificial intelligence (AI) continues to advance with 
+      breakthroughs in natural language processing (NLP) and machine learning (ML), 
+      such as the development of models like OpenAI's ChatGPT, new opportunities are 
+      emerging for efficient curation of electronic health records (EHR) into 
+      real-world data (RWD) for evidence generation in oncology. Our objective is to 
+      describe the research and development of industry methods to promote transparency 
+      and explainability. Methods: We applied NLP with ML techniques to train, 
+      validate, and test the extraction of information from unstructured documents 
+      (e.g., clinician notes, radiology reports, lab reports, etc.) to output a set of 
+      structured variables required for RWD analysis. This research used a nationwide 
+      electronic health record (EHR)-derived database. Models were selected based on 
+      performance. Variables curated with an approach using ML extraction are those 
+      where the value is determined solely based on an ML model (i.e. not confirmed by 
+      abstraction), which identifies key information from visit notes and documents. 
+      These models do not predict future events or infer missing information. Results: 
+      We developed an approach using NLP and ML for extraction of clinically meaningful 
+      information from unstructured EHR documents and found high performance of output 
+      variables compared with variables curated by manually abstracted data. These 
+      extraction methods resulted in research-ready variables including initial cancer 
+      diagnosis with date, advanced/metastatic diagnosis with date, disease stage, 
+      histology, smoking status, surgery status with date, biomarker test results with 
+      dates, and oral treatments with dates. Conclusion: NLP and ML enable the 
+      extraction of retrospective clinical data in EHR with speed and scalability to 
+      help researchers learn from the experience of every person with cancer.
+CI  - Copyright © 2023 Adamson, Waskom, Blarre, Kelly, Krismer, Nemeth, Gippetti, 
+      Ritten, Harrison, Ho, Linzmayer, Bansal, Wilkinson, Amster, Estola, Benedum, 
+      Fidyk, Estévez, Shapiro and Cohen.
+FAU - Adamson, Blythe
+AU  - Adamson B
+AD  - Flatiron Health, Inc., New York, NY, United States.
+AD  - The Comparative Health Outcomes, Policy, and Economics (CHOICE) Institute, 
+      Department of Pharmacy, University of Washington, Seattle, WA, United States.
+FAU - Waskom, Michael
+AU  - Waskom M
+AD  - Flatiron Health, Inc., New York, NY, United States.
+FAU - Blarre, Auriane
+AU  - Blarre A
+AD  - Flatiron Health, Inc., New York, NY, United States.
+FAU - Kelly, Jonathan
+AU  - Kelly J
+AD  - Flatiron Health, Inc., New York, NY, United States.
+FAU - Krismer, Konstantin
+AU  - Krismer K
+AD  - Flatiron Health, Inc., New York, NY, United States.
+FAU - Nemeth, Sheila
+AU  - Nemeth S
+AD  - Flatiron Health, Inc., New York, NY, United States.
+FAU - Gippetti, James
+AU  - Gippetti J
+AD  - Flatiron Health, Inc., New York, NY, United States.
+FAU - Ritten, John
+AU  - Ritten J
+AD  - Flatiron Health, Inc., New York, NY, United States.
+FAU - Harrison, Katherine
+AU  - Harrison K
+AD  - Flatiron Health, Inc., New York, NY, United States.
+FAU - Ho, George
+AU  - Ho G
+AD  - Flatiron Health, Inc., New York, NY, United States.
+FAU - Linzmayer, Robin
+AU  - Linzmayer R
+AD  - Flatiron Health, Inc., New York, NY, United States.
+FAU - Bansal, Tarun
+AU  - Bansal T
+AD  - Flatiron Health, Inc., New York, NY, United States.
+FAU - Wilkinson, Samuel
+AU  - Wilkinson S
+AD  - Flatiron Health, Inc., New York, NY, United States.
+FAU - Amster, Guy
+AU  - Amster G
+AD  - Flatiron Health, Inc., New York, NY, United States.
+FAU - Estola, Evan
+AU  - Estola E
+AD  - Flatiron Health, Inc., New York, NY, United States.
+FAU - Benedum, Corey M
+AU  - Benedum CM
+AD  - Flatiron Health, Inc., New York, NY, United States.
+FAU - Fidyk, Erin
+AU  - Fidyk E
+AD  - Flatiron Health, Inc., New York, NY, United States.
+FAU - Estévez, Melissa
+AU  - Estévez M
+AD  - Flatiron Health, Inc., New York, NY, United States.
+FAU - Shapiro, Will
+AU  - Shapiro W
+AD  - Flatiron Health, Inc., New York, NY, United States.
+FAU - Cohen, Aaron B
+AU  - Cohen AB
+AD  - Flatiron Health, Inc., New York, NY, United States.
+AD  - Department of Medicine, NYU Grossman School of Medicine, New York, NY, United 
+      States.
+LA  - eng
+PT  - Journal Article
+DEP - 20230915
+PL  - Switzerland
+TA  - Front Pharmacol
+JT  - Frontiers in pharmacology
+JID - 101548923
+PMC - PMC10541019
+OTO - NOTNLM
+OT  - artificial intelligence
+OT  - cancer
+OT  - electronic health records
+OT  - machine learning
+OT  - natural language processing
+OT  - oncology
+OT  - real-world data
+COIS- Authors BA, MW, AB, JK, KK, SN, JG, JR, KH, GH, RL, TB, SW, GA, EE, CB, EF, ME, 
+      WS, and AB are employees of Flatiron Health, Inc., which is an independent member 
+      of the Roche group, and own stock in Roche.
+EDAT- 2023/10/02 06:42
+MHDA- 2023/10/02 06:43
+CRDT- 2023/10/02 04:51
+PHST- 2023/03/06 00:00 [received]
+PHST- 2023/08/25 00:00 [accepted]
+PHST- 2023/10/02 06:43 [medline]
+PHST- 2023/10/02 06:42 [pubmed]
+PHST- 2023/10/02 04:51 [entrez]
+AID - 1180962 [pii]
+AID - 10.3389/fphar.2023.1180962 [doi]
+PST - epublish
+SO  - Front Pharmacol. 2023 Sep 15;14:1180962. doi: 10.3389/fphar.2023.1180962. 
+      eCollection 2023.
+
+PMID- 37781591
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20231019
+DP  - 2023 Sep 14
+TI  - ChatGPT Assisting Diagnosis of Neuro-ophthalmology Diseases Based on Case 
+      Reports.
+LID - 2023.09.13.23295508 [pii]
+LID - 10.1101/2023.09.13.23295508 [doi]
+AB  - PURPOSE: To evaluate the efficiency of large language models (LLMs) including 
+      ChatGPT to assist in diagnosing neuro-ophthalmic diseases based on case reports. 
+      DESIGN: Prospective study. SUBJECTS OR PARTICIPANTS: We selected 22 different 
+      case reports of neuro-ophthalmic diseases from a publicly available online 
+      database. These cases included a wide range of chronic and acute diseases that 
+      are commonly seen by neuro-ophthalmic sub-specialists. METHODS: We inserted the 
+      text from each case as a new prompt into both ChatGPT v3.5 and ChatGPT Plus v4.0 
+      and asked for the most probable diagnosis. We then presented the exact 
+      information to two neuro-ophthalmologists and recorded their diagnoses followed 
+      by comparison to responses from both versions of ChatGPT. MAIN OUTCOME MEASURES: 
+      Diagnostic accuracy in terms of number of correctly diagnosed cases among 
+      diagnoses. RESULTS: ChatGPT v3.5, ChatGPT Plus v4.0, and the two 
+      neuro-ophthalmologists were correct in 13 (59%), 18 (82%), 19 (86%), and 19 (86%) 
+      out of 22 cases, respectively. The agreement between the various diagnostic 
+      sources were as follows: ChatGPT v3.5 and ChatGPT Plus v4.0, 13 (59%); ChatGPT 
+      v3.5 and the first neuro-ophthalmologist, 12 (55%); ChatGPT v3.5 and the second 
+      neuro-ophthalmologist, 12 (55%); ChatGPT Plus v4.0 and the first 
+      neuro-ophthalmologist, 17 (77%); ChatGPT Plus v4.0 and the second 
+      neuro-ophthalmologist, 16 (73%); and first and second neuro-ophthalmologists 17 
+      (17%). CONCLUSIONS: The accuracy of ChatGPT v3.5 and ChatGPT Plus v4.0 in 
+      diagnosing patients with neuro-ophthalmic diseases was 59% and 82%, respectively. 
+      With further development, ChatGPT Plus v4.0 may have potential to be used in 
+      clinical care settings to assist clinicians in providing quick, accurate 
+      diagnoses of patients in neuro-ophthalmology. The applicability of using LLMs 
+      like ChatGPT in clinical settings that lack access to subspeciality trained 
+      neuro-ophthalmologists deserves further research.
+FAU - Madadi, Yeganeh
+AU  - Madadi Y
+AD  - Department of Ophthalmology, University of Tennessee Health Science Center, 
+      Memphis, TN, USA.
+FAU - Delsoz, Mohammad
+AU  - Delsoz M
+AD  - Department of Ophthalmology, University of Tennessee Health Science Center, 
+      Memphis, TN, USA.
+FAU - Lao, Priscilla A
+AU  - Lao PA
+AD  - Department of Ophthalmology, University of Tennessee Health Science Center, 
+      Memphis, TN, USA.
+FAU - Fong, Joseph W
+AU  - Fong JW
+AD  - Department of Ophthalmology, University of Tennessee Health Science Center, 
+      Memphis, TN, USA.
+FAU - Hollingsworth, T J
+AU  - Hollingsworth TJ
+AD  - Department of Ophthalmology, University of Tennessee Health Science Center, 
+      Memphis, TN, USA.
+FAU - Kahook, Malik Y
+AU  - Kahook MY
+AD  - Department of Ophthalmology, University of Colorado School of Medicine, Aurora, 
+      CO, USA.
+FAU - Yousefi, Siamak
+AU  - Yousefi S
+AD  - Department of Ophthalmology, University of Tennessee Health Science Center, 
+      Memphis, TN, USA.
+AD  - Department of Genetics, Genomics, and Informatics, University of Tennessee Health 
+      Science Center, Memphis, TN, USA.
+LA  - eng
+GR  - R01 EY033005/EY/NEI NIH HHS/United States
+GR  - R21 EY031725/EY/NEI NIH HHS/United States
+PT  - Preprint
+DEP - 20230914
+PL  - United States
+TA  - medRxiv
+JT  - medRxiv : the preprint server for health sciences
+JID - 101767986
+PMC - PMC10540811
+OTO - NOTNLM
+OT  - Artificial Intelligence (AI)
+OT  - ChatGPT
+OT  - Diagnosis
+OT  - Large Language Models (LLM)
+OT  - Neuro-Ophthalmology
+COIS- Conflicts of interest/Competing interests: Authors declare no relevant conflict 
+      of interest(s) to disclose.
+EDAT- 2023/10/02 06:42
+MHDA- 2023/10/02 06:43
+CRDT- 2023/10/02 04:48
+PHST- 2023/10/02 06:42 [pubmed]
+PHST- 2023/10/02 06:43 [medline]
+PHST- 2023/10/02 04:48 [entrez]
+AID - 2023.09.13.23295508 [pii]
+AID - 10.1101/2023.09.13.23295508 [doi]
+PST - epublish
+SO  - medRxiv. 2023 Sep 14:2023.09.13.23295508. doi: 10.1101/2023.09.13.23295508. 
+      Preprint.
+
+PMID- 37781456
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20231003
+IS  - 2673-253X (Electronic)
+IS  - 2673-253X (Linking)
+VI  - 5
+DP  - 2023
+TI  - Perspectives on artificial intelligence in healthcare from a Patient and Public 
+      Involvement Panel in Japan: an exploratory study.
+PG  - 1229308
+LID - 10.3389/fdgth.2023.1229308 [doi]
+LID - 1229308
+AB  - Patients and members of the public are the end users of healthcare, but little is 
+      known about their views on the use of artificial intelligence (AI) in healthcare, 
+      particularly in the Japanese context. This paper reports on an exploratory 
+      two-part workshop conducted with members of a Patient and Public Involvement 
+      Panel in Japan, which was designed to identify their expectations and concerns 
+      about the use of AI in healthcare broadly. 55 expectations and 52 concerns were 
+      elicited from workshop participants, who were then asked to cluster and title 
+      these expectations and concerns. Thematic content analysis was used to identify 
+      12 major themes from this data. Participants had notable expectations around 
+      improved hospital administration, improved quality of care and patient 
+      experience, and positive changes in roles and relationships, and reductions in 
+      costs and disparities. These were counterbalanced by concerns about problematic 
+      changes to healthcare and a potential loss of autonomy, as well as risks around 
+      accountability and data management, and the possible emergence of new 
+      disparities. The findings reflect participants' expectations for AI as a possible 
+      solution for long-standing issues in healthcare, though their overall balanced 
+      view of AI mirrors findings reported in other contexts. Thus, this paper offers 
+      initial, novel insights into perspectives on AI in healthcare from the Japanese 
+      context. Moreover, the findings are used to argue for the importance of involving 
+      patient and public stakeholders in deliberation on AI in healthcare.
+CI  - © 2023 Katirai, Yamamoto, Kogetsu and Kato.
+FAU - Katirai, Amelia
+AU  - Katirai A
+AD  - Research Center on Ethical, Legal, and Social Issues, Osaka University, Suita, 
+      Japan.
+FAU - Yamamoto, Beverley Anne
+AU  - Yamamoto BA
+AD  - Graduate School of Human Sciences and Headquarters, Osaka University, Suita, 
+      Japan.
+FAU - Kogetsu, Atsushi
+AU  - Kogetsu A
+AD  - Department of Biomedical Ethics and Public Policy, Graduate School of Medicine, 
+      Osaka University, Suita, Japan.
+FAU - Kato, Kazuto
+AU  - Kato K
+AD  - Department of Biomedical Ethics and Public Policy, Graduate School of Medicine, 
+      Osaka University, Suita, Japan.
+LA  - eng
+PT  - Journal Article
+DEP - 20230913
+PL  - Switzerland
+TA  - Front Digit Health
+JT  - Frontiers in digital health
+JID - 101771889
+PMC - PMC10533983
+OTO - NOTNLM
+OT  - Patient and Public Involvement Panel
+OT  - artificial intelligence
+OT  - community participation
+OT  - healthcare
+OT  - patient and public involvement
+COIS- The authors declare that the research was conducted in the absence of any 
+      commercial or financial relationships that could be construed as a potential 
+      conflict of interest.
+EDAT- 2023/10/02 06:42
+MHDA- 2023/10/02 06:43
+CRDT- 2023/10/02 04:45
+PHST- 2023/05/26 00:00 [received]
+PHST- 2023/08/28 00:00 [accepted]
+PHST- 2023/10/02 06:43 [medline]
+PHST- 2023/10/02 06:42 [pubmed]
+PHST- 2023/10/02 04:45 [entrez]
+AID - 10.3389/fdgth.2023.1229308 [doi]
+PST - epublish
+SO  - Front Digit Health. 2023 Sep 13;5:1229308. doi: 10.3389/fdgth.2023.1229308. 
+      eCollection 2023.
+
+PMID- 37781436
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20231031
+LR  - 20231108
+IS  - 1949-8357 (Electronic)
+IS  - 1949-8349 (Print)
+IS  - 1949-8357 (Linking)
+VI  - 15
+IP  - 5
+DP  - 2023 Oct
+TI  - Residents, Faculty, and Artificial Intelligence: Brave New World or Utopia?
+PG  - 517-519
+LID - 10.4300/JGME-D-23-00534.1 [doi]
+FAU - Sullivan, Gail M
+AU  - Sullivan GM
+AD  - is Editor-in-Chief, Journal of Graduate Medical Education (JGME), and Associate 
+      Director for Education, Center on Aging, and Professor of Medicine, University of 
+      Connecticut Health Center.
+FAU - Simpson, Deborah
+AU  - Simpson D
+AUID- ORCID: 0000-0001-5272-6223
+AD  - is Deputy Editor, JGME, and Director of Education, Academic Affairs at Advocate 
+      Aurora Health, and Clinical Adjunct Professor of Family & Community Medicine, 
+      Medical College of Wisconsin, University of Wisconsin School of Medicine and 
+      Public Health.
+FAU - Yarris, Lalena M
+AU  - Yarris LM
+AUID- ORCID: 0000-0003-1277-2852
+AD  - is Deputy Editor, JGME, and Professor of Emergency Medicine, Oregon Health & 
+      Science University; and.
+FAU - Artino, Anthony R Jr
+AU  - Artino AR Jr
+AUID- ORCID: 0000-0003-2661-7853
+AD  - is Deputy Editor, JGME, and Professor and Associate Dean for Evaluation and 
+      Educational Research, The George Washington University School of Medicine and 
+      Health Sciences.
+LA  - eng
+PT  - Editorial
+PL  - United States
+TA  - J Grad Med Educ
+JT  - Journal of graduate medical education
+JID - 101521733
+SB  - IM
+MH  - Humans
+MH  - *Artificial Intelligence
+MH  - Utopias
+MH  - *Internship and Residency
+MH  - Faculty
+PMC - PMC10539142
+EDAT- 2023/10/02 06:42
+MHDA- 2023/10/31 06:42
+CRDT- 2023/10/02 04:45
+PHST- 2023/10/31 06:42 [medline]
+PHST- 2023/10/02 06:42 [pubmed]
+PHST- 2023/10/02 04:45 [entrez]
+AID - 10.4300/JGME-D-23-00534.1 [doi]
+PST - ppublish
+SO  - J Grad Med Educ. 2023 Oct;15(5):517-519. doi: 10.4300/JGME-D-23-00534.1.
+
+PMID- 37781313
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20231003
+IS  - 2297-055X (Print)
+IS  - 2297-055X (Electronic)
+IS  - 2297-055X (Linking)
+VI  - 10
+DP  - 2023
+TI  - Clinical applicability of an artificial intelligence prediction algorithm for 
+      early prediction of non-persistent atrial fibrillation.
+PG  - 1168054
+LID - 10.3389/fcvm.2023.1168054 [doi]
+LID - 1168054
+AB  - BACKGROUND AND AIMS: It is difficult to document atrial fibrillation (AF) on ECG 
+      in patients with non-persistent atrial fibrillation (non-PeAF). There is limited 
+      understanding of whether an AI prediction algorithm could predict the occurrence 
+      of non-PeAF from the information of normal sinus rhythm (SR) of a 12-lead ECG. 
+      This study aimed to derive a precise predictive AI model for screening non-PeAF 
+      using SR ECG within 4 weeks. METHODS: This retrospective cohort study included 
+      patients aged 18 to 99 with SR ECG on 12-lead standard ECG (10 seconds) in Ewha 
+      Womans University Medical Center for 3 years. Data were preprocessed into three 
+      window periods (which are defined with the duration from SR to non-PeAF 
+      detection) - 1 week, 2 weeks, and 4 weeks from the AF detection prospectively. 
+      For experiments, we adopted a Residual Neural Network model based on 1D-CNN 
+      proposed in a previous study. We used 7,595 SR ECGs (extracted from 215,875 ECGs) 
+      with window periods of 1 week, 2 weeks, and 4 weeks for analysis. RESULTS: The 
+      prediction algorithm showed an AUC of 0.862 and an F1-score of 0.84 in the 1:4 
+      matched group of a 1-week window period. For the 1:4 matched group of a 2-week 
+      window period, it showed an AUC of 0.864 and an F1-score of 0.85. Finally, for 
+      the 1:4 matched group of a 4-week window period, it showed an AUC of 0.842 and an 
+      F1-score of 0.83. CONCLUSION: The AI prediction algorithm showed the possibility 
+      of risk stratification for early detection of non-PeAF. Moreover, this study 
+      showed that a short window period is also sufficient to detect non-PeAF.
+CI  - © 2023 Kim, Joo, Jeon, Kim, Shin, Im and Park.
+FAU - Kim, Yeji
+AU  - Kim Y
+AD  - Cardiovascular Center, Department of Internal Medicine, College of Medicine, Ewha 
+      Womans University Medical Center, Seoul, Republic of Korea.
+FAU - Joo, Gihun
+AU  - Joo G
+AD  - Interdisciplinary Graduate Program in Medical Bigdata Convergence, Kangwon 
+      National University, Chuncheon, Republic of Korea.
+FAU - Jeon, Bo-Kyung
+AU  - Jeon BK
+AD  - Cardiovascular Center, Department of Internal Medicine, College of Medicine, Ewha 
+      Womans University Medical Center, Seoul, Republic of Korea.
+FAU - Kim, Dong-Hyeok
+AU  - Kim DH
+AD  - Cardiovascular Center, Department of Internal Medicine, College of Medicine, Ewha 
+      Womans University Medical Center, Seoul, Republic of Korea.
+FAU - Shin, Tae Young
+AU  - Shin TY
+AD  - Department of Urology, College of Medicine, Ewha Womans University Medical 
+      Center, SYNERGY AI, Ewha Womans University Mokdong Hospital, Seoul, Republic of 
+      Korea.
+FAU - Im, Hyeonseung
+AU  - Im H
+AD  - Interdisciplinary Graduate Program in Medical Bigdata Convergence, Kangwon 
+      National University, Chuncheon, Republic of Korea.
+AD  - Department of Computer Science and Engineering, Kangwon National University, 
+      Chuncheon, Republic of Korea.
+FAU - Park, Junbeom
+AU  - Park J
+AD  - Cardiovascular Center, Department of Internal Medicine, College of Medicine, Ewha 
+      Womans University Medical Center, Seoul, Republic of Korea.
+LA  - eng
+PT  - Journal Article
+DEP - 20230913
+PL  - Switzerland
+TA  - Front Cardiovasc Med
+JT  - Frontiers in cardiovascular medicine
+JID - 101653388
+PMC - PMC10534067
+OTO - NOTNLM
+OT  - artificial intelligence
+OT  - convolutional neural network
+OT  - electrocardiogram
+OT  - non-persistent atrial fibrillation
+OT  - normal sinus rhythm
+COIS- The authors declare that the research was conducted in the absence of any 
+      commercial or financial relationships that could be construed as a potential 
+      conflict of interest.
+EDAT- 2023/10/02 06:42
+MHDA- 2023/10/02 06:43
+CRDT- 2023/10/02 04:42
+PHST- 2023/02/17 00:00 [received]
+PHST- 2023/08/15 00:00 [accepted]
+PHST- 2023/10/02 06:43 [medline]
+PHST- 2023/10/02 06:42 [pubmed]
+PHST- 2023/10/02 04:42 [entrez]
+AID - 10.3389/fcvm.2023.1168054 [doi]
+PST - epublish
+SO  - Front Cardiovasc Med. 2023 Sep 13;10:1168054. doi: 10.3389/fcvm.2023.1168054. 
+      eCollection 2023.
+
+PMID- 37781229
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20231003
+IS  - 1664-042X (Print)
+IS  - 1664-042X (Electronic)
+IS  - 1664-042X (Linking)
+VI  - 14
+DP  - 2023
+TI  - A new method for evaluating lung volume: AI-3D reconstruction.
+PG  - 1217411
+LID - 10.3389/fphys.2023.1217411 [doi]
+LID - 1217411
+AB  - Objective: This study aims to explore the clinical application of an AI-3D 
+      reconstruction system in measuring lung volume and analyze its practical value in 
+      donor-recipient size matching in lung transplantation. Methods: The study 
+      retrospectively collected data from 75 subjects who underwent a plethysmography 
+      examination and lung CT at the First Hospital of Jilin University. General data 
+      and information related to lung function, and imaging results were collected. The 
+      correlation between actual total lung volume (aTLV), predicted total lung volume 
+      (pTLV), and artificial intelligence three-dimensional reconstruction CT lung 
+      volume (AI-3DCTVol) was analyzed for the overall, male, and female groups. The 
+      correlation coefficient and the absolute error percentage with pTLV and 
+      AI-3DCTVol were obtained. Results: In the overall, male, and female groups, there 
+      were statistical differences (p <0.05) between the pTLV formula and AI-3D 
+      reconstruction compared to the plethysmography examination value. The ICC between 
+      pTLV and aTLV for all study participants was 0.788 (95% CI: 0.515-0.893), p 
+      <0.001. Additionally, the ICC value between AI-3D reconstruction and aTLV was 
+      0.792 (95% CI: 0.681-0.866), p <0.001. For male study participants, the ICC 
+      between pTLV and aTLV was 0.330 (95% CI: 0.032-0.617), p = 0.006. Similarly, the 
+      ICC value between AI-3D reconstruction and aTLV was 0.413 (95% CI: 0.089-0.662), 
+      p = 0.007. In the case of female research subjects, the ICC between pTLV and aTLV 
+      was 0.279 (95% CI: 0.001-0.523), p = 0.012. Further, the ICC value between AI-3D 
+      reconstruction and aTLV was 0.615 (95% CI: 0.561-0.870), p <0.001. Conclusion: 
+      The AI-3D reconstruction, as a convenient method, has significant potential for 
+      application in lung transplantation.
+CI  - Copyright © 2023 Rui, Yuhang, Yang, Yue, Ze, Yujie, Xiaochao, Da, Youbin and 
+      Tianyu.
+FAU - Rui, Wang
+AU  - Rui W
+AD  - Department of Thoracic Surgery, The First Hospital of Jilin University, 
+      Changchun, China.
+AD  - School of Public Health, Jilin University, Changchun, China.
+FAU - Yuhang, Shang
+AU  - Yuhang S
+AD  - Department of Thoracic Surgery, The First Hospital of Jilin University, 
+      Changchun, China.
+FAU - Yang, Li
+AU  - Yang L
+AD  - Department of Thoracic Surgery, The First Hospital of Jilin University, 
+      Changchun, China.
+FAU - Yue, Yang
+AU  - Yue Y
+AD  - Department of Thoracic Surgery, The First Hospital of Jilin University, 
+      Changchun, China.
+FAU - Ze, Tang
+AU  - Ze T
+AD  - Department of Thoracic Surgery, The First Hospital of Jilin University, 
+      Changchun, China.
+FAU - Yujie, Zhao
+AU  - Yujie Z
+AD  - Department of Thoracic Surgery, The First Hospital of Jilin University, 
+      Changchun, China.
+AD  - Department of Critical Medicine, The First Affiliated Hospital of Jiamusi 
+      University, Jiamusi, China.
+FAU - Xiaochao, Ma
+AU  - Xiaochao M
+AD  - Department of Thoracic Surgery, The First Hospital of Jilin University, 
+      Changchun, China.
+FAU - Da, Qin
+AU  - Da Q
+AD  - Department of Thoracic Surgery, The First Hospital of Jilin University, 
+      Changchun, China.
+FAU - Youbin, Cui
+AU  - Youbin C
+AD  - Department of Thoracic Surgery, The First Hospital of Jilin University, 
+      Changchun, China.
+FAU - Tianyu, Lu
+AU  - Tianyu L
+AD  - Department of Thoracic Surgery, The First Hospital of Jilin University, 
+      Changchun, China.
+LA  - eng
+PT  - Journal Article
+DEP - 20230914
+PL  - Switzerland
+TA  - Front Physiol
+JT  - Frontiers in physiology
+JID - 101549006
+PMC - PMC10538118
+OTO - NOTNLM
+OT  - AI-3D reconstruction
+OT  - ICC
+OT  - donor-recipient lung volume matching
+OT  - lung transplantation
+OT  - lung volume calculation
+COIS- The authors declare that the research was conducted in the absence of any 
+      commercial or financial relationships that could be construed as a potential 
+      conflict of interest.
+EDAT- 2023/10/02 06:42
+MHDA- 2023/10/02 06:43
+CRDT- 2023/10/02 04:41
+PHST- 2023/05/05 00:00 [received]
+PHST- 2023/08/07 00:00 [accepted]
+PHST- 2023/10/02 06:43 [medline]
+PHST- 2023/10/02 06:42 [pubmed]
+PHST- 2023/10/02 04:41 [entrez]
+AID - 1217411 [pii]
+AID - 10.3389/fphys.2023.1217411 [doi]
+PST - epublish
+SO  - Front Physiol. 2023 Sep 14;14:1217411. doi: 10.3389/fphys.2023.1217411. 
+      eCollection 2023.

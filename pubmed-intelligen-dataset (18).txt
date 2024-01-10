@@ -1,0 +1,1002 @@
+PMID- 37777176
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20231221
+LR  - 20240103
+IS  - 1878-8769 (Electronic)
+IS  - 1878-8750 (Linking)
+VI  - 180
+DP  - 2023 Dec
+TI  - Memory, Executive, and Intellectual Functions in Adults with Moyamoya Disease.
+PG  - e474-e483
+LID - S1878-8750(23)01360-8 [pii]
+LID - 10.1016/j.wneu.2023.09.092 [doi]
+AB  - OBJECTIVE: Cognitive function can decline in adults with moyamoya disease (MMD). 
+      Memory, which is an essential but complex and multifaceted function, underpins 
+      executive and intellectual functions. However, the relationship between memory 
+      and executive or intellectual functions in adults with MMD has not been well 
+      studied. The relationship between memory and cerebral blood flow has also not 
+      been elucidated. This study investigated correlations between memory, executive 
+      function, and intellectual function, and associations between cerebral blood flow 
+      and memory in adults with MMD. METHODS: Memory, executive function, and 
+      intellectual function were assessed using the Wechsler Memory Scale-Revised 
+      (WMS-R), Frontal Assessment Battery (FAB), and Wechsler Adult Intelligence Scale 
+      (WAIS) third or fourth edition, respectively, in 31 adults with MMD. Cerebral 
+      blood flow was measured with iodine (123)I-iodoamphetamine single-photon emission 
+      computed tomography. RESULTS: WMS-R scores correlated significantly with total 
+      FAB and WAIS scores before and after revascularization. Cerebral blood flow in 
+      the left posterior cerebral artery territory correlated positively with WMS-R and 
+      WAIS scores pre- and postoperatively. Postoperative cerebrovascular reserves of 
+      the right cerebellum, pons, and vermis were positively associated with visual 
+      memory, and postoperative cerebrovascular reserve of the pons was also associated 
+      with general memory. CONCLUSIONS: Memory function correlates with executive and 
+      intellectual functions in adults with MMD. The FAB, which requires about 10 min 
+      to administer, might be useful to screen for memory dysfunction. Memory might be 
+      vulnerable to hypoperfusion in the posterior cerebral artery territory among 
+      adults with MMD. Postoperative cerebrovascular reserve might help predict memory 
+      dysfunction in adults with MMD.
+CI  - Copyright © 2023 Elsevier Inc. All rights reserved.
+FAU - Maehara, Naoki
+AU  - Maehara N
+AD  - Department of Neurosurgery, Graduate School of Medical Sciences, Kyushu 
+      University, Fukuoka, Japan.
+FAU - Nakamizo, Akira
+AU  - Nakamizo A
+AD  - Department of Neurosurgery, Graduate School of Medical Sciences, Kyushu 
+      University, Fukuoka, Japan. Electronic address: 
+      nakamizo.akira.380@m.kyushu-u.ac.jp.
+FAU - Arimura, Koichi
+AU  - Arimura K
+AD  - Department of Neurosurgery, Graduate School of Medical Sciences, Kyushu 
+      University, Fukuoka, Japan.
+FAU - Yoshimoto, Koji
+AU  - Yoshimoto K
+AD  - Department of Neurosurgery, Graduate School of Medical Sciences, Kyushu 
+      University, Fukuoka, Japan.
+LA  - eng
+PT  - Journal Article
+DEP - 20230928
+PL  - United States
+TA  - World Neurosurg
+JT  - World neurosurgery
+JID - 101528275
+RN  - 8YWR746RPQ (Iodine-123)
+RN  - Moyamoya disease 1
+SB  - IM
+MH  - Adult
+MH  - Humans
+MH  - *Moyamoya Disease/complications/diagnostic imaging/surgery
+MH  - Cognition/physiology
+MH  - Executive Function
+MH  - *Mental Disorders/complications
+MH  - Cerebrovascular Circulation
+MH  - *Cerebral Revascularization
+OTO - NOTNLM
+OT  - Cerebral blood flow
+OT  - Executive function
+OT  - Intellectual function
+OT  - Memory
+OT  - Moyamoya disease
+EDAT- 2023/10/01 04:44
+MHDA- 2023/12/21 06:42
+CRDT- 2023/09/30 19:19
+PHST- 2023/08/02 00:00 [received]
+PHST- 2023/09/20 00:00 [revised]
+PHST- 2023/09/21 00:00 [accepted]
+PHST- 2023/12/21 06:42 [medline]
+PHST- 2023/10/01 04:44 [pubmed]
+PHST- 2023/09/30 19:19 [entrez]
+AID - S1878-8750(23)01360-8 [pii]
+AID - 10.1016/j.wneu.2023.09.092 [doi]
+PST - ppublish
+SO  - World Neurosurg. 2023 Dec;180:e474-e483. doi: 10.1016/j.wneu.2023.09.092. Epub 
+      2023 Sep 28.
+
+PMID- 37777066
+OWN - NLM
+STAT- Publisher
+LR  - 20231108
+IS  - 2213-2961 (Electronic)
+IS  - 2213-2961 (Linking)
+DP  - 2023 Sep 29
+TI  - A scoping review of methodologies for applying artificial intelligence to 
+      physical activity interventions.
+LID - S2095-2546(23)00095-9 [pii]
+LID - 10.1016/j.jshs.2023.09.010 [doi]
+AB  - BACKGROUND: This scoping review aimed to offer researchers and practitioners an 
+      understanding of artificial intelligence (AI) applications in physical activity 
+      (PA) interventions; introduce them to prevalent machine learning (ML), deep 
+      learning (DL), and reinforcement learning (RL) algorithms; and encourage the 
+      adoption of AI methodologies. METHODS: A scoping review was performed in PubMed, 
+      Web of Science, Cochrane Library, and EBSCO focusing on AI applications for 
+      promoting PA or predicting related behavioral or health outcomes. AI 
+      methodologies were summarized and categorized to identify synergies, patterns, 
+      and trends informing future research. Additionally, a concise primer on 
+      predominant AI methodologies within the realm of PA was provided to bolster 
+      understanding and broader application. RESULTS: The review included 24 studies 
+      that met the predetermined eligibility criteria. AI models were found effective 
+      in detecting significant patterns of PA behavior and associations between 
+      specific factors and intervention outcomes. Most studies comparing AI models to 
+      traditional statistical approaches reported higher prediction accuracy for AI 
+      models on test data. Comparisons of different AI models yielded mixed results, 
+      likely due to model performance being highly dependent on the dataset and task. 
+      An increasing trend of adopting state-of-the-art DL and RL models over standard 
+      ML was observed, addressing complex human-machine communication, behavior 
+      modification, and decision-making tasks. Six key areas for future AI adoption in 
+      PA interventions emerged: personalized PA interventions, real-time monitoring and 
+      adaptation, integration of multimodal data sources, evaluation of intervention 
+      effectiveness, expanding access to PA interventions, and predicting and 
+      preventing injuries. CONCLUSION: The scoping review highlights the potential of 
+      AI methodologies for advancing PA interventions. As the field progresses, staying 
+      informed and exploring emerging AI-driven strategies is essential for achieving 
+      significant improvements in PA interventions and fostering overall well-being.
+CI  - Copyright © 2023. Production and hosting by Elsevier B.V.
+FAU - An, Ruopeng
+AU  - An R
+AD  - Brown School, Washington University, St. Louis, MO 63130, USA. Electronic 
+      address: ruopeng@wustl.edu.
+FAU - Shen, Jing
+AU  - Shen J
+AD  - Department of Physical Education, China University of Geosciences Beijing, 
+      Beijing 100083, China.
+FAU - Wang, Junjie
+AU  - Wang J
+AD  - School of Kinesiology and Health Promotion, Dalian University of Technology, 
+      Dalian 116024, China.
+FAU - Yang, Yuyi
+AU  - Yang Y
+AD  - Brown School, Washington University, St. Louis, MO 63130, USA; Division of 
+      Computational and Data Sciences, Washington University, St. Louis, MO 63130, USA.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+DEP - 20230929
+PL  - China
+TA  - J Sport Health Sci
+JT  - Journal of sport and health science
+JID - 101606001
+SB  - IM
+OTO - NOTNLM
+OT  - Artificial intelligence
+OT  - Intervention
+OT  - Machine learning
+OT  - Neural network
+OT  - Physical activity
+EDAT- 2023/10/01 04:44
+MHDA- 2023/10/01 04:44
+CRDT- 2023/09/30 19:16
+PHST- 2023/04/28 00:00 [received]
+PHST- 2023/06/29 00:00 [revised]
+PHST- 2023/08/30 00:00 [accepted]
+PHST- 2023/10/01 04:44 [pubmed]
+PHST- 2023/10/01 04:44 [medline]
+PHST- 2023/09/30 19:16 [entrez]
+AID - S2095-2546(23)00095-9 [pii]
+AID - 10.1016/j.jshs.2023.09.010 [doi]
+PST - aheadofprint
+SO  - J Sport Health Sci. 2023 Sep 29:S2095-2546(23)00095-9. doi: 
+      10.1016/j.jshs.2023.09.010.
+
+PMID- 37777063
+OWN - NLM
+STAT- Publisher
+LR  - 20231018
+IS  - 2090-1224 (Electronic)
+IS  - 2090-1224 (Linking)
+DP  - 2023 Sep 28
+TI  - Efficient improvement of the proliferation, differentiation, and anti-arthritic 
+      capacity of mesenchymal stem cells by simply culturing on the immobilized FGF2 
+      derived peptide, 44-ERGVVSIKGV-53.
+LID - S2090-1232(23)00290-4 [pii]
+LID - 10.1016/j.jare.2023.09.041 [doi]
+AB  - INTRODUCTION: The stem cell microenvironment has been evidenced to robustly 
+      affect its biological functions and clinical grade. Natural or synthetic growth 
+      factors, especially, are essential for modulating stem cell proliferation, 
+      metabolism, and differentiation via the interaction with specific extracellular 
+      receptors. Fibroblast growth factor-2 (FGF-2) possesses pleiotropic functions in 
+      various tissues and organs. It interacts with the FGF receptor (FGFR) and 
+      activates FGFR signaling pathways, which involve numerous biological functions, 
+      such as angiogenesis, wound healing, cell proliferation, and differentiation. 
+      OBJECTIVES: Here, we aim to explore the molecular functions, mode of action, and 
+      therapeutic activity of yet undetermined function, FGF-2-derived peptide, FP2 
+      (44-ERGVVSIKGV-53) in promoting the proliferation, differentiation, and 
+      therapeutic application of human Wharton's jelly mesenchymal stem cells 
+      (hWJ-MSCs) in comparison to other test peptides, canofin1 (FP1), hexafin2 (FP3), 
+      and canofin3 (FP4) with known functions. METHODS: The immobilization of test 
+      peptides that are fused with mussel adhesive proteins (MAP) on the culture plate 
+      was carried out via EDC/NHS chemistry. Cell Proliferation assay, colony-forming 
+      unit, western blotting analysis, gene expression analysis, RNA-Seq. analysis, 
+      osteogenic, and chondrogenic differentiation capacity were applied to test the 
+      activity of the test peptides. We additionally utilized three-dimensional (3D) 
+      structural analysis and artificial intelligence (AI)-based AlphaFold2 and 
+      CABS-dock programs for receptor interaction prediction of the peptide receptor. 
+      We also verified the in vivo therapeutic capacity of FP2-cultured hWJ-MSCs using 
+      an osteoarthritis mice model. RESULTS: Culture of hWJ-MSC onto an FP2-immobilized 
+      culture plate showed a significant increase in cell proliferation (n = 3; 
+      *p < 0.05, **p < 0.01) and the colony-forming unit (n = 3; *p < 0.05, **p < 0.01) 
+      compared with the test peptides. FP2 showed a significantly upregulated 
+      phosphorylation of FRS2α and FGFR1 and activated the AKT and ERK signaling 
+      pathways (n = 3; *p < 0.05, **p < 0.01, ***p < 0.001). Interestingly, we detected 
+      efficient FP2 receptor binding that was predicted using AI-based tools. Treatment 
+      with an AKT inhibitor significantly abrogated the FP2-mediated enhancement of 
+      cell differentiation (n = 3; *p < 0.05, **p < 0.01, ***p < 0.001). 
+      Intra-articular injection of FP2-cultured MSCs significantly mitigated arthritis 
+      symptoms in an osteoarthritis mouse model, as shown through the functional tests 
+      (n = 10; *p < 0.05, **p < 0.01, ***p < 0.001, ****p < 0.0001), modulation of the 
+      expression level of the pro-inflammatory and anti-inflammatory genes, and 
+      improved osteochondral regeneration as demonstrated by tissue sections. 
+      CONCLUSION: Our study identified the FGF-2-derived peptide FP2 as a promising 
+      candidate peptide to improve the therapeutic potential of hWJ-MSCs, especially in 
+      bone and cartilage regeneration.
+CI  - Copyright © 2023. Production and hosting by Elsevier B.V.
+FAU - Lee, Soo Bin
+AU  - Lee SB
+AD  - Department of Stem Cell and Regenerative Biotechnology, Molecular & Cellular 
+      Reprogramming Center and Institute of Advanced Regenerative Science, Konkuk 
+      University, 120 Neungdong-ro, Gwangjin-gu, Seoul 05029, Republic of Korea.
+FAU - Abdal Dayem, Ahmed
+AU  - Abdal Dayem A
+AD  - Department of Stem Cell and Regenerative Biotechnology, Molecular & Cellular 
+      Reprogramming Center and Institute of Advanced Regenerative Science, Konkuk 
+      University, 120 Neungdong-ro, Gwangjin-gu, Seoul 05029, Republic of Korea.
+FAU - Kmiecik, Sebastian
+AU  - Kmiecik S
+AD  - Biological and Chemical Research Centre, Faculty of Chemistry, University of 
+      Warsaw, 02-089 Warsaw, Poland.
+FAU - Lim, Kyung Min
+AU  - Lim KM
+AD  - Department of Stem Cell and Regenerative Biotechnology, Molecular & Cellular 
+      Reprogramming Center and Institute of Advanced Regenerative Science, Konkuk 
+      University, 120 Neungdong-ro, Gwangjin-gu, Seoul 05029, Republic of Korea; R&D 
+      Team, StemExOne Co., Ltd., 307 KU Technology Innovation Bldg, 120, Neungdong-ro, 
+      Gwangjin-gu, Seoul 05029, Republic of Korea.
+FAU - Seo, Dong Sik
+AU  - Seo DS
+AD  - Stem Cell Research Center of AMOLIFESCIENCE Co., Ltd, 91, Gimpo-daero 1950 
+      Beon-gil, Tongjin-eup, Gimpo-si, Gyeonggi-do 10014, Republic of Korea.
+FAU - Kim, Hyeong-Taek
+AU  - Kim HT
+AD  - Stem Cell Research Center of AMOLIFESCIENCE Co., Ltd, 91, Gimpo-daero 1950 
+      Beon-gil, Tongjin-eup, Gimpo-si, Gyeonggi-do 10014, Republic of Korea.
+FAU - Kumar Biswas, Polash
+AU  - Kumar Biswas P
+AD  - Department of Stem Cell and Regenerative Biotechnology, Molecular & Cellular 
+      Reprogramming Center and Institute of Advanced Regenerative Science, Konkuk 
+      University, 120 Neungdong-ro, Gwangjin-gu, Seoul 05029, Republic of Korea.
+FAU - Do, Minjae
+AU  - Do M
+AD  - Department of Biomedical Engineering, Johns Hopkins University, Baltimore, MD 
+      21205 USA.
+FAU - Kim, Deok-Ho
+AU  - Kim DH
+AD  - Department of Biomedical Engineering, Johns Hopkins University, Baltimore, MD 
+      21205 USA.
+FAU - Cho, Ssang-Goo
+AU  - Cho SG
+AD  - Department of Stem Cell and Regenerative Biotechnology, Molecular & Cellular 
+      Reprogramming Center and Institute of Advanced Regenerative Science, Konkuk 
+      University, 120 Neungdong-ro, Gwangjin-gu, Seoul 05029, Republic of Korea; R&D 
+      Team, StemExOne Co., Ltd., 307 KU Technology Innovation Bldg, 120, Neungdong-ro, 
+      Gwangjin-gu, Seoul 05029, Republic of Korea. Electronic address: 
+      ssangoo@konkuk.ac.kr.
+LA  - eng
+PT  - Journal Article
+DEP - 20230928
+PL  - Egypt
+TA  - J Adv Res
+JT  - Journal of advanced research
+JID - 101546952
+SB  - IM
+OTO - NOTNLM
+OT  - A.I.
+OT  - Differentiation
+OT  - FGF-2
+OT  - Osteoarthritis
+OT  - Peptide immobilization
+OT  - Proliferation
+COIS- Declaration of Competing Interest The authors declare that they have no known 
+      competing financial interests or personal relationships that could have appeared 
+      to influence the work reported in this paper.
+EDAT- 2023/10/01 04:44
+MHDA- 2023/10/01 04:44
+CRDT- 2023/09/30 19:16
+PHST- 2022/09/06 00:00 [received]
+PHST- 2023/08/23 00:00 [revised]
+PHST- 2023/09/26 00:00 [accepted]
+PHST- 2023/10/01 04:44 [pubmed]
+PHST- 2023/10/01 04:44 [medline]
+PHST- 2023/09/30 19:16 [entrez]
+AID - S2090-1232(23)00290-4 [pii]
+AID - 10.1016/j.jare.2023.09.041 [doi]
+PST - aheadofprint
+SO  - J Adv Res. 2023 Sep 28:S2090-1232(23)00290-4. doi: 10.1016/j.jare.2023.09.041.
+
+PMID- 37777031
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20231127
+LR  - 20231127
+IS  - 1872-7573 (Electronic)
+IS  - 0378-8741 (Linking)
+VI  - 319
+IP  - Pt 2
+DP  - 2024 Jan 30
+TI  - Multi-target meridians classification based on the topological structure of 
+      anti-cancer phytochemicals using deep learning.
+PG  - 117244
+LID - S0378-8741(23)01114-5 [pii]
+LID - 10.1016/j.jep.2023.117244 [doi]
+AB  - ETHNOPHARMACOLOGICAL RELEVANCE: Traditional Chinese medicine (TCM) meridian is 
+      the key theoretical guidance of prescription against tumor in clinical practice. 
+      However, there is no scientific and systematic verification of therapeutic action 
+      of herbs under meridians context. Several studies have determined the Chinese 
+      herbal medicine (CHM) phytochemicals for intrinsic attribute or meridians 
+      classification based on artificial intelligence (AI) tools. However, it is 
+      challenging to represent the complex molecular structures with large 
+      heterogeneity through the current technologies. In addition, the multiple 
+      correspondence between herbs and meridians has not been paid much attention. AIM 
+      OF THE STUDY: We aim to develop an AI framework to classify multi-target 
+      meridians through the topological structure of phytochemicals. MATERIALS AND 
+      METHODS: A total of 354 anti-cancer herbs, their corresponding TCM meridians and 
+      5471 ingredient compounds were collected from public databases of CancerHSP, 
+      ETCM, and Hit 2.0. The statistical analysis of herbal and compound datasets, 
+      clustering analysis of the associated cancers, and correlational analysis of 
+      meridian tropism were preliminary conducted. Then a deep learning (DL) hybrid 
+      model named GRMC consisting of graph convolutional network (GCN) and recurrent 
+      neural network (RNN) was employed to generate the meridian multi-label sequences 
+      based on molecular graph. RESULTS: The curing herbs against tumors have tight 
+      relationships to lung, liver, stomach, and spleen meridians. These herbs behave 
+      different properties in curing certain cancer. Certain cancer types have 
+      co-occurrence such as ovarian, bladder and cervical cancer. Compounds have 
+      multitarget meridians with characteristics of higher-order correlations. Compared 
+      with the other state-of-the-art algorithms on the datasets and previous methods 
+      dealing with conventional fixed fingerprints of herbal compounds, the proposed 
+      GRMC has superior overall performance on testing dataset with the one error of 
+      0.183, hamming loss of 0.112, mean averaged accuracy (MAA) of 0.855, mean 
+      averaged precision (MAP) of 0.891, mean averaged recall (MAR) of 0.812, and mean 
+      averaged F1 score (MAF) of 0.849. CONCLUSIONS: The proposed method can predict 
+      multi-targeted meridians through neural graph features in herbal compounds and 
+      outperforms several comparison methods. It could provide a basis for 
+      understanding the molecular scientific evidence of TCM meridians.
+CI  - Copyright © 2023 Elsevier B.V. All rights reserved.
+FAU - Zhang, Sheng
+AU  - Zhang S
+AD  - Key Laboratory of Biorheological Science and Technology of Ministry of Education, 
+      College of Bioengineering, Chongqing University, No.174 Shazheng Road, Shapingba 
+      District, Chongqing, 400044, PR China. Electronic address: 
+      20191901658@cqu.edu.cn.
+FAU - Zhang, Xianwei
+AU  - Zhang X
+AD  - Key Laboratory of Biorheological Science and Technology of Ministry of Education, 
+      College of Bioengineering, Chongqing University, No.174 Shazheng Road, Shapingba 
+      District, Chongqing, 400044, PR China. Electronic address: 
+      202119021147t@cqu.edu.cn.
+FAU - Du, Jiayin
+AU  - Du J
+AD  - School of Pharmacy, Chongqing University, Chongqing, 400044, PR China. Electronic 
+      address: 20191801594@cqu.edu.cn.
+FAU - Wang, Wei
+AU  - Wang W
+AD  - Department of Cardiology, Chongqing University Cancer Hospital, No. 181 Hanyu 
+      Road, Shapingba District, Chongqing, 400030, PR China. Electronic address: 
+      DrWangweicquch@163.com.
+FAU - Pi, Xitian
+AU  - Pi X
+AD  - Key Laboratory of Biorheological Science and Technology of Ministry of Education, 
+      College of Bioengineering, Chongqing University, No.174 Shazheng Road, Shapingba 
+      District, Chongqing, 400044, PR China. Electronic address: pixitian@cqu.edu.cn.
+LA  - eng
+PT  - Journal Article
+DEP - 20230928
+PL  - Ireland
+TA  - J Ethnopharmacol
+JT  - Journal of ethnopharmacology
+JID - 7903310
+RN  - 0 (Drugs, Chinese Herbal)
+RN  - 0 (Phytochemicals)
+SB  - IM
+MH  - Humans
+MH  - *Drugs, Chinese Herbal/pharmacology/therapeutic use/chemistry
+MH  - *Deep Learning
+MH  - *Meridians
+MH  - Artificial Intelligence
+MH  - Medicine, Chinese Traditional
+MH  - *Neoplasms/drug therapy
+MH  - Phytochemicals/pharmacology/therapeutic use
+OTO - NOTNLM
+OT  - Chinese herbal medicine
+OT  - Deep learning
+OT  - Graph convolutional neural network
+OT  - Meridians classification
+OT  - Recurrent neural network
+OT  - Traditional Chinese medicine
+COIS- Declaration of competing interest The authors declare that they have no competing 
+      interests.
+EDAT- 2023/10/01 04:44
+MHDA- 2023/11/27 12:41
+CRDT- 2023/09/30 19:15
+PHST- 2023/07/10 00:00 [received]
+PHST- 2023/09/24 00:00 [revised]
+PHST- 2023/09/27 00:00 [accepted]
+PHST- 2023/11/27 12:41 [medline]
+PHST- 2023/10/01 04:44 [pubmed]
+PHST- 2023/09/30 19:15 [entrez]
+AID - S0378-8741(23)01114-5 [pii]
+AID - 10.1016/j.jep.2023.117244 [doi]
+PST - ppublish
+SO  - J Ethnopharmacol. 2024 Jan 30;319(Pt 2):117244. doi: 10.1016/j.jep.2023.117244. 
+      Epub 2023 Sep 28.
+
+PMID- 37776949
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20231204
+LR  - 20231217
+IS  - 1877-0568 (Electronic)
+IS  - 1877-0568 (Linking)
+VI  - 109
+IP  - 8
+DP  - 2023 Dec
+TI  - What is the rate of text generated by artificial intelligence over a year of 
+      publication in Orthopedics & Traumatology: Surgery & Research? Analysis of 425 
+      articles before versus after the launch of ChatGPT in November 2022.
+PG  - 103694
+LID - S1877-0568(23)00204-9 [pii]
+LID - 10.1016/j.otsr.2023.103694 [doi]
+AB  - BACKGROUND: The use of artificial intelligence (AI) is soaring, and the launch of 
+      ChatGPT in November 2022 has accelerated this trend. This "chatbot" can generate 
+      complete scientific articles, with risk of plagiarism by mining existing data or 
+      downright fraud by fabricating studies with no real data at all. There are tools 
+      that detect AI in publications, but to our knowledge they have not been 
+      systematically assessed for publication in scientific journals. We therefore 
+      conducted a retrospective study on articles published in Orthopaedics & 
+      Traumatology: Surgery & Research (OTSR): firstly, to screen for AI-generated 
+      content before and after the publicized launch of ChatGPT; secondly, to assess 
+      whether AI was more often used in some countries than others to generate content; 
+      thirdly, to determine whether plagiarism rate correlated with AI-generation, and 
+      lastly, to determine whether elements other than text generation, and notably the 
+      translation procedure, could raise suspicion of AI use. HYPOTHESIS: The rate of 
+      AI use increased after the publicized launch of ChatGPT v3.5 in November 2022. 
+      MATERIAL AND METHODS: In all, 425 articles published between February 2022 and 
+      September 2023 (221 before and 204 after November 1, 2022) underwent ZeroGPT 
+      assessment of the level of AI generation in the final English-language version 
+      (abstract and body of the article). Two scores were obtained: probability of AI 
+      generation, in six grades from Human to AI; and percentage AI generation. 
+      Plagiarism was assessed on the Ithenticate application at submission. Articles in 
+      French were assessed in their English-language version as translated by a human 
+      translator, with comparison to automatic translation by Google Translate and 
+      DeepL. RESULTS: AI-generated text was detected mainly in Abstracts, with a 10.1% 
+      rate of AI or considerable AI generation, compared to only 1.9% for the body of 
+      the article and 5.6% for the total body+abstract. Analysis for before and after 
+      November 2022 found an increase in AI generation in body+abstract, from 
+      10.30±15.95% (range, 0-100%) to 15.64±19.8% (range, 0-99.93) (p < 0.04; NS for 
+      abstracts alone). AI scores differed between types of article: 14.9% for original 
+      articles and 9.8% for reviews (p<0.01). The highest rates of probable AI 
+      generation were in articles from Japan, China, South America and English-speaking 
+      countries (p<0.0001). Plagiarism rates did not increase between the two study 
+      periods, and were unrelated to AI rates. On the other hand, when articles were 
+      classified as "suspected" of AI generation (plagiarism rate ≥ 20%) or 
+      "non-suspected" (rate<20%), the "similarity" score was higher in suspect 
+      articles: 25.7±13.23% (range, 10-69%) versus 16.28±10% (range, 0-79%) 
+      (p < 0.001). In the body of the article, use of translation software was 
+      associated with higher AI rates than with a human translator: 3.5±5% for human 
+      translators, versus 18±10% and 21.9±11% respectively for Google Translate and 
+      DeepL (p < 0.001). DISCUSSION: The present study revealed an increasing rate of 
+      AI use in articles published in OTSR. AI grades differed according to type of 
+      article and country of origin. Use of translation software increased the AI 
+      grade. In the long run, use of ChatGPT incurs a risk of plagiarism and scientific 
+      misconduct, and needs to be detected and signaled by a digital tag on any 
+      robot-generated text. LEVEL OF EVIDENCE: III; case-control study.
+CI  - Copyright © 2023. Published by Elsevier Masson SAS.
+FAU - Bisi, Théophile
+AU  - Bisi T
+AD  - Département universitaire de chirurgie orthopédique, université de Lille, CHU de 
+      Lille, 59000 Lille, France; Service de chirurgie orthopédique, centre hospitalier 
+      universitaire (CHU) de Lille, hôpital Roger-Salengro, place de Verdun, 59000 
+      Lille, France. Electronic address: bisitheophile110@gmail.com.
+FAU - Risser, Anthony
+AU  - Risser A
+AD  - Service de chirurgie du membre supérieur, Hautepierre 2, CHRU Strasbourg, 1, 
+      avenue Molière, 67200 Strasbourg, France.
+FAU - Clavert, Philippe
+AU  - Clavert P
+AD  - Service de chirurgie du membre supérieur, Hautepierre 2, CHRU Strasbourg, 1, 
+      avenue Molière, 67200 Strasbourg, France; Faculté de médecine, institut 
+      d'anatomie normale, 4, rue Kirschleger, 67085 Strasbourg, France.
+FAU - Migaud, Henri
+AU  - Migaud H
+AD  - Département universitaire de chirurgie orthopédique, université de Lille, CHU de 
+      Lille, 59000 Lille, France; Service de chirurgie orthopédique, centre hospitalier 
+      universitaire (CHU) de Lille, hôpital Roger-Salengro, place de Verdun, 59000 
+      Lille, France.
+FAU - Dartus, Julien
+AU  - Dartus J
+AD  - Département universitaire de chirurgie orthopédique, université de Lille, CHU de 
+      Lille, 59000 Lille, France; Service de chirurgie orthopédique, centre hospitalier 
+      universitaire (CHU) de Lille, hôpital Roger-Salengro, place de Verdun, 59000 
+      Lille, France.
+LA  - eng
+PT  - Journal Article
+DEP - 20230929
+PL  - France
+TA  - Orthop Traumatol Surg Res
+JT  - Orthopaedics & traumatology, surgery & research : OTSR
+JID - 101494830
+SB  - IM
+MH  - Humans
+MH  - *Orthopedics
+MH  - *Traumatology
+MH  - Retrospective Studies
+MH  - Artificial Intelligence
+MH  - Case-Control Studies
+OTO - NOTNLM
+OT  - Artificial intelligence
+OT  - Fraud
+OT  - Intellectual property
+OT  - Plagiarism
+OT  - Scientific misconduct
+EDAT- 2023/10/01 04:44
+MHDA- 2023/12/04 12:42
+CRDT- 2023/09/30 19:12
+PHST- 2023/04/17 00:00 [received]
+PHST- 2023/07/10 00:00 [revised]
+PHST- 2023/08/24 00:00 [accepted]
+PHST- 2023/12/04 12:42 [medline]
+PHST- 2023/10/01 04:44 [pubmed]
+PHST- 2023/09/30 19:12 [entrez]
+AID - S1877-0568(23)00204-9 [pii]
+AID - 10.1016/j.otsr.2023.103694 [doi]
+PST - ppublish
+SO  - Orthop Traumatol Surg Res. 2023 Dec;109(8):103694. doi: 
+      10.1016/j.otsr.2023.103694. Epub 2023 Sep 29.
+
+PMID- 37776945
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20231106
+LR  - 20231121
+IS  - 1873-7544 (Electronic)
+IS  - 0306-4522 (Linking)
+VI  - 532
+DP  - 2023 Nov 10
+TI  - Pathways for Naturalistic Looking Behavior in Primate I: Behavioral 
+      Characteristics and Brainstem Circuits.
+PG  - 133-163
+LID - S0306-4522(23)00426-8 [pii]
+LID - 10.1016/j.neuroscience.2023.09.009 [doi]
+AB  - Organisms control their visual worlds by moving their eyes, heads, and bodies. 
+      This control of "gaze" or "looking" is key to survival and intelligence, but our 
+      investigation of the underlying neural mechanisms in natural conditions is 
+      hindered by technical limitations. Recent advances have enabled measurement of 
+      both brain and behavior in freely moving animals in complex environments, 
+      expanding on historical head-fixed laboratory investigations. We juxtapose 
+      looking behavior as traditionally measured in the laboratory against looking 
+      behavior in naturalistic conditions, finding that behavior changes when animals 
+      are free to move or when stimuli have depth or sound. We specifically focus on 
+      the brainstem circuits driving gaze shifts and gaze stabilization. The 
+      overarching goal of this review is to reconcile historical understanding of the 
+      differential neural circuits for different "classes" of gaze shift with two 
+      inconvenient truths. (1) "classes" of gaze behavior are artificial. (2) The 
+      neural circuits historically identified to control each "class" of behavior do 
+      not operate in isolation during natural behavior. Instead, multiple pathways 
+      combine adaptively and non-linearly depending on individual experience. While the 
+      neural circuits for reflexive and voluntary gaze behaviors traverse somewhat 
+      independent brainstem and spinal cord circuits, both can be modulated by 
+      feedback, meaning that most gaze behaviors are learned rather than hardcoded. 
+      Despite this flexibility, there are broadly enumerable neural pathways commonly 
+      adopted among primate gaze systems. Parallel pathways which carry simultaneous 
+      evolutionary and homeostatic drives converge in superior colliculus, a layered 
+      midbrain structure which integrates and relays these volitional signals to 
+      brainstem gaze-control circuits.
+CI  - Copyright © 2023 IBRO. Published by Elsevier Ltd. All rights reserved.
+FAU - Takahashi, Mayu
+AU  - Takahashi M
+AD  - Department of Systems Neurophysiology, Graduate School of Medical and Dental, 
+      Sciences, Tokyo Medical and Dental University, Japan. Electronic address: 
+      takahashi.phy1@tmd.ac.jp.
+FAU - Veale, Richard
+AU  - Veale R
+AD  - Department of Neurobiology, Graduate School of Medicine, Kyoto University, Japan.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PT  - Review
+DEP - 20230928
+PL  - United States
+TA  - Neuroscience
+JT  - Neuroscience
+JID - 7605074
+SB  - IM
+MH  - Animals
+MH  - *Eye Movements
+MH  - *Head Movements
+MH  - Primates
+MH  - Brain Stem
+MH  - Feedback
+MH  - Fixation, Ocular
+MH  - Superior Colliculi
+MH  - Saccades
+OTO - NOTNLM
+OT  - brainstem
+OT  - eye movement
+OT  - looking behaviour
+OT  - saccade
+OT  - superior colliculus
+EDAT- 2023/10/01 04:44
+MHDA- 2023/11/06 06:42
+CRDT- 2023/09/30 19:12
+PHST- 2023/06/23 00:00 [received]
+PHST- 2023/09/09 00:00 [revised]
+PHST- 2023/09/18 00:00 [accepted]
+PHST- 2023/11/06 06:42 [medline]
+PHST- 2023/10/01 04:44 [pubmed]
+PHST- 2023/09/30 19:12 [entrez]
+AID - S0306-4522(23)00426-8 [pii]
+AID - 10.1016/j.neuroscience.2023.09.009 [doi]
+PST - ppublish
+SO  - Neuroscience. 2023 Nov 10;532:133-163. doi: 10.1016/j.neuroscience.2023.09.009. 
+      Epub 2023 Sep 28.
+
+PMID- 37776682
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20231103
+LR  - 20231106
+IS  - 1090-2120 (Electronic)
+IS  - 0045-2068 (Linking)
+VI  - 141
+DP  - 2023 Dec
+TI  - Artificial intelligence in small molecule drug discovery from 2018 to 2023: Does 
+      it really work?
+PG  - 106894
+LID - S0045-2068(23)00555-2 [pii]
+LID - 10.1016/j.bioorg.2023.106894 [doi]
+AB  - Utilizing artificial intelligence (AI) in drug design represents an advanced 
+      approach for identifying targets and developing new drugs. Integrating AI 
+      techniques significantly reduces the workload involved in drug development and 
+      enhances the efficiency of early-stage drug discovery. This review aims to 
+      present a comprehensive overview of the utilization of AI methods in the field of 
+      small drug design, with a specific focus on four key areas: protein structure 
+      prediction, molecular virtual screening, molecular design, and absorption, 
+      distribution, metabolism, excretion, and toxicity (ADMET) prediction. 
+      Additionally, the role and limitations of AI in drug development are explored, 
+      and the impact of AI on decision-making processes is studied. It is important to 
+      note that while AI can bring numerous benefits to the early stage of drug 
+      development, the direction and quality of decision-making should still be 
+      emphasized, as AI should be considered as a tool rather than a decisive factor.
+CI  - Copyright © 2023 Elsevier Inc. All rights reserved.
+FAU - Lv, Qi
+AU  - Lv Q
+AD  - School of Pharmacy, Inflammation and Immune Mediated Diseases Laboratory of Anhui 
+      Province, Hefei 230032, PR China.
+FAU - Zhou, Feilong
+AU  - Zhou F
+AD  - School of Pharmacy, Inflammation and Immune Mediated Diseases Laboratory of Anhui 
+      Province, Hefei 230032, PR China.
+FAU - Liu, Xinhua
+AU  - Liu X
+AD  - School of Pharmacy, Inflammation and Immune Mediated Diseases Laboratory of Anhui 
+      Province, Hefei 230032, PR China. Electronic address: xhliuhx@163.com.
+FAU - Zhi, Liping
+AU  - Zhi L
+AD  - School of Health Management, Anhui Medical University Hefei, 230032, PR China. 
+      Electronic address: 2500788327@qq.com.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PT  - Review
+DEP - 20230927
+PL  - United States
+TA  - Bioorg Chem
+JT  - Bioorganic chemistry
+JID - 1303703
+SB  - IM
+MH  - *Artificial Intelligence
+MH  - *Drug Discovery/methods
+MH  - Drug Design
+MH  - Drug Development
+OTO - NOTNLM
+OT  - Artificial intelligence
+OT  - Artificial intelligence drug design (AIDD)
+OT  - Drug design
+OT  - Machine learning
+OT  - Target
+COIS- Declaration of Competing Interest The authors declare that they have no known 
+      competing financial interests or personal relationships that could have appeared 
+      to influence the work reported in this paper.
+EDAT- 2023/10/01 04:44
+MHDA- 2023/11/03 06:43
+CRDT- 2023/09/30 18:06
+PHST- 2023/08/15 00:00 [received]
+PHST- 2023/09/24 00:00 [revised]
+PHST- 2023/09/25 00:00 [accepted]
+PHST- 2023/11/03 06:43 [medline]
+PHST- 2023/10/01 04:44 [pubmed]
+PHST- 2023/09/30 18:06 [entrez]
+AID - S0045-2068(23)00555-2 [pii]
+AID - 10.1016/j.bioorg.2023.106894 [doi]
+PST - ppublish
+SO  - Bioorg Chem. 2023 Dec;141:106894. doi: 10.1016/j.bioorg.2023.106894. Epub 2023 
+      Sep 27.
+
+PMID- 37776670
+OWN - NLM
+STAT- Publisher
+LR  - 20231020
+IS  - 1872-8243 (Electronic)
+IS  - 1386-5056 (Linking)
+VI  - 179
+DP  - 2023 Nov
+TI  - A comprehensive evaluation of ChatGPT consultation quality for augmentation 
+      mammoplasty: A comparative analysis between plastic surgeons and laypersons.
+PG  - 105219
+LID - S1386-5056(23)00237-X [pii]
+LID - 10.1016/j.ijmedinf.2023.105219 [doi]
+AB  - OBJECTIVES: ChatGPT has gained significant popularity as a source of healthcare 
+      information among the general population. Evaluating the quality of chatbot 
+      responses is crucial, requiring comprehensive and qualitative analysis. This 
+      study aims to assess the answers provided by ChatGPT during hypothetical breast 
+      augmentation consultations across various categories and depths. The evaluation 
+      involves the utilization of validated tools and a comparison of scores between 
+      plastic surgeons and laypersons. METHODS: A panel consisting of five plastic 
+      surgeons and five laypersons evaluated ChatGPT's responses to 25 questions 
+      spanning consultation, procedure, recovery, and sentiment categories. The DISCERN 
+      and PEMAT tools were employed to assess the responses, while emotional context 
+      was examined through ten specific questions. Additionally, readability was 
+      measured using the Flesch Reading Ease score. Qualitative analysis was performed 
+      to identify the overall strengths and weaknesses. RESULTS: Plastic surgeons 
+      generally scored lower than laypersons across most domains. Scores for each 
+      evaluation domain varied by category, with the consultation category 
+      demonstrating lower scores in terms of DISCERN reliability, information quality, 
+      and DISCERN score. Plastic surgeons assigned significantly lower overall quality 
+      ratings to the procedure category compared to other question categories. They 
+      also gave lower emotion scores in the procedure category compared to laypersons. 
+      The depth of the questions did not impact the scoring. CONCLUSIONS: Existing 
+      health information evaluation tools may not be entirely suitable for 
+      comprehensively evaluating the quality of individual responses generated by 
+      ChatGPT. Consequently, the development and implementation of appropriate 
+      evaluation tools to assess the appropriateness and quality of AI consultations 
+      are necessary.
+CI  - Copyright © 2023 The Authors. Published by Elsevier B.V. All rights reserved.
+FAU - Yun, Ji Young
+AU  - Yun JY
+AD  - Department of Plastic and Reconstructive Surgery, Busan Paik Hospital, Inje 
+      University School of Medicine, Busan, Republic of Korea.
+FAU - Kim, Dong Jin
+AU  - Kim DJ
+AD  - Department of Plastic Surgery, Asan Medical Center, University of Ulsan College 
+      of Medicine, Seoul, Republic of Korea.
+FAU - Lee, Nara
+AU  - Lee N
+AD  - Department of Plastic Surgery, Asan Medical Center, University of Ulsan College 
+      of Medicine, Seoul, Republic of Korea.
+FAU - Kim, Eun Key
+AU  - Kim EK
+AD  - Department of Plastic Surgery, Asan Medical Center, University of Ulsan College 
+      of Medicine, Seoul, Republic of Korea. Electronic address: nicekek@korea.com.
+LA  - eng
+PT  - Journal Article
+DEP - 20230920
+PL  - Ireland
+TA  - Int J Med Inform
+JT  - International journal of medical informatics
+JID - 9711057
+SB  - IM
+OTO - NOTNLM
+OT  - Artificial intelligence
+OT  - Consumer health information
+OT  - Health literacy
+OT  - Internet
+COIS- Declaration of Competing Interest The authors declare that they have no known 
+      competing financial interests or personal relationships that could have appeared 
+      to influence the work reported in this paper.
+EDAT- 2023/10/01 04:44
+MHDA- 2023/10/01 04:44
+CRDT- 2023/09/30 18:05
+PHST- 2023/08/03 00:00 [received]
+PHST- 2023/09/05 00:00 [revised]
+PHST- 2023/09/16 00:00 [accepted]
+PHST- 2023/10/01 04:44 [pubmed]
+PHST- 2023/10/01 04:44 [medline]
+PHST- 2023/09/30 18:05 [entrez]
+AID - S1386-5056(23)00237-X [pii]
+AID - 10.1016/j.ijmedinf.2023.105219 [doi]
+PST - ppublish
+SO  - Int J Med Inform. 2023 Nov;179:105219. doi: 10.1016/j.ijmedinf.2023.105219. Epub 
+      2023 Sep 20.
+
+PMID- 37776392
+OWN - NLM
+STAT- Publisher
+LR  - 20230930
+IS  - 1432-1068 (Electronic)
+IS  - 1633-8065 (Linking)
+DP  - 2023 Sep 30
+TI  - Evaluating ChatGPT responses in the context of a 53-year-old male with a femoral 
+      neck fracture: a qualitative analysis.
+LID - 10.1007/s00590-023-03742-4 [doi]
+AB  - PURPOSE: The integration of artificial intelligence (AI) tools, such as ChatGPT, 
+      in clinical medicine and medical education has gained significant attention due 
+      to their potential to support decision-making and improve patient care. However, 
+      there is a need to evaluate the benefits and limitations of these tools in 
+      specific clinical scenarios. METHODS: This study used a case study approach 
+      within the field of orthopaedic surgery. A clinical case report featuring a 
+      53-year-old male with a femoral neck fracture was used as the basis for 
+      evaluation. ChatGPT, a large language model, was asked to respond to clinical 
+      questions related to the case. The responses generated by ChatGPT were evaluated 
+      qualitatively, considering their relevance, justification, and alignment with the 
+      responses of real clinicians. Alternative dialogue protocols were also employed 
+      to assess the impact of additional prompts and contextual information on ChatGPT 
+      responses. RESULTS: ChatGPT generally provided clinically appropriate responses 
+      to the questions posed in the clinical case report. However, the level of 
+      justification and explanation varied across the generated responses. 
+      Occasionally, clinically inappropriate responses and inconsistencies were 
+      observed in the generated responses across different dialogue protocols and on 
+      separate days. CONCLUSIONS: The findings of this study highlight both the 
+      potential and limitations of using ChatGPT in clinical practice. While ChatGPT 
+      demonstrated the ability to provide relevant clinical information, the lack of 
+      consistent justification and occasional clinically inappropriate responses raise 
+      concerns about its reliability. These results underscore the importance of 
+      careful consideration and validation when using AI tools in healthcare. Further 
+      research and clinician training are necessary to effectively integrate AI tools 
+      like ChatGPT, ensuring their safe and reliable use in clinical decision-making.
+CI  - © 2023. The Author(s).
+FAU - Zhou, Yushy
+AU  - Zhou Y
+AUID- ORCID: 0000-0002-2653-2107
+AD  - Department of Surgery, The University of Melbourne, St. Vincent's Hospital 
+      Melbourne, 29 Regent Street, Clinical Sciences Block Level 2, Melbourne, VIC, 
+      3010, Australia. yushy.zhou@student.unimelb.edu.au.
+AD  - Department of Orthopaedic Surgery, St. Vincent's Hospital, Melbourne, Australia. 
+      yushy.zhou@student.unimelb.edu.au.
+FAU - Moon, Charles
+AU  - Moon C
+AD  - Department of Orthopaedic Surgery, Cedars-Sinai Medical Centre, Los Angeles, CA, 
+      USA.
+FAU - Szatkowski, Jan
+AU  - Szatkowski J
+AD  - Department of Orthopaedic Surgery, Indiana University Health Methodist Hospital, 
+      Indianapolis, IN, USA.
+FAU - Moore, Derek
+AU  - Moore D
+AD  - Santa Barbara Orthopedic Associates, Santa Barbara, CA, USA.
+FAU - Stevens, Jarrad
+AU  - Stevens J
+AD  - Department of Orthopaedic Surgery, St. Vincent's Hospital, Melbourne, Australia.
+LA  - eng
+PT  - Journal Article
+DEP - 20230930
+PL  - France
+TA  - Eur J Orthop Surg Traumatol
+JT  - European journal of orthopaedic surgery & traumatology : orthopedie traumatologie
+JID - 9518037
+SB  - IM
+OTO - NOTNLM
+OT  - Artificial intelligence
+OT  - Chatgpt
+OT  - Clinical
+OT  - Decision-making
+OT  - Large language model
+OT  - Orthopaedic surgery
+EDAT- 2023/10/01 04:43
+MHDA- 2023/10/01 04:43
+CRDT- 2023/09/30 11:07
+PHST- 2023/08/14 00:00 [received]
+PHST- 2023/09/18 00:00 [accepted]
+PHST- 2023/10/01 04:43 [medline]
+PHST- 2023/10/01 04:43 [pubmed]
+PHST- 2023/09/30 11:07 [entrez]
+AID - 10.1007/s00590-023-03742-4 [pii]
+AID - 10.1007/s00590-023-03742-4 [doi]
+PST - aheadofprint
+SO  - Eur J Orthop Surg Traumatol. 2023 Sep 30. doi: 10.1007/s00590-023-03742-4.
+
+PMID- 37776084
+OWN - NLM
+STAT- Publisher
+LR  - 20230930
+IS  - 1097-0223 (Electronic)
+IS  - 0197-3851 (Linking)
+DP  - 2023 Sep 30
+TI  - Prenatal diagnosis of hypoplastic left heart syndrome on ultrasound using 
+      artificial intelligence: How does performance compare to a current screening 
+      programme?
+LID - 10.1002/pd.6445 [doi]
+AB  - BACKGROUND: Artificial intelligence (AI) has the potential to improve prenatal 
+      detection of congenital heart disease. We analysed the performance of the current 
+      national screening programme in detecting hypoplastic left heart syndrome (HLHS) 
+      to compare with our own AI model. METHODS: Current screening programme 
+      performance was calculated from local and national sources. AI models were 
+      trained using four-chamber ultrasound views of the fetal heart, using a ResNet 
+      classifier. RESULTS: Estimated current fetal screening programme sensitivity and 
+      specificity for HLHS were 94.3% and 99.985%, respectively. Depending on 
+      calibration, AI models to detect HLHS were either highly sensitive (sensitivity 
+      100%, specificity 94.0%) or highly specific (sensitivity 93.3%, specificity 
+      100%). Our analysis suggests that our highly sensitive model would generate 
+      45,134 screen positive results for a gain of 14 additional HLHS cases. Our highly 
+      specific model would be associated with two fewer detected HLHS cases, and 118 
+      fewer false positives. CONCLUSION: If used independently, our AI model 
+      performance is slightly worse than the performance level of the current screening 
+      programme in detecting HLHS, and this performance is likely to deteriorate 
+      further when used prospectively. This demonstrates that collaboration between 
+      humans and AI will be key for effective future clinical use.
+CI  - © 2023 The Authors. Prenatal Diagnosis published by John Wiley & Sons Ltd.
+FAU - Day, Thomas G
+AU  - Day TG
+AUID- ORCID: 0000-0001-8391-7903
+AD  - Department of Congenital Heart Disease, Evelina Children's Healthcare, Guy's and 
+      St Thomas' NHS Foundation Trust, London, UK.
+AD  - School of Biomedical Engineering and Imaging Sciences, King's College London, 
+      London, UK.
+FAU - Budd, Samuel
+AU  - Budd S
+AD  - School of Biomedical Engineering and Imaging Sciences, King's College London, 
+      London, UK.
+FAU - Tan, Jeremy
+AU  - Tan J
+AD  - School of Biomedical Engineering and Imaging Sciences, King's College London, 
+      London, UK.
+FAU - Matthew, Jacqueline
+AU  - Matthew J
+AD  - School of Biomedical Engineering and Imaging Sciences, King's College London, 
+      London, UK.
+FAU - Skelton, Emily
+AU  - Skelton E
+AD  - School of Biomedical Engineering and Imaging Sciences, King's College London, 
+      London, UK.
+AD  - School of Health Sciences, University of London, London, UK.
+FAU - Jowett, Victoria
+AU  - Jowett V
+AD  - Great Ormond Street Hospital for Children NHS Foundation Trust, London, UK.
+FAU - Lloyd, David
+AU  - Lloyd D
+AD  - Department of Congenital Heart Disease, Evelina Children's Healthcare, Guy's and 
+      St Thomas' NHS Foundation Trust, London, UK.
+AD  - School of Biomedical Engineering and Imaging Sciences, King's College London, 
+      London, UK.
+FAU - Gomez, Alberto
+AU  - Gomez A
+AD  - School of Biomedical Engineering and Imaging Sciences, King's College London, 
+      London, UK.
+FAU - Hajnal, Jo V
+AU  - Hajnal JV
+AD  - School of Biomedical Engineering and Imaging Sciences, King's College London, 
+      London, UK.
+FAU - Razavi, Reza
+AU  - Razavi R
+AD  - Department of Congenital Heart Disease, Evelina Children's Healthcare, Guy's and 
+      St Thomas' NHS Foundation Trust, London, UK.
+AD  - School of Biomedical Engineering and Imaging Sciences, King's College London, 
+      London, UK.
+FAU - Kainz, Bernhard
+AU  - Kainz B
+AD  - Department of Computing, Imperial College London, London, UK.
+AD  - Department of Artificial Intelligence in Biomedical Engineering, 
+      Friedrich-Alexander University Erlangen-Nürnberg, Erlangen, Germany.
+FAU - Simpson, John M
+AU  - Simpson JM
+AD  - Department of Congenital Heart Disease, Evelina Children's Healthcare, Guy's and 
+      St Thomas' NHS Foundation Trust, London, UK.
+AD  - School of Biomedical Engineering and Imaging Sciences, King's College London, 
+      London, UK.
+LA  - eng
+GR  - WT203148/Z/16/Z/WT_/Wellcome Trust/United Kingdom
+PT  - Journal Article
+DEP - 20230930
+PL  - England
+TA  - Prenat Diagn
+JT  - Prenatal diagnosis
+JID - 8106540
+SB  - IM
+EDAT- 2023/09/30 09:42
+MHDA- 2023/09/30 09:42
+CRDT- 2023/09/30 03:43
+PHST- 2023/08/31 00:00 [revised]
+PHST- 2023/06/13 00:00 [received]
+PHST- 2023/09/14 00:00 [accepted]
+PHST- 2023/09/30 09:42 [medline]
+PHST- 2023/09/30 09:42 [pubmed]
+PHST- 2023/09/30 03:43 [entrez]
+AID - 10.1002/pd.6445 [doi]
+PST - aheadofprint
+SO  - Prenat Diagn. 2023 Sep 30. doi: 10.1002/pd.6445.

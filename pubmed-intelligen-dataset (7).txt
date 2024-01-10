@@ -1,0 +1,822 @@
+PMID- 37787347
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20231103
+LR  - 20231116
+IS  - 1998-4049 (Electronic)
+IS  - 1319-3767 (Print)
+IS  - 1319-3767 (Linking)
+VI  - 29
+IP  - 5
+DP  - 2023 Sep-Oct
+TI  - Artificial intelligence in endoscopy: Overview, applications, and future 
+      directions.
+PG  - 269-277
+LID - 10.4103/sjg.sjg_286_23 [doi]
+AB  - Since the emergence of artificial intelligence (AI) in medicine, endoscopy 
+      applications in gastroenterology have been at the forefront of innovations. The 
+      ever-increasing number of studies necessitates the need to organize and classify 
+      applications in a useful way. Separating AI capabilities by computer aided 
+      detection (CADe), diagnosis (CADx), and quality assessment (CADq) allows for a 
+      systematic evaluation of each application. CADe studies have shown promise in 
+      accurate detection of esophageal, gastric and colonic neoplasia as well as 
+      identifying sources of bleeding and Crohn's disease in the small bowel. While 
+      more advanced CADx applications employ optical biopsies to give further 
+      information to characterize neoplasia and grade inflammatory disease, diverse 
+      CADq applications ensure quality and increase the efficiency of procedures. 
+      Future applications show promise in advanced therapeutic modalities and 
+      integrated systems that provide multimodal capabilities. AI is set to 
+      revolutionize clinical decision making and performance of endoscopy.
+FAU - Arif, Arif A
+AU  - Arif AA
+AD  - Department of Medicine, University of British Columbia, Vancouver, BC, Canada.
+FAU - Jiang, Shirley X
+AU  - Jiang SX
+AD  - Department of Medicine, University of British Columbia, Vancouver, BC, Canada.
+FAU - Byrne, Michael F
+AU  - Byrne MF
+AD  - Division of Gastroenterology, Department of Medicine, University of British 
+      Columbia; Satisfai Health, Vancouver, BC, Canada.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+DEP - 20230906
+PL  - India
+TA  - Saudi J Gastroenterol
+JT  - Saudi journal of gastroenterology : official journal of the Saudi 
+      Gastroenterology Association
+JID - 9516979
+SB  - IM
+MH  - Humans
+MH  - Artificial Intelligence
+MH  - *Colonic Neoplasms/diagnostic imaging
+MH  - *Crohn Disease/diagnostic imaging
+MH  - Endoscopy
+MH  - *Endoscopy, Gastrointestinal
+MH  - Gastroenterology
+MH  - Barrett Esophagus/diagnostic imaging
+PMC - PMC10644999
+OTO - NOTNLM
+OT  - Artificial intelligence
+OT  - Barrett's
+OT  - IBD
+OT  - capsule endoscopy
+OT  - endoscopy
+OT  - polyp
+COIS- None
+EDAT- 2023/10/03 12:42
+MHDA- 2023/10/03 12:43
+CRDT- 2023/10/03 07:52
+PHST- 2023/10/03 12:43 [medline]
+PHST- 2023/10/03 12:42 [pubmed]
+PHST- 2023/10/03 07:52 [entrez]
+AID - SaudiJGastroenterol_2023_29_5_269_385399 [pii]
+AID - SJG-29-269 [pii]
+AID - 10.4103/sjg.sjg_286_23 [doi]
+PST - ppublish
+SO  - Saudi J Gastroenterol. 2023 Sep-Oct;29(5):269-277. doi: 10.4103/sjg.sjg_286_23. 
+      Epub 2023 Sep 6.
+
+PMID- 37787195
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20231107
+LR  - 20231107
+IS  - 1998-3603 (Electronic)
+IS  - 0970-9290 (Linking)
+VI  - 34
+IP  - 2
+DP  - 2023 Apr-Jun
+TI  - Random tree algorithm to analyse the relation between type of traumatic dental 
+      injuries and its demographic and predisposing factors - A cross-sectional study.
+PG  - 114-118
+LID - 10.4103/ijdr.ijdr_846_21 [doi]
+AB  - BACKGROUND AND AIM: Traumatic dental injuries (TDIs) have become the public 
+      dental health problem worldwide in children and adolescents. These injuries are 
+      complex and multifactorial in aetiology. This study was done with the aim to 
+      analyse the association of 'type of TDI' with its demographic and various 
+      predisposing factors in children by an advanced statistical method of machine 
+      learning (ML) of artificial intelligence (AI). MATERIALS AND METHODS: The present 
+      study's data were gathered by conducting the observational cross-sectional study 
+      among index age-groups 12 and 15 years children of randomly selected schools of 
+      different geographical regions. Structured interviews and dental examinations 
+      performed were done to record the variables of TDIs in self-constructed proforma. 
+      The gathered data were analysed by employing the random-tree model of machine 
+      learning algorithm of IBM SPSS Modeler version-18 software. RESULTS: 
+      Molar-relationship (2.5), age (1.75), sex (1.5) and geographical region/area 
+      (~1.5) were the most important predictors (factors) for the determination of type 
+      of dental injury as shown by the random tree model, whereas clinical factors like 
+      overjet (0.75), lip-competence (0.5) and overbite (0.5) showed lesser importance 
+      in the determination of type of TDIs. CONCLUSION: Demographic factors (age, sex 
+      and geographical region) and one clinical factor (molar-relation) were found as 
+      the stronger factors for determining the type of traumatic dental injury in 
+      children.
+FAU - Khan, Mohammad Kamran
+AU  - Khan MK
+AD  - Department of Pediatric and Preventive Dentistry, Faculty of Medicine, Aligarh 
+      Muslim University (AMU), Aligarh, Uttar Pradesh, India.
+FAU - Jindal, Mahendra Kumar
+AU  - Jindal MK
+AD  - Department of Pediatric and Preventive Dentistry, Faculty of Medicine, Aligarh 
+      Muslim University (AMU), Aligarh, Uttar Pradesh, India.
+LA  - eng
+PT  - Journal Article
+PT  - Observational Study
+PL  - India
+TA  - Indian J Dent Res
+JT  - Indian journal of dental research : official publication of Indian Society for 
+      Dental Research
+JID - 9202990
+MH  - Adolescent
+MH  - Child
+MH  - Humans
+MH  - Algorithms
+MH  - Artificial Intelligence
+MH  - Causality
+MH  - Cross-Sectional Studies
+MH  - Demography
+MH  - *Overbite/complications
+MH  - Prevalence
+MH  - *Tooth Injuries/epidemiology/etiology
+MH  - Male
+MH  - Female
+OTO - NOTNLM
+OT  - Artificial intelligence (AI)
+OT  - machine learning (ML)
+OT  - predisposing factors
+OT  - random tree classifier
+OT  - type of dental trauma
+COIS- None
+EDAT- 2023/10/03 12:42
+MHDA- 2023/10/03 12:43
+CRDT- 2023/10/03 07:49
+PHST- 2023/10/03 12:43 [medline]
+PHST- 2023/10/03 12:42 [pubmed]
+PHST- 2023/10/03 07:49 [entrez]
+AID - IndianJDentRes_2023_34_2_114_386098 [pii]
+AID - 10.4103/ijdr.ijdr_846_21 [doi]
+PST - ppublish
+SO  - Indian J Dent Res. 2023 Apr-Jun;34(2):114-118. doi: 10.4103/ijdr.ijdr_846_21.
+
+PMID- 37787081
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20231122
+LR  - 20231122
+IS  - 1461-0248 (Electronic)
+IS  - 1461-023X (Linking)
+VI  - 26
+IP  - 12
+DP  - 2023 Dec
+TI  - Conserve the open media ecosystem! Legal and ethical considerations when using 
+      online repositories for AI training in ecological research.
+PG  - 2023-2028
+LID - 10.1111/ele.14311 [doi]
+AB  - Ecological researchers who train Artificial Intelligence models using digital 
+      media have to be cognizant of legal and ethical implications when sourcing such 
+      content from online repositories. The way forward? Complying with Creative 
+      Commons licensing requirements, obtaining consent from media creators and 
+      adhering to FAIR data principles. Collective action from researchers, 
+      repositories, licence providers, and legislators is needed to conserve this 
+      complex open media ecosystem. This way, we can continue to develop innovative 
+      applications to address pressing ecological issues while maintaining the trust of 
+      content creators and respecting the legal and ethical framework of online media 
+      use.
+CI  - © 2023 The Authors. Ecology Letters published by John Wiley & Sons Ltd.
+FAU - Lilkendey, Julian
+AU  - Lilkendey J
+AUID- ORCID: 0000-0003-3165-1079
+AD  - School of Science, Auckland University of Technology (AUT), Auckland, New 
+      Zealand.
+AD  - Data Science Center (DSC), University of Bremen, Bremen, Germany.
+LA  - eng
+GR  - Coastal People: Southern Skies/
+GR  - FSBI-RG21-302/Fisheries Society of the British Isles/
+PT  - Journal Article
+DEP - 20231003
+PL  - England
+TA  - Ecol Lett
+JT  - Ecology letters
+JID - 101121949
+SB  - IM
+MH  - *Artificial Intelligence
+MH  - Internet
+OTO - NOTNLM
+OT  - FAIR data
+OT  - artificial intelligence
+OT  - best practices
+OT  - community science
+OT  - ethics
+OT  - machine learning
+OT  - multi-modal recognition
+OT  - online repository
+OT  - supervised training
+EDAT- 2023/10/03 12:43
+MHDA- 2023/11/16 06:45
+CRDT- 2023/10/03 06:53
+PHST- 2023/09/07 00:00 [revised]
+PHST- 2023/05/05 00:00 [received]
+PHST- 2023/09/18 00:00 [accepted]
+PHST- 2023/11/16 06:45 [medline]
+PHST- 2023/10/03 12:43 [pubmed]
+PHST- 2023/10/03 06:53 [entrez]
+AID - 10.1111/ele.14311 [doi]
+PST - ppublish
+SO  - Ecol Lett. 2023 Dec;26(12):2023-2028. doi: 10.1111/ele.14311. Epub 2023 Oct 3.
+
+PMID- 37787018
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20231023
+LR  - 20240102
+IS  - 2045-7634 (Electronic)
+IS  - 2045-7634 (Linking)
+VI  - 12
+IP  - 19
+DP  - 2023 Oct
+TI  - Precision oncology: Artificial intelligence, circulating cell-free DNA, and the 
+      minimally invasive detection of pancreatic cancer-A pilot study.
+PG  - 19644-19655
+LID - 10.1002/cam4.6604 [doi]
+AB  - BACKGROUND: Pancreatic cancer (PC) is among the most lethal cancers. The lack of 
+      effective tools for early detection results in late tumor detection and, 
+      consequently, high mortality rate. Precision oncology aims to develop targeted 
+      individual treatments based on advanced computational approaches of omics data. 
+      Biomarkers, such as global alteration of cytosine (CpG) methylation, can be 
+      pivotal for these objectives. In this study, we performed DNA methylation 
+      profiling of pancreatic cancer patients using circulating cell-free DNA (cfDNA) 
+      and artificial intelligence (AI) including Deep Learning (DL) for minimally 
+      invasive detection to elucidate the epigenetic pathogenesis of PC. METHODS: The 
+      Illumina Infinium HD Assay was used for genome-wide DNA methylation profiling of 
+      cfDNA in treatment-naïve patients. Six AI algorithms were used to determine PC 
+      detection accuracy based on cytosine (CpG) methylation markers. Additional 
+      strategies for minimizing overfitting were employed. The molecular pathogenesis 
+      was interrogated using enrichment analysis. RESULTS: In total, we identified 4556 
+      significantly differentially methylated CpGs (q-value < 0.05; Bonferroni 
+      correction) in PC versus controls. Highly accurate PC detection was achieved with 
+      all 6 AI platforms (Area under the receiver operator characteristics curve 
+      [0.90-1.00]). For example, DL achieved AUC (95% CI): 1.00 (0.95-1.00), with a 
+      sensitivity and specificity of 100%. A separate modeling approach based on 
+      logistic regression-based yielded an AUC (95% CI) 1.0 (1.0-1.0) with a 
+      sensitivity and specificity of 100% for PC detection. The top four biological 
+      pathways that were epigenetically altered in PC and are known to be linked with 
+      cancer are discussed. CONCLUSION: Using a minimally invasive approach, AI, and 
+      epigenetic analysis of circulating cfDNA, high predictive accuracy for PC was 
+      achieved. From a clinical perspective, our findings suggest that that early 
+      detection leading to improved overall survival may be achievable in the future.
+CI  - © 2023 The Authors. Cancer Medicine published by John Wiley & Sons Ltd.
+FAU - Bahado-Singh, Ray O
+AU  - Bahado-Singh RO
+AD  - Department of Obstetrics and Gynecology, Corewell Health - William Beaumont 
+      University Hospital, Royal Oak, Michigan, USA.
+FAU - Turkoglu, Onur
+AU  - Turkoglu O
+AD  - Department of Obstetrics and Gynecology, Corewell Health - William Beaumont 
+      University Hospital, Royal Oak, Michigan, USA.
+FAU - Aydas, Buket
+AU  - Aydas B
+AD  - Department of Care Management Analytics, Blue Cross Blue Shield of Michigan, 
+      Detroit, Michigan, USA.
+FAU - Vishweswaraiah, Sangeetha
+AU  - Vishweswaraiah S
+AUID- ORCID: 0000-0001-5681-5143
+AD  - Department of Obstetrics and Gynecology, Corewell Health Research Institute, 
+      Royal Oak, Michigan, USA.
+LA  - eng
+PT  - Journal Article
+DEP - 20231003
+PL  - United States
+TA  - Cancer Med
+JT  - Cancer medicine
+JID - 101595310
+RN  - 0 (Cell-Free Nucleic Acids)
+RN  - 0 (Biomarkers, Tumor)
+RN  - 8J337D1HZY (Cytosine)
+SB  - IM
+MH  - Humans
+MH  - Artificial Intelligence
+MH  - *Cell-Free Nucleic Acids/genetics
+MH  - DNA Methylation
+MH  - Pilot Projects
+MH  - Biomarkers, Tumor/genetics
+MH  - Precision Medicine
+MH  - *Pancreatic Neoplasms/diagnosis/genetics
+MH  - Cytosine
+PMC - PMC10587955
+OTO - NOTNLM
+OT  - DNA methylation
+OT  - artificial intelligence
+OT  - circulating cell-free DNA
+OT  - epigenetics
+OT  - pancreatic cancer
+OT  - precision oncology
+COIS- These data have partly contributed to a provisional patent application by the 
+      home institution, Beaumont Research Institute, for cancer detection.
+EDAT- 2023/10/03 06:46
+MHDA- 2023/10/23 01:18
+CRDT- 2023/10/03 05:32
+PHST- 2023/09/18 00:00 [revised]
+PHST- 2023/05/23 00:00 [received]
+PHST- 2023/09/20 00:00 [accepted]
+PHST- 2023/10/23 01:18 [medline]
+PHST- 2023/10/03 06:46 [pubmed]
+PHST- 2023/10/03 05:32 [entrez]
+AID - CAM46604 [pii]
+AID - 10.1002/cam4.6604 [doi]
+PST - ppublish
+SO  - Cancer Med. 2023 Oct;12(19):19644-19655. doi: 10.1002/cam4.6604. Epub 2023 Oct 3.
+
+PMID- 37786993
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20231216
+LR  - 20231216
+IS  - 1742-4658 (Electronic)
+IS  - 1742-464X (Linking)
+VI  - 290
+IP  - 23
+DP  - 2023 Dec
+TI  - Structure and function of SPP/SPPL proteases: insights from biochemical evidence 
+      and predictive modeling.
+PG  - 5456-5474
+LID - 10.1111/febs.16968 [doi]
+AB  - More than 20 years ago, signal peptide peptidase (SPP) and its homologues, the 
+      signal peptide peptidase-like (SPPL) proteases have been identified based on 
+      their sequence similarity to presenilins, a related family of intramembrane 
+      aspartyl proteases. Other than those for the presenilins, no high-resolution 
+      structures for the SPP/SPPL proteases are available. Despite this limitation, 
+      over the years bioinformatical and biochemical data have accumulated, which 
+      altogether have provided a picture of the overall structure and topology of these 
+      proteases, their localization in the cell, the process of substrate recognition, 
+      their cleavage mechanism, and their function. Recently, the artificial 
+      intelligence-based structure prediction tool AlphaFold has added high-confidence 
+      models of the expected fold of SPP/SPPL proteases. In this review, we summarize 
+      known structural aspects of the SPP/SPPL family as well as their substrates. Of 
+      particular interest are the emerging substrate recognition and catalytic 
+      mechanisms that might lead to the prediction and identification of more potential 
+      substrates and deeper insight into physiological and pathophysiological roles of 
+      proteolysis.
+CI  - © 2023 The Authors. The FEBS Journal published by John Wiley & Sons Ltd on behalf 
+      of Federation of European Biochemical Societies.
+FAU - Höppner, Sabine
+AU  - Höppner S
+AD  - Biochemistry and Molecular Biology, Faculty of Medicine, Institute of Theoretical 
+      Medicine, University of Augsburg, Germany.
+FAU - Schröder, Bernd
+AU  - Schröder B
+AUID- ORCID: 0000-0003-0774-6270
+AD  - Institute for Physiological Chemistry, Technische Universität Dresden, Germany.
+FAU - Fluhrer, Regina
+AU  - Fluhrer R
+AUID- ORCID: 0000-0002-9778-4643
+AD  - Biochemistry and Molecular Biology, Faculty of Medicine, Institute of Theoretical 
+      Medicine, University of Augsburg, Germany.
+AD  - Center for Interdisciplinary Health Research, University of Augsburg, Germany.
+LA  - eng
+GR  - 125440785/SFB877/Deutsche Forschungsgemeinschaft/
+GR  - 251390220/SCHR1284/1-2/Deutsche Forschungsgemeinschaft/
+GR  - 254872893/FL 635/2-3/Deutsche Forschungsgemeinschaft/
+GR  - 263531414/FOR 2290/Deutsche Forschungsgemeinschaft/
+GR  - 380321491/SCHR1284/2-1/Deutsche Forschungsgemeinschaft/
+PT  - Journal Article
+PT  - Review
+DEP - 20231013
+PL  - England
+TA  - FEBS J
+JT  - The FEBS journal
+JID - 101229646
+RN  - EC 3.4.23.- (signal peptide peptidase)
+RN  - EC 3.4.- (Peptide Hydrolases)
+RN  - 0 (Membrane Proteins)
+RN  - EC 3.4.23.- (Aspartic Acid Endopeptidases)
+RN  - 0 (Presenilins)
+SB  - IM
+MH  - *Peptide Hydrolases/genetics
+MH  - *Membrane Proteins
+MH  - Artificial Intelligence
+MH  - Aspartic Acid Endopeptidases/chemistry
+MH  - Presenilins
+OTO - NOTNLM
+OT  - AlphaFold
+OT  - intramembrane aspartyl proteolysis
+OT  - presenilin GXGD-type Aspartyl Proteases
+OT  - protease-associated (PA)-domain
+OT  - signal peptide peptidase family (SPP/SPPL)
+EDAT- 2023/10/03 06:46
+MHDA- 2023/12/17 09:46
+CRDT- 2023/10/03 05:27
+PHST- 2023/09/13 00:00 [revised]
+PHST- 2023/05/30 00:00 [received]
+PHST- 2023/09/29 00:00 [accepted]
+PHST- 2023/12/17 09:46 [medline]
+PHST- 2023/10/03 06:46 [pubmed]
+PHST- 2023/10/03 05:27 [entrez]
+AID - 10.1111/febs.16968 [doi]
+PST - ppublish
+SO  - FEBS J. 2023 Dec;290(23):5456-5474. doi: 10.1111/febs.16968. Epub 2023 Oct 13.
+
+PMID- 37786943
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20231004
+LR  - 20231004
+IS  - 1644-4345 (Electronic)
+IS  - 1506-9680 (Linking)
+VI  - 26
+IP  - 0
+DP  - 2023
+TI  - Performance of a deep learning enhancement method applied to PET images acquired 
+      with a reduced acquisition time.
+PG  - 116-122
+LID - 10.5603/nmr.94482 [doi]
+AB  - BACKGROUND: This study aims to evaluate the performance of a deep learning 
+      enhancement method in PET images reconstructed with a shorter acquisition time, 
+      and different reconstruction algorithms. The impact of the enhancement on 
+      clinical decisions was also assessed. MATERIAL AND METHODS: Thirty-seven subjects 
+      underwent clinical whole-body [18F]FDG PET/CT exams with an acquisition time of 
+      1.5 min per bed position. PET images were reconstructed with the OSEM algorithm 
+      using 66% counts (imitating 1 min/bed acquisition time) and 100% counts (1.5 
+      min/bed). Images reconstructed from 66% counts were subsequently enhanced using 
+      the SubtlePET™ (SP) deep-learning-based software, (Subtle Medical, USA) - with 
+      two different software versions (SP1 and SP2). Additionally, images obtained with 
+      66% counts were reconstructed with QClear™ (GE, USA) algorithm and enhanced with 
+      SP2. Volumes of interest (VOI) of the lesions and reference VOIs in the liver, 
+      brain, bladder, and mediastinum were drawn on OSEM images and copied on SP 
+      images. Quantitative SUVmax values per VOI of OSEM or QClear™ and AI-enhanced 
+      'shortened' acquisitions were compared. RESULTS: Two hundred and fifty-two VOIs 
+      were identified (37 for each reference region, and 104 for the lesions) for OSEM, 
+      SP1, SP2, and QClear™ images AI-enhanced with SP2. SUVmax values on SP1 images 
+      were lower than standard OSEM, but on SP2 differences were smaller (average 
+      difference for SP1 11.6%, for SP2 -4.5%). For images reconstructed with QClear™, 
+      SUVmax values were higher (average +8.9%, median 6.1%, SD 18.9%). For small 
+      lesions with SUVmax values range 2.0 to 4.0 decrease of measured SUVmax was much 
+      less significant with SP2 (for liver average -6.5%, median -5.6% for lesions 
+      average -5.6%, median - 6.0, SD 5.2%) and showed the best correlation with 
+      original OSEM. While no artifacts and good general diagnostic confidence were 
+      found in AI-enhanced images, SP1, the images were not equal to the original OSEM 
+      - some lesions were hard to spot. SP2 produced images with almost the same 
+      quality as the original 1.5 min/bed OSEM reconstruction. CONCLUSIONS: The studied 
+      deep learning enhancement method can be used to accelerate PET acquisitions 
+      without compromising quantitative SUVmax values. AI-based algorithms can enhance 
+      the image quality of accelerated PET acquisitions, enabling the dose reduction to 
+      the patients and improving the cost-effectiveness of PET/CT imaging.
+FAU - Ciborowski, Krzysztof
+AU  - Ciborowski K
+AD  - Department of Nuclear Medicine, Affidea Polska, Poznan, Poland.
+FAU - Gramek-Jedwabna, Anna
+AU  - Gramek-Jedwabna A
+AD  - Department of Nuclear Medicine, Affidea Polska, Poznan, Poland.
+FAU - Gołąb, Monika
+AU  - Gołąb M
+AD  - Department of Nuclear Medicine, Affidea Polska, Poznan, Poland.
+AD  - Department of Endocrinology, Metabolism and Internal Diseases, Poznan University 
+      of Medical Sciences, Poznan, Poland.
+FAU - Miechowicz, Izabela
+AU  - Miechowicz I
+AD  - Department of Informatics and Statistics, Poznan University of Medical Sciences, 
+      Poznan, Poland.
+FAU - Szczurek, Jolanta
+AU  - Szczurek J
+AUID- ORCID: 0000-0003-0415-3082
+AD  - Department of Endocrinology, Metabolism and Internal Diseases, Poznan University 
+      of Medical Sciences, Poznan, Poland.
+FAU - Ruchała, Marek
+AU  - Ruchała M
+AUID- ORCID: 0000-0001-9743-2405
+AD  - Department of Endocrinology, Metabolism and Internal Diseases, Poznan University 
+      of Medical Sciences, Poznan, Poland.
+FAU - Czepczyński, Rafał
+AU  - Czepczyński R
+AUID- ORCID: 0000-0003-0684-1647
+AD  - Department of Nuclear Medicine, Affidea Polska, Poznan, Poland. 
+      rafal.czepczynski@affidea.com.
+AD  - Department of Endocrinology, Metabolism and Internal Diseases, Poznan University 
+      of Medical Sciences, Poznan, Poland. rafal.czepczynski@affidea.com.
+LA  - eng
+PT  - Journal Article
+PL  - Poland
+TA  - Nucl Med Rev Cent East Eur
+JT  - Nuclear medicine review. Central & Eastern Europe
+JID - 100886103
+RN  - 0Z5B2CJX4D (Fluorodeoxyglucose F18)
+SB  - IM
+MH  - Humans
+MH  - *Positron Emission Tomography Computed Tomography/methods
+MH  - *Deep Learning
+MH  - Positron-Emission Tomography/methods
+MH  - Algorithms
+MH  - Phantoms, Imaging
+MH  - Fluorodeoxyglucose F18
+MH  - Image Processing, Computer-Assisted/methods
+OTO - NOTNLM
+OT  - PET/CT
+OT  - artificial intelligence
+OT  - deep learning
+OT  - dose reduction
+EDAT- 2023/10/03 06:47
+MHDA- 2023/10/04 06:43
+CRDT- 2023/10/03 04:03
+PHST- 2023/03/02 00:00 [received]
+PHST- 2023/07/27 00:00 [accepted]
+PHST- 2023/07/24 00:00 [revised]
+PHST- 2023/10/04 06:43 [medline]
+PHST- 2023/10/03 06:47 [pubmed]
+PHST- 2023/10/03 04:03 [entrez]
+AID - VM/OJS/J/94482 [pii]
+AID - 10.5603/nmr.94482 [doi]
+PST - ppublish
+SO  - Nucl Med Rev Cent East Eur. 2023;26(0):116-122. doi: 10.5603/nmr.94482.
+
+PMID- 37786915
+OWN - NLM
+STAT- Publisher
+LR  - 20231016
+IS  - 1751-553X (Electronic)
+IS  - 1751-5521 (Linking)
+DP  - 2023 Oct 3
+TI  - A comparative evaluation of three consecutive artificial intelligence algorithms 
+      released by Techcyte for identification of blasts and white blood cells in 
+      abnormal peripheral blood films.
+LID - 10.1111/ijlh.14180 [doi]
+AB  - INTRODUCTION: Digital pathology artificial intelligence (AI) platforms have the 
+      capacity to improve over time through "deep machine learning." We have previously 
+      reported on the accuracy of peripheral white blood cell (WBC) differential and 
+      blast identification by Techcyte (Techcyte, Inc., Orem, UT, USA), a digital 
+      scanner-agnostic web-based system for blood film reporting. The aim of the 
+      current study was to compare AI protocols released over time to assess 
+      improvement in cell identification. METHODS: WBC differentials were performed 
+      using Techcyte's online AI software on the same 124 digitized abnormal peripheral 
+      blood films (including 64 acute and 22 chronic leukaemias) in 2019 (AI1), 2020 
+      (AI2), and 2022 (AI3), with no reassignment by a morphologist at any time point. 
+      AI results were correlated to the "gold standard" of manual microscopy, and 
+      comparison of Lin's concordance coefficients (LCC) and sensitivity and 
+      specificity of blast identification were used to determine the superior AI 
+      version. RESULTS: AI correlations (r) with manual microscopy for individual cell 
+      types ranged from 0.50-0.90 (AI1), 0.66-0.86 (AI2) and 0.71-0.91 (AI3). AI3 
+      concordance with manual microscopy was significantly improved compared to AI1 for 
+      identification of neutrophils (LCC AI3 = 0.86 vs. AI1 = 0.77, p = 0.03), total 
+      granulocytes (LCC AI3 = 0.92 vs. AI1 = 0.82, p = 0.0008), immature granulocytes 
+      (LCC AI3 = 0.67 vs. AI1 = 0.38, p = 0.0014), and promyelocytes (LCC AI3 = 0.53 
+      vs. AI1 = 0.16, p = 0.0008). Sensitivity for blast identification (n = 65 slides) 
+      improved from 97% (AI1), to 98% (AI2), to 100% (AI3), while blast specificity 
+      decreased from 24% (AI1), to 14% (AI2) to 12% (AI3). CONCLUSION: Techcyte AI has 
+      shown significant improvement in cell identification over time and maintains high 
+      sensitivity for blast identification in malignant films.
+CI  - © 2023 The Authors. International Journal of Laboratory Hematology published by 
+      John Wiley & Sons Ltd.
+FAU - Lincz, Lisa F
+AU  - Lincz LF
+AUID- ORCID: 0000-0002-1612-2382
+AD  - Haematology Department, Calvary Mater Newcastle, Waratah, New South Wales, 
+      Australia.
+AD  - School of Biomedical Sciences and Pharmacy, College of Health, Medicine and 
+      Wellbeing, University of Newcastle, Callaghan, New South Wales, Australia.
+AD  - Precision Medicine Research Program, Hunter Medical Research Institute, New 
+      Lambton, New South Wales, Australia.
+FAU - Makhija, Karan
+AU  - Makhija K
+AUID- ORCID: 0000-0002-7357-7041
+AD  - Haematology Department, Calvary Mater Newcastle, Waratah, New South Wales, 
+      Australia.
+AD  - Precision Medicine Research Program, Hunter Medical Research Institute, New 
+      Lambton, New South Wales, Australia.
+FAU - Attalla, Khaled
+AU  - Attalla K
+AD  - Precision Medicine Research Program, Hunter Medical Research Institute, New 
+      Lambton, New South Wales, Australia.
+AD  - New South Wales Health Pathology, John Hunter Hospital, New Lambton, New South 
+      Wales, Australia.
+FAU - Scorgie, Fiona E
+AU  - Scorgie FE
+AUID- ORCID: 0000-0002-2762-9883
+AD  - Haematology Department, Calvary Mater Newcastle, Waratah, New South Wales, 
+      Australia.
+AD  - Precision Medicine Research Program, Hunter Medical Research Institute, New 
+      Lambton, New South Wales, Australia.
+FAU - Enjeti, Anoop K
+AU  - Enjeti AK
+AUID- ORCID: 0000-0001-8069-090X
+AD  - Haematology Department, Calvary Mater Newcastle, Waratah, New South Wales, 
+      Australia.
+AD  - Precision Medicine Research Program, Hunter Medical Research Institute, New 
+      Lambton, New South Wales, Australia.
+AD  - New South Wales Health Pathology, John Hunter Hospital, New Lambton, New South 
+      Wales, Australia.
+AD  - School of Medicine and Public Health, College of Health, Medicine and Wellbeing.
+FAU - Prasad, Ritam
+AU  - Prasad R
+AD  - Precision Medicine Research Program, Hunter Medical Research Institute, New 
+      Lambton, New South Wales, Australia.
+AD  - New South Wales Health Pathology, John Hunter Hospital, New Lambton, New South 
+      Wales, Australia.
+LA  - eng
+GR  - Calvary Mater Newcastle/
+GR  - Hunter Medical Research Institute/
+GR  - NSW Health Pathology/
+PT  - Journal Article
+DEP - 20231003
+PL  - England
+TA  - Int J Lab Hematol
+JT  - International journal of laboratory hematology
+JID - 101300213
+SB  - IM
+OTO - NOTNLM
+OT  - Techcyte
+OT  - blasts
+OT  - digital morphology
+OT  - machine learning
+OT  - white blood cell differential
+EDAT- 2023/10/03 06:47
+MHDA- 2023/10/03 06:47
+CRDT- 2023/10/03 03:55
+PHST- 2023/03/28 00:00 [received]
+PHST- 2023/09/14 00:00 [accepted]
+PHST- 2023/10/03 06:47 [pubmed]
+PHST- 2023/10/03 06:47 [medline]
+PHST- 2023/10/03 03:55 [entrez]
+AID - 10.1111/ijlh.14180 [doi]
+PST - aheadofprint
+SO  - Int J Lab Hematol. 2023 Oct 3. doi: 10.1111/ijlh.14180.
+
+PMID- 37786788
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20231004
+IS  - 2666-3287 (Electronic)
+IS  - 2666-3287 (Linking)
+VI  - 13
+DP  - 2023 Dec
+TI  - Digital health in dermatology.
+PG  - 139
+LID - 10.1016/j.jdin.2023.08.008 [doi]
+FAU - Kantor, Jonathan
+AU  - Kantor J
+AD  - Department of Dermatology, Center for Global Health, and Center for Clinical 
+      Epidemiology and Biostatistics, Perelman School of Medicine at the University of 
+      Pennsylvania, Philadelphia, Pennsylvania; Florida Center for Dermatology, St 
+      Augustine, Florida; and Alchemy Labs, Oxford, UK.
+LA  - eng
+PT  - Editorial
+DEP - 20230820
+PL  - United States
+TA  - JAAD Int
+JT  - JAAD international
+JID - 101774762
+PMC - PMC10542012
+OTO - NOTNLM
+OT  - ChatGPT
+OT  - Google Bard
+OT  - Microsoft Bing
+OT  - artificial intelligence
+OT  - copilot
+OT  - digital health
+OT  - large language models
+OT  - machine learning
+OT  - medical education
+OT  - practice management
+OT  - teledermatology
+OT  - teledermoscopy
+OT  - telemedicine
+OT  - whole slide imaging
+COIS- None disclosed.
+EDAT- 2023/10/03 06:47
+MHDA- 2023/10/03 06:48
+CRDT- 2023/10/03 03:50
+PHST- 2023/10/03 06:48 [medline]
+PHST- 2023/10/03 06:47 [pubmed]
+PHST- 2023/10/03 03:50 [entrez]
+AID - S2666-3287(23)00132-3 [pii]
+AID - 10.1016/j.jdin.2023.08.008 [doi]
+PST - epublish
+SO  - JAAD Int. 2023 Aug 20;13:139. doi: 10.1016/j.jdin.2023.08.008. eCollection 2023 
+      Dec.
+
+PMID- 37786773
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20231004
+VI  - 2023
+DP  - 2023 Jun
+TI  - Learning to Fight Against Cell Stimuli: A Game Theoretic Perspective.
+PG  - 285-287
+LID - 10.1109/cai54212.2023.00127 [doi]
+AB  - Current genomics interventions have limitations in accounting for cell stimuli 
+      and the dynamic response to intervention. Although genomic sequencing and 
+      analysis have led to significant advances in personalized medicine, the 
+      complexity of cellular interactions and the dynamic nature of the cellular 
+      response to stimuli pose significant challenges. These limitations can lead to 
+      chronic disease recurrence and inefficient genomic interventions. Therefore, it 
+      is necessary to capture the full range of cellular responses to develop effective 
+      interventions. This paper presents a game-theoretic model of the fight between 
+      the cell and intervention, demonstrating analytically and numerically why current 
+      interventions become ineffective over time. The performance is analyzed using 
+      melanoma regulatory networks, and the role of artificial intelligence in deriving 
+      effective solutions is described.
+FAU - Hosseini, Seyed Hamid
+AU  - Hosseini SH
+AD  - Department of Electrical and Computer Engineering at Northeastern University.
+FAU - Imani, Mahdi
+AU  - Imani M
+AD  - Department of Electrical and Computer Engineering at Northeastern University.
+LA  - eng
+GR  - R21 EB032480/EB/NIBIB NIH HHS/United States
+PT  - Journal Article
+DEP - 20230802
+PL  - United States
+TA  - 2023 IEEE Conf Artif Intell (2023)
+JT  - 2023 IEEE Conference on Artificial Intelligence
+JID - 9918680988506676
+PMC - PMC10544835
+MID - NIHMS1914207
+EDAT- 2023/10/03 06:47
+MHDA- 2023/10/03 06:48
+CRDT- 2023/10/03 03:49
+PHST- 2023/10/03 06:48 [medline]
+PHST- 2023/10/03 06:47 [pubmed]
+PHST- 2023/10/03 03:49 [entrez]
+AID - 10.1109/cai54212.2023.00127 [doi]
+PST - ppublish
+SO  - 2023 IEEE Conf Artif Intell (2023). 2023 Jun;2023:285-287. doi: 
+      10.1109/cai54212.2023.00127. Epub 2023 Aug 2.
+
+PMID- 37786693
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20231208
+DP  - 2023 Oct 5
+TI  - Enhancing Luciferase Activity and Stability through Generative Modeling of 
+      Natural Enzyme Sequences.
+LID - 2023.09.18.558367 [pii]
+LID - 10.1101/2023.09.18.558367 [doi]
+AB  - The availability of natural protein sequences synergized with generative 
+      artificial intelligence (AI) provides new paradigms to create enzymes. Although 
+      active enzyme variants with numerous mutations have been produced using 
+      generative models, their performance often falls short compared to their 
+      wild-type counterparts. Additionally, in practical applications, choosing fewer 
+      mutations that can rival the efficacy of extensive sequence alterations is 
+      usually more advantageous. Pinpointing beneficial single mutations continues to 
+      be a formidable task. In this study, using the generative maximum entropy model 
+      to analyze Renilla luciferase homologs, and in conjunction with biochemistry 
+      experiments, we demonstrated that natural evolutionary information could be used 
+      to predictively improve enzyme activity and stability by engineering the active 
+      center and protein scaffold, respectively. The success rate of designed single 
+      mutants is ~50% to improve either luciferase activity or stability. These finding 
+      highlights nature's ingenious approach to evolving proficient enzymes, wherein 
+      diverse evolutionary pressures are preferentially applied to distinct regions of 
+      the enzyme, ultimately culminating in an overall high performance. We also reveal 
+      an evolutionary preference in Renilla luciferase towards emitting blue light that 
+      holds advantages in terms of water penetration compared to other light spectrum. 
+      Taken together, our approach facilitates navigation through enzyme sequence space 
+      and offers effective strategies for computer-aided rational enzyme engineering.
+FAU - Xie, Wen Jun
+AU  - Xie WJ
+AD  - Department of Chemistry, University of Southern California, Los Angeles, CA, USA.
+AD  - Departmet of Medicinal Chemistry, Center for Natural Products, Drug Discovery and 
+      Development (CNPD3), Genetics Institute, University of Florida, Gainesville, FL, 
+      USA.
+FAU - Liu, Dangliang
+AU  - Liu D
+AD  - State Key Laboratory of Natural and Biomimetic Drugs, Chemical Biology Center, 
+      and School of Pharmaceutical Sciences, Peking University, Beijing, China.
+FAU - Wang, Xiaoya
+AU  - Wang X
+AD  - State Key Laboratory of Natural and Biomimetic Drugs, Chemical Biology Center, 
+      and School of Pharmaceutical Sciences, Peking University, Beijing, China.
+FAU - Zhang, Aoxuan
+AU  - Zhang A
+AD  - Department of Chemistry, University of Southern California, Los Angeles, CA, USA.
+FAU - Wei, Qijia
+AU  - Wei Q
+AD  - State Key Laboratory of Natural and Biomimetic Drugs, Chemical Biology Center, 
+      and School of Pharmaceutical Sciences, Peking University, Beijing, China.
+FAU - Nandi, Ashim
+AU  - Nandi A
+AD  - Department of Chemistry, University of Southern California, Los Angeles, CA, USA.
+FAU - Dong, Suwei
+AU  - Dong S
+AD  - State Key Laboratory of Natural and Biomimetic Drugs, Chemical Biology Center, 
+      and School of Pharmaceutical Sciences, Peking University, Beijing, China.
+FAU - Warshel, Arieh
+AU  - Warshel A
+AD  - Department of Chemistry, University of Southern California, Los Angeles, CA, USA.
+LA  - eng
+GR  - R35 GM122472/GM/NIGMS NIH HHS/United States
+PT  - Preprint
+DEP - 20231005
+PL  - United States
+TA  - bioRxiv
+JT  - bioRxiv : the preprint server for biology
+JID - 101680187
+UIN - Proc Natl Acad Sci U S A. 2023 Nov 28;120(48):e2312848120. PMID: 37983512
+PMC - PMC10541610
+COIS- Competing interests None.
+EDAT- 2023/10/03 06:47
+MHDA- 2023/10/03 06:48
+CRDT- 2023/10/03 03:47
+PHST- 2023/10/03 06:47 [pubmed]
+PHST- 2023/10/03 06:48 [medline]
+PHST- 2023/10/03 03:47 [entrez]
+AID - 2023.09.18.558367 [pii]
+AID - 10.1101/2023.09.18.558367 [doi]
+PST - epublish
+SO  - bioRxiv. 2023 Oct 5:2023.09.18.558367. doi: 10.1101/2023.09.18.558367. Preprint.

@@ -1,0 +1,892 @@
+PMID- 37789676
+OWN - NLM
+STAT- Publisher
+LR  - 20231004
+IS  - 1305-3612 (Electronic)
+IS  - 1305-3825 (Linking)
+DP  - 2023 Oct 3
+TI  - Large language models in radiology: fundamentals, applications, ethical 
+      considerations, risks, and future directions.
+LID - 10.4274/dir.2023.232417 [doi]
+AB  - With the advent of large language models (LLMs), the artificial intelligence 
+      revolution in medicine and radiology is now more tangible than ever. Every day, 
+      an increasingly large number of articles are published that utilize LLMs in 
+      radiology. To adopt and safely implement this new technology in the field, 
+      radiologists should be familiar with its key concepts, understand at least the 
+      technical basics, and be aware of the potential risks and ethical considerations 
+      that come with it. In this review article, the authors provide an overview of the 
+      LLMs that might be relevant to the radiology community and include a brief 
+      discussion of their short history, technical basics, ChatGPT, prompt engineering, 
+      potential applications in medicine and radiology, advantages, disadvantages and 
+      risks, ethical and regulatory considerations, and future directions.
+FAU - Akinci D'Antonoli, Tugba
+AU  - Akinci D'Antonoli T
+AUID- ORCID: 0000-0002-7237-711X
+AD  - Institute of Radiology and Nuclear Medicine, Cantonal Hospital Baselland, 
+      Liestal, Switzerland.
+FAU - Stanzione, Arnaldo
+AU  - Stanzione A
+AUID- ORCID: 0000-0002-7905-5789
+AD  - Department of Advanced Biomedical Sciences, University of Naples Federico II, 
+      Naples, Italy.
+FAU - Bluethgen, Christian
+AU  - Bluethgen C
+AUID- ORCID: 0000-0001-7321-5676
+AD  - Institute for Diagnostic and Interventional Radiology, University Hospital 
+      Zurich, University of Zurich, Zurich, Switzerland.
+FAU - Vernuccio, Federica
+AU  - Vernuccio F
+AUID- ORCID: 0000-0003-0350-1794
+AD  - Department of Radiology, University Hospital of Padova, Padova, Italy.
+FAU - Ugga, Lorenzo
+AU  - Ugga L
+AUID- ORCID: 0000-0001-7811-4612
+AD  - Department of Advanced Biomedical Sciences, University of Naples Federico II, 
+      Naples, Italy.
+FAU - Klontzas, Michail E
+AU  - Klontzas ME
+AUID- ORCID: 0000-0003-2731-933X
+AD  - Department of Medical Imaging, University Hospital of Heraklion, Crete, Greece & 
+      Department of Radiology, University of Crete, Heraklion, Crete, Greece & 
+      Computational Biomedicine Laboratory, Institute of Computer Science, FORTH, 
+      Heraklion, Crete, Greece.
+FAU - Cuocolo, Renato
+AU  - Cuocolo R
+AUID- ORCID: 0000-0002-1452-1574
+AD  - Department of Medicine, Surgery and Dentistry, University of Salerno, Baronissi, 
+      Italy.
+FAU - Cannella, Roberto
+AU  - Cannella R
+AUID- ORCID: 0000-0002-3808-0785
+AD  - Department of Biomedicine, Neuroscience and Advanced Diagnostics, Section of 
+      Radiology, University of Palermo, Palermo, Italy.
+FAU - Koçak, Burak
+AU  - Koçak B
+AUID- ORCID: 0000-0002-7307-396X
+AD  - Clinic of Radiology, University of Health Sciences, Basakşehir Çam and Sakura 
+      City Hospital, İstanbul, Turkey.
+LA  - eng
+PT  - Journal Article
+DEP - 20231003
+PL  - Turkey
+TA  - Diagn Interv Radiol
+JT  - Diagnostic and interventional radiology (Ankara, Turkey)
+JID - 101241152
+SB  - IM
+OTO - NOTNLM
+OT  - ChatGPT
+OT  - Large language models
+OT  - artificial intelligence
+OT  - deep learning
+OT  - natural language processing
+EDAT- 2023/10/04 06:43
+MHDA- 2023/10/04 06:43
+CRDT- 2023/10/04 02:17
+PHST- 2023/10/04 06:43 [medline]
+PHST- 2023/10/04 06:43 [pubmed]
+PHST- 2023/10/04 02:17 [entrez]
+AID - 10.4274/dir.2023.232417 [doi]
+PST - aheadofprint
+SO  - Diagn Interv Radiol. 2023 Oct 3. doi: 10.4274/dir.2023.232417.
+
+PMID- 37789636
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20231101
+LR  - 20240109
+IS  - 1466-187X (Electronic)
+IS  - 0142-159X (Linking)
+VI  - 45
+IP  - 11
+DP  - 2023 Nov
+TI  - ChatGPT for assessment writing.
+PG  - 1224-1227
+LID - 10.1080/0142159X.2023.2249239 [doi]
+AB  - What is the educational challenge?Medical schools invest significant resources 
+      into the creation of multiple-choice items for assessments. This process is 
+      costly and requires faculty training. Recently ChatGPT has been used in various 
+      areas to improve content creation efficiency, and it has otherwise been used to 
+      answer USMLE-style assessment items.What are the proposed solutions?We proposed 
+      the use of ChatGPT to create initial drafts of multiple-choice items.What are the 
+      potential benefits to a wider global audience?The use of ChatGPT to generate 
+      assessment items can decrease resources required, allowing for the creation of 
+      more items, and freeing-up faculty time to perform higher level assessment 
+      activities. ChatGPT is also able to consistently produce items using a standard 
+      format while adhering to item writing guidelines, which can be very challenging 
+      for faculty teams.What are the next steps?We plan to pilot ChatGPT drafted 
+      questions and compare item statistics for those written by ChatGPT with those 
+      written by our content experts. We also plan to further identify the types of 
+      questions that ChatGPT is most appropriate for, and incorporate media into 
+      assessment items (e.g. images, videos).
+FAU - Zuckerman, Matthew
+AU  - Zuckerman M
+AUID- ORCID: 0000-0001-9576-4203
+AD  - University of Colorado Anschutz Medical Campus School of Medicine, Aurora, CO, 
+      USA.
+FAU - Flood, Ryan
+AU  - Flood R
+AD  - University of Colorado Anschutz Medical Campus School of Medicine, Aurora, CO, 
+      USA.
+FAU - Tan, Rachael J B
+AU  - Tan RJB
+AUID- ORCID: 0009-0001-4841-2042
+AD  - University of Colorado Anschutz Medical Campus School of Medicine, Aurora, CO, 
+      USA.
+FAU - Kelp, Nicole
+AU  - Kelp N
+AUID- ORCID: 0000-0001-8462-5689
+AD  - University of Colorado Anschutz Medical Campus School of Medicine, Aurora, CO, 
+      USA.
+AD  - Department of Microbiology, Immunology, and Pathology, Colorado State University, 
+      Fort Collins, CO, USA.
+FAU - Ecker, David J
+AU  - Ecker DJ
+AUID- ORCID: 0000-0002-1530-0079
+AD  - University of Colorado Anschutz Medical Campus School of Medicine, Aurora, CO, 
+      USA.
+FAU - Menke, Jonathan
+AU  - Menke J
+AD  - University of Colorado Anschutz Medical Campus School of Medicine, Aurora, CO, 
+      USA.
+FAU - Lockspeiser, Tai
+AU  - Lockspeiser T
+AUID- ORCID: 0000-0002-1633-4860
+AD  - Department of Pediatrics, Children's Hospital Colorado, Aurora, CO, USA.
+LA  - eng
+PT  - Journal Article
+DEP - 20231016
+PL  - England
+TA  - Med Teach
+JT  - Medical teacher
+JID - 7909593
+SB  - IM
+MH  - Humans
+MH  - Educational Status
+MH  - *Faculty
+MH  - *Schools, Medical
+MH  - Videotape Recording
+MH  - Writing
+OTO - NOTNLM
+OT  - AI
+OT  - Assessment
+OT  - ChatGPT
+OT  - artificial intelligence
+OT  - medical education
+EDAT- 2023/10/04 06:43
+MHDA- 2023/11/01 12:44
+CRDT- 2023/10/04 02:05
+PHST- 2023/11/01 12:44 [medline]
+PHST- 2023/10/04 06:43 [pubmed]
+PHST- 2023/10/04 02:05 [entrez]
+AID - 10.1080/0142159X.2023.2249239 [doi]
+PST - ppublish
+SO  - Med Teach. 2023 Nov;45(11):1224-1227. doi: 10.1080/0142159X.2023.2249239. Epub 
+      2023 Oct 16.
+
+PMID- 37789540
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20231005
+LR  - 20231115
+IS  - 1469-1825 (Electronic)
+IS  - 0140-525X (Linking)
+VI  - 46
+DP  - 2023 Oct 4
+TI  - Moral artificial intelligence and machine puritanism.
+PG  - e297
+LID - 10.1017/S0140525X23000511 [doi]
+AB  - Puritanism may evolve into a technological variant based on norms of delegation 
+      of actions and perceptions to artificial intelligence. Instead of training 
+      self-control, people may be expected to cede their agency to self-controlled 
+      machines. The cost-benefit balance of this machine puritanism may be less 
+      aversive to wealthy individualistic democracies than the old puritanism they have 
+      abandoned.
+FAU - Bonnefon, Jean-François
+AU  - Bonnefon JF
+AUID- ORCID: 0000-0002-4959-188X
+AD  - Toulouse School of Economics, Toulouse, France jean-francois.bonnefon@tse-fr.eu; 
+      https://jfbonnefon.github.io/.
+LA  - eng
+PT  - Comment
+PT  - Journal Article
+DEP - 20231004
+PL  - England
+TA  - Behav Brain Sci
+JT  - The Behavioral and brain sciences
+JID - 7808666
+SB  - IM
+CON - Behav Brain Sci. 2022 Sep 16;46:e293. PMID: 36111617
+CIN - Behav Brain Sci. 2023 Oct 04;46:e322. PMID: 37789526
+MH  - Humans
+MH  - *Artificial Intelligence
+MH  - *Morals
+MH  - Affect
+EDAT- 2023/10/04 06:43
+MHDA- 2023/10/05 06:44
+CRDT- 2023/10/04 00:23
+PHST- 2023/10/05 06:44 [medline]
+PHST- 2023/10/04 06:43 [pubmed]
+PHST- 2023/10/04 00:23 [entrez]
+AID - S0140525X23000511 [pii]
+AID - 10.1017/S0140525X23000511 [doi]
+PST - epublish
+SO  - Behav Brain Sci. 2023 Oct 4;46:e297. doi: 10.1017/S0140525X23000511.
+
+PMID- 37789443
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20231122
+IS  - 2052-3211 (Print)
+IS  - 2052-3211 (Electronic)
+IS  - 2052-3211 (Linking)
+VI  - 16
+IP  - 1
+DP  - 2023 Oct 3
+TI  - ChatGPT in pharmacy practice: a cross-sectional exploration of Jordanian 
+      pharmacists' perception, practice, and concerns.
+PG  - 115
+LID - 10.1186/s40545-023-00624-2 [doi]
+LID - 115
+AB  - OBJECTIVES: The purpose of this study is to find out how much pharmacists know 
+      and have used ChatGPT in their practice. We investigated the advantages and 
+      disadvantages of utilizing ChatGPT in a pharmacy context, the amount of training 
+      necessary to use it proficiently, and the influence on patient care using a 
+      survey. METHODS: This cross-sectional study was carried out between May and June 
+      2023 to assess the potential and problems that pharmacists observed while 
+      integrating chatbots powered by AI (ChatGPT) in pharmacy practice. The 
+      correlation between perceived benefits and concerns was evaluated using 
+      Spearman's rho correlation due to the data's non-normal distribution.Any 
+      pharmacists licensed by the Jordanian Pharmacists Association were included in 
+      the study. A convenient sampling technique was used to choose the participants, 
+      and the study questionnaire was distributed utilizing an online medium (Facebook 
+      and WhatsApp). Anyone who expressed interest in taking part was given a link to 
+      the study's instructions so they may read them before giving their electronic 
+      consent and accessing the survey. RESULTS: The potential advantages of ChatGPT in 
+      the pharmacy practice were widely acknowledged by the participants. The majority 
+      of participants (69.9%) concurred that educational material about pharmacy items 
+      or therapeutic areas can be provided using ChatGPT, with 66.9% of respondents 
+      believing that ChatGPT is a machine learning algorithm. Concerns about the 
+      accuracy of AI-generated responses were also prevalent. More than half of the 
+      participants (55.7%) raised the possibility that AI systems such as ChatGPT could 
+      pick up on and replicate prejudices and discriminatory patterns from the data 
+      they were trained on. Analysis shows a statistically significant positive link, 
+      albeit a minor one, between the perceived advantages of ChatGPT and its drawbacks 
+      (r = 0.255, p < 0.001). However, concerns were strongly correlated with knowledge 
+      of ChatGPT. In contrast to those who were either unsure or had not heard of 
+      ChatGPT (64.2%), individuals who had heard of it were more likely to have strong 
+      concerns (79.8%) (p = 0.002). Finally, the results show a statistically 
+      significant association between the frequency of ChatGPT use and positive 
+      perceptions of the tool (p < 0.001). CONCLUSIONS: Although ChatGPT has shown 
+      promise in health and pharmaceutical practice, its application should be 
+      rigorously regulated by evidence-based law. According to the study's findings, 
+      pharmacists support the use of ChatGPT in pharmacy practice but have concerns 
+      about its use due to ethical reasons, legal problems, privacy concerns, worries 
+      about the accuracy of the data generated, data learning, and bias risk.
+CI  - © 2023. Dr. Zaheer-Ud-Din Babar and Auckland UniServices Ltd.
+FAU - Abu Hammour, Khawla
+AU  - Abu Hammour K
+AD  - Department of Clinical Pharmacy and Biopharmaceutics, Faculty of Pharmacy, 
+      University of Jordan, Amman, Jordan.
+FAU - Alhamad, Hamza
+AU  - Alhamad H
+AD  - Department of Clinical Pharmacy, Faculty of Pharmacy, Zarqa University, Zarqa, 
+      Jordan.
+FAU - Al-Ashwal, Fahmi Y
+AU  - Al-Ashwal FY
+AUID- ORCID: 0000-0003-2076-0771
+AD  - Department of Clinical Pharmacy, College of Pharmacy, Al-Ayen University, 
+      Thi-Qar, Iraq. fahmialashwal89@gmail.com.
+AD  - Department of Clinical Pharmacy and Pharmacy Practice, Faculty of Pharmacy, 
+      University of Science and Technology, Sana'a, Yemen. fahmialashwal89@gmail.com.
+FAU - Halboup, Abdulsalam
+AU  - Halboup A
+AD  - Department of Clinical Pharmacy and Pharmacy Practice, Faculty of Pharmacy, 
+      University of Science and Technology, Sana'a, Yemen.
+AD  - Discipline of Clinical Pharmacy, School of Pharmaceutical Sciences, University 
+      Sains Malaysia, Gelugor, Pulau Pinang, Malaysia.
+FAU - Abu Farha, Rana
+AU  - Abu Farha R
+AD  - Clinical Pharmacy and Therapeutics Department, Faculty of Pharmacy, Applied 
+      Science Private University, P.O. Box 11937, Amman, Jordan.
+FAU - Abu Hammour, Adnan
+AU  - Abu Hammour A
+AD  - Medrise Medical Center, Dubai Healthcare City, Dubai, United Arab Emirates.
+LA  - eng
+PT  - Journal Article
+DEP - 20231003
+PL  - England
+TA  - J Pharm Policy Pract
+JT  - Journal of pharmaceutical policy and practice
+JID - 101627192
+EIN - J Pharm Policy Pract. 2023 Oct 30;16(1):129. PMID: 37904185
+PMC - PMC10548710
+OTO - NOTNLM
+OT  - Artificial intelligence
+OT  - ChatGPT
+OT  - Pharmacy practice
+COIS- The Authors declare that there is no conflict of interest.
+EDAT- 2023/10/04 00:42
+MHDA- 2023/10/04 00:43
+CRDT- 2023/10/03 23:55
+PHST- 2023/07/13 00:00 [received]
+PHST- 2023/09/22 00:00 [accepted]
+PHST- 2023/10/04 00:43 [medline]
+PHST- 2023/10/04 00:42 [pubmed]
+PHST- 2023/10/03 23:55 [entrez]
+AID - 10.1186/s40545-023-00624-2 [pii]
+AID - 624 [pii]
+AID - 10.1186/s40545-023-00624-2 [doi]
+PST - epublish
+SO  - J Pharm Policy Pract. 2023 Oct 3;16(1):115. doi: 10.1186/s40545-023-00624-2.
+
+PMID- 37789265
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20231005
+LR  - 20231121
+IS  - 1471-2164 (Electronic)
+IS  - 1471-2164 (Linking)
+VI  - 24
+IP  - 1
+DP  - 2023 Oct 3
+TI  - plotnineSeqSuite: a Python package for visualizing sequence data using ggplot2 
+      style.
+PG  - 585
+LID - 10.1186/s12864-023-09677-8 [doi]
+LID - 585
+AB  - BACKGROUND: The visual sequence logo has been a hot area in the development of 
+      bioinformatics tools. ggseqlogo written in R language has been the most popular 
+      API since it was published. With the popularity of artificial intelligence and 
+      deep learning, Python is currently the most popular programming language. The 
+      programming language used by bioinformaticians began to shift to Python. 
+      Providing APIs in Python that are similar to those in R can reduce the learning 
+      cost of relearning a programming language. And compared to ggplot2 in R, drawing 
+      framework is not as easy to use in Python. The appearance of plotnine (ggplot2 in 
+      Python version) makes it possible to unify the programming methods of 
+      bioinformatics visualization tools between R and Python. RESULTS: Here, we 
+      introduce plotnineSeqSuite, a new plotnine-based Python package provides a 
+      ggseqlogo-like API for programmatic drawing of sequence logos, sequence alignment 
+      diagrams and sequence histograms. To be more precise, it supports custom letters, 
+      color themes, and fonts. Moreover, the class for drawing layers is based on 
+      object-oriented design so that users can easily encapsulate and extend it. 
+      CONCLUSIONS: plotnineSeqSuite is the first ggplot2-style package to implement 
+      visualization of sequence -related graphs in Python. It enhances the uniformity 
+      of programmatic plotting between R and Python. Compared with tools appeared 
+      already, the categories supported by plotnineSeqSuite are much more complete. The 
+      source code of plotnineSeqSuite can be obtained on GitHub ( 
+      https://github.com/caotianze/plotnineseqsuite ) and PyPI ( 
+      https://pypi.org/project/plotnineseqsuite ), and the documentation homepage is 
+      freely available on GitHub at ( https://caotianze.github.io/plotnineseqsuite/ ).
+CI  - © 2023. BioMed Central Ltd., part of Springer Nature.
+FAU - Cao, Tianze
+AU  - Cao T
+AD  - School of Mathematics, Hangzhou Normal University, Hangzhou, Zhejiang Province, 
+      China.
+FAU - Li, Qian
+AU  - Li Q
+AD  - Department of Rehabilitation, Tongji Hospital, Tongji Medical College, Huazhong 
+      University of Science and Technology, Wuhan, Hubei Province, China.
+FAU - Huang, Yuexia
+AU  - Huang Y
+AD  - School of Mathematics, Hangzhou Normal University, Hangzhou, Zhejiang Province, 
+      China. yxhuang@hznu.edu.cn.
+FAU - Li, Anshui
+AU  - Li A
+AD  - Department of Statistics, Shaoxing University, Shaoxing, Zhejiang Province, 
+      China. anshuili@usx.edu.cn.
+LA  - eng
+GR  - 11901145/National Natural Science Foundation of China/
+PT  - Journal Article
+DEP - 20231003
+PL  - England
+TA  - BMC Genomics
+JT  - BMC genomics
+JID - 100965258
+SB  - IM
+MH  - *Artificial Intelligence
+MH  - *Software
+MH  - Programming Languages
+MH  - Computational Biology
+MH  - Position-Specific Scoring Matrices
+PMC - PMC10546746
+OTO - NOTNLM
+OT  - Bioinformatics tool
+OT  - Multiple sequence alignment
+OT  - Sequence logo
+OT  - ggplot2
+OT  - plotnine
+COIS- The authors declare no competing interests.
+EDAT- 2023/10/04 00:42
+MHDA- 2023/10/05 06:44
+CRDT- 2023/10/03 23:43
+PHST- 2023/05/05 00:00 [received]
+PHST- 2023/09/14 00:00 [accepted]
+PHST- 2023/10/05 06:44 [medline]
+PHST- 2023/10/04 00:42 [pubmed]
+PHST- 2023/10/03 23:43 [entrez]
+AID - 10.1186/s12864-023-09677-8 [pii]
+AID - 9677 [pii]
+AID - 10.1186/s12864-023-09677-8 [doi]
+PST - epublish
+SO  - BMC Genomics. 2023 Oct 3;24(1):585. doi: 10.1186/s12864-023-09677-8.
+
+PMID- 37789241
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20231005
+LR  - 20231119
+IS  - 2509-9280 (Electronic)
+IS  - 2509-9280 (Linking)
+VI  - 7
+IP  - 1
+DP  - 2023 Oct 4
+TI  - Complexities of deep learning-based undersampled MR image reconstruction.
+PG  - 58
+LID - 10.1186/s41747-023-00372-7 [doi]
+LID - 58
+AB  - Artificial intelligence has opened a new path of innovation in magnetic resonance 
+      (MR) image reconstruction of undersampled k-space acquisitions. This review 
+      offers readers an analysis of the current deep learning-based MR image 
+      reconstruction methods. The literature in this field shows exponential growth, 
+      both in volume and complexity, as the capabilities of machine learning in solving 
+      inverse problems such as image reconstruction are explored. We review the latest 
+      developments, aiming to assist researchers and radiologists who are developing 
+      new methods or seeking to provide valuable feedback. We shed light on key 
+      concepts by exploring the technical intricacies of MR image reconstruction, 
+      highlighting the importance of raw datasets and the difficulty of evaluating 
+      diagnostic value using standard metrics.Relevance statement Increasingly complex 
+      algorithms output reconstructed images that are difficult to assess for 
+      robustness and diagnostic quality, necessitating high-quality datasets and 
+      collaboration with radiologists.Key points• Deep learning-based image 
+      reconstruction algorithms are increasing both in complexity and performance.• The 
+      evaluation of reconstructed images may mistake perceived image quality for 
+      diagnostic value.• Collaboration with radiologists is crucial for advancing deep 
+      learning technology.
+CI  - © 2023. European Society of Radiology (ESR).
+FAU - Noordman, Constant Richard
+AU  - Noordman CR
+AUID- ORCID: 0000-0003-4358-0087
+AD  - Diagnostic Image Analysis Group, Department of Medical Imaging, Radboud 
+      University Medical Center, Nijmegen, 6525 GA, The Netherlands. 
+      stan.noordman@radboudumc.nl.
+FAU - Yakar, Derya
+AU  - Yakar D
+AD  - Medical Imaging Center, Departments of Radiology, Nuclear Medicine and Molecular 
+      Imaging, University Medical Center Groningen, Groningen, 9700 RB, The 
+      Netherlands.
+FAU - Bosma, Joeran
+AU  - Bosma J
+AD  - Diagnostic Image Analysis Group, Department of Medical Imaging, Radboud 
+      University Medical Center, Nijmegen, 6525 GA, The Netherlands.
+FAU - Simonis, Frank Frederikus Jacobus
+AU  - Simonis FFJ
+AD  - Magnetic Detection and Imaging Group, Technical Medical Centre, University of 
+      Twente, Enschede, 7522 NB, The Netherlands.
+FAU - Huisman, Henkjan
+AU  - Huisman H
+AD  - Diagnostic Image Analysis Group, Department of Medical Imaging, Radboud 
+      University Medical Center, Nijmegen, 6525 GA, The Netherlands.
+AD  - Department of Circulation and Medical Imaging, Norwegian University of Science 
+      and Technology, Trondheim, 7030, Norway.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PT  - Review
+DEP - 20231004
+PL  - England
+TA  - Eur Radiol Exp
+JT  - European radiology experimental
+JID - 101721752
+SB  - IM
+MH  - *Artificial Intelligence
+MH  - *Deep Learning
+MH  - Image Processing, Computer-Assisted/methods
+MH  - Magnetic Resonance Imaging/methods
+MH  - Algorithms
+PMC - PMC10547669
+OTO - NOTNLM
+OT  - Algorithm
+OT  - Artificial intelligence
+OT  - Deep learning
+OT  - Image processing (computer-assisted)
+OT  - Magnetic resonance imaging
+COIS- Henkjan Huisman declares to receive research support from Siemens Healthineers, 
+      Derya Yakar declares to receive research support from Siemens Healthineers, the 
+      other authors declare that they have no competing interests.
+EDAT- 2023/10/04 00:42
+MHDA- 2023/10/05 06:43
+CRDT- 2023/10/03 23:41
+PHST- 2023/04/12 00:00 [received]
+PHST- 2023/08/01 00:00 [accepted]
+PHST- 2023/10/05 06:43 [medline]
+PHST- 2023/10/04 00:42 [pubmed]
+PHST- 2023/10/03 23:41 [entrez]
+AID - 10.1186/s41747-023-00372-7 [pii]
+AID - 372 [pii]
+AID - 10.1186/s41747-023-00372-7 [doi]
+PST - epublish
+SO  - Eur Radiol Exp. 2023 Oct 4;7(1):58. doi: 10.1186/s41747-023-00372-7.
+
+PMID- 37789191
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20231005
+LR  - 20231123
+IS  - 2045-2322 (Electronic)
+IS  - 2045-2322 (Linking)
+VI  - 13
+IP  - 1
+DP  - 2023 Oct 3
+TI  - An eXplainable Artificial Intelligence analysis of Raman spectra for thyroid 
+      cancer diagnosis.
+PG  - 16590
+LID - 10.1038/s41598-023-43856-7 [doi]
+LID - 16590
+AB  - Raman spectroscopy shows great potential as a diagnostic tool for thyroid cancer 
+      due to its ability to detect biochemical changes during cancer development. This 
+      technique is particularly valuable because it is non-invasive and label/dye-free. 
+      Compared to molecular tests, Raman spectroscopy analyses can more effectively 
+      discriminate malignant features, thus reducing unnecessary surgeries. However, 
+      one major hurdle to using Raman spectroscopy as a diagnostic tool is the 
+      identification of significant patterns and peaks. In this study, we propose a 
+      Machine Learning procedure to discriminate healthy/benign versus malignant 
+      nodules that produces interpretable results. We collect Raman spectra obtained 
+      from histological samples, select a set of peaks with a data-driven and label 
+      independent approach and train the algorithms with the relative prominence of the 
+      peaks in the selected set. The performance of the considered models, quantified 
+      by area under the Receiver Operating Characteristic curve, exceeds 0.9. To 
+      enhance the interpretability of the results, we employ eXplainable Artificial 
+      Intelligence and compute the contribution of each feature to the prediction of 
+      each sample.
+CI  - © 2023. Springer Nature Limited.
+FAU - Bellantuono, Loredana
+AU  - Bellantuono L
+AD  - Dipartimento di Biomedicina Traslazionale e Neuroscienze (DiBraiN), Università 
+      degli Studi di Bari Aldo Moro, 70124, Bari, Italy.
+AD  - Istituto Nazionale di Fisica Nucleare, Sezione di Bari, 70125, Bari, Italy.
+FAU - Tommasi, Raffaele
+AU  - Tommasi R
+AD  - Dipartimento di Biomedicina Traslazionale e Neuroscienze (DiBraiN), Università 
+      degli Studi di Bari Aldo Moro, 70124, Bari, Italy.
+FAU - Pantaleo, Ester
+AU  - Pantaleo E
+AD  - Istituto Nazionale di Fisica Nucleare, Sezione di Bari, 70125, Bari, Italy.
+AD  - Dipartimento Interateneo di Fisica, Università degli Studi di Bari Aldo Moro, 
+      70125, Bari, Italy.
+FAU - Verri, Martina
+AU  - Verri M
+AD  - Unit of Endocrine Organs and Neuromuscolar Pathology, Fondazione Policlinico 
+      Universitario Campus Bio-Medico, 00128, Rome, Italy.
+AD  - Dipartimento di Scienze, Università degli Studi Roma Tre, 00146, Roma, Italy.
+FAU - Amoroso, Nicola
+AU  - Amoroso N
+AD  - Istituto Nazionale di Fisica Nucleare, Sezione di Bari, 70125, Bari, Italy.
+AD  - Dipartimento di Farmacia-Scienze del Farmaco, Università degli Studi di Bari Aldo 
+      Moro, 70125, Bari, Italy.
+FAU - Crucitti, Pierfilippo
+AU  - Crucitti P
+AD  - Unit of Thoracic Surgery, Fondazione Policlinico Universitario Campus Bio-Medico, 
+      00128, Rome, Italy.
+FAU - Di Gioacchino, Michael
+AU  - Di Gioacchino M
+AD  - Dipartimento di Scienze, Università degli Studi Roma Tre, 00146, Roma, Italy. 
+      michael.digioacchino@uniroma3.it.
+FAU - Longo, Filippo
+AU  - Longo F
+AD  - Unit of Thoracic Surgery, Fondazione Policlinico Universitario Campus Bio-Medico, 
+      00128, Rome, Italy.
+FAU - Monaco, Alfonso
+AU  - Monaco A
+AD  - Istituto Nazionale di Fisica Nucleare, Sezione di Bari, 70125, Bari, Italy.
+AD  - Dipartimento Interateneo di Fisica, Università degli Studi di Bari Aldo Moro, 
+      70125, Bari, Italy.
+FAU - Naciu, Anda Mihaela
+AU  - Naciu AM
+AD  - Unit of Metabolic Bone and Thyroid Diseases, Fondazione Policlinico Universitario 
+      Campus Bio-Medico, 00128, Rome, Italy.
+FAU - Palermo, Andrea
+AU  - Palermo A
+AD  - Unit of Metabolic Bone and Thyroid Diseases, Fondazione Policlinico Universitario 
+      Campus Bio-Medico, 00128, Rome, Italy.
+FAU - Taffon, Chiara
+AU  - Taffon C
+AD  - Unit of Endocrine Organs and Neuromuscolar Pathology, Fondazione Policlinico 
+      Universitario Campus Bio-Medico, 00128, Rome, Italy.
+FAU - Tangaro, Sabina
+AU  - Tangaro S
+AD  - Istituto Nazionale di Fisica Nucleare, Sezione di Bari, 70125, Bari, Italy.
+AD  - Dipartimento di Scienze del Suolo, della Pianta e degli Alimenti, Università 
+      degli Studi di Bari Aldo Moro, 70125, Bari, Italy.
+FAU - Crescenzi, Anna
+AU  - Crescenzi A
+AD  - Unit of Endocrine Organs and Neuromuscolar Pathology, Fondazione Policlinico 
+      Universitario Campus Bio-Medico, 00128, Rome, Italy.
+FAU - Sodo, Armida
+AU  - Sodo A
+AD  - Dipartimento di Scienze, Università degli Studi Roma Tre, 00146, Roma, Italy.
+FAU - Bellotti, Roberto
+AU  - Bellotti R
+AD  - Istituto Nazionale di Fisica Nucleare, Sezione di Bari, 70125, Bari, Italy.
+AD  - Dipartimento Interateneo di Fisica, Università degli Studi di Bari Aldo Moro, 
+      70125, Bari, Italy.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20231003
+PL  - England
+TA  - Sci Rep
+JT  - Scientific reports
+JID - 101563288
+SB  - IM
+MH  - Humans
+MH  - *Artificial Intelligence
+MH  - Diagnosis, Differential
+MH  - *Thyroid Neoplasms/diagnosis/pathology
+MH  - Algorithms
+MH  - Spectrum Analysis, Raman/methods
+PMC - PMC10547772
+COIS- The authors declare no competing interests.
+EDAT- 2023/10/04 00:42
+MHDA- 2023/10/05 06:43
+CRDT- 2023/10/03 23:38
+PHST- 2023/06/30 00:00 [received]
+PHST- 2023/09/29 00:00 [accepted]
+PHST- 2023/10/05 06:43 [medline]
+PHST- 2023/10/04 00:42 [pubmed]
+PHST- 2023/10/03 23:38 [entrez]
+AID - 10.1038/s41598-023-43856-7 [pii]
+AID - 43856 [pii]
+AID - 10.1038/s41598-023-43856-7 [doi]
+PST - epublish
+SO  - Sci Rep. 2023 Oct 3;13(1):16590. doi: 10.1038/s41598-023-43856-7.
+
+PMID- 37789165
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20231101
+LR  - 20231101
+IS  - 0927-3042 (Print)
+IS  - 0927-3042 (Linking)
+VI  - 189
+DP  - 2023
+TI  - Medical Decision-Making and Artificial Intelligence.
+PG  - 101-108
+LID - 10.1007/978-3-031-37993-2_9 [doi]
+AB  - In this chapter, we discuss the potential role that artificial intelligence (AI) 
+      may have in medical decision-making, the pros and cons, and the limitations and 
+      biases that might be introduced when using these novel techniques. As computing 
+      becomes more powerful and models continue to grow increasingly more complex, the 
+      potential of AI to improve decision-making is increasingly promising. Within many 
+      medical fields, however, at the time of this writing (September 2023), the 
+      promise of AI is yet to translate into everyday reality. Here, we summarize the 
+      role of AI in medical decision-making (diagnosis, prognosis, and treatment).
+CI  - © 2023. The Author(s), under exclusive license to Springer Nature Switzerland AG.
+FAU - Djulbegovic, Benjamin
+AU  - Djulbegovic B
+AD  - Hematology Stewardship Program, Division of Hematology/Oncology, Department of 
+      Medicine, Medical University of South Carolina, Charleston, SC, USA. 
+      djulbegov@musc.edu.
+FAU - Hozo, Iztok
+AU  - Hozo I
+AD  - Department of Mathematics, Indiana University Northwest, Gary, IN, USA.
+LA  - eng
+PT  - Journal Article
+PL  - United States
+TA  - Cancer Treat Res
+JT  - Cancer treatment and research
+JID - 8008541
+SB  - IM
+MH  - Humans
+MH  - *Artificial Intelligence
+MH  - *Clinical Decision-Making
+EDAT- 2023/10/04 00:42
+MHDA- 2023/11/01 12:43
+CRDT- 2023/10/03 23:33
+PHST- 2023/11/01 12:43 [medline]
+PHST- 2023/10/04 00:42 [pubmed]
+PHST- 2023/10/03 23:33 [entrez]
+AID - 10.1007/978-3-031-37993-2_9 [doi]
+PST - ppublish
+SO  - Cancer Treat Res. 2023;189:101-108. doi: 10.1007/978-3-031-37993-2_9.
+
+PMID- 37789137
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20231119
+IS  - 2045-2322 (Electronic)
+IS  - 2045-2322 (Linking)
+VI  - 13
+IP  - 1
+DP  - 2023 Oct 3
+TI  - Publisher Correction: Artificial intelligence in communication impacts language 
+      and social relationships.
+PG  - 16616
+LID - 10.1038/s41598-023-43601-0 [doi]
+LID - 16616
+FAU - Hohenstein, Jess
+AU  - Hohenstein J
+AD  - Department of Information Science, Cornell University, 343 Campus Rd, Ithaca, NY, 
+      14853, USA.
+FAU - Kizilcec, Rene F
+AU  - Kizilcec RF
+AD  - Department of Information Science, Cornell University, 343 Campus Rd, Ithaca, NY, 
+      14853, USA.
+FAU - DiFranzo, Dominic
+AU  - DiFranzo D
+AD  - Department of Computer Science and Engineering, Lehigh University, 113 Research 
+      Dr, Bethlehem, PA, 18015, USA.
+FAU - Aghajari, Zhila
+AU  - Aghajari Z
+AD  - Department of Computer Science and Engineering, Lehigh University, 113 Research 
+      Dr, Bethlehem, PA, 18015, USA.
+FAU - Mieczkowski, Hannah
+AU  - Mieczkowski H
+AD  - Department of Communication, Stanford University, 450 Jane Stanford Way, 
+      Stanford, CA, 94305, USA.
+FAU - Levy, Karen
+AU  - Levy K
+AD  - Department of Information Science, Cornell University, 343 Campus Rd, Ithaca, NY, 
+      14853, USA.
+FAU - Naaman, Mor
+AU  - Naaman M
+AD  - Cornell Tech, 2 W Loop Rd, New York, NY, 10044, USA.
+FAU - Hancock, Jeffrey
+AU  - Hancock J
+AD  - Department of Communication, Stanford University, 450 Jane Stanford Way, 
+      Stanford, CA, 94305, USA.
+FAU - Jung, Malte F
+AU  - Jung MF
+AD  - Department of Information Science, Cornell University, 343 Campus Rd, Ithaca, NY, 
+      14853, USA. mjung@cornell.edu.
+LA  - eng
+PT  - Published Erratum
+DEP - 20231003
+PL  - England
+TA  - Sci Rep
+JT  - Scientific reports
+JID - 101563288
+SB  - IM
+EFR - Sci Rep. 2023 Apr 4;13(1):5487. PMID: 37015964
+PMC - PMC10547796
+EDAT- 2023/10/04 00:42
+MHDA- 2023/10/04 00:43
+CRDT- 2023/10/03 23:31
+PHST- 2023/10/04 00:43 [medline]
+PHST- 2023/10/04 00:42 [pubmed]
+PHST- 2023/10/03 23:31 [entrez]
+AID - 10.1038/s41598-023-43601-0 [pii]
+AID - 43601 [pii]
+AID - 10.1038/s41598-023-43601-0 [doi]
+PST - epublish
+SO  - Sci Rep. 2023 Oct 3;13(1):16616. doi: 10.1038/s41598-023-43601-0.
+
+PMID- 37789095
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20231005
+LR  - 20231119
+IS  - 2045-2322 (Electronic)
+IS  - 2045-2322 (Linking)
+VI  - 13
+IP  - 1
+DP  - 2023 Oct 3
+TI  - Improving diagnosis accuracy with an intelligent image retrieval system for lung 
+      pathologies detection: a features extractor approach.
+PG  - 16619
+LID - 10.1038/s41598-023-42366-w [doi]
+LID - 16619
+AB  - Detecting lung pathologies is critical for precise medical diagnosis. In the 
+      realm of diagnostic methods, various approaches, including imaging tests, 
+      physical examinations, and laboratory tests, contribute to this process. Of 
+      particular note, imaging techniques like X-rays, CT scans, and MRI scans play a 
+      pivotal role in identifying lung pathologies with their non-invasive insights. 
+      Deep learning, a subset of artificial intelligence, holds significant promise in 
+      revolutionizing the detection and diagnosis of lung pathologies. By leveraging 
+      expansive datasets, deep learning algorithms autonomously discern intricate 
+      patterns and features within medical images, such as chest X-rays and CT scans. 
+      These algorithms exhibit an exceptional capacity to recognize subtle markers 
+      indicative of lung diseases. Yet, while their potential is evident, inherent 
+      limitations persist. The demand for abundant labeled data during training and the 
+      susceptibility to data biases challenge their accuracy. To address these 
+      formidable challenges, this research introduces a tailored computer-assisted 
+      system designed for the automatic retrieval of annotated medical images that 
+      share similar content. At its core lies an intelligent deep learning-based 
+      features extractor, adept at simplifying the retrieval of analogous images from 
+      an extensive chest radiograph database. The crux of our innovation rests upon the 
+      fusion of YOLOv5 and EfficientNet within the features extractor module. This 
+      strategic fusion synergizes YOLOv5's rapid and efficient object detection 
+      capabilities with EfficientNet's proficiency in combating noisy predictions. The 
+      result is a distinctive amalgamation that redefines the efficiency and accuracy 
+      of features extraction. Through rigorous experimentation conducted on an 
+      extensive and diverse dataset, our proposed solution decisively surpasses 
+      conventional methodologies. The model's achievement of a mean average precision 
+      of 0.488 with a threshold of 0.9 stands as a testament to its effectiveness, 
+      overshadowing the results of YOLOv5 + ResNet and EfficientDet, which achieved 
+      0.234 and 0.257 respectively. Furthermore, our model demonstrates a marked 
+      precision improvement, attaining a value of 0.864 across all pathologies-a 
+      noteworthy leap of approximately 0.352 compared to YOLOv5 + ResNet and 
+      EfficientDet. This research presents a significant stride toward enhancing 
+      radiologists' workflow efficiency, offering a refined and proficient tool for 
+      retrieving analogous annotated medical images.
+CI  - © 2023. Springer Nature Limited.
+FAU - Souid, Abdelbaki
+AU  - Souid A
+AD  - MACS Research Laboratory RL16ES22, National Engineering School of Gabes, Gabes, 
+      Tunisia.
+FAU - Alsubaie, Najah
+AU  - Alsubaie N
+AD  - Department of Computer Sciences, College of Computer and Information Sciences, 
+      Princess Nourah bint Abdulrahman University, P.O. Box 84428, 11671, Riyadh, Saudi 
+      Arabia.
+FAU - Soufiene, Ben Othman
+AU  - Soufiene BO
+AD  - PRINCE Laboratory Research, ISITcom, University of Sousse, Hammam Sousse, 
+      Tunisia. soufiene.benothman@isim.rnu.tn.
+FAU - Alqahtani, Mohammed S
+AU  - Alqahtani MS
+AD  - Radiological Sciences Department, College of Applied Medical Sciences, King 
+      Khalid University, 61421, Abha, Saudi Arabia.
+AD  - BioImaging Unit, Space Research Centre, Michael Atiyah Building, University of 
+      Leicester, Leicester, LE17RH, UK.
+FAU - Abbas, Mohamed
+AU  - Abbas M
+AD  - Electrical Engineering Department, College of Engineering, King Khalid 
+      University, 61421, Abha, Saudi Arabia.
+FAU - Jambi, Layal K
+AU  - Jambi LK
+AD  - Radiological Sciences Department, College of Applied Medical Sciences, King Saud 
+      University, P.O. Box 10219, 11433, Riyadh, Saudi Arabia.
+FAU - Sakli, Hedi
+AU  - Sakli H
+AD  - MACS Research Laboratory RL16ES22, National Engineering School of Gabes, Gabes, 
+      Tunisia.
+AD  - EITA Consulting, 5 Rue Du Chant Des Oiseaux, 78360, Montesson, France.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20231003
+PL  - England
+TA  - Sci Rep
+JT  - Scientific reports
+JID - 101563288
+SB  - IM
+MH  - *Artificial Intelligence
+MH  - *Tomography, X-Ray Computed/methods
+MH  - Algorithms
+MH  - Radiography
+MH  - Lung/diagnostic imaging
+PMC - PMC10547797
+COIS- The authors declare no competing interests.
+EDAT- 2023/10/04 00:42
+MHDA- 2023/10/05 06:43
+CRDT- 2023/10/03 23:28
+PHST- 2023/04/13 00:00 [received]
+PHST- 2023/09/09 00:00 [accepted]
+PHST- 2023/10/05 06:43 [medline]
+PHST- 2023/10/04 00:42 [pubmed]
+PHST- 2023/10/03 23:28 [entrez]
+AID - 10.1038/s41598-023-42366-w [pii]
+AID - 42366 [pii]
+AID - 10.1038/s41598-023-42366-w [doi]
+PST - epublish
+SO  - Sci Rep. 2023 Oct 3;13(1):16619. doi: 10.1038/s41598-023-42366-w.

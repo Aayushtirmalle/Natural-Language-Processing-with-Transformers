@@ -1,0 +1,1136 @@
+PMID- 37789032
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20231101
+LR  - 20231123
+IS  - 2045-2322 (Electronic)
+IS  - 2045-2322 (Linking)
+VI  - 13
+IP  - 1
+DP  - 2023 Oct 3
+TI  - Humans inherit artificial intelligence biases.
+PG  - 15737
+LID - 10.1038/s41598-023-42384-8 [doi]
+LID - 15737
+AB  - Artificial intelligence recommendations are sometimes erroneous and biased. In 
+      our research, we hypothesized that people who perform a (simulated) medical 
+      diagnostic task assisted by a biased AI system will reproduce the model's bias in 
+      their own decisions, even when they move to a context without AI support. In 
+      three experiments, participants completed a medical-themed classification task 
+      with or without the help of a biased AI system. The biased recommendations by the 
+      AI influenced participants' decisions. Moreover, when those participants, 
+      assisted by the AI, moved on to perform the task without assistance, they made 
+      the same errors as the AI had made during the previous phase. Thus, participants' 
+      responses mimicked AI bias even when the AI was no longer making suggestions. 
+      These results provide evidence of human inheritance of AI bias.
+CI  - © 2023. Springer Nature Limited.
+FAU - Vicente, Lucía
+AU  - Vicente L
+AUID- ORCID: 0000-0003-2769-5028
+AD  - Department of Psychology, Deusto University, Avenida Universidades 24, 48007, 
+      Bilbao, Spain.
+FAU - Matute, Helena
+AU  - Matute H
+AUID- ORCID: 0000-0001-7221-1366
+AD  - Department of Psychology, Deusto University, Avenida Universidades 24, 48007, 
+      Bilbao, Spain. matute@deusto.es.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20231003
+PL  - England
+TA  - Sci Rep
+JT  - Scientific reports
+JID - 101563288
+SB  - IM
+MH  - Humans
+MH  - *Artificial Intelligence
+MH  - Bias
+MH  - *Inheritance Patterns
+MH  - Suggestion
+PMC - PMC10547752
+COIS- The authors declare no competing interests.
+EDAT- 2023/10/04 00:42
+MHDA- 2023/11/01 12:42
+CRDT- 2023/10/03 23:21
+PHST- 2023/06/22 00:00 [received]
+PHST- 2023/09/09 00:00 [accepted]
+PHST- 2023/11/01 12:42 [medline]
+PHST- 2023/10/04 00:42 [pubmed]
+PHST- 2023/10/03 23:21 [entrez]
+AID - 10.1038/s41598-023-42384-8 [pii]
+AID - 42384 [pii]
+AID - 10.1038/s41598-023-42384-8 [doi]
+PST - epublish
+SO  - Sci Rep. 2023 Oct 3;13(1):15737. doi: 10.1038/s41598-023-42384-8.
+
+PMID- 37789003
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+DCOM- 20231005
+LR  - 20231118
+IS  - 2052-4463 (Electronic)
+IS  - 2052-4463 (Linking)
+VI  - 10
+IP  - 1
+DP  - 2023 Oct 3
+TI  - Endomapper dataset of complete calibrated endoscopy procedures.
+PG  - 671
+LID - 10.1038/s41597-023-02564-7 [doi]
+LID - 671
+AB  - Computer-assisted systems are becoming broadly used in medicine. In endoscopy, 
+      most research focuses on the automatic detection of polyps or other pathologies, 
+      but localization and navigation of the endoscope are completely performed 
+      manually by physicians. To broaden this research and bring spatial Artificial 
+      Intelligence to endoscopies, data from complete procedures is needed. This paper 
+      introduces the Endomapper dataset, the first collection of complete endoscopy 
+      sequences acquired during regular medical practice, making secondary use of 
+      medical data. Its main purpose is to facilitate the development and evaluation of 
+      Visual Simultaneous Localization and Mapping (VSLAM) methods in real endoscopy 
+      data. The dataset contains more than 24 hours of video. It is the first 
+      endoscopic dataset that includes endoscope calibration as well as the original 
+      calibration videos. Meta-data and annotations associated with the dataset vary 
+      from the anatomical landmarks, procedure labeling, segmentations, 
+      reconstructions, simulated sequences with ground truth and same patient 
+      procedures. The software used in this paper is publicly available.
+CI  - © 2023. Springer Nature Limited.
+FAU - Azagra, Pablo
+AU  - Azagra P
+AUID- ORCID: 0000-0002-3567-3294
+AD  - Instituto de Investigación en Ingeniería de Aragón (I3A), Universidad de 
+      Zaragoza, Zaragoza, Spain. pazagra@unizar.es.
+FAU - Sostres, Carlos
+AU  - Sostres C
+AD  - Digestive Disease Service, Hospital Clínico Universitario Lozano Blesa, Zaragoza, 
+      Spain.
+AD  - Department of Medicine, Universidad de Zaragoza, Zaragoza, Spain.
+AD  - Instituto de Investigación Sanitaria Aragón (IIS Aragón), Zaragoza, Spain.
+AD  - Centro de Investigación Biomédica en Red, Enfermedades Hepáticas y Digestivas 
+      (CIBEREHD), Madrid, Spain.
+FAU - Ferrández, Ángel
+AU  - Ferrández Á
+AD  - Digestive Disease Service, Hospital Clínico Universitario Lozano Blesa, Zaragoza, 
+      Spain.
+AD  - Department of Medicine, Universidad de Zaragoza, Zaragoza, Spain.
+AD  - Instituto de Investigación Sanitaria Aragón (IIS Aragón), Zaragoza, Spain.
+AD  - Centro de Investigación Biomédica en Red, Enfermedades Hepáticas y Digestivas 
+      (CIBEREHD), Madrid, Spain.
+FAU - Riazuelo, Luis
+AU  - Riazuelo L
+AD  - Instituto de Investigación en Ingeniería de Aragón (I3A), Universidad de 
+      Zaragoza, Zaragoza, Spain.
+FAU - Tomasini, Clara
+AU  - Tomasini C
+AD  - Instituto de Investigación en Ingeniería de Aragón (I3A), Universidad de 
+      Zaragoza, Zaragoza, Spain.
+FAU - Barbed, O León
+AU  - Barbed OL
+AD  - Instituto de Investigación en Ingeniería de Aragón (I3A), Universidad de 
+      Zaragoza, Zaragoza, Spain.
+FAU - Morlana, Javier
+AU  - Morlana J
+AD  - Instituto de Investigación en Ingeniería de Aragón (I3A), Universidad de 
+      Zaragoza, Zaragoza, Spain.
+FAU - Recasens, David
+AU  - Recasens D
+AUID- ORCID: 0000-0002-5637-2845
+AD  - Instituto de Investigación en Ingeniería de Aragón (I3A), Universidad de 
+      Zaragoza, Zaragoza, Spain.
+FAU - Batlle, Víctor M
+AU  - Batlle VM
+AUID- ORCID: 0000-0002-6837-934X
+AD  - Instituto de Investigación en Ingeniería de Aragón (I3A), Universidad de 
+      Zaragoza, Zaragoza, Spain.
+FAU - Gómez-Rodríguez, Juan J
+AU  - Gómez-Rodríguez JJ
+AD  - Instituto de Investigación en Ingeniería de Aragón (I3A), Universidad de 
+      Zaragoza, Zaragoza, Spain.
+FAU - Elvira, Richard
+AU  - Elvira R
+AD  - Instituto de Investigación en Ingeniería de Aragón (I3A), Universidad de 
+      Zaragoza, Zaragoza, Spain.
+FAU - López, Julia
+AU  - López J
+AD  - Digestive Disease Service, Hospital Clínico Universitario Lozano Blesa, Zaragoza, 
+      Spain.
+FAU - Oriol, Cristina
+AU  - Oriol C
+AD  - Instituto de Investigación en Ingeniería de Aragón (I3A), Universidad de 
+      Zaragoza, Zaragoza, Spain.
+FAU - Civera, Javier
+AU  - Civera J
+AD  - Instituto de Investigación en Ingeniería de Aragón (I3A), Universidad de 
+      Zaragoza, Zaragoza, Spain.
+FAU - Tardós, Juan D
+AU  - Tardós JD
+AD  - Instituto de Investigación en Ingeniería de Aragón (I3A), Universidad de 
+      Zaragoza, Zaragoza, Spain.
+FAU - Murillo, Ana C
+AU  - Murillo AC
+AUID- ORCID: 0000-0002-7580-9037
+AD  - Instituto de Investigación en Ingeniería de Aragón (I3A), Universidad de 
+      Zaragoza, Zaragoza, Spain.
+FAU - Lanas, Angel
+AU  - Lanas A
+AD  - Digestive Disease Service, Hospital Clínico Universitario Lozano Blesa, Zaragoza, 
+      Spain.
+AD  - Department of Medicine, Universidad de Zaragoza, Zaragoza, Spain.
+AD  - Instituto de Investigación Sanitaria Aragón (IIS Aragón), Zaragoza, Spain.
+AD  - Centro de Investigación Biomédica en Red, Enfermedades Hepáticas y Digestivas 
+      (CIBEREHD), Madrid, Spain.
+FAU - Montiel, José M M
+AU  - Montiel JMM
+AD  - Instituto de Investigación en Ingeniería de Aragón (I3A), Universidad de 
+      Zaragoza, Zaragoza, Spain.
+LA  - eng
+PT  - Dataset
+PT  - Journal Article
+DEP - 20231003
+PL  - England
+TA  - Sci Data
+JT  - Scientific data
+JID - 101640192
+SB  - IM
+PMC - PMC10547713
+COIS- The authors declare no competing interests.
+EDAT- 2023/10/04 00:42
+MHDA- 2023/10/05 06:44
+CRDT- 2023/10/03 23:17
+PHST- 2022/11/24 00:00 [received]
+PHST- 2023/09/14 00:00 [accepted]
+PHST- 2023/10/05 06:44 [medline]
+PHST- 2023/10/04 00:42 [pubmed]
+PHST- 2023/10/03 23:17 [entrez]
+AID - 10.1038/s41597-023-02564-7 [pii]
+AID - 2564 [pii]
+AID - 10.1038/s41597-023-02564-7 [doi]
+PST - epublish
+SO  - Sci Data. 2023 Oct 3;10(1):671. doi: 10.1038/s41597-023-02564-7.
+
+PMID- 37788995
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20231117
+IS  - 2041-1723 (Electronic)
+IS  - 2041-1723 (Linking)
+VI  - 14
+IP  - 1
+DP  - 2023 Oct 3
+TI  - Retrosynthesis prediction with an interpretable deep-learning framework based on 
+      molecular assembly tasks.
+PG  - 6155
+LID - 10.1038/s41467-023-41698-5 [doi]
+LID - 6155
+AB  - Automating retrosynthesis with artificial intelligence expedites organic 
+      chemistry research in digital laboratories. However, most existing deep-learning 
+      approaches are hard to explain, like a "black box" with few insights. Here, we 
+      propose RetroExplainer, formulizing the retrosynthesis task into a molecular 
+      assembly process, containing several retrosynthetic actions guided by deep 
+      learning. To guarantee a robust performance of our model, we propose three units: 
+      a multi-sense and multi-scale Graph Transformer, structure-aware contrastive 
+      learning, and dynamic adaptive multi-task learning. The results on 12 large-scale 
+      benchmark datasets demonstrate the effectiveness of RetroExplainer, which 
+      outperforms the state-of-the-art single-step retrosynthesis approaches. In 
+      addition, the molecular assembly process renders our model with good 
+      interpretability, allowing for transparent decision-making and quantitative 
+      attribution. When extended to multi-step retrosynthesis planning, RetroExplainer 
+      has identified 101 pathways, in which 86.9% of the single reactions correspond to 
+      those already reported in the literature. As a result, RetroExplainer is expected 
+      to offer valuable insights for reliable, high-throughput, and high-quality 
+      organic synthesis in drug development.
+CI  - © 2023. Springer Nature Limited.
+FAU - Wang, Yu
+AU  - Wang Y
+AD  - School of Software, Shandong University, Jinan, 250101, China.
+AD  - Joint SDU-NTU Centre for Artificial Intelligence Research (C-FAIR), Shandong 
+      University, Jinan, 250101, China.
+FAU - Pang, Chao
+AU  - Pang C
+AUID- ORCID: 0000-0002-3971-8250
+AD  - School of Software, Shandong University, Jinan, 250101, China.
+AD  - Joint SDU-NTU Centre for Artificial Intelligence Research (C-FAIR), Shandong 
+      University, Jinan, 250101, China.
+FAU - Wang, Yuzhe
+AU  - Wang Y
+AD  - School of Software, Shandong University, Jinan, 250101, China.
+AD  - Joint SDU-NTU Centre for Artificial Intelligence Research (C-FAIR), Shandong 
+      University, Jinan, 250101, China.
+FAU - Jin, Junru
+AU  - Jin J
+AD  - School of Software, Shandong University, Jinan, 250101, China.
+AD  - Joint SDU-NTU Centre for Artificial Intelligence Research (C-FAIR), Shandong 
+      University, Jinan, 250101, China.
+FAU - Zhang, Jingjie
+AU  - Zhang J
+AD  - School of Software, Shandong University, Jinan, 250101, China.
+AD  - Joint SDU-NTU Centre for Artificial Intelligence Research (C-FAIR), Shandong 
+      University, Jinan, 250101, China.
+FAU - Zeng, Xiangxiang
+AU  - Zeng X
+AUID- ORCID: 0000-0003-1081-7658
+AD  - College of Computer Science and Electronic Engineering, Hunan University, 
+      Changsha, China.
+FAU - Su, Ran
+AU  - Su R
+AD  - College of Intelligence and Computing, Tianjin University, Tianjin, China.
+FAU - Zou, Quan
+AU  - Zou Q
+AUID- ORCID: 0000-0001-6406-1142
+AD  - Institute of Fundamental and Frontier Sciences, University of Electronic Science 
+      and Technology of China, Chengdu, China. zouquan@nclab.net.
+FAU - Wei, Leyi
+AU  - Wei L
+AUID- ORCID: 0000-0003-1444-190X
+AD  - School of Software, Shandong University, Jinan, 250101, China. 
+      weileyi@sdu.edu.cn.
+AD  - College of Computer Science and Electronic Engineering, Hunan University, 
+      Changsha, China. weileyi@sdu.edu.cn.
+LA  - eng
+GR  - 62071278/National Natural Science Foundation of China (National Science 
+      Foundation of China)/
+GR  - 62322112/National Natural Science Foundation of China (National Science 
+      Foundation of China)/
+GR  - 62250028/National Natural Science Foundation of China (National Science 
+      Foundation of China)/
+PT  - Journal Article
+DEP - 20231003
+PL  - England
+TA  - Nat Commun
+JT  - Nature communications
+JID - 101528555
+SB  - IM
+PMC - PMC10547708
+COIS- The authors declare no competing interests.
+EDAT- 2023/10/04 00:42
+MHDA- 2023/10/04 00:43
+CRDT- 2023/10/03 23:16
+PHST- 2023/03/16 00:00 [received]
+PHST- 2023/09/12 00:00 [accepted]
+PHST- 2023/10/04 00:43 [medline]
+PHST- 2023/10/04 00:42 [pubmed]
+PHST- 2023/10/03 23:16 [entrez]
+AID - 10.1038/s41467-023-41698-5 [pii]
+AID - 41698 [pii]
+AID - 10.1038/s41467-023-41698-5 [doi]
+PST - epublish
+SO  - Nat Commun. 2023 Oct 3;14(1):6155. doi: 10.1038/s41467-023-41698-5.
+
+PMID- 37788912
+OWN - NLM
+STAT- Publisher
+LR  - 20231003
+IS  - 2059-8696 (Electronic)
+IS  - 2059-8688 (Linking)
+DP  - 2023 Oct 3
+TI  - Advanced rehabilitation in ischaemic stroke research.
+LID - svn-2022-002285 [pii]
+LID - 10.1136/svn-2022-002285 [doi]
+AB  - At present, due to the rapid progress of treatment technology in the acute phase 
+      of ischaemic stroke, the mortality of patients has been greatly reduced but the 
+      number of disabled survivors is increasing, and most of them are elderly 
+      patients. Physicians and rehabilitation therapists pay attention to develop all 
+      kinds of therapist techniques including physical therapy techniques, 
+      robot-assisted technology and artificial intelligence technology, and study the 
+      molecular, cellular or synergistic mechanisms of rehabilitation therapies to 
+      promote the effect of rehabilitation therapy. Here, we discussed different animal 
+      and in vitro models of ischaemic stroke for rehabilitation studies; the compound 
+      concept and technology of neurological rehabilitation; all kinds of biological 
+      mechanisms of physical therapy; the significance, assessment and efficacy of 
+      neurological rehabilitation; the application of brain-computer interface, 
+      rehabilitation robotic and non-invasive brain stimulation technology in stroke 
+      rehabilitation.
+CI  - © Author(s) (or their employer(s)) 2023. Re-use permitted under CC BY-NC. No 
+      commercial re-use. See rights and permissions. Published by BMJ.
+FAU - Wang, Jixian
+AU  - Wang J
+AUID- ORCID: 0000-0002-3660-3175
+AD  - Department of Rehabilitation Medicine, Ruijin Hospital, Shanghai Jiao Tong 
+      University School of Medical, Shanghai, China.
+FAU - Li, Yongfang
+AU  - Li Y
+AD  - Department of Rehabilitation Medicine, Ruijin Hospital, Shanghai Jiao Tong 
+      University School of Medical, Shanghai, China.
+FAU - Qi, Lin
+AU  - Qi L
+AD  - Med-X Research Institute and School of Biomedical Engineering, Shanghai Jiao Tong 
+      University, Shanghai, China.
+FAU - Mamtilahun, Muyassar
+AU  - Mamtilahun M
+AD  - Med-X Research Institute and School of Biomedical Engineering, Shanghai Jiao Tong 
+      University, Shanghai, China.
+FAU - Liu, Chang
+AU  - Liu C
+AD  - Med-X Research Institute and School of Biomedical Engineering, Shanghai Jiao Tong 
+      University, Shanghai, China.
+FAU - Liu, Ze
+AU  - Liu Z
+AD  - Med-X Research Institute and School of Biomedical Engineering, Shanghai Jiao Tong 
+      University, Shanghai, China.
+FAU - Shi, Rubing
+AU  - Shi R
+AD  - Med-X Research Institute and School of Biomedical Engineering, Shanghai Jiao Tong 
+      University, Shanghai, China.
+FAU - Wu, Shengju
+AU  - Wu S
+AD  - Med-X Research Institute and School of Biomedical Engineering, Shanghai Jiao Tong 
+      University, Shanghai, China.
+FAU - Yang, Guo-Yuan
+AU  - Yang GY
+AUID- ORCID: 0000-0003-3105-9307
+AD  - Med-X Research Institute and School of Biomedical Engineering, Shanghai Jiao Tong 
+      University, Shanghai, China gyyang@sjtu.edu.cn.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+DEP - 20231003
+PL  - England
+TA  - Stroke Vasc Neurol
+JT  - Stroke and vascular neurology
+JID - 101689996
+SB  - IM
+OTO - NOTNLM
+OT  - Stroke
+OT  - Stroke Rehabilitation
+COIS- Competing interests: None declared.
+EDAT- 2023/10/04 00:42
+MHDA- 2023/10/04 00:42
+CRDT- 2023/10/03 21:39
+PHST- 2022/12/30 00:00 [received]
+PHST- 2023/03/20 00:00 [accepted]
+PHST- 2023/10/04 00:42 [medline]
+PHST- 2023/10/04 00:42 [pubmed]
+PHST- 2023/10/03 21:39 [entrez]
+AID - svn-2022-002285 [pii]
+AID - 10.1136/svn-2022-002285 [doi]
+PST - aheadofprint
+SO  - Stroke Vasc Neurol. 2023 Oct 3:svn-2022-002285. doi: 10.1136/svn-2022-002285.
+
+PMID- 37788747
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20231102
+LR  - 20231102
+IS  - 1879-1298 (Electronic)
+IS  - 0045-6535 (Linking)
+VI  - 344
+DP  - 2023 Dec
+TI  - Performance evaluation of artificial intelligence with particle swarm 
+      optimization (PSO) to predict treatment water plant DBPs (haloacetic acids).
+PG  - 140238
+LID - S0045-6535(23)02508-0 [pii]
+LID - 10.1016/j.chemosphere.2023.140238 [doi]
+AB  - The prevention of water-borne diseases requires the disinfection of water 
+      consumed. Disinfection by-products, however, are an increasing concern, and they 
+      require advanced knowledge of water treatment plants before their release for 
+      human consumption. In this study, multivariate non-linear regression (MNR) and 
+      adaptive neuro-fuzzy inference system (ANFIS: Grid partition - GP and 
+      Sub-clustering - SC) integrated with particle swarm optimization (PSO) were 
+      proposed for the prediction of haloacetic acids (HAAs) in actual distribution 
+      systems. PSO-ANFIS-GP and PSO-ANFIS-SC were trained and verified for a total of 
+      64 sets of data with eight parameters (pH, Temperature, UVA(254), DOC, Br(-); 
+      NH(4)(+)-N; NO(2)(-)-N, residual free chlorine). With MNR, R(2) is 
+      0.5184<R(2)<0.8181 and average absolute error, AAE = 0.172-0.253%). Further, 
+      PSO-ANFIS-GP and PSO-ANFIS-SC for HAAs (BCAA, DCAA, TCAA, HAA5, and HAA9) 
+      prediction consistently show higher regression coefficients, with lower AAE, 
+      (0.8825< R(2) < 0.9363 and AAE = 0.1031-0.1499%) and (0.8826< R(2) < 0.9322 and 
+      AAE = 0.1108-0.1500%) respectively with). With the eight simple parameters, 
+      PSO-ANFIS-GP provides an easy way for users to monitor and predict HAAs.
+CI  - Copyright © 2023 Elsevier Ltd. All rights reserved.
+FAU - Okoji, Anthony I
+AU  - Okoji AI
+AD  - Department of Chemical Engineering, Covenant University, Ota, Ogun state, 
+      Nigeria. Electronic address: anthony.okoji@covenantuniversity.edu.ng.
+FAU - Okoji, Comfort N
+AU  - Okoji CN
+AD  - Department of Biology and Forensic, Admiralty University, Ibusa, Delta state, 
+      Nigeria.
+FAU - Awarun, Olorunfemi S
+AU  - Awarun OS
+AD  - Department of Microbiology, Landmark University, Omu-Aran, Kwara state, Nigeria.
+LA  - eng
+PT  - Journal Article
+DEP - 20231001
+PL  - England
+TA  - Chemosphere
+JT  - Chemosphere
+JID - 0320657
+SB  - IM
+MH  - Humans
+MH  - *Artificial Intelligence
+MH  - *Water Purification
+MH  - Neural Networks, Computer
+MH  - Fuzzy Logic
+MH  - Disinfection
+OTO - NOTNLM
+OT  - Grid partition
+OT  - Haloacetic acids
+OT  - Multivariate non-linear regression
+OT  - Particle swarm optimization
+OT  - Sub-clustering
+COIS- Declaration of competing interest The authors declare that they have no known 
+      competing financial interests or personal relationships that could have appeared 
+      to influence the work reported in this paper.
+EDAT- 2023/10/04 00:42
+MHDA- 2023/11/02 12:44
+CRDT- 2023/10/03 19:14
+PHST- 2023/06/19 00:00 [received]
+PHST- 2023/09/17 00:00 [revised]
+PHST- 2023/09/19 00:00 [accepted]
+PHST- 2023/11/02 12:44 [medline]
+PHST- 2023/10/04 00:42 [pubmed]
+PHST- 2023/10/03 19:14 [entrez]
+AID - S0045-6535(23)02508-0 [pii]
+AID - 10.1016/j.chemosphere.2023.140238 [doi]
+PST - ppublish
+SO  - Chemosphere. 2023 Dec;344:140238. doi: 10.1016/j.chemosphere.2023.140238. Epub 
+      2023 Oct 1.
+
+PMID- 37788667
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20231023
+LR  - 20231113
+IS  - 2666-3791 (Electronic)
+IS  - 2666-3791 (Linking)
+VI  - 4
+IP  - 10
+DP  - 2023 Oct 17
+TI  - Artificial intelligence in diabetes management: Advancements, opportunities, and 
+      challenges.
+PG  - 101213
+LID - S2666-3791(23)00380-4 [pii]
+LID - 10.1016/j.xcrm.2023.101213 [doi]
+LID - 101213
+AB  - The increasing prevalence of diabetes, high avoidable morbidity and mortality due 
+      to diabetes and diabetic complications, and related substantial economic burden 
+      make diabetes a significant health challenge worldwide. A shortage of diabetes 
+      specialists, uneven distribution of medical resources, low adherence to 
+      medications, and improper self-management contribute to poor glycemic control in 
+      patients with diabetes. Recent advancements in digital health technologies, 
+      especially artificial intelligence (AI), provide a significant opportunity to 
+      achieve better efficiency in diabetes care, which may diminish the increase in 
+      diabetes-related health-care expenditures. Here, we review the recent progress in 
+      the application of AI in the management of diabetes and then discuss the 
+      opportunities and challenges of AI application in clinical practice. Furthermore, 
+      we explore the possibility of combining and expanding upon existing digital 
+      health technologies to develop an AI-assisted digital health-care ecosystem that 
+      includes the prevention and management of diabetes.
+CI  - Copyright © 2023 The Authors. Published by Elsevier Inc. All rights reserved.
+FAU - Guan, Zhouyu
+AU  - Guan Z
+AD  - Shanghai International Joint Laboratory of Intelligent Prevention and Treatment 
+      for Metabolic Diseases, Department of Computer Science and Engineering, School of 
+      Electronic, Information, and Electrical Engineering, Shanghai Jiao Tong 
+      University, Department of Endocrinology and Metabolism, Shanghai Sixth People's 
+      Hospital Affiliated to Shanghai Jiao Tong University School of Medicine, Shanghai 
+      Diabetes Institute, Shanghai Clinical Center for Diabetes, Shanghai 200240, 
+      China.
+FAU - Li, Huating
+AU  - Li H
+AD  - Shanghai International Joint Laboratory of Intelligent Prevention and Treatment 
+      for Metabolic Diseases, Department of Computer Science and Engineering, School of 
+      Electronic, Information, and Electrical Engineering, Shanghai Jiao Tong 
+      University, Department of Endocrinology and Metabolism, Shanghai Sixth People's 
+      Hospital Affiliated to Shanghai Jiao Tong University School of Medicine, Shanghai 
+      Diabetes Institute, Shanghai Clinical Center for Diabetes, Shanghai 200240, 
+      China.
+FAU - Liu, Ruhan
+AU  - Liu R
+AD  - Shanghai International Joint Laboratory of Intelligent Prevention and Treatment 
+      for Metabolic Diseases, Department of Computer Science and Engineering, School of 
+      Electronic, Information, and Electrical Engineering, Shanghai Jiao Tong 
+      University, Department of Endocrinology and Metabolism, Shanghai Sixth People's 
+      Hospital Affiliated to Shanghai Jiao Tong University School of Medicine, Shanghai 
+      Diabetes Institute, Shanghai Clinical Center for Diabetes, Shanghai 200240, 
+      China; MOE Key Laboratory of AI, School of Electronic, Information, and 
+      Electrical Engineering, Shanghai Jiao Tong University, Shanghai 200240, China; 
+      National Engineering Research Center of Personalized Diagnostic and Therapeutic 
+      Technology, Furong Laboratory, Changsha, Hunan 41000, China.
+FAU - Cai, Chun
+AU  - Cai C
+AD  - Shanghai International Joint Laboratory of Intelligent Prevention and Treatment 
+      for Metabolic Diseases, Department of Computer Science and Engineering, School of 
+      Electronic, Information, and Electrical Engineering, Shanghai Jiao Tong 
+      University, Department of Endocrinology and Metabolism, Shanghai Sixth People's 
+      Hospital Affiliated to Shanghai Jiao Tong University School of Medicine, Shanghai 
+      Diabetes Institute, Shanghai Clinical Center for Diabetes, Shanghai 200240, 
+      China.
+FAU - Liu, Yuexing
+AU  - Liu Y
+AD  - Shanghai International Joint Laboratory of Intelligent Prevention and Treatment 
+      for Metabolic Diseases, Department of Computer Science and Engineering, School of 
+      Electronic, Information, and Electrical Engineering, Shanghai Jiao Tong 
+      University, Department of Endocrinology and Metabolism, Shanghai Sixth People's 
+      Hospital Affiliated to Shanghai Jiao Tong University School of Medicine, Shanghai 
+      Diabetes Institute, Shanghai Clinical Center for Diabetes, Shanghai 200240, 
+      China.
+FAU - Li, Jiajia
+AU  - Li J
+AD  - Shanghai International Joint Laboratory of Intelligent Prevention and Treatment 
+      for Metabolic Diseases, Department of Computer Science and Engineering, School of 
+      Electronic, Information, and Electrical Engineering, Shanghai Jiao Tong 
+      University, Department of Endocrinology and Metabolism, Shanghai Sixth People's 
+      Hospital Affiliated to Shanghai Jiao Tong University School of Medicine, Shanghai 
+      Diabetes Institute, Shanghai Clinical Center for Diabetes, Shanghai 200240, 
+      China; MOE Key Laboratory of AI, School of Electronic, Information, and 
+      Electrical Engineering, Shanghai Jiao Tong University, Shanghai 200240, China.
+FAU - Wang, Xiangning
+AU  - Wang X
+AD  - Department of Ophthalmology, Shanghai Jiao Tong University Affiliated Sixth 
+      People's Hospital, Shanghai 200233, China.
+FAU - Huang, Shan
+AU  - Huang S
+AD  - Shanghai International Joint Laboratory of Intelligent Prevention and Treatment 
+      for Metabolic Diseases, Department of Computer Science and Engineering, School of 
+      Electronic, Information, and Electrical Engineering, Shanghai Jiao Tong 
+      University, Department of Endocrinology and Metabolism, Shanghai Sixth People's 
+      Hospital Affiliated to Shanghai Jiao Tong University School of Medicine, Shanghai 
+      Diabetes Institute, Shanghai Clinical Center for Diabetes, Shanghai 200240, 
+      China; MOE Key Laboratory of AI, School of Electronic, Information, and 
+      Electrical Engineering, Shanghai Jiao Tong University, Shanghai 200240, China.
+FAU - Wu, Liang
+AU  - Wu L
+AD  - Shanghai International Joint Laboratory of Intelligent Prevention and Treatment 
+      for Metabolic Diseases, Department of Computer Science and Engineering, School of 
+      Electronic, Information, and Electrical Engineering, Shanghai Jiao Tong 
+      University, Department of Endocrinology and Metabolism, Shanghai Sixth People's 
+      Hospital Affiliated to Shanghai Jiao Tong University School of Medicine, Shanghai 
+      Diabetes Institute, Shanghai Clinical Center for Diabetes, Shanghai 200240, 
+      China.
+FAU - Liu, Dan
+AU  - Liu D
+AD  - Shanghai International Joint Laboratory of Intelligent Prevention and Treatment 
+      for Metabolic Diseases, Department of Computer Science and Engineering, School of 
+      Electronic, Information, and Electrical Engineering, Shanghai Jiao Tong 
+      University, Department of Endocrinology and Metabolism, Shanghai Sixth People's 
+      Hospital Affiliated to Shanghai Jiao Tong University School of Medicine, Shanghai 
+      Diabetes Institute, Shanghai Clinical Center for Diabetes, Shanghai 200240, 
+      China.
+FAU - Yu, Shujie
+AU  - Yu S
+AD  - Shanghai International Joint Laboratory of Intelligent Prevention and Treatment 
+      for Metabolic Diseases, Department of Computer Science and Engineering, School of 
+      Electronic, Information, and Electrical Engineering, Shanghai Jiao Tong 
+      University, Department of Endocrinology and Metabolism, Shanghai Sixth People's 
+      Hospital Affiliated to Shanghai Jiao Tong University School of Medicine, Shanghai 
+      Diabetes Institute, Shanghai Clinical Center for Diabetes, Shanghai 200240, 
+      China.
+FAU - Wang, Zheyuan
+AU  - Wang Z
+AD  - Shanghai International Joint Laboratory of Intelligent Prevention and Treatment 
+      for Metabolic Diseases, Department of Computer Science and Engineering, School of 
+      Electronic, Information, and Electrical Engineering, Shanghai Jiao Tong 
+      University, Department of Endocrinology and Metabolism, Shanghai Sixth People's 
+      Hospital Affiliated to Shanghai Jiao Tong University School of Medicine, Shanghai 
+      Diabetes Institute, Shanghai Clinical Center for Diabetes, Shanghai 200240, 
+      China; MOE Key Laboratory of AI, School of Electronic, Information, and 
+      Electrical Engineering, Shanghai Jiao Tong University, Shanghai 200240, China.
+FAU - Shu, Jia
+AU  - Shu J
+AD  - Shanghai International Joint Laboratory of Intelligent Prevention and Treatment 
+      for Metabolic Diseases, Department of Computer Science and Engineering, School of 
+      Electronic, Information, and Electrical Engineering, Shanghai Jiao Tong 
+      University, Department of Endocrinology and Metabolism, Shanghai Sixth People's 
+      Hospital Affiliated to Shanghai Jiao Tong University School of Medicine, Shanghai 
+      Diabetes Institute, Shanghai Clinical Center for Diabetes, Shanghai 200240, 
+      China; MOE Key Laboratory of AI, School of Electronic, Information, and 
+      Electrical Engineering, Shanghai Jiao Tong University, Shanghai 200240, China.
+FAU - Hou, Xuhong
+AU  - Hou X
+AD  - Shanghai International Joint Laboratory of Intelligent Prevention and Treatment 
+      for Metabolic Diseases, Department of Computer Science and Engineering, School of 
+      Electronic, Information, and Electrical Engineering, Shanghai Jiao Tong 
+      University, Department of Endocrinology and Metabolism, Shanghai Sixth People's 
+      Hospital Affiliated to Shanghai Jiao Tong University School of Medicine, Shanghai 
+      Diabetes Institute, Shanghai Clinical Center for Diabetes, Shanghai 200240, 
+      China.
+FAU - Yang, Xiaokang
+AU  - Yang X
+AD  - MOE Key Laboratory of AI, School of Electronic, Information, and Electrical 
+      Engineering, Shanghai Jiao Tong University, Shanghai 200240, China.
+FAU - Jia, Weiping
+AU  - Jia W
+AD  - Shanghai International Joint Laboratory of Intelligent Prevention and Treatment 
+      for Metabolic Diseases, Department of Computer Science and Engineering, School of 
+      Electronic, Information, and Electrical Engineering, Shanghai Jiao Tong 
+      University, Department of Endocrinology and Metabolism, Shanghai Sixth People's 
+      Hospital Affiliated to Shanghai Jiao Tong University School of Medicine, Shanghai 
+      Diabetes Institute, Shanghai Clinical Center for Diabetes, Shanghai 200240, 
+      China. Electronic address: wpjia@sjtu.edu.cn.
+FAU - Sheng, Bin
+AU  - Sheng B
+AD  - Shanghai International Joint Laboratory of Intelligent Prevention and Treatment 
+      for Metabolic Diseases, Department of Computer Science and Engineering, School of 
+      Electronic, Information, and Electrical Engineering, Shanghai Jiao Tong 
+      University, Department of Endocrinology and Metabolism, Shanghai Sixth People's 
+      Hospital Affiliated to Shanghai Jiao Tong University School of Medicine, Shanghai 
+      Diabetes Institute, Shanghai Clinical Center for Diabetes, Shanghai 200240, 
+      China; MOE Key Laboratory of AI, School of Electronic, Information, and 
+      Electrical Engineering, Shanghai Jiao Tong University, Shanghai 200240, China. 
+      Electronic address: shengbin@sjtu.edu.cn.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PT  - Review
+DEP - 20231002
+PL  - United States
+TA  - Cell Rep Med
+JT  - Cell reports. Medicine
+JID - 101766894
+SB  - IM
+MH  - Humans
+MH  - *Artificial Intelligence
+MH  - *Diabetes Mellitus/therapy
+PMC - PMC10591058
+OTO - NOTNLM
+OT  - artificial intelligence
+OT  - diabetes
+OT  - digital health
+OT  - management
+COIS- Declaration of interests The authors declare no competing interests.
+EDAT- 2023/10/04 00:42
+MHDA- 2023/10/23 01:18
+CRDT- 2023/10/03 18:41
+PHST- 2023/02/16 00:00 [received]
+PHST- 2023/08/07 00:00 [revised]
+PHST- 2023/09/08 00:00 [accepted]
+PHST- 2023/10/23 01:18 [medline]
+PHST- 2023/10/04 00:42 [pubmed]
+PHST- 2023/10/03 18:41 [entrez]
+AID - S2666-3791(23)00380-4 [pii]
+AID - 101213 [pii]
+AID - 10.1016/j.xcrm.2023.101213 [doi]
+PST - ppublish
+SO  - Cell Rep Med. 2023 Oct 17;4(10):101213. doi: 10.1016/j.xcrm.2023.101213. Epub 
+      2023 Oct 2.
+
+PMID- 37788525
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20231102
+LR  - 20231105
+IS  - 1090-2104 (Electronic)
+IS  - 0006-291X (Linking)
+VI  - 682
+DP  - 2023 Nov 19
+TI  - Unveiling the future of metabolic medicine: omics technologies driving 
+      personalized solutions for precision treatment of metabolic disorders.
+PG  - 1-20
+LID - S0006-291X(23)01100-2 [pii]
+LID - 10.1016/j.bbrc.2023.09.064 [doi]
+AB  - Metabolic disorders are increasingly prevalent worldwide, leading to high rates 
+      of morbidity and mortality. The variety of metabolic illnesses can be addressed 
+      through personalized medicine. The goal of personalized medicine is to give 
+      doctors the ability to anticipate the best course of treatment for patients with 
+      metabolic problems. By analyzing a patient's metabolomic, proteomic, genetic 
+      profile, and clinical data, physicians can identify relevant diagnostic, and 
+      predictive biomarkers and develop treatment plans and therapy for acute and 
+      chronic metabolic diseases. To achieve this goal, real-time modeling of clinical 
+      data and multiple omics is essential to pinpoint underlying biological 
+      mechanisms, risk factors, and possibly useful data to promote early diagnosis and 
+      prevention of complex diseases. Incorporating cutting-edge technologies like 
+      artificial intelligence and machine learning is crucial for consolidating diverse 
+      forms of data, examining multiple variables, establishing databases of clinical 
+      indicators to aid decision-making, and formulating ethical protocols to address 
+      concerns. This review article aims to explore the potential of personalized 
+      medicine utilizing omics approaches for the treatment of metabolic disorders. It 
+      focuses on the recent advancements in genomics, epigenomics, proteomics, 
+      metabolomics, and nutrigenomics, emphasizing their role in revolutionizing 
+      personalized medicine.
+CI  - Copyright © 2023 Elsevier Inc. All rights reserved.
+FAU - Singh, Samradhi
+AU  - Singh S
+AD  - ICMR- National Institute for Research in Environmental Health, Bhopal Bypass 
+      Road, Bhouri, Bhopal, 462030, Madhya Pradesh, India.
+FAU - Sarma, Devojit Kumar
+AU  - Sarma DK
+AD  - ICMR- National Institute for Research in Environmental Health, Bhopal Bypass 
+      Road, Bhouri, Bhopal, 462030, Madhya Pradesh, India.
+FAU - Verma, Vinod
+AU  - Verma V
+AD  - Stem Cell Research Centre, Department of Hematology, Sanjay Gandhi Post-Graduate 
+      Institute of Medical Sciences, Lucknow, 226014, Uttar Pradesh, India.
+FAU - Nagpal, Ravinder
+AU  - Nagpal R
+AD  - Department of Nutrition and Integrative Physiology, College of Health and Human 
+      Sciences, Florida State University, Tallahassee, FL, 32306, USA.
+FAU - Kumar, Manoj
+AU  - Kumar M
+AD  - ICMR- National Institute for Research in Environmental Health, Bhopal Bypass 
+      Road, Bhouri, Bhopal, 462030, Madhya Pradesh, India. Electronic address: 
+      manoj15ndri@gmail.com.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+DEP - 20230929
+PL  - United States
+TA  - Biochem Biophys Res Commun
+JT  - Biochemical and biophysical research communications
+JID - 0372516
+SB  - IM
+MH  - Humans
+MH  - *Proteomics/methods
+MH  - Artificial Intelligence
+MH  - Genomics/methods
+MH  - Precision Medicine/methods
+MH  - Metabolomics/methods
+MH  - *Metabolic Diseases/genetics/therapy
+OTO - NOTNLM
+OT  - Artificial intelligence
+OT  - Gut microbiome
+OT  - Metabolic disorders
+OT  - Omics technologies
+OT  - Personalized medicine
+OT  - Pharmacogenomics
+OT  - Pharmacomicrobiomics
+OT  - Precision medicine
+COIS- Declaration of competing interest The authors declare that they have no known 
+      competing financial interests or personal relationships that could have appeared 
+      to influence the work reported in this paper.
+EDAT- 2023/10/04 00:42
+MHDA- 2023/11/02 12:42
+CRDT- 2023/10/03 18:01
+PHST- 2023/07/07 00:00 [received]
+PHST- 2023/09/13 00:00 [revised]
+PHST- 2023/09/21 00:00 [accepted]
+PHST- 2023/11/02 12:42 [medline]
+PHST- 2023/10/04 00:42 [pubmed]
+PHST- 2023/10/03 18:01 [entrez]
+AID - S0006-291X(23)01100-2 [pii]
+AID - 10.1016/j.bbrc.2023.09.064 [doi]
+PST - ppublish
+SO  - Biochem Biophys Res Commun. 2023 Nov 19;682:1-20. doi: 
+      10.1016/j.bbrc.2023.09.064. Epub 2023 Sep 29.
+
+PMID- 37788516
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20231101
+LR  - 20231101
+IS  - 1872-8464 (Electronic)
+IS  - 0165-5876 (Linking)
+VI  - 174
+DP  - 2023 Nov
+TI  - ISOM 2023 research Panel 4 - Diagnostics and microbiology of otitis media.
+PG  - 111741
+LID - S0165-5876(23)00308-7 [pii]
+LID - 10.1016/j.ijporl.2023.111741 [doi]
+AB  - OBJECTIVES: To identify and review key research advances from the literature 
+      published between 2019 and 2023 on the diagnosis and microbiology of otitis media 
+      (OM) including acute otitis media (AOM), recurrent AOM (rAOM), otitis media with 
+      effusion (OME), chronic suppurative otitis media (CSOM) and AOM complications 
+      (mastoiditis). DATA SOURCES: PubMed database of the National Library of Medicine. 
+      REVIEW METHODS: All relevant original articles published in Medline in English 
+      between July 2019 and February 2023 were identified. Studies that were reviews, 
+      case studies, relating to OM complications (other than mastoiditis), and studies 
+      focusing on guideline adherence, and consensus statements were excluded. Members 
+      of the panel drafted the report based on these search results. MAIN FINDINGS: For 
+      the diagnosis section, 2294 unique records screened, 55 were eligible for 
+      inclusion. For the microbiology section 705 unique records were screened and 137 
+      articles were eligible for inclusion. The main themes that arose in OM diagnosis 
+      were the need to incorporate multiple modalities including video-otoscopy, 
+      tympanometry, telemedicine and artificial intelligence for accurate diagnoses in 
+      all diagnostic settings. Further to this, was the use of new, cheap, readily 
+      available tools which may improve access in rural and lowmiddle income (LMIC) 
+      settings. For OM aetiology, PCR remains the most sensitive method for detecting 
+      middle ear pathogens with microbiome analysis still largely restricted to 
+      research use. The global pandemic response reduced rates of OM in children, but 
+      post-pandemic shifts should be monitored. IMPLICATION FOR PRACTICE AND FUTURE 
+      RESEARCH: Cheap, easy to use multi-technique assessments combined with artificial 
+      intelligence and/or telemedicine should be integrated into future practice to 
+      improve diagnosis and treatment pathways in OM diagnosis. Longitudinal studies 
+      investigating the in-vivo process of OM development, timings and in-depth 
+      interactions between the triad of bacteria, viruses and the host immune response 
+      are still required. Standardized methods of collection and analysis for 
+      microbiome studies to enable inter-study comparisons are required. There is a 
+      need to target underlying biofilms if going to effectively prevent rAOM and OME 
+      and possibly enhance ventilation tube retention.
+CI  - Copyright © 2023 Elsevier B.V. All rights reserved.
+FAU - Tamir, Sharon Ovnat
+AU  - Tamir SO
+AD  - Department of Otolaryngology-Head and Neck Surgery, Sasmon Assuta Ashdod 
+      University Hospital, Faculty of Health Sciences, Ben Gurion University of the 
+      Negev, Israel. Electronic address: sharono@assuta.co.il.
+FAU - Bialasiewicz, Seweryn
+AU  - Bialasiewicz S
+AD  - Australian Centre for Ecogenomics, School of Chemistry and Molecular Biosciences, 
+      The University of Queensland, St Lucia, QLD, 4072, Australia.
+FAU - Brennan-Jones, Christopher G
+AU  - Brennan-Jones CG
+AD  - Wesfarmers Centre of Vaccines and Infectious Diseases, Telethon Kids Institute, 
+      The University of Western Australia, Perth, Western Australia, Australia; Faculty 
+      of Health Sciences, Curtin University, Perth, Western Australia, Australia.
+FAU - Der, Carolina
+AU  - Der C
+AD  - Facultad de Medicina, Universidad Del Desarrollo, Dr Luis Calvo Mackenna 
+      Hospital, Santiago, Chile.
+FAU - Kariv, Liron
+AU  - Kariv L
+AD  - Hearing, Speech and Language Institute, Sasmon Assuta Ashdod University Hospital, 
+      Israel.
+FAU - Macharia, Ian
+AU  - Macharia I
+AD  - Kenyatta University Teaching, Referral & Research Hospital, Kenya.
+FAU - Marsh, Robyn L
+AU  - Marsh RL
+AD  - Menzies School of Health Research, Darwin, Australia; School of Health Sciences, 
+      University of Tasmania, Launceston, Australia.
+FAU - Seguya, Amina
+AU  - Seguya A
+AD  - Department of Otolaryngology - Head and Neck Surgery, Mulago National Referral 
+      Hospital, Kampala, Uganda.
+FAU - Thornton, Ruth
+AU  - Thornton R
+AD  - Wesfarmers Centre of Vaccines and Infectious Diseases, Telethon Kids Institute, 
+      The University of Western Australia, Perth, Western Australia, Australia; Centre 
+      for Child Health Research, University of Western Australia, Perth, Australia.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+DEP - 20230929
+PL  - Ireland
+TA  - Int J Pediatr Otorhinolaryngol
+JT  - International journal of pediatric otorhinolaryngology
+JID - 8003603
+SB  - IM
+MH  - Child
+MH  - Humans
+MH  - *Mastoiditis/complications
+MH  - Artificial Intelligence
+MH  - *Otitis Media/complications
+MH  - *Otitis Media with Effusion/diagnosis/complications
+MH  - Ear, Middle
+OTO - NOTNLM
+OT  - Diagnosis
+OT  - Microbiology
+OT  - Otitis media
+OT  - Review
+COIS- Declaration of competing interest No conflict.
+EDAT- 2023/10/03 18:43
+MHDA- 2023/11/01 12:42
+CRDT- 2023/10/03 18:00
+PHST- 2023/08/09 00:00 [received]
+PHST- 2023/09/17 00:00 [revised]
+PHST- 2023/09/19 00:00 [accepted]
+PHST- 2023/11/01 12:42 [medline]
+PHST- 2023/10/03 18:43 [pubmed]
+PHST- 2023/10/03 18:00 [entrez]
+AID - S0165-5876(23)00308-7 [pii]
+AID - 10.1016/j.ijporl.2023.111741 [doi]
+PST - ppublish
+SO  - Int J Pediatr Otorhinolaryngol. 2023 Nov;174:111741. doi: 
+      10.1016/j.ijporl.2023.111741. Epub 2023 Sep 29.
+
+PMID- 37788501
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20231005
+LR  - 20231006
+IS  - 1537-6613 (Electronic)
+IS  - 0022-1899 (Print)
+IS  - 0022-1899 (Linking)
+VI  - 228
+IP  - Suppl 4
+DP  - 2023 Oct 3
+TI  - Artificial Intelligence and Infectious Disease Imaging.
+PG  - S322-S336
+LID - 10.1093/infdis/jiad158 [doi]
+AB  - The mass production of the graphics processing unit and the coronavirus disease 
+      2019 (COVID-19) pandemic have provided the means and the motivation, 
+      respectively, for rapid developments in artificial intelligence (AI) and medical 
+      imaging techniques. This has led to new opportunities to improve patient care but 
+      also new challenges that must be overcome before these techniques are put into 
+      practice. In particular, early AI models reported high performances but failed to 
+      perform as well on new data. However, these mistakes motivated further innovation 
+      focused on developing models that were not only accurate but also stable and 
+      generalizable to new data. The recent developments in AI in response to the 
+      COVID-19 pandemic will reap future dividends by facilitating, expediting, and 
+      informing other medical AI applications and educating the broad academic audience 
+      on the topic. Furthermore, AI research on imaging animal models of infectious 
+      diseases offers a unique problem space that can fill in evidence gaps that exist 
+      in clinical infectious disease research. Here, we aim to provide a focused 
+      assessment of the AI techniques leveraged in the infectious disease imaging 
+      research space, highlight the unique challenges, and discuss burgeoning 
+      solutions.
+CI  - Published by Oxford University Press on behalf of Infectious Diseases Society of 
+      America 2023.
+FAU - Chu, Winston T
+AU  - Chu WT
+AUID- ORCID: 0000-0001-7818-9139
+AD  - Center for Infectious Disease Imaging, Radiology and Imaging Sciences, Clinical 
+      Center, National Institutes of Health, Bethesda, Maryland, USA.
+AD  - Integrated Research Facility at Fort Detrick, Division of Clinical Research, 
+      National Institute of Allergy and Infectious Diseases, National Institutes of 
+      Health, Frederick, Maryland, USA.
+FAU - Reza, Syed M S
+AU  - Reza SMS
+AD  - Center for Infectious Disease Imaging, Radiology and Imaging Sciences, Clinical 
+      Center, National Institutes of Health, Bethesda, Maryland, USA.
+FAU - Anibal, James T
+AU  - Anibal JT
+AD  - Center for Interventional Oncology, Clinical Center, National Institutes of 
+      Health, Bethesda, Maryland, USA.
+FAU - Landa, Adam
+AU  - Landa A
+AD  - Center for Interventional Oncology, Clinical Center, National Institutes of 
+      Health, Bethesda, Maryland, USA.
+FAU - Crozier, Ian
+AU  - Crozier I
+AD  - Clinical Monitoring Research Program Directorate, Frederick National Laboratory 
+      for Cancer Research sponsored by the National Cancer Institute, Frederick, 
+      Maryland, USA.
+FAU - Bağci, Ulaş
+AU  - Bağci U
+AD  - Department of Radiology, Feinberg School of Medicine, Northwestern University, 
+      Chicago, Illinois, USA.
+FAU - Wood, Bradford J
+AU  - Wood BJ
+AD  - Center for Interventional Oncology, Clinical Center, National Institutes of 
+      Health, Bethesda, Maryland, USA.
+AD  - Center for Interventional Oncology, National Cancer Institute, National 
+      Institutes of Health, Bethesda, Maryland, USA.
+FAU - Solomon, Jeffrey
+AU  - Solomon J
+AD  - Clinical Monitoring Research Program Directorate, Frederick National Laboratory 
+      for Cancer Research sponsored by the National Cancer Institute, Frederick, 
+      Maryland, USA.
+LA  - eng
+GR  - HHSN272201800013C/AI/NIAID NIH HHS/United States
+GR  - ZIA CL040015/ImNIH/Intramural NIH HHS/United States
+GR  - ZID BC011242/ImNIH/Intramural NIH HHS/United States
+PT  - Journal Article
+PT  - Research Support, N.I.H., Extramural
+PT  - Research Support, N.I.H., Intramural
+PT  - Research Support, Non-U.S. Gov't
+PL  - United States
+TA  - J Infect Dis
+JT  - The Journal of infectious diseases
+JID - 0413675
+SB  - IM
+MH  - Humans
+MH  - Artificial Intelligence
+MH  - *COVID-19
+MH  - Pandemics
+MH  - Diagnostic Imaging/methods
+MH  - *Communicable Diseases/diagnostic imaging
+PMC - PMC10547369
+OTO - NOTNLM
+OT  - AI
+OT  - artificial intelligence
+OT  - imaging
+OT  - infectious disease
+COIS- Potential conflicts of interest. All authors: No reported conflicts. All authors 
+      have submitted the ICMJE Form for Disclosure of Potential Conflicts of Interest. 
+      Conflicts that the editors consider relevant to the content of the manuscript 
+      have been disclosed.
+EDAT- 2023/10/03 18:43
+MHDA- 2023/10/05 06:43
+CRDT- 2023/10/03 17:53
+PHST- 2022/09/22 00:00 [received]
+PHST- 2023/05/06 00:00 [accepted]
+PHST- 2023/10/05 06:43 [medline]
+PHST- 2023/10/03 18:43 [pubmed]
+PHST- 2023/10/03 17:53 [entrez]
+AID - 7288374 [pii]
+AID - jiad158 [pii]
+AID - 10.1093/infdis/jiad158 [doi]
+PST - ppublish
+SO  - J Infect Dis. 2023 Oct 3;228(Suppl 4):S322-S336. doi: 10.1093/infdis/jiad158.
+
+PMID- 37788383
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20231216
+LR  - 20231216
+IS  - 1550-9109 (Electronic)
+IS  - 0161-8105 (Print)
+IS  - 0161-8105 (Linking)
+VI  - 46
+IP  - 12
+DP  - 2023 Dec 11
+TI  - Effects of sleep-corrected social jetlag on measures of mental health, cognitive 
+      ability, and brain functional connectivity in early adolescence.
+LID - 10.1093/sleep/zsad259 [doi]
+LID - zsad259
+AB  - Approximately half of adolescents encounter a mismatch between their sleep 
+      patterns on school days and free days, also referred to as "social jetlag." This 
+      condition has been linked to various adverse outcomes, such as poor sleep, 
+      cognitive deficits, and mental disorders. However, prior research was 
+      unsuccessful in accounting for other variables that are correlated with social 
+      jetlag, including sleep duration and quality. To address this limitation, we 
+      applied a propensity score matching method on a sample of 6335 11-12-year-olds 
+      from the 2-year follow-up (FL2) data of the Adolescent Brain Cognitive 
+      Development study. We identified 2424 pairs of participants with high 
+      sleep-corrected social jetlag (SJLsc, over 1 hour) and low SJLsc (<= 1 hour) at 
+      FL2 (1728 pairs have neuroimaging data), as well as 1626 pairs at 3-year 
+      follow-up (FL3), after matching based on 11 covariates including socioeconomic 
+      status, demographics, and sleep duration and quality. Our results showed that 
+      high SJLsc, as measured by the Munich Chronotype Questionnaire, was linked to 
+      reduced crystallized intelligence (CI), lower school performance-grades, and 
+      decreased functional connectivity between cortical networks and subcortical 
+      regions, specifically between cingulo-opercular network and right hippocampus. 
+      Further mediation and longitudinal mediation analyses revealed that this 
+      connection mediated the associations between SJLsc and CI at FL2, and between 
+      SJLsc and grades at both FL2 and FL3. We validated these findings by replicating 
+      these results using objective SJLsc measurements obtained via Fitbit watches. 
+      Overall, our study highlights the negative association between social jetlag and 
+      CI during early adolescence.
+CI  - Published by Oxford University Press on behalf of Sleep Research Society (SRS) 
+      2023.
+FAU - Yang, Fan Nils
+AU  - Yang FN
+AUID- ORCID: 0000-0003-2565-6594
+AD  - Advanced MRI Section, Laboratory of Functional and Molecular Imaging, National 
+      Institute of Neurological Disorders and Stroke, National Institutes of Health, 
+      Bethesda, MD, USA.
+FAU - Picchioni, Dante
+AU  - Picchioni D
+AD  - Advanced MRI Section, Laboratory of Functional and Molecular Imaging, National 
+      Institute of Neurological Disorders and Stroke, National Institutes of Health, 
+      Bethesda, MD, USA.
+FAU - Duyn, Jeff H
+AU  - Duyn JH
+AD  - Advanced MRI Section, Laboratory of Functional and Molecular Imaging, National 
+      Institute of Neurological Disorders and Stroke, National Institutes of Health, 
+      Bethesda, MD, USA.
+LA  - eng
+GR  - U24 DA041147/DA/NIDA NIH HHS/United States
+GR  - U01DA041022/NH/NIH HHS/United States
+PT  - Journal Article
+PL  - United States
+TA  - Sleep
+JT  - Sleep
+JID - 7809084
+SB  - IM
+UOF - medRxiv. 2023 Jul 23;:. PMID: 37502864
+MH  - Adolescent
+MH  - Humans
+MH  - *Circadian Rhythm
+MH  - *Mental Health
+MH  - Sleep
+MH  - Jet Lag Syndrome
+MH  - Cognition
+MH  - Surveys and Questionnaires
+MH  - Brain/diagnostic imaging
+PMC - PMC10710981
+OTO - NOTNLM
+OT  - adolescents
+OT  - brain imaging
+OT  - crystallized intelligence
+OT  - hippocampus
+OT  - sleep
+EDAT- 2023/10/03 18:43
+MHDA- 2023/12/17 09:42
+PMCR- 2024/10/03
+CRDT- 2023/10/03 15:32
+PHST- 2023/07/28 00:00 [received]
+PHST- 2023/09/22 00:00 [revised]
+PHST- 2024/10/03 00:00 [pmc-release]
+PHST- 2023/12/17 09:42 [medline]
+PHST- 2023/10/03 18:43 [pubmed]
+PHST- 2023/10/03 15:32 [entrez]
+AID - 7288393 [pii]
+AID - zsad259 [pii]
+AID - 10.1093/sleep/zsad259 [doi]
+PST - ppublish
+SO  - Sleep. 2023 Dec 11;46(12):zsad259. doi: 10.1093/sleep/zsad259.

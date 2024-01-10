@@ -1,0 +1,1244 @@
+PMID- 37776068
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20231221
+LR  - 20231221
+IS  - 1601-6343 (Electronic)
+IS  - 1601-6335 (Linking)
+VI  - 26 Suppl 1
+DP  - 2023 Dec
+TI  - Characterizing orthodontic tooth movement in real time using dental monitoring 
+      scans: A pilot study.
+PG  - 82-91
+LID - 10.1111/ocr.12717 [doi]
+AB  - OBJECTIVES: This pilot study aimed to quantify the magnitude and type of tooth 
+      movement occurring in short time intervals within the regular monthly orthodontic 
+      visits for patients with fixed appliances and undergoing maxillary canine 
+      retraction. Additionally, this pilot study aimed to provide a descriptive 
+      evaluation for the accuracy and reliability of the Dental Monitoring 
+      (DM)-captured scans to those of an iTero digital scans in an extraction space 
+      closure model. SETTINGS AND SAMPLE POPULATION: 3D intraoral photographic scans 
+      (DM) for 12 patients with maxillary first premolar extractions in a single-centre 
+      academic institution. MATERIALS AND METHODS: Twelve patients treated with fixed 
+      appliances and undergoing space closure for maxillary premolar extraction(s) were 
+      included. Nickel-titanium (200 g) closing coil springs were used for canine 
+      retraction. At initiation of space closure (T1), iTero scans were acquired, and 
+      patients were instructed to take DM scans every 4-5 days until their next visit 
+      in 4-5 weeks (T2). At T2, a final iTero scan in addition to a DM scan was taken. 
+      The number of patients who did the scans regularly as instructed declined as time 
+      elapsed. Stereolithography (STL) files generated from the DM scans were 
+      superimposed with the STL files from the iTero scans using GOM Inspect software 
+      to determine the accuracy of the DM 3D models. To assess rate, type and direction 
+      of tooth movement, each of the 3D image STL files generated from the DM scans, 
+      taken every 4-5 days by each patient, was superimposed on the previously captured 
+      scan. The rate of tooth movement for the maxillary molars and canines was 
+      calculated in the 3 planes of space (X, Y, Z) at each time point, until the end 
+      of the experiment. RESULTS: Preliminary results indicated that the maxillary 
+      canines appeared to be displaced the greatest amount in the first 4-5 days with 
+      initial distolateral movement. As time elapsed, the rate of tooth movement 
+      decreased, and the tooth started moving distolingually. CONCLUSIONS: Dental 
+      monitoring software provides a high-tech platform to monitor tooth movement in a 
+      'real-time' approach. Accuracy of the photographic scans in relationship to the 
+      intraoral scans appears promising. There seems to be some evidence that the 
+      greatest amount of movement occurs initially in the first few days after 
+      activation, dropping thereafter to become a slower constant rate of tooth 
+      movement.
+CI  - © 2023 John Wiley & Sons A/S. Published by John Wiley & Sons Ltd.
+FAU - Arqub, Sarah Abu
+AU  - Arqub SA
+AUID- ORCID: 0000-0003-0090-4037
+AD  - Department of Orthodontics, University of Florida, Gainesville, Florida, USA.
+FAU - Nedjat-Haiem, Michael
+AU  - Nedjat-Haiem M
+AD  - Division of Orthodontics, School of Dental Medicine, University of Connecticut 
+      Health, Farmington, Connecticut, USA.
+FAU - Einbinder, Max
+AU  - Einbinder M
+AD  - School of Dental medicine, University of Connecticut Health, Farmington, 
+      Connecticut, USA.
+FAU - Azami, Niloufar
+AU  - Azami N
+AD  - Division of Orthodontics, School of Dental Medicine, University of Connecticut 
+      Health, Farmington, Connecticut, USA.
+FAU - Kuo, Chia-Ling
+AU  - Kuo CL
+AD  - Connecticut Convergence Institute for Translation in Regenerative Engineering, 
+      University of Connecticut Health, Farmington, Connecticut, USA.
+FAU - Hariharan, Amirtha
+AU  - Hariharan A
+AD  - Division of Orthodontics, School of Dental Medicine, University of Connecticut 
+      Health, Farmington, Connecticut, USA.
+FAU - Uribe, Flavio
+AU  - Uribe F
+AUID- ORCID: 0000-0001-6196-7707
+AD  - Division of Orthodontics, School of Dental Medicine, University of Connecticut 
+      Health, Farmington, Connecticut, USA.
+LA  - eng
+PT  - Journal Article
+DEP - 20230930
+PL  - England
+TA  - Orthod Craniofac Res
+JT  - Orthodontics & craniofacial research
+JID - 101144387
+SB  - IM
+MH  - Humans
+MH  - *Tooth Movement Techniques/methods
+MH  - Pilot Projects
+MH  - Reproducibility of Results
+MH  - *Orthodontic Wires
+MH  - Imaging, Three-Dimensional
+MH  - Cuspid/diagnostic imaging
+OTO - NOTNLM
+OT  - Artificial Intelligence
+OT  - dental monitoring
+OT  - tooth movement
+EDAT- 2023/09/30 09:43
+MHDA- 2023/12/21 06:43
+CRDT- 2023/09/30 03:33
+PHST- 2023/09/07 00:00 [revised]
+PHST- 2022/12/08 00:00 [received]
+PHST- 2023/09/17 00:00 [accepted]
+PHST- 2023/12/21 06:43 [medline]
+PHST- 2023/09/30 09:43 [pubmed]
+PHST- 2023/09/30 03:33 [entrez]
+AID - 10.1111/ocr.12717 [doi]
+PST - ppublish
+SO  - Orthod Craniofac Res. 2023 Dec;26 Suppl 1:82-91. doi: 10.1111/ocr.12717. Epub 
+      2023 Sep 30.
+
+PMID- 37775589
+OWN - NLM
+STAT- Publisher
+LR  - 20230929
+IS  - 1432-1084 (Electronic)
+IS  - 0938-7994 (Linking)
+DP  - 2023 Sep 29
+TI  - External validation, radiological evaluation, and development of deep learning 
+      automatic lung segmentation in contrast-enhanced chest CT.
+LID - 10.1007/s00330-023-10235-9 [doi]
+AB  - OBJECTIVES: There is a need for CT pulmonary angiography (CTPA) lung segmentation 
+      models. Clinical translation requires radiological evaluation of model outputs, 
+      understanding of limitations, and identification of failure points. This 
+      multicentre study aims to develop an accurate CTPA lung segmentation model, with 
+      evaluation of outputs in two diverse patient cohorts with pulmonary hypertension 
+      (PH) and interstitial lung disease (ILD). METHODS: This retrospective study 
+      develops an nnU-Net-based segmentation model using data from two specialist 
+      centres (UK and USA). Model was trained (n = 37), tested (n = 12), and clinically 
+      evaluated (n = 176) on a diverse 'real-world' cohort of 225 PH patients with 
+      volumetric CTPAs. Dice score coefficient (DSC) and normalised surface distance 
+      (NSD) were used for testing. Clinical evaluation of outputs was performed by two 
+      radiologists who assessed clinical significance of errors. External validation 
+      was performed on heterogenous contrast and non-contrast scans from 28 ILD 
+      patients. RESULTS: A total of 225 PH and 28 ILD patients with diverse demographic 
+      and clinical characteristics were evaluated. Mean accuracy, DSC, and NSD scores 
+      were 0.998 (95% CI 0.9976, 0.9989), 0.990 (0.9840, 0.9962), and 0.983 (0.9686, 
+      0.9972) respectively. There were no segmentation failures. On radiological 
+      review, 82% and 71% of internal and external cases respectively had no errors. 
+      Eighteen percent and 25% respectively had clinically insignificant errors. 
+      Peripheral atelectasis and consolidation were common causes for suboptimal 
+      segmentation. One external case (0.5%) with patulous oesophagus had a clinically 
+      significant error. CONCLUSION: State-of-the-art CTPA lung segmentation model 
+      provides accurate outputs with minimal clinical errors on evaluation across two 
+      diverse cohorts with PH and ILD. CLINICAL RELEVANCE: Clinical translation of 
+      artificial intelligence models requires radiological review and understanding of 
+      model limitations. This study develops an externally validated state-of-the-art 
+      model with robust radiological review. Intended clinical use is in techniques 
+      such as lung volume or parenchymal disease quantification. KEY POINTS: • 
+      Accurate, externally validated CT pulmonary angiography (CTPA) lung segmentation 
+      model tested in two large heterogeneous clinical cohorts (pulmonary hypertension 
+      and interstitial lung disease). • No segmentation failures and robust review of 
+      model outputs by radiologists found 1 (0.5%) clinically significant segmentation 
+      error. • Intended clinical use of this model is a necessary step in techniques 
+      such as lung volume, parenchymal disease quantification, or pulmonary vessel 
+      analysis.
+CI  - © 2023. The Author(s).
+FAU - Dwivedi, Krit
+AU  - Dwivedi K
+AUID- ORCID: 0000-0003-4949-4550
+AD  - Department of Infection, Immunity & Cardiovascular Disease, Medical School, 
+      University of Sheffield, Sheffield, UK. k.dwivedi@sheffield.ac.uk.
+AD  - Academic Department of Radiology, Royal Hallamshire Hospital, Glossop Road, 
+      Sheffield, S10 2JF, USA. k.dwivedi@sheffield.ac.uk.
+FAU - Sharkey, Michael
+AU  - Sharkey M
+AD  - 3DLab, Sheffield Teaching Hospitals NHS Trust, Sheffield, UK.
+FAU - Alabed, Samer
+AU  - Alabed S
+AD  - Department of Infection, Immunity & Cardiovascular Disease, Medical School, 
+      University of Sheffield, Sheffield, UK.
+FAU - Langlotz, Curtis P
+AU  - Langlotz CP
+AD  - Stanford Center for Artificial Intelligence in Medicine and Imaging (AIMI), 
+      Stanford University, Sheffield, USA.
+FAU - Swift, Andy J
+AU  - Swift AJ
+AD  - Department of Infection, Immunity & Cardiovascular Disease, Medical School, 
+      University of Sheffield, Sheffield, UK.
+FAU - Bluethgen, Christian
+AU  - Bluethgen C
+AD  - Stanford Center for Artificial Intelligence in Medicine and Imaging (AIMI), 
+      Stanford University, Sheffield, USA.
+LA  - eng
+GR  - 222930/Z/21/Z/WT_/Wellcome Trust/United Kingdom
+GR  - 4ward North 203914/Z/16 for Krit Dwivedi (K.D.). Andrew Swift AJS 
+      205188/Z/16/Z/WT_/Wellcome Trust/United Kingdom
+PT  - Journal Article
+DEP - 20230929
+PL  - Germany
+TA  - Eur Radiol
+JT  - European radiology
+JID - 9114774
+SB  - IM
+OTO - NOTNLM
+OT  - Deep learning
+OT  - Hypertension, pulmonary
+OT  - Lung
+OT  - Tomography, X-ray computed
+EDAT- 2023/09/30 09:42
+MHDA- 2023/09/30 09:42
+CRDT- 2023/09/29 23:19
+PHST- 2023/04/28 00:00 [received]
+PHST- 2023/07/24 00:00 [accepted]
+PHST- 2023/06/25 00:00 [revised]
+PHST- 2023/09/30 09:42 [medline]
+PHST- 2023/09/30 09:42 [pubmed]
+PHST- 2023/09/29 23:19 [entrez]
+AID - 10.1007/s00330-023-10235-9 [pii]
+AID - 10.1007/s00330-023-10235-9 [doi]
+PST - aheadofprint
+SO  - Eur Radiol. 2023 Sep 29. doi: 10.1007/s00330-023-10235-9.
+
+PMID- 37775588
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20231119
+IS  - 2365-7464 (Electronic)
+IS  - 2365-7464 (Linking)
+VI  - 8
+IP  - 1
+DP  - 2023 Sep 29
+TI  - Correction: Collective intelligence in fingerprint analysis.
+PG  - 61
+LID - 10.1186/s41235-023-00514-w [doi]
+LID - 61
+FAU - Tangen, Jason M
+AU  - Tangen JM
+AD  - School of Psychology, The University of Queensland, St Lucia, QLD, 4072, 
+      Australia. jtangen@psy.uq.edu.au.
+FAU - Kent, Kirsty M
+AU  - Kent KM
+AD  - School of Psychology, The University of Queensland, St Lucia, QLD, 4072, 
+      Australia.
+FAU - Searston, Rachel A
+AU  - Searston RA
+AD  - School of Psychology, The University of Adelaide, Adelaide, SA, 5005, Australia.
+LA  - eng
+PT  - Published Erratum
+DEP - 20230929
+PL  - England
+TA  - Cogn Res Princ Implic
+JT  - Cognitive research: principles and implications
+JID - 101697632
+SB  - IM
+EFR - Cogn Res Princ Implic. 2020 May 19;5(1):23. PMID: 32430615
+PMC - PMC10541366
+EDAT- 2023/09/30 09:42
+MHDA- 2023/09/30 09:43
+CRDT- 2023/09/29 23:19
+PHST- 2023/09/30 09:43 [medline]
+PHST- 2023/09/30 09:42 [pubmed]
+PHST- 2023/09/29 23:19 [entrez]
+AID - 10.1186/s41235-023-00514-w [pii]
+AID - 514 [pii]
+AID - 10.1186/s41235-023-00514-w [doi]
+PST - epublish
+SO  - Cogn Res Princ Implic. 2023 Sep 29;8(1):61. doi: 10.1186/s41235-023-00514-w.
+
+PMID- 37775472
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20231030
+LR  - 20231030
+IS  - 2589-7500 (Electronic)
+IS  - 2589-7500 (Linking)
+VI  - 5
+IP  - 11
+DP  - 2023 Nov
+TI  - Validation of a real-time biliopancreatic endoscopic ultrasonography analytical 
+      device in China: a prospective, single-centre, randomised, controlled trial.
+PG  - e812-e820
+LID - S2589-7500(23)00160-7 [pii]
+LID - 10.1016/S2589-7500(23)00160-7 [doi]
+AB  - BACKGROUND: Endoscopic ultrasonography (EUS) is a key procedure for the diagnosis 
+      of biliopancreatic diseases. However, the performance among EUS endoscopists 
+      varies greatly and leads to blind spots during the operation, which can impair 
+      the health outcomes of patients. We previously developed an artificial 
+      intelligence (AI) device that accurately identified EUS standard stations and 
+      significantly reduced the difficulty of ultrasonography image interpretation. In 
+      this study, we updated the device (named EUS-IREAD) and validated its performance 
+      in improving the quality of EUS procedures. METHODS: In this single-centre, 
+      randomised, controlled trial, we updated EUS-IREAD so it consisted of five 
+      learning models to identify eight EUS stations and 24 anatomical structures. The 
+      trial was done at the Renmin Hospital of Wuhan University (Wuhan, China) and 
+      included patients aged 18 years or older with suspected biliopancreatic (pancreas 
+      and biliopancreatic duct) lesions due to clinical symptoms, radiological 
+      findings, or laboratory findings, and with a high risk of pancreatic cancer. 
+      Patients were randomly assigned (1:1) by a dedicated research assistant using a 
+      computer-generated random number series (with a block size of four) to undergo 
+      the EUS procedure with or without the assistance of EUS-IREAD. Endoscopists in 
+      the EUS-IREAD-assisted group were required to observe all standard stations and 
+      anatomical structures according to the prompts by the AI device. Data collectors, 
+      the independent data anaylsis team, and patients were masked to group allocation. 
+      The primary outcome was the missed scanning rate of standard stations between the 
+      two groups, which was assessed in patients who underwent EUS procedure in 
+      accordance with the assigned intervention (per protocol). This trial is 
+      registered with ClinicalTrials.gov, NCT05457101. FINDINGS: Between July 9, 2022, 
+      and Feb 28, 2023, 290 patients (mean age 55·93 years [SD 14·06], 152 [52%] male, 
+      and 138 [48%] female) were randomly assigned and analysed, including 144 in the 
+      EUS-IREAD-assisted group and 146 in the control group. The EUS-IREAD-assisted 
+      group had a lower missed scanning rate of stations than the control group (4·5% 
+      [SD 0·8] vs 14·3% [1·0], -9·8% [95% CI -12·2 to -7·5]; odds ratio 3·6 [95% Cl 2·6 
+      to 4·9]; p<0·0001). No significant adverse event was found during the study. 
+      INTERPRETATION: Our study confirms the capability of EUS-IREAD to monitor the 
+      blind spots and reduce the missed rate of stations and structures during EUS 
+      procedures. The EUS-IREAD has the potential to play an essential part in EUS 
+      quality control. FUNDING: Innovation Team Project of Health Commission of Hubei 
+      Province and College-enterprise Deepening Reform Project of Wuhan University.
+CI  - Copyright © 2023 The Author(s). Published by Elsevier Ltd. This is an Open Access 
+      article under the CC BY-NC-ND 4.0 license. Published by Elsevier Ltd.. All rights 
+      reserved.
+FAU - Wu, Hui Ling
+AU  - Wu HL
+AD  - Department of Gastroenterology, Hubei Provincial Clinical Research Center for 
+      Digestive Disease Minimally Invasive Incision, and Key Laboratory of Hubei 
+      Province for Digestive System Disease, Renmin Hospital of Wuhan University, 
+      Wuhan, China.
+FAU - Yao, Li Wen
+AU  - Yao LW
+AD  - Department of Gastroenterology, Hubei Provincial Clinical Research Center for 
+      Digestive Disease Minimally Invasive Incision, and Key Laboratory of Hubei 
+      Province for Digestive System Disease, Renmin Hospital of Wuhan University, 
+      Wuhan, China.
+FAU - Shi, Hui Ying
+AU  - Shi HY
+AD  - Department of Gastroenterology, Union Hospital, Tongji Medical College, Huazhong 
+      University of Science and Technology, Wuhan, China.
+FAU - Wu, Lian Lian
+AU  - Wu LL
+AD  - Department of Gastroenterology, Hubei Provincial Clinical Research Center for 
+      Digestive Disease Minimally Invasive Incision, and Key Laboratory of Hubei 
+      Province for Digestive System Disease, Renmin Hospital of Wuhan University, 
+      Wuhan, China.
+FAU - Li, Xun
+AU  - Li X
+AD  - Department of Gastroenterology, Hubei Provincial Clinical Research Center for 
+      Digestive Disease Minimally Invasive Incision, and Key Laboratory of Hubei 
+      Province for Digestive System Disease, Renmin Hospital of Wuhan University, 
+      Wuhan, China.
+FAU - Zhang, Chen Xia
+AU  - Zhang CX
+AD  - Department of Gastroenterology, Hubei Provincial Clinical Research Center for 
+      Digestive Disease Minimally Invasive Incision, and Key Laboratory of Hubei 
+      Province for Digestive System Disease, Renmin Hospital of Wuhan University, 
+      Wuhan, China.
+FAU - Chen, Bo Ru
+AU  - Chen BR
+AD  - Department of Gastroenterology, Hubei Provincial Clinical Research Center for 
+      Digestive Disease Minimally Invasive Incision, and Key Laboratory of Hubei 
+      Province for Digestive System Disease, Renmin Hospital of Wuhan University, 
+      Wuhan, China.
+FAU - Zhang, Jun
+AU  - Zhang J
+AD  - Department of Gastroenterology, Hubei Provincial Clinical Research Center for 
+      Digestive Disease Minimally Invasive Incision, and Key Laboratory of Hubei 
+      Province for Digestive System Disease, Renmin Hospital of Wuhan University, 
+      Wuhan, China.
+FAU - Tan, Wei
+AU  - Tan W
+AD  - Department of Gastroenterology, Hubei Provincial Clinical Research Center for 
+      Digestive Disease Minimally Invasive Incision, and Key Laboratory of Hubei 
+      Province for Digestive System Disease, Renmin Hospital of Wuhan University, 
+      Wuhan, China.
+FAU - Cui, Ning
+AU  - Cui N
+AD  - Department of Gastroenterology, Hubei Provincial Clinical Research Center for 
+      Digestive Disease Minimally Invasive Incision, and Key Laboratory of Hubei 
+      Province for Digestive System Disease, Renmin Hospital of Wuhan University, 
+      Wuhan, China.
+FAU - Zhou, Wei
+AU  - Zhou W
+AD  - Department of Gastroenterology, Hubei Provincial Clinical Research Center for 
+      Digestive Disease Minimally Invasive Incision, and Key Laboratory of Hubei 
+      Province for Digestive System Disease, Renmin Hospital of Wuhan University, 
+      Wuhan, China.
+FAU - Zhang, Ji Xiang
+AU  - Zhang JX
+AD  - Department of Gastroenterology, Hubei Provincial Clinical Research Center for 
+      Digestive Disease Minimally Invasive Incision, and Key Laboratory of Hubei 
+      Province for Digestive System Disease, Renmin Hospital of Wuhan University, 
+      Wuhan, China.
+FAU - Xiao, Bing
+AU  - Xiao B
+AD  - Department of Gastroenterology, Hubei Provincial Clinical Research Center for 
+      Digestive Disease Minimally Invasive Incision, and Key Laboratory of Hubei 
+      Province for Digestive System Disease, Renmin Hospital of Wuhan University, 
+      Wuhan, China.
+FAU - Gong, Rong Rong
+AU  - Gong RR
+AD  - Department of Gastroenterology, Hubei Provincial Clinical Research Center for 
+      Digestive Disease Minimally Invasive Incision, and Key Laboratory of Hubei 
+      Province for Digestive System Disease, Renmin Hospital of Wuhan University, 
+      Wuhan, China.
+FAU - Ding, Zhen
+AU  - Ding Z
+AD  - Endoscopy Center, The First Affiliated Hospital, Sun Yat-sen University, 
+      Guangzhou, Guangdong, China. Electronic address: docd720@126.com.
+FAU - Yu, Hong Gang
+AU  - Yu HG
+AD  - Department of Gastroenterology, Hubei Provincial Clinical Research Center for 
+      Digestive Disease Minimally Invasive Incision, and Key Laboratory of Hubei 
+      Province for Digestive System Disease, Renmin Hospital of Wuhan University, 
+      Wuhan, China. Electronic address: yuhonggang1968@163.com.
+LA  - eng
+SI  - ClinicalTrials.gov/NCT05457101
+PT  - Journal Article
+PT  - Randomized Controlled Trial
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20230927
+PL  - England
+TA  - Lancet Digit Health
+JT  - The Lancet. Digital health
+JID - 101751302
+SB  - IM
+MH  - Humans
+MH  - Male
+MH  - Female
+MH  - Middle Aged
+MH  - *Endosonography
+MH  - *Artificial Intelligence
+MH  - Prospective Studies
+MH  - China
+COIS- Declaration of interests We declare no competing interests.
+EDAT- 2023/09/30 09:42
+MHDA- 2023/10/30 06:46
+CRDT- 2023/09/29 21:58
+PHST- 2023/04/03 00:00 [received]
+PHST- 2023/06/16 00:00 [revised]
+PHST- 2023/08/09 00:00 [accepted]
+PHST- 2023/10/30 06:46 [medline]
+PHST- 2023/09/30 09:42 [pubmed]
+PHST- 2023/09/29 21:58 [entrez]
+AID - S2589-7500(23)00160-7 [pii]
+AID - 10.1016/S2589-7500(23)00160-7 [doi]
+PST - ppublish
+SO  - Lancet Digit Health. 2023 Nov;5(11):e812-e820. doi: 
+      10.1016/S2589-7500(23)00160-7. Epub 2023 Sep 27.
+
+PMID- 37775259
+OWN - NLM
+STAT- Publisher
+LR  - 20230929
+IS  - 1468-2079 (Electronic)
+IS  - 0007-1161 (Linking)
+DP  - 2023 Sep 29
+TI  - Approved AI-based fluid monitoring to identify morphological and functional 
+      treatment outcomes in neovascular age-related macular degeneration in real-world 
+      routine (FRB!).
+LID - bjo-2022-323014 [pii]
+LID - 10.1136/bjo-2022-323014 [doi]
+AB  - AIM: To predict antivascular endothelial growth factor (VEGF) treatment 
+      requirements, visual acuity and morphological outcomes in neovascular age-related 
+      macular degeneration (nAMD) using fluid quantification by artificial intelligence 
+      (AI) in a real-world cohort. METHODS: Spectral-domain optical coherence 
+      tomography data of 158 treatment-naïve patients with nAMD from the Fight Retinal 
+      Blindness! registry in Zurich were processed at baseline, and after initial 
+      treatment using intravitreal anti-VEGF to predict subsequent 1-year and 4-year 
+      outcomes. Intraretinal and subretinal fluid and pigment epithelial detachment 
+      volumes were segmented using a deep learning algorithm (Vienna Fluid Monitor, 
+      RetInSight, Vienna, Austria). A predictive machine learning model for future 
+      treatment requirements and morphological outcomes was built using the computed 
+      set of quantitative features. RESULTS: Two hundred and two eyes from 158 patients 
+      were evaluated. 107 eyes had a lower median (≤7) and 95 eyes had an upper median 
+      (≥8) number of injections in the first year, with a mean accuracy of prediction 
+      of 0.77 (95% CI 0.71 to 0.83) area under the curve (AUC). Best-corrected visual 
+      acuity at baseline was the most relevant predictive factor determining final 
+      visual outcomes after 1 year. Over 4 years, half of the eyes had progressed to 
+      macular atrophy (MA) with the model being able to distinguish MA from non-MA eyes 
+      with a mean AUC of 0.70 (95% CI 0.61 to 0.79). Prediction for subretinal fibrosis 
+      reached an AUC of 0.74 (95% CI 0.63 to 0.81). CONCLUSIONS: The regulatory 
+      approved AI-based fluid monitoring allows clinicians to use automated algorithms 
+      in prospectively guided patient treatment in AMD. Furthermore, retinal fluid 
+      localisation and quantification can predict long-term morphological outcomes.
+CI  - © Author(s) (or their employer(s)) 2023. No commercial re-use. See rights and 
+      permissions. Published by BMJ.
+FAU - Mares, Virginia
+AU  - Mares V
+AD  - Department of Ophthalmology and Optometry, Medical University of Vienna, Vienna, 
+      Austria.
+AD  - Department of Ophthalmology, Federal University of Minas Gerais, Belo Horizonte, 
+      Brazil.
+FAU - Schmidt-Erfurth, Ursula Margarethe
+AU  - Schmidt-Erfurth UM
+AUID- ORCID: 0000-0002-7788-7311
+AD  - Department of Ophthalmology and Optometry, Medical University of Vienna, Vienna, 
+      Austria ursula.schmidt-erfurth@meduniwien.ac.at.
+FAU - Leingang, Oliver
+AU  - Leingang O
+AD  - Department of Ophthalmology and Optometry, Medical University of Vienna, Vienna, 
+      Austria.
+FAU - Fuchs, Philipp
+AU  - Fuchs P
+AD  - Department of Ophthalmology and Optometry, Medical University of Vienna, Vienna, 
+      Austria.
+FAU - Nehemy, Marcio B
+AU  - Nehemy MB
+AD  - Department of Ophthalmology, Federal University of Minas Gerais, Belo Horizonte, 
+      Brazil.
+FAU - Bogunovic, Hrvoje
+AU  - Bogunovic H
+AD  - Department of Ophthalmology and Optometry, Medical University of Vienna, Vienna, 
+      Austria.
+FAU - Barthelmes, Daniel
+AU  - Barthelmes D
+AD  - Department of Ophthalmology, University of Zurich Faculty of Medicine, Zurich, 
+      Switzerland.
+AD  - Department of Ophthalmology, The University of Sydney, Sydney, New South Wales, 
+      Australia.
+FAU - Reiter, Gregor S
+AU  - Reiter GS
+AUID- ORCID: 0000-0001-7661-4015
+AD  - Department of Ophthalmology and Optometry, Medical University of Vienna, Vienna, 
+      Austria.
+LA  - eng
+PT  - Journal Article
+DEP - 20230929
+PL  - England
+TA  - Br J Ophthalmol
+JT  - The British journal of ophthalmology
+JID - 0421041
+SB  - IM
+OTO - NOTNLM
+OT  - Degeneration
+OT  - Macula
+OT  - Neovascularisation
+OT  - Retina
+COIS- Competing interests: UMS-E: Scientific consultancy for Genentech, Novartis, 
+      Roche, Heidelberg Engineering, Kodiak, RetInSight, Topcon. HB: Grants from 
+      Heidelberg Engineering and Apellis. Speaker fees from Bayer, Roche and Apellis. 
+      DB: Scientific consultancy, grants and speaker fees for Bayer and Novartis. GSR: 
+      Grant from RetInSight.VM, OL, PF, MBN: No financial support or conflicts of 
+      interest.
+EDAT- 2023/09/30 09:42
+MHDA- 2023/09/30 09:42
+CRDT- 2023/09/29 21:03
+PHST- 2022/12/06 00:00 [received]
+PHST- 2023/09/12 00:00 [accepted]
+PHST- 2023/09/30 09:42 [medline]
+PHST- 2023/09/30 09:42 [pubmed]
+PHST- 2023/09/29 21:03 [entrez]
+AID - bjo-2022-323014 [pii]
+AID - 10.1136/bjo-2022-323014 [doi]
+PST - aheadofprint
+SO  - Br J Ophthalmol. 2023 Sep 29:bjo-2022-323014. doi: 10.1136/bjo-2022-323014.
+
+PMID- 37775188
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20231027
+LR  - 20231027
+IS  - 2589-7500 (Electronic)
+IS  - 2589-7500 (Linking)
+VI  - 5
+IP  - 10
+DP  - 2023 Oct
+TI  - Comparison of humans versus mobile phone-powered artificial intelligence for the 
+      diagnosis and management of pigmented skin cancer in secondary care: a 
+      multicentre, prospective, diagnostic, clinical trial.
+PG  - e679-e691
+LID - S2589-7500(23)00130-9 [pii]
+LID - 10.1016/S2589-7500(23)00130-9 [doi]
+AB  - BACKGROUND: Diagnosis of skin cancer requires medical expertise, which is scarce. 
+      Mobile phone-powered artificial intelligence (AI) could aid diagnosis, but it is 
+      unclear how this technology performs in a clinical scenario. Our primary aim was 
+      to test in the clinic whether there was equivalence between AI algorithms and 
+      clinicians for the diagnosis and management of pigmented skin lesions. METHODS: 
+      In this multicentre, prospective, diagnostic, clinical trial, we included 
+      specialist and novice clinicians and patients from two tertiary referral centres 
+      in Australia and Austria. Specialists had a specialist medical qualification 
+      related to diagnosing and managing pigmented skin lesions, whereas novices were 
+      dermatology junior doctors or registrars in trainee positions who had experience 
+      in examining and managing these lesions. Eligible patients were aged 18-99 years 
+      and had a modified Fitzpatrick I-III skin type; those in the diagnostic trial 
+      were undergoing routine excision or biopsy of one or more suspicious pigmented 
+      skin lesions bigger than 3 mm in the longest diameter, and those in the 
+      management trial had baseline total-body photographs taken within 1-4 years. We 
+      used two mobile phone-powered AI instruments incorporating a simple optical 
+      attachment: a new 7-class AI algorithm and the International Skin Imaging 
+      Collaboration (ISIC) AI algorithm, which was previously tested in a large online 
+      reader study. The reference standard for excised lesions in the diagnostic trial 
+      was histopathological examination; in the management trial, the reference 
+      standard was a descending hierarchy based on histopathological examination, 
+      comparison of baseline total-body photographs, digital monitoring, and 
+      telediagnosis. The main outcome of this study was to compare the accuracy of 
+      expert and novice diagnostic and management decisions with the two AI 
+      instruments. Possible decisions in the management trial were dismissal, biopsy, 
+      or 3-month monitoring. Decisions to monitor were considered equivalent to 
+      dismissal (scenario A) or biopsy of malignant lesions (scenario B). The trial was 
+      registered at the Australian New Zealand Clinical Trials Registry 
+      ACTRN12620000695909 (Universal trial number U1111-1251-8995). FINDINGS: The 
+      diagnostic study included 172 suspicious pigmented lesions (84 malignant) from 
+      124 patients and the management study included 5696 pigmented lesions (18 
+      malignant) from the whole body of 66 high-risk patients. The diagnoses of the 
+      7-class AI algorithm were equivalent to the specialists' diagnoses (absolute 
+      accuracy difference 1·2% [95% CI -6·9 to 9·2]) and significantly superior to the 
+      novices' ones (21·5% [13·1 to 30·0]). The diagnoses of the ISIC AI algorithm were 
+      significantly inferior to the specialists' diagnoses (-11·6% [-20·3 to -3·0]) but 
+      significantly superior to the novices' ones (8·7% [-0·5 to 18·0]). The best 
+      7-class management AI was significantly inferior to specialists' management 
+      (absolute accuracy difference in correct management decision -0·5% [95% CI -0·7 
+      to -0·2] in scenario A and -0·4% [-0·8 to -0·05] in scenario B). Compared with 
+      the novices' management, the 7-class management AI was significantly inferior 
+      (-0·4% [-0·6 to -0·2]) in scenario A but significantly superior (0·4% [0·0 to 
+      0·9]) in scenario B. INTERPRETATION: The mobile phone-powered AI technology is 
+      simple, practical, and accurate for the diagnosis of suspicious pigmented skin 
+      cancer in patients presenting to a specialist setting, although its usage for 
+      management decisions requires more careful execution. An AI algorithm that was 
+      superior in experimental studies was significantly inferior to specialists in a 
+      real-world scenario, suggesting that caution is needed when extrapolating results 
+      of experimental studies to clinical practice. FUNDING: MetaOptima Technology.
+CI  - Copyright © 2023 The Author(s). Published by Elsevier Ltd. This is an Open Access 
+      article under the CC BY 4.0 license. Published by Elsevier Ltd.. All rights 
+      reserved.
+FAU - Menzies, Scott W
+AU  - Menzies SW
+AD  - Faculty of Medicine and Health, Sydney Medical School, The University of Sydney, 
+      Sydney, NSW, Australia; Sydney Melanoma Diagnostic Centre, Royal Prince Alfred 
+      Hospital, Camperdown, NSW, Australia. Electronic address: 
+      scott.menzies@bigpond.com.
+FAU - Sinz, Christoph
+AU  - Sinz C
+AD  - Melanoma Institute Australia, The University of Sydney, Sydney, NSW, Australia; 
+      Department of Dermatology, Medical University of Vienna, Vienna, Austria.
+FAU - Menzies, Michelle
+AU  - Menzies M
+AD  - Sydney Melanoma Diagnostic Centre, Royal Prince Alfred Hospital, Camperdown, NSW, 
+      Australia; Skintography, Sydney, NSW, Australia.
+FAU - Lo, Serigne N
+AU  - Lo SN
+AD  - Faculty of Medicine and Health, Sydney Medical School, The University of Sydney, 
+      Sydney, NSW, Australia; Melanoma Institute Australia, The University of Sydney, 
+      Sydney, NSW, Australia.
+FAU - Yolland, William
+AU  - Yolland W
+AD  - MetaOptima Technology, Vancouver, BC, Canada.
+FAU - Lingohr, Johann
+AU  - Lingohr J
+AD  - MetaOptima Technology, Vancouver, BC, Canada.
+FAU - Razmara, Majid
+AU  - Razmara M
+AD  - MetaOptima Technology, Vancouver, BC, Canada.
+FAU - Tschandl, Philipp
+AU  - Tschandl P
+AD  - Department of Dermatology, Medical University of Vienna, Vienna, Austria.
+FAU - Guitera, Pascale
+AU  - Guitera P
+AD  - Faculty of Medicine and Health, Sydney Medical School, The University of Sydney, 
+      Sydney, NSW, Australia; Melanoma Institute Australia, The University of Sydney, 
+      Sydney, NSW, Australia; Sydney Melanoma Diagnostic Centre, Royal Prince Alfred 
+      Hospital, Camperdown, NSW, Australia.
+FAU - Scolyer, Richard A
+AU  - Scolyer RA
+AD  - Faculty of Medicine and Health, Sydney Medical School, The University of Sydney, 
+      Sydney, NSW, Australia; Melanoma Institute Australia, The University of Sydney, 
+      Sydney, NSW, Australia; Charles Perkins Centre, The University of Sydney, Sydney, 
+      NSW, Australia; Tissue Pathology and Diagnostic Oncology, Royal Prince Alfred 
+      Hospital and NSW Health Pathology, Sydney, NSW, Australia.
+FAU - Boltz, Florentina
+AU  - Boltz F
+AD  - Department of Dermatology, Medical University of Vienna, Vienna, Austria.
+FAU - Borik-Heil, Liliane
+AU  - Borik-Heil L
+AD  - Department of Dermatology, Medical University of Vienna, Vienna, Austria.
+FAU - Herbert Chan, Hsien
+AU  - Herbert Chan H
+AD  - Department of Dermatology, Royal Prince Alfred Hospital, Camperdown, NSW, 
+      Australia.
+FAU - Chromy, David
+AU  - Chromy D
+AD  - Department of Dermatology, Medical University of Vienna, Vienna, Austria.
+FAU - Coker, David J
+AU  - Coker DJ
+AD  - Faculty of Medicine and Health, Sydney Medical School, The University of Sydney, 
+      Sydney, NSW, Australia; Melanoma Institute Australia, The University of Sydney, 
+      Sydney, NSW, Australia; Department of Melanoma and Surgical Oncology, Royal 
+      Prince Alfred Hospital, Camperdown, NSW, Australia.
+FAU - Collgros, Helena
+AU  - Collgros H
+AD  - Faculty of Medicine and Health, Sydney Medical School, The University of Sydney, 
+      Sydney, NSW, Australia; Sydney Melanoma Diagnostic Centre, Royal Prince Alfred 
+      Hospital, Camperdown, NSW, Australia.
+FAU - Eghtedari, Maryam
+AU  - Eghtedari M
+AD  - Department of Dermatology, Royal Prince Alfred Hospital, Camperdown, NSW, 
+      Australia.
+FAU - Corral Forteza, Marina
+AU  - Corral Forteza M
+AD  - Sydney Melanoma Diagnostic Centre, Royal Prince Alfred Hospital, Camperdown, NSW, 
+      Australia.
+FAU - Forward, Emily
+AU  - Forward E
+AD  - Department of Dermatology, Royal Prince Alfred Hospital, Camperdown, NSW, 
+      Australia.
+FAU - Gallo, Bruna
+AU  - Gallo B
+AD  - Melanoma Institute Australia, The University of Sydney, Sydney, NSW, Australia; 
+      Sydney Melanoma Diagnostic Centre, Royal Prince Alfred Hospital, Camperdown, NSW, 
+      Australia.
+FAU - Geisler, Stephanie
+AU  - Geisler S
+AD  - Department of Dermatology, Medical University of Vienna, Vienna, Austria.
+FAU - Gibson, Matthew
+AU  - Gibson M
+AD  - Faculty of Medicine and Health, Sydney Medical School, The University of Sydney, 
+      Sydney, NSW, Australia; Department of Dermatology, Royal Prince Alfred Hospital, 
+      Camperdown, NSW, Australia.
+FAU - Hampel, Amelie
+AU  - Hampel A
+AD  - Department of Dermatology, Medical University of Vienna, Vienna, Austria.
+FAU - Ho, Genevieve
+AU  - Ho G
+AD  - Faculty of Medicine and Health, Sydney Medical School, The University of Sydney, 
+      Sydney, NSW, Australia; Melanoma Institute Australia, The University of Sydney, 
+      Sydney, NSW, Australia; Department of Dermatology, Royal Prince Alfred Hospital, 
+      Camperdown, NSW, Australia.
+FAU - Junez, Laura
+AU  - Junez L
+AD  - Department of Dermatology, Medical University of Vienna, Vienna, Austria.
+FAU - Kienzl, Philipp
+AU  - Kienzl P
+AD  - Department of Dermatology, Medical University of Vienna, Vienna, Austria.
+FAU - Martin, Arthur
+AU  - Martin A
+AD  - Melanoma Institute Australia, The University of Sydney, Sydney, NSW, Australia.
+FAU - Moloney, Fergal J
+AU  - Moloney FJ
+AD  - Melanoma Institute Australia, The University of Sydney, Sydney, NSW, Australia; 
+      Sydney Melanoma Diagnostic Centre, Royal Prince Alfred Hospital, Camperdown, NSW, 
+      Australia.
+FAU - Regio Pereira, Amanda
+AU  - Regio Pereira A
+AD  - Faculty of Medicine and Health, Sydney Medical School, The University of Sydney, 
+      Sydney, NSW, Australia; Sydney Melanoma Diagnostic Centre, Royal Prince Alfred 
+      Hospital, Camperdown, NSW, Australia.
+FAU - Ressler, Julia Maria
+AU  - Ressler JM
+AD  - Department of Dermatology, Medical University of Vienna, Vienna, Austria.
+FAU - Richter, Susanne
+AU  - Richter S
+AD  - Department of Dermatology, Medical University of Vienna, Vienna, Austria.
+FAU - Silic, Katharina
+AU  - Silic K
+AD  - Department of Dermatology, Medical University of Vienna, Vienna, Austria.
+FAU - Silly, Thomas
+AU  - Silly T
+AD  - Department of Dermatology, Medical University of Vienna, Vienna, Austria.
+FAU - Skoll, Michael
+AU  - Skoll M
+AD  - Department of Dermatology, Medical University of Vienna, Vienna, Austria.
+FAU - Tittes, Julia
+AU  - Tittes J
+AD  - Department of Dermatology, Medical University of Vienna, Vienna, Austria.
+FAU - Weber, Philipp
+AU  - Weber P
+AD  - Department of Dermatology, Medical University of Vienna, Vienna, Austria.
+FAU - Weninger, Wolfgang
+AU  - Weninger W
+AD  - Department of Dermatology, Medical University of Vienna, Vienna, Austria.
+FAU - Weiss, Doris
+AU  - Weiss D
+AD  - Department of Dermatology, Medical University of Vienna, Vienna, Austria.
+FAU - Woo-Sampson, Ping
+AU  - Woo-Sampson P
+AD  - Sydney Melanoma Diagnostic Centre, Royal Prince Alfred Hospital, Camperdown, NSW, 
+      Australia.
+FAU - Zilberg, Catherine
+AU  - Zilberg C
+AD  - Department of Dermatology, Royal Prince Alfred Hospital, Camperdown, NSW, 
+      Australia.
+FAU - Kittler, Harald
+AU  - Kittler H
+AD  - Department of Dermatology, Medical University of Vienna, Vienna, Austria.
+LA  - eng
+SI  - ANZCTR/ACTRN12620000695909
+PT  - Clinical Trial
+PT  - Journal Article
+PT  - Multicenter Study
+PT  - Research Support, Non-U.S. Gov't
+PL  - England
+TA  - Lancet Digit Health
+JT  - The Lancet. Digital health
+JID - 101751302
+SB  - IM
+CIN - Lancet Digit Health. 2023 Oct;5(10):e639-e640. PMID: 37775185
+MH  - Humans
+MH  - Artificial Intelligence
+MH  - Australia
+MH  - *Cell Phone
+MH  - *Melanoma/diagnosis/pathology
+MH  - Prospective Studies
+MH  - Secondary Care
+MH  - Sensitivity and Specificity
+MH  - *Skin Neoplasms/diagnosis/pathology
+COIS- Declaration of interests SWM is on the scientific advisory board of SciBase AB, 
+      and previously for Kāhu (MoleMap), both of which produce competing diagnostic 
+      devices for skin cancer. MM received payment from MetaOptima Technology for doing 
+      the trial in Sydney. She has also received payments from MetaOptima Technology 
+      (unrelated to and before the trial) as a consultant. SNL's institute has received 
+      payment for consultancy services from MetaOptima Technology, unrelated to the 
+      trial. WY, JL, and MR are employees of MetaOptima Technology. MR is a board 
+      member and equity owner of MetaOptima Technology. PT has received fees for 
+      professional services from Silverchair; an unrestricted 1-year postdoctoral grant 
+      from MetaOptima Technology (2017); speaker fees from Novartis, Lilly, and 
+      FotoFinder; and unrestricted grants from Lilly. He is also on the executive board 
+      of the International Dermoscopy Society, is President of the Austrian 
+      Dermatopathology Society, and is a coauthor of textbooks on dermatoscopy 
+      (published by Facultas) and dermatopathology (published by Springer). PG has 
+      received fees for professional services from MetaOptima Technology, unrelated to 
+      the trial. She has also received fees from La Roche-Posay and Pierre Fabre, 
+      support for attending meetings from La Roche-Posay, and is on the faculty of 
+      Melanoma Institute Australia. RAS has received fees for professional services 
+      from MetaOptima Technology, F Hoffmann-La Roche, Evaxion Biotech, Provectus 
+      Biopharmaceuticals Australia, Qbiotics, Novartis, Merck Sharp & Dohme, NeraCare, 
+      Amgen, Bristol Myers Squibb, Myriad Genetics, and GlaxoSmithKline. HHC serves as 
+      a medical advisor to Metasense. DC has served as a speaker for AbbVie, Gilead 
+      Sciences, ViiV Healthcare, and MSD; has served as an advisory board member for 
+      ViiV Healthcare; and has received travel support from AbbVie, MSD, ViiV 
+      Healthcare, and Gilead Sciences. MG has received a conference travel grant from 
+      Sun Pharmaceutical Industries. GH has been supported by an Avant Foundation Early 
+      Career Researcher grant and by National Health and Medical Research Council 
+      Centres of Research Excellence funding (1135285). PK has received fees and travel 
+      support from Sanofi. JMR has received speakers honoraria from Bristol Myers 
+      Squibb, Roche, Amgen, and Novartis, and travel support from Roche, Bristol Myers 
+      Squibb, and Sanofi. MS has received consulting fees and travel support from 
+      Gilead Sciences, ViiV Healthcare/GSK, and MSD; is on the advisory boards of 
+      Gilead Sciences, ViiV Healthcare/GSK, and MSD; and is a board member of the 
+      Austrian Sexually Transmitted Disease Society. JT has received speaker fees from 
+      Lilly and Novartis, travel support from Almirall and AbbVie, and an unrestricted 
+      grant from Lilly. PW has received travel support from Pfizer and Merz Pharma, and 
+      fees for a case report from Novartis. WW has received a grant from WWTF; 
+      consulting fees from Böhringer Ingelheim, Sanofi Genzyme, Eli Lilly, AbbVie, LEO 
+      Pharma, Janssen, and Pfizer. He is a committee member of the Austrian Society of 
+      Dermatology and Venerology and is on the advisory boards of Sanofi Genzyme, 
+      Böhringer Ingelheim, and Eli Lilly. CZ was a coinvestigator on Sydney Cancer 
+      Partners Pilot Study Scheme Grant Procel Study-Perioperative Propranolol and 
+      Celexocib in Stage III melanoma. HK has received speaker fees from La 
+      Roche-Posay, Novartis, Eli Lilly, Pelpharma, Heine, and FotoFinder; has received 
+      equipment to his institution from Heine, FotoFinder, Canfield, and DermaMedical; 
+      and has received license fees to his institution from MetaOptima Technology, 
+      Heine, and Casi. He is member of the executive board of the International 
+      Dermoscopy Society. All other authors declare no competing interests.
+EDAT- 2023/09/30 09:42
+MHDA- 2023/10/27 06:42
+CRDT- 2023/09/29 20:55
+PHST- 2022/11/18 00:00 [received]
+PHST- 2023/06/27 00:00 [revised]
+PHST- 2023/07/06 00:00 [accepted]
+PHST- 2023/10/27 06:42 [medline]
+PHST- 2023/09/30 09:42 [pubmed]
+PHST- 2023/09/29 20:55 [entrez]
+AID - S2589-7500(23)00130-9 [pii]
+AID - 10.1016/S2589-7500(23)00130-9 [doi]
+PST - ppublish
+SO  - Lancet Digit Health. 2023 Oct;5(10):e679-e691. doi: 
+      10.1016/S2589-7500(23)00130-9.
+
+PMID- 37775185
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20231002
+LR  - 20231027
+IS  - 2589-7500 (Electronic)
+IS  - 2589-7500 (Linking)
+VI  - 5
+IP  - 10
+DP  - 2023 Oct
+TI  - Diagnosis of suspicious pigmented lesions in specialist settings with artificial 
+      intelligence.
+PG  - e639-e640
+LID - S2589-7500(23)00180-2 [pii]
+LID - 10.1016/S2589-7500(23)00180-2 [doi]
+FAU - Matin, Rubeta N
+AU  - Matin RN
+AD  - Department of Dermatology, Oxford University Hospitals NHS Foundation Trust, 
+      Oxford OX3 7LE, UK. Electronic address: rubeta.matin@ouh.nhs.uk.
+FAU - Dinnes, Jacqueline
+AU  - Dinnes J
+AD  - Test Evaluation Research Group, Institute of Applied Health Research, University 
+      of Birmingham, Birmingham, UK; NIHR Birmingham Biomedical Research Centre, 
+      University Hospitals Birmingham NHS Foundation Trust and University of 
+      Birmingham, Birmingham, UK.
+LA  - eng
+PT  - Comment
+PT  - Journal Article
+PL  - England
+TA  - Lancet Digit Health
+JT  - The Lancet. Digital health
+JID - 101751302
+SB  - IM
+CON - Lancet Digit Health. 2023 Oct;5(10):e679-e691. PMID: 37775188
+MH  - Humans
+MH  - *Artificial Intelligence
+MH  - *Skin Neoplasms/diagnosis
+MH  - Algorithms
+EDAT- 2023/09/30 09:42
+MHDA- 2023/10/02 06:42
+CRDT- 2023/09/29 20:55
+PHST- 2023/08/29 00:00 [received]
+PHST- 2023/09/11 00:00 [accepted]
+PHST- 2023/10/02 06:42 [medline]
+PHST- 2023/09/30 09:42 [pubmed]
+PHST- 2023/09/29 20:55 [entrez]
+AID - S2589-7500(23)00180-2 [pii]
+AID - 10.1016/S2589-7500(23)00180-2 [doi]
+PST - ppublish
+SO  - Lancet Digit Health. 2023 Oct;5(10):e639-e640. doi: 
+      10.1016/S2589-7500(23)00180-2.
+
+PMID- 37774982
+OWN - NLM
+STAT- Publisher
+LR  - 20230929
+IS  - 1878-1632 (Electronic)
+IS  - 1529-9430 (Linking)
+DP  - 2023 Sep 27
+TI  - Automated Measurements of Interscrew Angles in Vertebral Body Tethering Patients 
+      with Deep Learning.
+LID - S1529-9430(23)03406-X [pii]
+LID - 10.1016/j.spinee.2023.09.011 [doi]
+AB  - BACKGROUND CONTEXT: Vertebral body tethering is the most popular nonfusion 
+      treatment for adolescent idiopathic scoliosis. The effect of the tether cord on 
+      the spine can be segmentally assessed by comparing the angle between two adjacent 
+      screws (interscrew angle) over time. Tether breakage has historically been 
+      assessed radiographically by a change in adjacent interscrew angle by greater 
+      than 5 degrees between two sets of imaging. A threshold for growth modulation has 
+      not yet been established in the literature. These angle measurements are time 
+      consuming and prone to interobserver variability. PURPOSE: The purpose of this 
+      study was to develop an automated deep learning algorithm for measuring the 
+      interscrew angle following VBT surgery. STUDY DESIGN/SETTING: Single institution 
+      analysis of medical images. PATIENT SAMPLE: We analyzed 229 standing or bending 
+      AP or PA radiographs from 100 patient who had undergone VBT at our institution. 
+      OUTCOME MEASURES: Physiologic Measures: An image processing algorithm was used to 
+      measure interscrew angles. METHODS: 229 standing or bending AP or PA radiographs 
+      from 100 VBT patients with vertebral body tethers were identified. Vertebral body 
+      screws were segmented by hand for all images and interscrew angles measured 
+      manually for 60 of the included images. A U-Net deep learning model was developed 
+      to automatically segment the vertebral body screws. Screw label maps were used to 
+      develop and tune an image processing algorithm which measures interscrew angles. 
+      Finally, the completed model and algorithm pipeline was tested on a 30-image test 
+      set. Dice score and absolute error were used to measure performance. RESULTS: 
+      Inter- and Intra-rater reliability for manual angle measurements were assessed 
+      with ICC and were both 0.99. The segmentation model Dice score against manually 
+      segmented ground truth across the 30-image test set was 0.96. The average 
+      interscrew angle absolute error between the algorithm and manually measured 
+      ground truth was 0.66 degrees and ranged from 0 to 2.67 degrees in 
+      non-overlapping screws (N=206). The primary modes of failure for the model were 
+      overlapping screws on a right thoracic/left lumbar construct with two screws in 
+      one vertebra and overexposed images. An algorithm step which determines whether 
+      an overlapping screw was present correctly identified all overlapping screws, 
+      with no false positives. CONCLUSION: We developed and validated an algorithm 
+      which measures interscrew angles for radiographs of vertebral body tether 
+      patients with an accuracy of within 1 degree for the majority of interscrew 
+      angles. The algorithm can process 5 images per second on a standard computer, 
+      leading to substantial time savings. This algorithm may be used for rapid 
+      processing of large radiographic databases of tether patients and could enable 
+      more rigorous definitions of growth modulation and cord breakage to be 
+      established.
+CI  - Copyright © 2023. Published by Elsevier Inc.
+FAU - Mulford, Kellen L
+AU  - Mulford KL
+AD  - Orthopedic Surgery Artificial Intelligence Laboratory, Department of Orthopedic 
+      Surgery, Mayo Clinic, Rochester, MN, USA.
+FAU - Regan, Christina
+AU  - Regan C
+AD  - Mayo Clinic Department of Orthopedic Surgery, Mayo Clinic, Rochester, MN, USA.
+FAU - Nolte, Charles P Jr
+AU  - Nolte CP Jr
+AD  - Mayo Clinic Department of Orthopedic Surgery, Mayo Clinic, Rochester, MN, USA.
+FAU - Pinter, Zachariah W
+AU  - Pinter ZW
+AD  - Mayo Clinic Department of Orthopedic Surgery, Mayo Clinic, Rochester, MN, USA.
+FAU - Milbrandt, Todd A
+AU  - Milbrandt TA
+AD  - Mayo Clinic Department of Orthopedic Surgery, Mayo Clinic, Rochester, MN, USA.
+FAU - Larson, A Noelle
+AU  - Larson AN
+AD  - Orthopedic Surgery Artificial Intelligence Laboratory, Department of Orthopedic 
+      Surgery, Mayo Clinic, Rochester, MN, USA; Mayo Clinic Department of Orthopedic 
+      Surgery, Mayo Clinic, Rochester, MN, USA. Electronic address: 
+      Larson.Noelle@mayo.edu.
+LA  - eng
+PT  - Journal Article
+DEP - 20230927
+PL  - United States
+TA  - Spine J
+JT  - The spine journal : official journal of the North American Spine Society
+JID - 101130732
+SB  - IM
+OTO - NOTNLM
+OT  - adolescent idiopathic scoliosis
+OT  - anterior vertebral body tethering
+OT  - artificial intelligence
+OT  - cord breakage
+OT  - deep learning model
+OT  - interscrew angle
+OT  - tether breakage
+OT  - vertebral body tethering
+EDAT- 2023/09/30 09:42
+MHDA- 2023/09/30 09:42
+CRDT- 2023/09/29 19:17
+PHST- 2023/04/15 00:00 [received]
+PHST- 2023/09/10 00:00 [revised]
+PHST- 2023/09/16 00:00 [accepted]
+PHST- 2023/09/30 09:42 [medline]
+PHST- 2023/09/30 09:42 [pubmed]
+PHST- 2023/09/29 19:17 [entrez]
+AID - S1529-9430(23)03406-X [pii]
+AID - 10.1016/j.spinee.2023.09.011 [doi]
+PST - aheadofprint
+SO  - Spine J. 2023 Sep 27:S1529-9430(23)03406-X. doi: 10.1016/j.spinee.2023.09.011.
+
+PMID- 37774793
+OWN - NLM
+STAT- Publisher
+LR  - 20230929
+IS  - 2320-2890 (Electronic)
+IS  - 2319-4170 (Linking)
+DP  - 2023 Sep 27
+TI  - Secreted proteins encoded by super enhancer-driven genes could be promising 
+      biomarkers for early detection of esophageal squamous cell carcinoma.
+PG  - 100662
+LID - S2319-4170(23)00099-9 [pii]
+LID - 10.1016/j.bj.2023.100662 [doi]
+AB  - BACKGROUND: Early detection of cancer remains an unmet need in clinical practice, 
+      and high diagnostic sensitivity and specificity biomarkers are urgently required. 
+      Here, we attempted to identify secreted proteins encoded by super-enhancer 
+      (SE)-driven genes as diagnostic biomarkers for esophageal squamous cell carcinoma 
+      (ESCC). METHODS: We conducted an integrative analysis of multiple data sets 
+      including ChIP-seq data, secretome data, CCLE data and GEO data to screen 
+      secreted proteins encoded by SE-driven genes. Using ELISA, we further identified 
+      up-regulated secreted proteins through a small size of clinical samples and 
+      verified in a multi-centre validation stage (345 in test cohort and 231 in 
+      validation cohort). Receiver operating characteristic curves were used to 
+      calculate diagnostic accuracy. Artificial intelligence (AI) method named gradient 
+      boosting machine (GBM) were applied for model construction to enhance diagnostic 
+      accuracy. RESULTS: Serum EFNA1 and MMP13 were identified, and showed 
+      significantly higher levels in ESCC patients compared to normal controls. An 
+      integrated Five-Biomarker Panel (iFBPanel) established by combining EFNA1, MMP13, 
+      carcino-embryonic antigen, Cyfra21-1 and squmaous cell carcinoma antigen had AUCs 
+      of 0.881 and 0.880 for ESCC in test and validation cohorts, respectively. 
+      Importantly, the iFBPanel also exhibited good performance in detecting 
+      early-stage ESCC patients (0.872 and 0.864). Furthermore, the iFBPanel was 
+      further empowered by AI technology which showed excellent diagnostic performance 
+      in early-stage ESCC (0.927 and 0.907). CONCLUSIONS: Our study suggested that 
+      serum EFNA1 and MMP13 could potentially assist ESCC detection, and provided an 
+      easy-to-use detection model that might help the diagnosis of early-stage ESCC.
+CI  - Copyright © 2023 The Authors. Published by Elsevier B.V. All rights reserved.
+FAU - Chu, Ling-Yu
+AU  - Chu LY
+AD  - Department of Clinical Laboratory Medicine, the Cancer Hospital of Shantou 
+      University Medical College, Shantou 515041, P.R. China; Department of 
+      Biochemistry and Molecular Biology, Shantou University Medical College, Shantou 
+      515041, P.R. China.
+FAU - Wu, Fang-Cai
+AU  - Wu FC
+AD  - Department of Radiation Oncology, the Cancer Hospital of Shantou University 
+      Medical College, Shantou 515041, P.R. China; Guangdong Esophageal Cancer 
+      Institute, the Cancer Hospital of Shantou University Medical College, Shantou 
+      515041, P.R. China; Esophageal Cancer Prevention and Control Research Centre, the 
+      Cancer Hospital of Shantou University Medical College, Shantou 515041, P.R. 
+      China.
+FAU - Fang, Wang-Kai
+AU  - Fang WK
+AD  - Department of Biochemistry and Molecular Biology, Shantou University Medical 
+      College, Shantou 515041, P.R. China.
+FAU - Hong, Chao-Qun
+AU  - Hong CQ
+AD  - Department of Oncological Laboratory Research, the Cancer Hospital of Shantou 
+      University Medical College, Shantou 515041, P.R. China.
+FAU - Huang, Li-Sheng
+AU  - Huang LS
+AD  - Department of Radiation Oncology, the Cancer Hospital of Shantou University 
+      Medical College, Shantou 515041, P.R. China.
+FAU - Zou, Hai-Ying
+AU  - Zou HY
+AD  - Department of Biochemistry and Molecular Biology, Shantou University Medical 
+      College, Shantou 515041, P.R. China.
+FAU - Peng, Yu-Hui
+AU  - Peng YH
+AD  - Department of Clinical Laboratory Medicine, the Cancer Hospital of Shantou 
+      University Medical College, Shantou 515041, P.R. China; Guangdong Esophageal 
+      Cancer Institute, the Cancer Hospital of Shantou University Medical College, 
+      Shantou 515041, P.R. China.
+FAU - Chen, Hao
+AU  - Chen H
+AD  - State Key Laboratory of Oncology in South China, Collaborative Innovation Centre 
+      for Cancer Medicine, Sun Yat-sen University Cancer Centre, Guangzhou 510060, P.R. 
+      China. Electronic address: xiejj0816@foxmail.com.
+FAU - Xie, Jian-Jun
+AU  - Xie JJ
+AD  - Department of Biochemistry and Molecular Biology, Shantou University Medical 
+      College, Shantou 515041, P.R. China. Electronic address: chenhao@sysucc.org.cn.
+FAU - Xu, Yi-Wei
+AU  - Xu YW
+AD  - Department of Clinical Laboratory Medicine, the Cancer Hospital of Shantou 
+      University Medical College, Shantou 515041, P.R. China; Guangdong Esophageal 
+      Cancer Institute, the Cancer Hospital of Shantou University Medical College, 
+      Shantou 515041, P.R. China; Esophageal Cancer Prevention and Control Research 
+      Centre, the Cancer Hospital of Shantou University Medical College, Shantou 
+      515041, P.R. China. Electronic address: yiwei512@126.com.
+LA  - eng
+PT  - Journal Article
+DEP - 20230927
+PL  - United States
+TA  - Biomed J
+JT  - Biomedical journal
+JID - 101599820
+SB  - IM
+OTO - NOTNLM
+OT  - EFNA1
+OT  - MMP13
+OT  - early diagnosis
+OT  - esophageal squamous cell carcinoma
+OT  - super-enhancer
+COIS- Declaration of Competing Interest The author has no potential conflicts of 
+      interest to disclose.
+EDAT- 2023/09/30 09:42
+MHDA- 2023/09/30 09:42
+CRDT- 2023/09/29 19:13
+PHST- 2023/04/22 00:00 [received]
+PHST- 2023/08/25 00:00 [revised]
+PHST- 2023/09/22 00:00 [accepted]
+PHST- 2023/09/30 09:42 [medline]
+PHST- 2023/09/30 09:42 [pubmed]
+PHST- 2023/09/29 19:13 [entrez]
+AID - S2319-4170(23)00099-9 [pii]
+AID - 10.1016/j.bj.2023.100662 [doi]
+PST - aheadofprint
+SO  - Biomed J. 2023 Sep 27:100662. doi: 10.1016/j.bj.2023.100662.
+
+PMID- 37774648
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20231106
+LR  - 20231109
+IS  - 1873-4529 (Electronic)
+IS  - 0952-8180 (Print)
+IS  - 0952-8180 (Linking)
+VI  - 91
+DP  - 2023 Dec
+TI  - Development of a machine learning model to predict intraoperative transfusion and 
+      guide type and screen ordering.
+PG  - 111272
+LID - S0952-8180(23)00222-2 [pii]
+LID - 10.1016/j.jclinane.2023.111272 [doi]
+AB  - STUDY OBJECTIVE: To develop an algorithm to predict intraoperative Red Blood Cell 
+      (RBC) transfusion from preoperative variables contained in the electronic medical 
+      record of our institution, with the goal of guiding type and screen ordering. 
+      DESIGN: Machine Learning model development on retrospective single-center 
+      hospital data. SETTING: Preoperative period and operating room. PATIENTS: The 
+      study included patients ≥18 years old who underwent surgery during 2019-2022 and 
+      excluded those who refused transfusion, underwent emergency surgery, or surgery 
+      for organ donation after cardiac or brain death. INTERVENTION: Prediction of 
+      intraoperative transfusion vs. no intraoperative transfusion. MEASUREMENTS: The 
+      outcome variable was intraoperative transfusion of RBCs. Predictive variables 
+      were surgery, surgeon, anesthesiologist, age, sex, body mass index, race or 
+      ethnicity, preoperative hemoglobin (g/dL), partial thromboplastin time (s), 
+      platelet count x 10(9) per liter, and prothrombin time. We compared the 
+      performances of seven machine learning algorithms. After training and 
+      optimization on the 2019-2021 dataset, model thresholds were set to the current 
+      institutional performance level of sensitivity (93%). To qualify for comparison, 
+      models had to maintain clinically relevant sensitivity (>90%) when predicting on 
+      2022 data; overall accuracy was the comparative metric. MAIN RESULTS: Out of 
+      100,813 cases that met study criteria from 2019 to 2021, intraoperative 
+      transfusion occurred in 5488 (5.4%) of cases. The LightGBM model was the highest 
+      performing algorithm in external temporal validity experiments, with overall 
+      accuracy of (76.1%) [95% confidence interval (CI), 75.6-76.5], while maintaining 
+      clinically relevant sensitivity of (91.2%) [95% CI, 89.8-92.5]. If type and 
+      screens were ordered based upon the LightGBM model, the predicted type and screen 
+      to transfusion ratio would improve from 8.4 to 5.1. CONCLUSIONS: Machine learning 
+      approaches are feasible in predicting intraoperative transfusion from 
+      preoperative variables and may improve preoperative type and screen ordering 
+      practices when incorporated into the electronic health record.
+CI  - Copyright © 2023 Elsevier Inc. All rights reserved.
+FAU - Zapf, Matthew A C
+AU  - Zapf MAC
+AD  - Department of Anesthesiology, Vanderbilt University Medical Center, Nashville, 
+      TN, USA. Electronic address: matthew.a.zapf@vumc.org.
+FAU - Fabbri, Daniel V
+AU  - Fabbri DV
+AD  - Department of Biomedical Informatics and Department of Computer Science, 
+      Vanderbilt University Medical Center, Nashville, TN, USA.
+FAU - Andrews, Jennifer
+AU  - Andrews J
+AD  - Department of Pathology, Microbiology and Immunology and Department of 
+      Pediatrics, Vanderbilt University Medical Center, Nashville, TN, USA.
+FAU - Li, Gen
+AU  - Li G
+AD  - Department of Anesthesiology, Vanderbilt University Medical Center, Nashville, 
+      TN, USA.
+FAU - Freundlich, Robert E
+AU  - Freundlich RE
+AD  - Department of Anesthesiology and Department of Biomedical Informatics, Vanderbilt 
+      University Medical Center, Nashville, TN, USA.
+FAU - Al-Droubi, Samer
+AU  - Al-Droubi S
+AD  - HealthIT Department, Vanderbilt University Medical Center, Nashville, TN, USA.
+FAU - Wanderer, Jonathan P
+AU  - Wanderer JP
+AD  - Department of Anesthesiology and Department of Biomedical Informatics, Vanderbilt 
+      University Medical Center, Nashville, TN, USA.
+LA  - eng
+GR  - K23 HL148640/HL/NHLBI NIH HHS/United States
+GR  - T32 GM108554/GM/NIGMS NIH HHS/United States
+GR  - UL1 TR002243/TR/NCATS NIH HHS/United States
+PT  - Journal Article
+PT  - Research Support, N.I.H., Extramural
+DEP - 20230927
+PL  - United States
+TA  - J Clin Anesth
+JT  - Journal of clinical anesthesia
+JID - 8812166
+SB  - IM
+MH  - Humans
+MH  - Adolescent
+MH  - Retrospective Studies
+MH  - *Blood Transfusion
+MH  - *Erythrocyte Transfusion
+MH  - Prothrombin Time
+MH  - Machine Learning
+PMC - PMC10623374
+MID - NIHMS1936024
+OTO - NOTNLM
+OT  - Artificial intelligence
+OT  - Machine learning
+OT  - Preoperative optimization
+OT  - Systems-based practice
+OT  - Transfusion
+COIS- Declaration of Competing Interest The authors declare no relevant conflicts of 
+      interest.
+EDAT- 2023/09/30 09:42
+MHDA- 2023/11/06 06:42
+PMCR- 2024/12/01
+CRDT- 2023/09/29 18:10
+PHST- 2023/06/21 00:00 [received]
+PHST- 2023/09/12 00:00 [revised]
+PHST- 2023/09/22 00:00 [accepted]
+PHST- 2024/12/01 00:00 [pmc-release]
+PHST- 2023/11/06 06:42 [medline]
+PHST- 2023/09/30 09:42 [pubmed]
+PHST- 2023/09/29 18:10 [entrez]
+AID - S0952-8180(23)00222-2 [pii]
+AID - 10.1016/j.jclinane.2023.111272 [doi]
+PST - ppublish
+SO  - J Clin Anesth. 2023 Dec;91:111272. doi: 10.1016/j.jclinane.2023.111272. Epub 2023 
+      Sep 27.

@@ -1,0 +1,1179 @@
+PMID- 37783656
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20231228
+IS  - 1521-3773 (Electronic)
+IS  - 1433-7851 (Linking)
+VI  - 63
+IP  - 1
+DP  - 2024 Jan 2
+TI  - Towards Artificial Visual Sensory System: Organic Optoelectronic Synaptic 
+      Materials and Devices.
+PG  - e202313634
+LID - 10.1002/anie.202313634 [doi]
+AB  - Developing an artificial visual sensory system requires optoelectronic materials 
+      and devices that can mimic the behavior of biological synapses. Organic/polymeric 
+      semiconductors have emerged as promising candidates for optoelectronic synapses 
+      due to their tunable optoelectronic properties, mechanic flexibility, and 
+      biological compatibility. In this review, we discuss the recent progress in 
+      organic optoelectronic synaptic materials and devices, including their design 
+      principles, working mechanisms, and applications. We also highlight the 
+      challenges and opportunities in this field and provide insights into potential 
+      applications of these materials and devices in next-generation artificial visual 
+      systems. By leveraging the advances in organic optoelectronic materials and 
+      devices, we can envision its future development in artificial intelligence.
+CI  - © 2023 Wiley-VCH GmbH.
+FAU - Chen, Hao
+AU  - Chen H
+AD  - College of Materials Science and Opto-Electronic Technology &, Center of 
+      Materials Science and Optoelectronics Engineering &, College of Resources and 
+      Environment &, CAS Center for Excellence in Topological Quantum Computation &, 
+      CAS Key Laboratory of Vacuum Physic, University of Chinese Academy of Sciences, 
+      Beijing, 100049, P. R. China.
+FAU - Cai, Yunhao
+AU  - Cai Y
+AD  - College of Materials Science and Opto-Electronic Technology &, Center of 
+      Materials Science and Optoelectronics Engineering &, College of Resources and 
+      Environment &, CAS Center for Excellence in Topological Quantum Computation &, 
+      CAS Key Laboratory of Vacuum Physic, University of Chinese Academy of Sciences, 
+      Beijing, 100049, P. R. China.
+FAU - Han, Yinghui
+AU  - Han Y
+AD  - College of Resources and Environment, University of Chinese Academy of Sciences, 
+      Beijing, 101408, China.
+FAU - Huang, Hui
+AU  - Huang H
+AUID- ORCID: 0000-0002-6102-2815
+AD  - College of Materials Science and Opto-Electronic Technology &, Center of 
+      Materials Science and Optoelectronics Engineering &, College of Resources and 
+      Environment &, CAS Center for Excellence in Topological Quantum Computation &, 
+      CAS Key Laboratory of Vacuum Physic, University of Chinese Academy of Sciences, 
+      Beijing, 100049, P. R. China.
+LA  - eng
+GR  - 51925306/National Natural Science Foundation of China/
+GR  - 52120105006/National Natural Science Foundation of China/
+GR  - 2018FYA 0305800/National Key R&D Program of China/
+GR  - QYZDB-SSW-JSC046/the Key Research Program of Frontier Sciences, CAS/
+GR  - CAS-WX2023PY-0103/Chinese Academy of Sciences Network Information Security and 
+      Information Special Application Demonstration Project (Cultivation Project)/
+PT  - Journal Article
+PT  - Review
+DEP - 20231012
+PL  - Germany
+TA  - Angew Chem Int Ed Engl
+JT  - Angewandte Chemie (International ed. in English)
+JID - 0370543
+SB  - IM
+OTO - NOTNLM
+OT  - Artificial Visual
+OT  - Optoelectronic Synapse
+OT  - Organic Semiconductor
+OT  - Sensory System
+EDAT- 2023/10/03 00:42
+MHDA- 2023/10/03 00:43
+CRDT- 2023/10/02 22:02
+PHST- 2023/09/13 00:00 [received]
+PHST- 2023/10/03 00:43 [medline]
+PHST- 2023/10/03 00:42 [pubmed]
+PHST- 2023/10/02 22:02 [entrez]
+AID - 10.1002/anie.202313634 [doi]
+PST - ppublish
+SO  - Angew Chem Int Ed Engl. 2024 Jan 2;63(1):e202313634. doi: 10.1002/anie.202313634. 
+      Epub 2023 Oct 12.
+
+PMID- 37783554
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20231004
+LR  - 20231010
+IS  - 2162-5514 (Electronic)
+IS  - 0074-7742 (Linking)
+VI  - 171
+DP  - 2023
+TI  - Sleep deprivation enhances amyloid beta peptide, p-tau and serotonin in the 
+      brain: Neuroprotective effects of nanowired delivery of cerebrolysin with 
+      monoclonal antibodies to amyloid beta peptide, p-tau and serotonin.
+PG  - 125-162
+LID - S0074-7742(23)00033-8 [pii]
+LID - 10.1016/bs.irn.2023.05.009 [doi]
+AB  - Sleep deprivation is quite frequent in military during combat, intelligence 
+      gathering or peacekeeping operations. Even one night of sleep deprivation leads 
+      to accumulation of amyloid beta peptide burden that would lead to precipitation 
+      of Alzheimer's disease over the years. Thus, efforts are needed to slow down or 
+      neutralize accumulation of amyloid beta peptide (AβP) and associated Alzheimer's 
+      disease brain pathology including phosphorylated tau (p-tau) within the brain 
+      fluid environment. Sleep deprivation also alters serotonin (5-hydroxytryptamine) 
+      metabolism in the brain microenvironment and impair upregulation of several 
+      neurotrophic factors. Thus, blockade or neutralization of AβP, p-tau and 
+      serotonin in sleep deprivation may attenuate brain pathology. In this 
+      investigation this hypothesis is examined using nanodelivery of cerebrolysin- a 
+      balanced composition of several neurotrophic factors and active peptide fragments 
+      together with monoclonal antibodies against AβP, p-tau and serotonin 
+      (5-hydroxytryptamine, 5-HT). Our observations suggest that sleep deprivation 
+      induced pathophysiology is significantly reduced following nanodelivery of 
+      cerebrolysin together with monoclonal antibodies to AβP, p-tau and 5-HT, not 
+      reported earlier.
+CI  - Copyright © 2023. Published by Elsevier Inc.
+FAU - Sharma, Aruna
+AU  - Sharma A
+AD  - International Experimental Central Nervous System Injury & Repair (IECNSIR), 
+      Dept. of Surgical Sciences, Anesthesiology & Intensive Care Medicine, Uppsala 
+      University Hospital, Uppsala University, Uppsala, Sweden. Electronic address: 
+      Aruna.Sharma@surgsci.uu.se.
+FAU - Feng, Lianyuan
+AU  - Feng L
+AD  - Department of Neurology, Bethune International Peace Hospital, Zhongshan Road 
+      (West), Shijiazhuang, Hebei Province, P.R. China.
+FAU - Muresanu, Dafin F
+AU  - Muresanu DF
+AD  - Dept. Clinical Neurosciences, University of Medicine & Pharmacy, Cluj-Napoca, 
+      Romania; "RoNeuro" Institute for Neurological Research and Diagnostic, Mircea 
+      Eliade Street, Cluj-Napoca, Romania.
+FAU - Tian, Z Ryan
+AU  - Tian ZR
+AD  - Dept. Chemistry & Biochemistry, University of Arkansas, Fayetteville, AR, United 
+      States.
+FAU - Lafuente, José Vicente
+AU  - Lafuente JV
+AD  - LaNCE, Dept. Neuroscience, University of the Basque Country (UPV/EHU), Leioa, 
+      Bizkaia, Spain.
+FAU - Buzoianu, Anca D
+AU  - Buzoianu AD
+AD  - Department of Clinical Pharmacology and Toxicology, "Iuliu Hatieganu" University 
+      of Medicine and Pharmacy, Cluj-Napoca, Romania.
+FAU - Nozari, Ala
+AU  - Nozari A
+AD  - Department of Anesthesiology, Boston University, Albany str, Boston MA, USA.
+FAU - Bryukhovetskiy, Igor
+AU  - Bryukhovetskiy I
+AD  - Department of Fundamental Medicine, School of Biomedicine, Far Eastern Federal 
+      University, Vladivostok, Russia; Laboratory of Pharmacology, National Scientific 
+      Center of Marine Biology, Far East Branch of the Russian Academy of Sciences, 
+      Vladivostok, Russia.
+FAU - Manzhulo, Igor
+AU  - Manzhulo I
+AD  - Laboratory of Pharmacology, National Scientific Center of Marine Biology, Far 
+      East Branch of the Russian Academy of Sciences, Vladivostok, Russia.
+FAU - Wiklund, Lars
+AU  - Wiklund L
+AD  - International Experimental Central Nervous System Injury & Repair (IECNSIR), 
+      Dept. of Surgical Sciences, Anesthesiology & Intensive Care Medicine, Uppsala 
+      University Hospital, Uppsala University, Uppsala, Sweden.
+FAU - Sharma, Hari Shanker
+AU  - Sharma HS
+AD  - International Experimental Central Nervous System Injury & Repair (IECNSIR), 
+      Dept. of Surgical Sciences, Anesthesiology & Intensive Care Medicine, Uppsala 
+      University Hospital, Uppsala University, Uppsala, Sweden. Electronic address: 
+      Sharma@surgsci.uu.se.
+LA  - eng
+GR  - R01 AG028679/AG/NIA NIH HHS/United States
+PT  - Journal Article
+PT  - Research Support, N.I.H., Extramural
+PT  - Research Support, Non-U.S. Gov't
+PT  - Research Support, U.S. Gov't, Non-P.H.S.
+DEP - 20230922
+PL  - United States
+TA  - Int Rev Neurobiol
+JT  - International review of neurobiology
+JID - 0374740
+RN  - 0 (Amyloid beta-Peptides)
+RN  - 333DO1RDJY (Serotonin)
+RN  - 37KZM6S21G (cerebrolysin)
+RN  - 0 (Neuroprotective Agents)
+RN  - 0 (Antibodies, Monoclonal)
+RN  - 0 (Nerve Growth Factors)
+SB  - IM
+MH  - Humans
+MH  - Amyloid beta-Peptides
+MH  - *Alzheimer Disease/metabolism
+MH  - Serotonin/metabolism
+MH  - Sleep Deprivation/drug therapy
+MH  - *Neuroprotective Agents/therapeutic use
+MH  - Antibodies, Monoclonal/metabolism/pharmacology/therapeutic use
+MH  - Brain/metabolism
+MH  - Nerve Growth Factors/metabolism/pharmacology/therapeutic use
+OTO - NOTNLM
+OT  - Amyloid beta peptide
+OT  - Blood–brain barrier
+OT  - Brain pathology
+OT  - Nanowired delivery
+OT  - Phosphorylated-tau
+OT  - Serotonin
+OT  - Sleep deprivation
+COIS- Conflict of interest There is no conflict of interest between any entity and/or 
+      organization mentioned here.
+EDAT- 2023/10/03 00:42
+MHDA- 2023/10/04 06:44
+CRDT- 2023/10/02 20:54
+PHST- 2023/10/04 06:44 [medline]
+PHST- 2023/10/03 00:42 [pubmed]
+PHST- 2023/10/02 20:54 [entrez]
+AID - S0074-7742(23)00033-8 [pii]
+AID - 10.1016/bs.irn.2023.05.009 [doi]
+PST - ppublish
+SO  - Int Rev Neurobiol. 2023;171:125-162. doi: 10.1016/bs.irn.2023.05.009. Epub 2023 
+      Sep 22.
+
+PMID- 37783548
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20231004
+LR  - 20231009
+IS  - 1873-2860 (Electronic)
+IS  - 0933-3657 (Linking)
+VI  - 144
+DP  - 2023 Oct
+TI  - Walking path images from real-time location data predict degree of cognitive 
+      impairment.
+PG  - 102657
+LID - S0933-3657(23)00171-9 [pii]
+LID - 10.1016/j.artmed.2023.102657 [doi]
+AB  - BACKGROUND: We propose a novel approach that uses spatial walking patterns 
+      produced by real-time location systems to classify the severity of cognitive 
+      impairment (CI) among residents of a memory care unit. METHODS: Each participant 
+      was classified as "No-CI", "Mild-Moderate CI" or "Severe CI" based on their 
+      Mini-Mental State Examination scores. The location data was distributed into 
+      windows of various durations (5, 10, 15 and 30 min) and transformed into images 
+      used to train a custom convolutional neural network (CNN) at each window size. 
+      Class Activation Mapping was applied to the top-performing models to determine 
+      the features of images associated with each class. RESULTS: The best performing 
+      model achieved an accuracy of 87.38 % (30-min window length) with an overall 
+      pattern that larger window sizes perform better. The class activation maps were 
+      effectively consolidated into a Cognitive Impairment Classification Value (CICV) 
+      score that distinguishes between No-CI, Mild-Moderate CI, and Severe CI. 
+      CONCLUSION: The class activation maps show that the CNN made relevant and 
+      intuitive distinctions for paths corresponding to each class. Future work should 
+      validate the proposed techniques with participants who are well-characterized 
+      clinically, over larger and diversified settings, and towards classification of 
+      neuropsychiatric symptoms such as motor agitation, mood, or apathy.
+CI  - Copyright © 2023 Elsevier B.V. All rights reserved.
+FAU - Faruk, Tamim
+AU  - Faruk T
+AD  - Institute of Biomedical Engineering, University of Toronto, Toronto, ON M5S 3G9, 
+      Canada; KITE-Toronto Rehabilitation Institute, University Health Network, 
+      Toronto, ON M5G 2A2, Canada. Electronic address: tamim.faruk@mail.utoronto.ca.
+FAU - Shum, Leia C
+AU  - Shum LC
+AD  - KITE-Toronto Rehabilitation Institute, University Health Network, Toronto, ON M5G 
+      2A2, Canada. Electronic address: leia.shum@uhnresearch.ca.
+FAU - Iaboni, Andrea
+AU  - Iaboni A
+AD  - KITE-Toronto Rehabilitation Institute, University Health Network, Toronto, ON M5G 
+      2A2, Canada; Department of Psychiatry, University of Toronto, Toronto, ON M5T 
+      1R8, Canada. Electronic address: andrea.iaboni@uhn.ca.
+FAU - Khan, Shehroz S
+AU  - Khan SS
+AD  - Institute of Biomedical Engineering, University of Toronto, Toronto, ON M5S 3G9, 
+      Canada; KITE-Toronto Rehabilitation Institute, University Health Network, 
+      Toronto, ON M5G 2A2, Canada. Electronic address: shehroz.khan@uhn.ca.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20230909
+PL  - Netherlands
+TA  - Artif Intell Med
+JT  - Artificial intelligence in medicine
+JID - 8915031
+SB  - IM
+MH  - Humans
+MH  - *Cognitive Dysfunction/diagnostic imaging/psychology
+MH  - Neural Networks, Computer
+MH  - Walking
+OTO - NOTNLM
+OT  - Artificial Intelligence
+OT  - Classification Activation Maps
+OT  - Deep learning
+OT  - Dementia classification
+OT  - Health monitoring technology
+OT  - Real-time location systems
+OT  - Walking patterns
+COIS- Declaration of competing interest None declared.
+EDAT- 2023/10/03 00:42
+MHDA- 2023/10/04 06:43
+CRDT- 2023/10/02 20:54
+PHST- 2022/08/16 00:00 [received]
+PHST- 2023/08/31 00:00 [revised]
+PHST- 2023/09/01 00:00 [accepted]
+PHST- 2023/10/04 06:43 [medline]
+PHST- 2023/10/03 00:42 [pubmed]
+PHST- 2023/10/02 20:54 [entrez]
+AID - S0933-3657(23)00171-9 [pii]
+AID - 10.1016/j.artmed.2023.102657 [doi]
+PST - ppublish
+SO  - Artif Intell Med. 2023 Oct;144:102657. doi: 10.1016/j.artmed.2023.102657. Epub 
+      2023 Sep 9.
+
+PMID- 37783546
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20231004
+LR  - 20231009
+IS  - 1873-2860 (Electronic)
+IS  - 0933-3657 (Linking)
+VI  - 144
+DP  - 2023 Oct
+TI  - Automated estimation of mitral annular plane systolic excursion by artificial 
+      intelligence from 3D ultrasound recordings.
+PG  - 102646
+LID - S0933-3657(23)00160-4 [pii]
+LID - 10.1016/j.artmed.2023.102646 [doi]
+AB  - Perioperative monitoring of cardiac function is beneficial for early detection of 
+      cardiovascular complications. The standard of care for cardiac monitoring 
+      performed by trained cardiologists and anesthesiologists involves a manual and 
+      qualitative evaluation of ultrasound imaging, which is a time-demanding and 
+      resource-intensive process with intraobserver- and interobserver variability. In 
+      practice, such measures can only be performed a limited number of times during 
+      the intervention. To overcome these difficulties, this study presents a robust 
+      method for automatic and quantitative monitoring of cardiac function based on 3D 
+      transesophageal echocardiography (TEE) B-mode ultrasound recordings of the left 
+      ventricle (LV). Such an assessment obtains consistent measurements and can 
+      produce a near real-time evaluation of ultrasound imagery. Hence, the presented 
+      method is time-saving and results in increased accessibility. The mitral annular 
+      plane systolic excursion (MAPSE), characterizing global LV function, is estimated 
+      by landmark detection and cardiac view classification of two-dimensional images 
+      extracted along the long-axis of the ultrasound volume. MAPSE estimation directly 
+      from 3D TEE recordings is beneficial since it removes the need for manual 
+      acquisition of cardiac views, hence decreasing the need for interference by 
+      physicians. Two convolutional neural networks (CNNs) were trained and tested on 
+      acquired ultrasound data of 107 patients, and MAPSE estimates were compared to 
+      clinically obtained references in a blinded study including 31 patients. The 
+      proposed method for automatic MAPSE estimation had low bias and low variability 
+      in comparison to clinical reference measures. The method accomplished a mean 
+      difference for MAPSE estimates of (-0.16±1.06) mm. Thus, the results did not show 
+      significant systematic errors. The obtained bias and variance of the method were 
+      comparable to inter-observer variability of clinically obtained MAPSE measures on 
+      2D TTE echocardiography. The novel pipeline proposed in this study has the 
+      potential to enhance cardiac monitoring in perioperative- and intensive care 
+      settings.
+CI  - Copyright © 2023 The Author(s). Published by Elsevier B.V. All rights reserved.
+FAU - Taskén, Anders Austlid
+AU  - Taskén AA
+AD  - Department of Computer Science, Faculty of Information Technology and Electrical 
+      Engineering, Norwegian University of Science and Technology, Høgskoleringen 1, 
+      7491 Trondheim, Norway. Electronic address: anders.a.tasken@ntnu.no.
+FAU - Berg, Erik Andreas Rye
+AU  - Berg EAR
+AD  - Department of Circulation and Medical Imaging, Faculty of Medicine and Health 
+      Sciences, Norwegian University of Science and Technology, Norway; Clinic of 
+      Cardiology, St. Olavs University Hospital, Trondheim, Norway. Electronic address: 
+      erik.a.berg@ntnu.no.
+FAU - Grenne, Bjørnar
+AU  - Grenne B
+AD  - Department of Circulation and Medical Imaging, Faculty of Medicine and Health 
+      Sciences, Norwegian University of Science and Technology, Norway; Clinic of 
+      Cardiology, St. Olavs University Hospital, Trondheim, Norway. Electronic address: 
+      bjornar.grenne@ntnu.no.
+FAU - Holte, Espen
+AU  - Holte E
+AD  - Department of Circulation and Medical Imaging, Faculty of Medicine and Health 
+      Sciences, Norwegian University of Science and Technology, Norway; Clinic of 
+      Cardiology, St. Olavs University Hospital, Trondheim, Norway. Electronic address: 
+      espen.holte@ntnu.no.
+FAU - Dalen, Håvard
+AU  - Dalen H
+AD  - Department of Circulation and Medical Imaging, Faculty of Medicine and Health 
+      Sciences, Norwegian University of Science and Technology, Norway; Clinic of 
+      Cardiology, St. Olavs University Hospital, Trondheim, Norway; Levanger Hospital, 
+      Nord-Trøndelag Hospital Trust, Levanger, Norway. Electronic address: 
+      havard.dalen@ntnu.no.
+FAU - Stølen, Stian
+AU  - Stølen S
+AD  - Department of Circulation and Medical Imaging, Faculty of Medicine and Health 
+      Sciences, Norwegian University of Science and Technology, Norway; Clinic of 
+      Cardiology, St. Olavs University Hospital, Trondheim, Norway. Electronic address: 
+      stian.stolen@ntnu.no.
+FAU - Lindseth, Frank
+AU  - Lindseth F
+AD  - Department of Computer Science, Faculty of Information Technology and Electrical 
+      Engineering, Norwegian University of Science and Technology, Høgskoleringen 1, 
+      7491 Trondheim, Norway. Electronic address: frankl@ntnu.no.
+FAU - Aakhus, Svend
+AU  - Aakhus S
+AD  - Department of Circulation and Medical Imaging, Faculty of Medicine and Health 
+      Sciences, Norwegian University of Science and Technology, Norway; Clinic of 
+      Cardiology, St. Olavs University Hospital, Trondheim, Norway. Electronic address: 
+      svend.aakhus@ntnu.no.
+FAU - Kiss, Gabriel
+AU  - Kiss G
+AD  - Department of Computer Science, Faculty of Information Technology and Electrical 
+      Engineering, Norwegian University of Science and Technology, Høgskoleringen 1, 
+      7491 Trondheim, Norway. Electronic address: gabriel.kiss@ntnu.no.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20230831
+PL  - Netherlands
+TA  - Artif Intell Med
+JT  - Artificial intelligence in medicine
+JID - 8915031
+SB  - IM
+MH  - Humans
+MH  - *Artificial Intelligence
+MH  - *Mitral Valve/diagnostic imaging
+MH  - Ultrasonography
+MH  - Echocardiography/methods
+MH  - Ventricular Function, Left
+OTO - NOTNLM
+OT  - Cardiac monitoring
+OT  - Convolutional neural network
+OT  - Echocardiography
+OT  - Landmark detection
+OT  - MAPSE
+OT  - Ultrasound
+COIS- Declaration of competing interest
+EDAT- 2023/10/03 00:42
+MHDA- 2023/10/04 06:43
+CRDT- 2023/10/02 20:54
+PHST- 2022/09/28 00:00 [received]
+PHST- 2023/08/22 00:00 [revised]
+PHST- 2023/08/28 00:00 [accepted]
+PHST- 2023/10/04 06:43 [medline]
+PHST- 2023/10/03 00:42 [pubmed]
+PHST- 2023/10/02 20:54 [entrez]
+AID - S0933-3657(23)00160-4 [pii]
+AID - 10.1016/j.artmed.2023.102646 [doi]
+PST - ppublish
+SO  - Artif Intell Med. 2023 Oct;144:102646. doi: 10.1016/j.artmed.2023.102646. Epub 
+      2023 Aug 31.
+
+PMID- 37783540
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20231004
+LR  - 20231009
+IS  - 1873-2860 (Electronic)
+IS  - 0933-3657 (Linking)
+VI  - 144
+DP  - 2023 Oct
+TI  - Fair and equitable AI in biomedical research and healthcare: Social science 
+      perspectives.
+PG  - 102658
+LID - S0933-3657(23)00172-0 [pii]
+LID - 10.1016/j.artmed.2023.102658 [doi]
+AB  - Artificial intelligence (AI) offers opportunities but also challenges for 
+      biomedical research and healthcare. This position paper shares the results of the 
+      international conference "Fair medicine and AI" (online 3-5 March 2021). Scholars 
+      from science and technology studies (STS), gender studies, and ethics of science 
+      and technology formulated opportunities, challenges, and research and development 
+      desiderata for AI in healthcare. AI systems and solutions, which are being 
+      rapidly developed and applied, may have undesirable and unintended consequences 
+      including the risk of perpetuating health inequalities for marginalized groups. 
+      Socially robust development and implications of AI in healthcare require urgent 
+      investigation. There is a particular dearth of studies in human-AI interaction 
+      and how this may best be configured to dependably deliver safe, effective and 
+      equitable healthcare. To address these challenges, we need to establish diverse 
+      and interdisciplinary teams equipped to develop and apply medical AI in a fair, 
+      accountable and transparent manner. We formulate the importance of including 
+      social science perspectives in the development of intersectionally beneficent and 
+      equitable AI for biomedical research and healthcare, in part by strengthening AI 
+      health evaluation.
+CI  - Copyright © 2023 The Authors. Published by Elsevier B.V. All rights reserved.
+FAU - Baumgartner, Renate
+AU  - Baumgartner R
+AD  - Center of Gender- and Diversity Research, University of Tübingen, Wilhelmstrasse 
+      56, 72074 Tübingen, Germany; Athena Institute, Vrije Universiteit Amsterdam, De 
+      Boelelaan 1085, 1081 HV Amsterdam, The Netherlands. Electronic address: 
+      r.baumgartner@vu.nl.
+FAU - Arora, Payal
+AU  - Arora P
+AD  - Erasmus School of Philosophy, Erasmus University Rotterdam, Burgemeester Oudlaan 
+      50, 3062 PA Rotterdam, The Netherlands.
+FAU - Bath, Corinna
+AU  - Bath C
+AD  - Gender, Technology and Mobility, Institute for Flight Guidance, TU Braunschweig, 
+      Hermann-Blenk-Str. 27, 38108 Braunschweig, Germany.
+FAU - Burljaev, Darja
+AU  - Burljaev D
+AD  - Center of Gender- and Diversity Research, University of Tübingen, Wilhelmstrasse 
+      56, 72074 Tübingen, Germany.
+FAU - Ciereszko, Kinga
+AU  - Ciereszko K
+AD  - Department of Philosophy, Adam Mickiewicz University in Poznan, Szamarzewski 
+      Street 89C, 60-569 Poznan, Poland.
+FAU - Custers, Bart
+AU  - Custers B
+AD  - eLaw - Center for Law and Digital Technologies, Leiden University, Steenschuur 
+      25, 2311 ES Leiden, Netherlands.
+FAU - Ding, Jin
+AU  - Ding J
+AD  - iHuman and Department of Sociological Studies, University of Sheffield, ICOSS, 
+      219 Portobello, Sheffield S1 4DP, United Kingdom.
+FAU - Ernst, Waltraud
+AU  - Ernst W
+AD  - Institute for Women's and Gender Studies, Johannes Kepler University Linz, 
+      Altenberger Strasse 69, 4040 Linz, Austria.
+FAU - Fosch-Villaronga, Eduard
+AU  - Fosch-Villaronga E
+AD  - eLaw - Center for Law and Digital Technologies, Leiden University, Steenschuur 
+      25, 2311 ES Leiden, Netherlands.
+FAU - Galanos, Vassilis
+AU  - Galanos V
+AD  - Science, Technology and Innovation Studies, School of Social and Political 
+      Science, University of Edinburgh, Old Surgeons' Hall, High School Yards, 
+      Edinburgh EH1 1LZ, United Kingdom.
+FAU - Gremsl, Thomas
+AU  - Gremsl T
+AD  - Institute of Ethics and Social Teaching, Faculty of Catholic Theology, University 
+      of Graz, Heinrichstraße 78b/2, 8010 Graz, Austria.
+FAU - Hendl, Tereza
+AU  - Hendl T
+AD  - Professorship for Ethics of Medicine, University of Augsburg, Stenglinstraße 2, 
+      86156 Augsburg, Germany; Institute of Ethics, History and Theory of Medicine, 
+      Ludwig-Maximilians-University in Munich, Lessingstr. 2, 80336 Munich, Germany.
+FAU - Kropp, Cordula
+AU  - Kropp C
+AD  - Center for Interdisciplinary Risk and Innovation Studies (ZIRIUS), University of 
+      Stuttgart, Seidenstraße 36, 70174 Stuttgart, Germany.
+FAU - Lenk, Christian
+AU  - Lenk C
+AD  - Institute of the History, Philosophy and Ethics of Medicine, Ulm University, 
+      Parkstraße 11, 89073 Ulm, Germany.
+FAU - Martin, Paul
+AU  - Martin P
+AD  - iHuman and Department of Sociological Studies, University of Sheffield, ICOSS, 
+      219 Portobello, Sheffield S1 4DP, United Kingdom.
+FAU - Mbelu, Somto
+AU  - Mbelu S
+AD  - Erasmus School of Philosophy, Erasmus University Rotterdam, 10A Ademola Close off 
+      Remi Fani Kayode Street, GRA Ikeja, Lagos, Nigeria.
+FAU - Morais Dos Santos Bruss, Sara
+AU  - Morais Dos Santos Bruss S
+AD  - Haus der Kulturen der Welt (HKW), John-Foster-Dulles-Allee 10, 10557 Berlin, 
+      Germany.
+FAU - Napiwodzka, Karolina
+AU  - Napiwodzka K
+AD  - Department of Philosophy, Adam Mickiewicz University in Poznan, Szamarzewski 
+      Street 89C, 60-569 Poznan, Poland.
+FAU - Nowak, Ewa
+AU  - Nowak E
+AD  - Department of Philosophy, Adam Mickiewicz University in Poznan, Szamarzewski 
+      Street 89C, 60-569 Poznan, Poland.
+FAU - Roxanne, Tiara
+AU  - Roxanne T
+AD  - Data & Society Institute, 228 Park Ave S PMB 83075, New York, NY 10003-1502, 
+      United States of America.
+FAU - Samerski, Silja
+AU  - Samerski S
+AD  - Fachbereich Soziale Arbeit und Gesundheit, Hochschule Emden/Leer, Constantiaplatz 
+      4, 26723 Emden, Germany.
+FAU - Schneeberger, David
+AU  - Schneeberger D
+AD  - Institute for Medical Informatics, Statistics and Documentation, Medical 
+      University of Graz, Auenbruggerplatz 2, 8036 Graz, Austria.
+FAU - Tampe-Mai, Karolin
+AU  - Tampe-Mai K
+AD  - Center for Interdisciplinary Risk and Innovation Studies (ZIRIUS), University of 
+      Stuttgart, Seidenstraße 36, 70174 Stuttgart, Germany.
+FAU - Vlantoni, Katerina
+AU  - Vlantoni K
+AD  - Department of History and Philosophy of Science, School of Science, National and 
+      Kapodistrian University of Athens, Panepistimioupoli, Ilisia, Athens 15771, 
+      Greece.
+FAU - Wiggert, Kevin
+AU  - Wiggert K
+AD  - Institute of Sociology, Department Sociology of Technology and Innovation, 
+      Technical University of Berlin, Fraunhoferstraße 33-36, 10623 Berlin, Germany.
+FAU - Williams, Robin
+AU  - Williams R
+AD  - Science, Technology and Innovation Studies, School of Social and Political 
+      Science, University of Edinburgh, Old Surgeons' Hall, High School Yards, 
+      Edinburgh EH1 1LZ, United Kingdom.
+LA  - eng
+GR  - 219875/Z/19/Z/WT_/Wellcome Trust/United Kingdom
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20230904
+PL  - Netherlands
+TA  - Artif Intell Med
+JT  - Artificial intelligence in medicine
+JID - 8915031
+SB  - IM
+MH  - Humans
+MH  - Artificial Intelligence
+MH  - Delivery of Health Care
+MH  - *Biomedical Research
+MH  - Social Sciences
+MH  - *Medicine
+OTO - NOTNLM
+OT  - Bias
+OT  - Discrimination
+OT  - Health equity
+OT  - Inequalities
+OT  - Medicine
+COIS- Declaration of competing interest None.
+EDAT- 2023/10/03 00:42
+MHDA- 2023/10/04 06:44
+CRDT- 2023/10/02 20:54
+PHST- 2022/05/27 00:00 [received]
+PHST- 2023/06/30 00:00 [revised]
+PHST- 2023/09/01 00:00 [accepted]
+PHST- 2023/10/04 06:44 [medline]
+PHST- 2023/10/03 00:42 [pubmed]
+PHST- 2023/10/02 20:54 [entrez]
+AID - S0933-3657(23)00172-0 [pii]
+AID - 10.1016/j.artmed.2023.102658 [doi]
+PST - ppublish
+SO  - Artif Intell Med. 2023 Oct;144:102658. doi: 10.1016/j.artmed.2023.102658. Epub 
+      2023 Sep 4.
+
+PMID- 37783534
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20231004
+LR  - 20231009
+IS  - 1873-2860 (Electronic)
+IS  - 0933-3657 (Linking)
+VI  - 144
+DP  - 2023 Oct
+TI  - Empowering elderly care with intelligent IoT-Driven smart toilets for home-based 
+      infectious health monitoring.
+PG  - 102666
+LID - S0933-3657(23)00180-X [pii]
+LID - 10.1016/j.artmed.2023.102666 [doi]
+AB  - The COVID-19 pandemic highlights the need for effective and non-intrusive methods 
+      to monitor the well-being of elderly individuals in their homes, especially for 
+      early detection of potential viral infections. Conspicuously, the present paper 
+      develops a Multi-scaled Long Short Term Memory (Ms-LSTM) model for the routine 
+      health monitoring of elderly patients to detect COVID-19. The proposed method 
+      offers home-based health diagnostics through urine analysis by leveraging the 
+      IoT-Fog-Cloud paradigm. Mainly, the proposed model constitutes a four-layered 
+      architecture: data acquisition, fog layer, cloud layer, and interface layer. Each 
+      layer serves distinct functionalities and provides specific services, thereby 
+      collectively enhancing the overall effectiveness of the model. The statistical 
+      results of the study demonstrate the superior performance of the proposed Ms-LSTM 
+      model in comparison to state-of-the-art methods, including Artificial Neural 
+      Networks (ANN), K-Nearest Neighbors (K-NN), Support Vector Machine (SVM), Random 
+      Forest, and LSTM. Further, the proposed model attains a mean temporal efficiency 
+      of 39.23 seconds. It exhibits high reliability (92.97%), stability (70.06%), and 
+      predictive accuracy (93.25%).
+CI  - Copyright © 2023 Elsevier B.V. All rights reserved.
+FAU - Kumar, Dheeraj
+AU  - Kumar D
+AD  - Central University of Himachal Pradesh, Dharmashala, Himachal Pradesh, India. 
+      Electronic address: cuhp20rdcs01@hpcu.ac.in.
+FAU - Sood, Sandeep Kumar
+AU  - Sood SK
+AD  - National Institute of Technology, Kurukshetra, Haryana, India. Electronic 
+      address: san1198@gmail.com.
+FAU - Rawat, Keshav Singh
+AU  - Rawat KS
+AD  - Central University of Haryana, India. Electronic address: Keshav79699@gmail.com.
+LA  - eng
+PT  - Journal Article
+DEP - 20230920
+PL  - Netherlands
+TA  - Artif Intell Med
+JT  - Artificial intelligence in medicine
+JID - 8915031
+SB  - IM
+MH  - Humans
+MH  - *Bathroom Equipment
+MH  - Pandemics
+MH  - Reproducibility of Results
+MH  - *COVID-19
+MH  - Power, Psychological
+OTO - NOTNLM
+OT  - Artificial intelligence
+OT  - CNN-LSTM
+OT  - IoT
+OT  - Machine learning algorithms
+OT  - Smart toilet system
+COIS- Declaration of competing interest The authors declare that they have no known 
+      competing financial interests or personal relationships that could have appeared 
+      to influence the work reported in this paper.
+EDAT- 2023/10/03 00:42
+MHDA- 2023/10/04 06:44
+CRDT- 2023/10/02 20:54
+PHST- 2023/01/20 00:00 [received]
+PHST- 2023/09/13 00:00 [revised]
+PHST- 2023/09/14 00:00 [accepted]
+PHST- 2023/10/04 06:44 [medline]
+PHST- 2023/10/03 00:42 [pubmed]
+PHST- 2023/10/02 20:54 [entrez]
+AID - S0933-3657(23)00180-X [pii]
+AID - 10.1016/j.artmed.2023.102666 [doi]
+PST - ppublish
+SO  - Artif Intell Med. 2023 Oct;144:102666. doi: 10.1016/j.artmed.2023.102666. Epub 
+      2023 Sep 20.
+
+PMID- 37783447
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20231121
+LR  - 20231122
+IS  - 1523-1755 (Electronic)
+IS  - 0085-2538 (Linking)
+VI  - 104
+IP  - 6
+DP  - 2023 Dec
+TI  - Drug discovery and therapeutic perspectives for proximal tubulopathies.
+PG  - 1103-1112
+LID - S0085-2538(23)00680-4 [pii]
+LID - 10.1016/j.kint.2023.08.026 [doi]
+AB  - The efficient reabsorption of essential nutrients by epithelial cells in the 
+      proximal tubule of the kidney is crucial for maintaining homeostasis. This 
+      process relies heavily on a complex ecosystem of vesicular trafficking pathways. 
+      At the center of this network, the lysosome plays a pivotal role in processing 
+      incoming molecules, sensing nutrient availability, sorting receptors and 
+      transporters, and balancing differentiation and proliferation in the tubular 
+      epithelial cells. Disruptions in these fundamental processes can lead to proximal 
+      tubulopathy-a condition characterized by the dysfunction of the tubular cells 
+      followed by the presence of low-molecular-weight proteins and solutes in urine. 
+      If left untreated, proximal tubulopathy can progress to chronic kidney disease 
+      and severe complications. Functional studies of rare inherited disorders 
+      affecting the proximal tubule have gleaned actionable insights into fundamental 
+      mechanisms of homeostasis while revealing drug targets for therapeutic discovery 
+      and development. In this mini review, we explore hereditary proximal 
+      tubulopathies as a paradigm of kidney homeostasis disorders, discussing the 
+      factors contributing to tubular dysfunction. In addition, we shed light on the 
+      current landscape of drug discovery approaches used to identify actionable 
+      targets and summarize the preclinical pipeline of potential therapeutic agents. 
+      These efforts may ultimately lead to new treatment avenues for proximal 
+      tubulopathies, which are currently inadequately tackled by existing therapies. 
+      Through this article, our hope is to promote academia-industry partnerships and 
+      advocate for research consortia that can accelerate the effective translation of 
+      knowledge advances into innovative therapies addressing the huge unmet needs of 
+      individuals with these debilitating diseases.
+CI  - Copyright © 2023 International Society of Nephrology. Published by Elsevier Inc. 
+      All rights reserved.
+FAU - Keller, Svenja A
+AU  - Keller SA
+AD  - Mechanisms of Inherited Kidney Disorders Group, Institute of Physiology, 
+      University of Zurich, Zurich, Switzerland.
+FAU - Chen, Zhiyong
+AU  - Chen Z
+AD  - Mechanisms of Inherited Kidney Disorders Group, Institute of Physiology, 
+      University of Zurich, Zurich, Switzerland.
+FAU - Gaponova, Anna
+AU  - Gaponova A
+AD  - Insilico Medicine, Hong Kong Science and Technology Park, Hong Kong, China.
+FAU - Korzinkin, Mikhail
+AU  - Korzinkin M
+AD  - Insilico Medicine, Hong Kong Science and Technology Park, Hong Kong, China.
+FAU - Berquez, Marine
+AU  - Berquez M
+AD  - Mechanisms of Inherited Kidney Disorders Group, Institute of Physiology, 
+      University of Zurich, Zurich, Switzerland.
+FAU - Luciani, Alessandro
+AU  - Luciani A
+AD  - Mechanisms of Inherited Kidney Disorders Group, Institute of Physiology, 
+      University of Zurich, Zurich, Switzerland. Electronic address: 
+      alessandro.luciani@uzh.ch.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PT  - Review
+DEP - 20230930
+PL  - United States
+TA  - Kidney Int
+JT  - Kidney international
+JID - 0323470
+SB  - IM
+MH  - Humans
+MH  - Cell Differentiation
+MH  - *Drug Discovery
+MH  - Kidney
+MH  - *Kidney Diseases
+OTO - NOTNLM
+OT  - artificial intelligence
+OT  - autophagy
+OT  - drug repurposing
+OT  - endocytosis
+OT  - lysosome
+OT  - proximal tubulopathy
+EDAT- 2023/10/03 00:42
+MHDA- 2023/11/21 06:42
+CRDT- 2023/10/02 19:26
+PHST- 2023/03/18 00:00 [received]
+PHST- 2023/07/11 00:00 [revised]
+PHST- 2023/08/03 00:00 [accepted]
+PHST- 2023/11/21 06:42 [medline]
+PHST- 2023/10/03 00:42 [pubmed]
+PHST- 2023/10/02 19:26 [entrez]
+AID - S0085-2538(23)00680-4 [pii]
+AID - 10.1016/j.kint.2023.08.026 [doi]
+PST - ppublish
+SO  - Kidney Int. 2023 Dec;104(6):1103-1112. doi: 10.1016/j.kint.2023.08.026. Epub 2023 
+      Sep 30.
+
+PMID- 37783319
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20231115
+LR  - 20240102
+IS  - 1096-3650 (Electronic)
+IS  - 1044-579X (Linking)
+VI  - 96
+DP  - 2023 Nov
+TI  - Artificial intelligence-based risk stratification, accurate diagnosis and 
+      treatment prediction in gynecologic oncology.
+PG  - 82-99
+LID - S1044-579X(23)00127-X [pii]
+LID - 10.1016/j.semcancer.2023.09.005 [doi]
+AB  - As data-driven science, artificial intelligence (AI) has paved a promising path 
+      toward an evolving health system teeming with thrilling opportunities for 
+      precision oncology. Notwithstanding the tremendous success of oncological AI in 
+      such fields as lung carcinoma, breast tumor and brain malignancy, less attention 
+      has been devoted to investigating the influence of AI on gynecologic oncology. 
+      Hereby, this review sheds light on the ever-increasing contribution of 
+      state-of-the-art AI techniques to the refined risk stratification and 
+      whole-course management of patients with gynecologic tumors, in particular, 
+      cervical, ovarian and endometrial cancer, centering on information and features 
+      extracted from clinical data (electronic health records), cancer imaging 
+      including radiological imaging, colposcopic images, cytological and 
+      histopathological digital images, and molecular profiling (genomics, 
+      transcriptomics, metabolomics and so forth). However, there are still noteworthy 
+      challenges beyond performance validation. Thus, this work further describes the 
+      limitations and challenges faced in the real-word implementation of AI models, as 
+      well as potential solutions to address these issues.
+CI  - Copyright © 2023. Published by Elsevier Ltd.
+FAU - Jiang, Yuting
+AU  - Jiang Y
+AD  - Department of Obstetrics and Gynecology, Key Laboratory of Birth Defects and 
+      Related Diseases of Women and Children of MOE and State Key Laboratory of 
+      Biotherapy, West China Second Hospital, Sichuan University and Collaborative 
+      Innovation Center, Chengdu, Sichuan 610041, China; Department of Pulmonary and 
+      Critical Care Medicine, State Key Laboratory of Respiratory Health and 
+      Multimorbidity, Frontiers Science Center for Disease-related Molecular Network, 
+      West China Hospital, Sichuan University, Chengdu, Sichuan 610041, China.
+FAU - Wang, Chengdi
+AU  - Wang C
+AD  - Department of Obstetrics and Gynecology, Key Laboratory of Birth Defects and 
+      Related Diseases of Women and Children of MOE and State Key Laboratory of 
+      Biotherapy, West China Second Hospital, Sichuan University and Collaborative 
+      Innovation Center, Chengdu, Sichuan 610041, China; Department of Pulmonary and 
+      Critical Care Medicine, State Key Laboratory of Respiratory Health and 
+      Multimorbidity, Frontiers Science Center for Disease-related Molecular Network, 
+      West China Hospital, Sichuan University, Chengdu, Sichuan 610041, China.
+FAU - Zhou, Shengtao
+AU  - Zhou S
+AD  - Department of Obstetrics and Gynecology, Key Laboratory of Birth Defects and 
+      Related Diseases of Women and Children of MOE and State Key Laboratory of 
+      Biotherapy, West China Second Hospital, Sichuan University and Collaborative 
+      Innovation Center, Chengdu, Sichuan 610041, China; Department of Pulmonary and 
+      Critical Care Medicine, State Key Laboratory of Respiratory Health and 
+      Multimorbidity, Frontiers Science Center for Disease-related Molecular Network, 
+      West China Hospital, Sichuan University, Chengdu, Sichuan 610041, China. 
+      Electronic address: shengtaozhou@scu.edu.cn.
+LA  - eng
+GR  - #82273255, #81822034, #81821002, AND #81773119/National Natural Science 
+      Foundation of China/
+GR  - #2022YFA1106600, #2017YFA0106800 AND #2018YFA0109200/National Key Research and 
+      Development Program of China/
+GR  - #22ZYZYTS0070 AND #2019YFH0144/Sichuan Science-Technology Project/
+GR  - #KS021 AND #K1907/Direct Scientific Research Grants from West China Second 
+      Hospital, Sichuan University/
+PT  - Journal Article
+PT  - Review
+DEP - 20230930
+PL  - England
+TA  - Semin Cancer Biol
+JT  - Seminars in cancer biology
+JID - 9010218
+SB  - IM
+MH  - Humans
+MH  - Female
+MH  - *Genital Neoplasms, Female/diagnosis/genetics/therapy
+MH  - Artificial Intelligence
+MH  - Precision Medicine
+MH  - *Brain Neoplasms
+MH  - Risk Assessment
+OTO - NOTNLM
+OT  - Artificial intelligence
+OT  - Cancer imaging
+OT  - Gynecologic cancer
+OT  - Molecular profiling
+OT  - Precision oncology
+COIS- Declaration of Competing Interest We declare no conflict of interest.
+EDAT- 2023/10/03 00:42
+MHDA- 2023/11/15 06:42
+CRDT- 2023/10/02 19:22
+PHST- 2022/12/17 00:00 [received]
+PHST- 2023/08/27 00:00 [revised]
+PHST- 2023/09/25 00:00 [accepted]
+PHST- 2023/11/15 06:42 [medline]
+PHST- 2023/10/03 00:42 [pubmed]
+PHST- 2023/10/02 19:22 [entrez]
+AID - S1044-579X(23)00127-X [pii]
+AID - 10.1016/j.semcancer.2023.09.005 [doi]
+PST - ppublish
+SO  - Semin Cancer Biol. 2023 Nov;96:82-99. doi: 10.1016/j.semcancer.2023.09.005. Epub 
+      2023 Sep 30.
+
+PMID- 37783086
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20231101
+LR  - 20231101
+IS  - 1095-8630 (Electronic)
+IS  - 0301-4797 (Linking)
+VI  - 347
+DP  - 2023 Dec 1
+TI  - A multi-step approach to evaluate the sustainable use of groundwater resources 
+      for human consumption and agriculture.
+PG  - 119041
+LID - S0301-4797(23)01829-7 [pii]
+LID - 10.1016/j.jenvman.2023.119041 [doi]
+AB  - The rapid decline in both quality and availability of freshwater resources on our 
+      planet necessitates their thorough assessment to ensure sustainable usage. The 
+      growing demand for water in industrial, agricultural, and domestic sectors poses 
+      significant challenges to managing both surface and groundwater resources. This 
+      study tests and proposes a hybrid evaluation approach to determine Groundwater 
+      Quality Indices (GQIs) for irrigation (IRRI), seawater intrusion (SWI), and 
+      potability (POT), finalized to the spatial distribution of groundwater 
+      suitability involving water quality indicator along with hydrogeological and 
+      socio-economic factors. Mean Decrease Accuracy (MDA) and Information Gain Ratio 
+      (IGR) were used to state the importance of chosen factors such as level of 
+      groundwater above the sea, thickness of the aquifer, land cover, distance from 
+      coastline, silt soil content, recharge, distance from river and lagoons, depth to 
+      water table from ground, distance from agricultural wells, hydraulic 
+      conductivity, and lithology for each quality index, separately. The results of 
+      both methods showed that recharge is the most important parameter for GQI(IRRI) 
+      and GQI(POT), while the distance from the coastline and the rivers, are the most 
+      important for GQI(SWI). The spatial modelling of GQI(IRRI) and GQI(POT) in the 
+      study area has been achieved applying three machine learning (ML) algorithms: the 
+      Boosted Regression Tree (BRT), the Random Forest (RF), and the Support Vector 
+      Machine (SVM). Validation results showed that RF has the highest prediction for 
+      GQI(IRRI), while the SVM model has the highest prediction for the GQI(POT) index. 
+      It is worth to mention that the future utilization and testing of new algorithms 
+      could produce even better results. Finally, GQI(IRRI) and GQI(POT) were combined 
+      and compared using two combine and overlay methods to prepare a hybrid map of 
+      multi-GQIs. The results showed that 69% of the study area is suitable for 
+      irrigation and potable use, due to both geogenic and anthropogenic activities 
+      which contribute to make some water resources unsuitable for either use. 
+      Specifically, the northern, western, and eastern portions of the study area are 
+      in the "very high and high quality" classes while the southern portion shows 
+      "very low and low quality" classes. In conclusion, the developed map and approach 
+      can serve as a practical guide for enhancing groundwater management, identifying 
+      suitable areas for various uses and pinpointing regions requiring improved 
+      management practices.
+CI  - Copyright © 2023 The Authors. Published by Elsevier Ltd.. All rights reserved.
+FAU - Bordbar, Mojgan
+AU  - Bordbar M
+AD  - University of Campania "Luigi Vanvitelli", Department of Environmental, 
+      Biological and Pharmaceutical Sciences and Technologies, Caserta, Italy; 
+      Department of GIS/RS, Faculty of Natural Resources and Environment, Science and 
+      Research Branch, Islamic Azad University, Tehran, Iran.
+FAU - Busico, Gianluigi
+AU  - Busico G
+AD  - University of Campania "Luigi Vanvitelli", Department of Environmental, 
+      Biological and Pharmaceutical Sciences and Technologies, Caserta, Italy; 
+      Department of Geology, Laboratory of Engineering Geology & Hydrogeology, 
+      Aristotle University of Thessaloniki, Thessaloniki, 54124, Greece. Electronic 
+      address: gianluigi.busico@unicampania.it.
+FAU - Sirna, Maurizio
+AU  - Sirna M
+AD  - University of Campania "Luigi Vanvitelli", Department of Environmental, 
+      Biological and Pharmaceutical Sciences and Technologies, Caserta, Italy.
+FAU - Tedesco, Dario
+AU  - Tedesco D
+AD  - University of Campania "Luigi Vanvitelli", Department of Environmental, 
+      Biological and Pharmaceutical Sciences and Technologies, Caserta, Italy; 
+      Osservatorio Vesuviano, National Institute of Geophysics and Volcanology, Via 
+      Diocleziano 328, Napoli, 80124, Italy.
+FAU - Mastrocicco, Micol
+AU  - Mastrocicco M
+AD  - University of Campania "Luigi Vanvitelli", Department of Environmental, 
+      Biological and Pharmaceutical Sciences and Technologies, Caserta, Italy.
+LA  - eng
+PT  - Journal Article
+DEP - 20230930
+PL  - England
+TA  - J Environ Manage
+JT  - Journal of environmental management
+JID - 0401664
+RN  - 0 (Water Pollutants, Chemical)
+SB  - IM
+MH  - Humans
+MH  - Environmental Monitoring/methods
+MH  - *Groundwater
+MH  - Water Quality
+MH  - Water Resources
+MH  - Agriculture
+MH  - *Water Pollutants, Chemical/analysis
+OTO - NOTNLM
+OT  - Artificial intelligence
+OT  - Groundwater suitability
+OT  - Quality index
+OT  - Vulnerability map
+COIS- Declaration of competing interest The authors declare that they have no known 
+      competing financial interests or personal relationships that could have appeared 
+      to influence the work reported in this paper.
+EDAT- 2023/10/02 18:41
+MHDA- 2023/11/01 12:44
+CRDT- 2023/10/02 18:05
+PHST- 2023/04/24 00:00 [received]
+PHST- 2023/09/11 00:00 [revised]
+PHST- 2023/09/17 00:00 [accepted]
+PHST- 2023/11/01 12:44 [medline]
+PHST- 2023/10/02 18:41 [pubmed]
+PHST- 2023/10/02 18:05 [entrez]
+AID - S0301-4797(23)01829-7 [pii]
+AID - 10.1016/j.jenvman.2023.119041 [doi]
+PST - ppublish
+SO  - J Environ Manage. 2023 Dec 1;347:119041. doi: 10.1016/j.jenvman.2023.119041. Epub 
+      2023 Sep 30.
+
+PMID- 37782931
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20231101
+LR  - 20231103
+IS  - 1539-3704 (Electronic)
+IS  - 0003-4819 (Linking)
+VI  - 176
+IP  - 10
+DP  - 2023 Oct
+TI  - Suspected Bronchiectasis and Mortality in Adults With a History of Smoking Who 
+      Have Normal and Impaired Lung Function : A Cohort Study.
+PG  - 1340-1348
+LID - 10.7326/M23-1125 [doi]
+AB  - BACKGROUND: Bronchiectasis in adults with chronic obstructive pulmonary disease 
+      (COPD) is associated with greater mortality. However, whether suspected 
+      bronchiectasis-defined as incidental bronchiectasis on computed tomography (CT) 
+      images plus clinical manifestation-is associated with increased mortality in 
+      adults with a history of smoking with normal spirometry and preserved ratio 
+      impaired spirometry (PRISm) is unknown. OBJECTIVE: To determine the association 
+      between suspected bronchiectasis and mortality in adults with normal spirometry, 
+      PRISm, and obstructive spirometry. DESIGN: Prospective, observational cohort. 
+      SETTING: The COPDGene (Genetic Epidemiology of Chronic Obstructive Pulmonary 
+      Disease) study. PARTICIPANTS: 7662 non-Hispanic Black or White adults, aged 45 to 
+      80 years, with 10 or more pack-years of smoking history. Participants who were 
+      former and current smokers were stratified into normal spirometry (n = 3277), 
+      PRISm (n = 986), and obstructive spirometry (n = 3399). MEASUREMENTS: 
+      Bronchiectasis identified by CT was ascertained using artificial 
+      intelligence-based measurements of an airway-to-artery ratio (AAR) greater than 1 
+      (AAR >1), a measure of bronchial dilatation. The primary outcome of "suspected 
+      bronchiectasis" was defined as an AAR >1 of greater than 1% plus 2 of the 
+      following: cough, phlegm, dyspnea, and history of 2 or more exacerbations. 
+      RESULTS: Among the 7662 participants (mean age, 60 years; 52% women), 1352 
+      (17.6%) had suspected bronchiectasis. During a median follow-up of 11 years, 2095 
+      (27.3%) died. Ten-year mortality risk was higher in participants with suspected 
+      bronchiectasis, compared with those without suspected bronchiectasis (normal 
+      spirometry: difference in mortality probability [Pr], 0.15 [95% CI, 0.09 to 
+      0.21]; PRISm: Pr, 0.07 [CI, -0.003 to 0.15]; obstructive spirometry: Pr, 0.06 
+      [CI, 0.03 to 0.09]). When only CT was used to identify bronchiectasis, the 
+      differences were attenuated in the normal spirometry (Pr, 0.04 [CI, -0.001 to 
+      0.08]). LIMITATIONS: Only 2 racial groups were studied. Only 1 measurement was 
+      used to define bronchiectasis on CT. Symptoms of suspected bronchiectasis were 
+      nonspecific. CONCLUSION: Suspected bronchiectasis was associated with a 
+      heightened risk for mortality in adults with normal and obstructive spirometry. 
+      PRIMARY FUNDING SOURCE: National Heart, Lung, and Blood Institute.
+FAU - Diaz, Alejandro A
+AU  - Diaz AA
+AUID- ORCID: 0000-0001-5037-2919
+AD  - Division of Pulmonary and Critical Care Medicine, Brigham and Women's Hospital, 
+      Boston, Massachusetts (A.A.D., J.L.O., R.E., W.R.D., B.C., C.L.P.).
+FAU - Wang, Wei
+AU  - Wang W
+AUID- ORCID: 0000-0001-7333-3701
+AD  - Division of Sleep and Circadian Disorders, Brigham and Women's Hospital, Boston, 
+      Massachusetts (W.W.).
+FAU - Orejas, Jose L
+AU  - Orejas JL
+AUID- ORCID: 0000-0001-7279-9024
+AD  - Division of Pulmonary and Critical Care Medicine, Brigham and Women's Hospital, 
+      Boston, Massachusetts (A.A.D., J.L.O., R.E., W.R.D., B.C., C.L.P.).
+FAU - Elalami, Rim
+AU  - Elalami R
+AD  - Division of Pulmonary and Critical Care Medicine, Brigham and Women's Hospital, 
+      Boston, Massachusetts (A.A.D., J.L.O., R.E., W.R.D., B.C., C.L.P.).
+FAU - Dolliver, Wojciech R
+AU  - Dolliver WR
+AUID- ORCID: 0000-0001-5274-4683
+AD  - Division of Pulmonary and Critical Care Medicine, Brigham and Women's Hospital, 
+      Boston, Massachusetts (A.A.D., J.L.O., R.E., W.R.D., B.C., C.L.P.).
+FAU - Nardelli, Pietro
+AU  - Nardelli P
+AUID- ORCID: 0000-0003-4280-558X
+AD  - Department of Radiology, Brigham and Women's Hospital, Boston, Massachusetts 
+      (P.N., RubenS.J.E., J.C.R., RaulS.J.E.).
+FAU - San José Estépar, Ruben
+AU  - San José Estépar R
+AUID- ORCID: 0000-0002-7095-2432
+AD  - Department of Radiology, Brigham and Women's Hospital, Boston, Massachusetts 
+      (P.N., RubenS.J.E., J.C.R., RaulS.J.E.).
+FAU - Choi, Bina
+AU  - Choi B
+AD  - Division of Pulmonary and Critical Care Medicine, Brigham and Women's Hospital, 
+      Boston, Massachusetts (A.A.D., J.L.O., R.E., W.R.D., B.C., C.L.P.).
+FAU - Pistenmaa, Carrie L
+AU  - Pistenmaa CL
+AUID- ORCID: 0000-0003-1563-1916
+AD  - Division of Pulmonary and Critical Care Medicine, Brigham and Women's Hospital, 
+      Boston, Massachusetts (A.A.D., J.L.O., R.E., W.R.D., B.C., C.L.P.).
+FAU - Ross, James C
+AU  - Ross JC
+AD  - Department of Radiology, Brigham and Women's Hospital, Boston, Massachusetts 
+      (P.N., RubenS.J.E., J.C.R., RaulS.J.E.).
+FAU - Maselli, Diego J
+AU  - Maselli DJ
+AUID- ORCID: 0000-0001-8010-0260
+AD  - Division of Pulmonary Diseases and Critical Care, The University of Texas at San 
+      Antonio, San Antonio, Texas (D.J.M.).
+FAU - Yen, Andrew
+AU  - Yen A
+AD  - Department of Radiology, University of California San Diego, San Diego, 
+      California (A.Y.).
+FAU - Young, Kendra A
+AU  - Young KA
+AUID- ORCID: 0000-0002-8664-7635
+AD  - Department of Epidemiology, Colorado School of Public Health, University of 
+      Colorado, Aurora, Colorado (K.A.Y., G.L.K.).
+FAU - Kinney, Gregory L
+AU  - Kinney GL
+AUID- ORCID: 0000-0002-5218-4986
+AD  - Department of Epidemiology, Colorado School of Public Health, University of 
+      Colorado, Aurora, Colorado (K.A.Y., G.L.K.).
+FAU - Cho, Michael H
+AU  - Cho MH
+AUID- ORCID: 0000-0002-4907-1657
+AD  - Division of Pulmonary and Critical Care Medicine, and Channing Division of 
+      Network Medicine, Brigham and Women's Hospital, Boston, Massachusetts (M.H.C.).
+FAU - San José Estépar, Raul
+AU  - San José Estépar R
+AUID- ORCID: 0000-0002-3677-1996
+AD  - Department of Radiology, Brigham and Women's Hospital, Boston, Massachusetts 
+      (P.N., RubenS.J.E., J.C.R., RaulS.J.E.).
+LA  - eng
+GR  - R01 HL089897/HL/NHLBI NIH HHS/United States
+GR  - R01 HL089856/HL/NHLBI NIH HHS/United States
+GR  - R01 HL133137/HL/NHLBI NIH HHS/United States
+GR  - R01 HL149861/HL/NHLBI NIH HHS/United States
+GR  - R01 HL164824/HL/NHLBI NIH HHS/United States
+GR  - R01 HL149877/HL/NHLBI NIH HHS/United States
+GR  - 5R21LM013670/LM/NLM NIH HHS/United States
+PT  - Journal Article
+PT  - Research Support, N.I.H., Extramural
+DEP - 20231003
+PL  - United States
+TA  - Ann Intern Med
+JT  - Annals of internal medicine
+JID - 0372351
+SB  - IM
+MH  - Humans
+MH  - Adult
+MH  - Female
+MH  - Middle Aged
+MH  - Male
+MH  - Cohort Studies
+MH  - Prospective Studies
+MH  - Artificial Intelligence
+MH  - *Pulmonary Disease, Chronic Obstructive/diagnosis
+MH  - Lung/diagnostic imaging
+MH  - Smoking/adverse effects
+MH  - *Bronchiectasis/complications
+MH  - Spirometry/methods
+MH  - Forced Expiratory Volume
+COIS- Disclosures: Disclosures can be viewed at 
+      www.acponline.org/authors/icmje/ConflictOfInterestForms.do?msNum=M23-1125.
+EDAT- 2023/10/02 18:41
+MHDA- 2023/11/01 12:45
+CRDT- 2023/10/02 17:03
+PHST- 2023/11/01 12:45 [medline]
+PHST- 2023/10/02 18:41 [pubmed]
+PHST- 2023/10/02 17:03 [entrez]
+AID - 10.7326/M23-1125 [doi]
+PST - ppublish
+SO  - Ann Intern Med. 2023 Oct;176(10):1340-1348. doi: 10.7326/M23-1125. Epub 2023 Oct 
+      3.

@@ -1,0 +1,864 @@
+PMID- 37792351
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20231116
+LR  - 20231119
+IS  - 2168-6084 (Electronic)
+IS  - 2168-6068 (Print)
+IS  - 2168-6068 (Linking)
+VI  - 159
+IP  - 11
+DP  - 2023 Nov 1
+TI  - Generation of a Melanoma and Nevus Data Set From Unstandardized Clinical 
+      Photographs on the Internet.
+PG  - 1223-1231
+LID - 10.1001/jamadermatol.2023.3521 [doi]
+AB  - IMPORTANCE: Artificial intelligence (AI) training for diagnosing dermatologic 
+      images requires large amounts of clean data. Dermatologic images have different 
+      compositions, and many are inaccessible due to privacy concerns, which hinder the 
+      development of AI. OBJECTIVE: To build a training data set for discriminative and 
+      generative AI from unstandardized internet images of melanoma and nevus. DESIGN, 
+      SETTING, AND PARTICIPANTS: In this diagnostic study, a total of 5619 (CAN5600 
+      data set) and 2006 (CAN2000 data set; a manually revised subset of CAN5600) 
+      cropped lesion images of either melanoma or nevus were semiautomatically 
+      annotated from approximately 500 000 photographs on the internet using 
+      convolutional neural networks (CNNs), region-based CNNs, and large mask 
+      inpainting. For unsupervised pretraining, 132 673 possible lesions (LESION130k 
+      data set) were also created with diversity by collecting images from 18 482 
+      websites in approximately 80 countries. A total of 5000 synthetic images (GAN5000 
+      data set) were generated using the generative adversarial network (StyleGAN2-ADA; 
+      training, CAN2000 data set; pretraining, LESION130k data set). MAIN OUTCOMES AND 
+      MEASURES: The area under the receiver operating characteristic curve (AUROC) for 
+      determining malignant neoplasms was analyzed. In each test, 1 of the 7 
+      preexisting public data sets (total of 2312 images; including Edinburgh, an SNU 
+      subset, Asan test, Waterloo, 7-point criteria evaluation, PAD-UFES-20, and 
+      MED-NODE) was used as the test data set. Subsequently, a comparative study was 
+      conducted between the performance of the EfficientNet Lite0 CNN on the proposed 
+      data set and that trained on the remaining 6 preexisting data sets. RESULTS: The 
+      EfficientNet Lite0 CNN trained on the annotated or synthetic images achieved 
+      higher or equivalent mean (SD) AUROCs to the EfficientNet Lite0 trained using the 
+      pathologically confirmed public data sets, including CAN5600 (0.874 [0.042]; 
+      P = .02), CAN2000 (0.848 [0.027]; P = .08), and GAN5000 (0.838 [0.040]; P = .31 
+      [Wilcoxon signed rank test]) and the preexisting data sets 
+      combined (0.809 [0.063]) by the benefits of increased size of the training data 
+      set. CONCLUSIONS AND RELEVANCE: The synthetic data set in this diagnostic study 
+      was created using various AI technologies from internet images. A neural network 
+      trained on the created data set (CAN5600) performed better than the same network 
+      trained on preexisting data sets combined. Both the annotated (CAN5600 and 
+      LESION130k) and synthetic (GAN5000) data sets could be shared for AI training and 
+      consensus between physicians.
+FAU - Cho, Soo Ick
+AU  - Cho SI
+AD  - Lunit Inc, Seoul, Korea.
+FAU - Navarrete-Dechent, Cristian
+AU  - Navarrete-Dechent C
+AD  - Department of Dermatology, School of Medicine, Pontificia Universidad Católica de 
+      Chile, Santiago.
+FAU - Daneshjou, Roxana
+AU  - Daneshjou R
+AD  - Department of Dermatology, Stanford University, Stanford, California.
+FAU - Cho, Hye Soo
+AU  - Cho HS
+AD  - Department of Dermatology, Asan Medical Center, Ulsan University College of 
+      Medicine, Seoul, Korea.
+FAU - Chang, Sung Eun
+AU  - Chang SE
+AD  - Department of Dermatology, Asan Medical Center, Ulsan University College of 
+      Medicine, Seoul, Korea.
+FAU - Kim, Seong Hwan
+AU  - Kim SH
+AD  - Department of Plastic and Reconstructive Surgery, Kangnam Sacred Heart Hospital, 
+      Hallym University College of Medicine, Seoul, Korea.
+FAU - Na, Jung-Im
+AU  - Na JI
+AD  - Department of Dermatology, Seoul National University College of Medicine, Seoul 
+      National University Bundang Hospital, Seoul, Korea.
+FAU - Han, Seung Seog
+AU  - Han SS
+AD  - Department of Dermatology, I Dermatology Clinic, Seoul, Korea.
+AD  - IDerma Inc, Seoul, Korea.
+LA  - eng
+PT  - Comment
+PT  - Journal Article
+PL  - United States
+TA  - JAMA Dermatol
+JT  - JAMA dermatology
+JID - 101589530
+SB  - IM
+CON - JAMA Dermatol. 2023 Nov 1;159(11):1175-1176. PMID: 37792340
+MH  - Humans
+MH  - Artificial Intelligence
+MH  - *Melanoma/diagnosis/pathology
+MH  - *Nevus/diagnosis/pathology
+MH  - Neural Networks, Computer
+MH  - *Nevus, Pigmented
+MH  - *Skin Neoplasms/diagnosis/pathology
+PMC - PMC10551819
+COIS- Conflict of Interest Disclosures: Dr. S. I. Cho reported being employed by Lunit 
+      Inc and owning stock and stock options in Lunit Inc. Dr Daneshjou reported 
+      receiving personal fees from DWA, Pfizer Inc, L’Oreal SA, and VisualDx and stock 
+      options from Revea and MDalgorithms outside the submitted work. Dr Kim reported 
+      receiving nonfinancial support from the Basic Science Research Program through 
+      the National Research Foundation of Korea during the conduct of the study. Dr Han 
+      reported being the founder, chief executive officer, and chief technology officer 
+      for IDerma Inc during the conduct of the study. No other disclosures were 
+      reported.
+EDAT- 2023/10/04 12:42
+MHDA- 2023/11/16 06:45
+PMCR- 2024/10/04
+CRDT- 2023/10/04 11:34
+PHST- 2024/10/04 00:00 [pmc-release]
+PHST- 2023/11/16 06:45 [medline]
+PHST- 2023/10/04 12:42 [pubmed]
+PHST- 2023/10/04 11:34 [entrez]
+AID - 2810087 [pii]
+AID - doi230046 [pii]
+AID - 10.1001/jamadermatol.2023.3521 [doi]
+PST - ppublish
+SO  - JAMA Dermatol. 2023 Nov 1;159(11):1223-1231. doi: 10.1001/jamadermatol.2023.3521.
+
+PMID- 37792344
+OWN - NLM
+STAT- Publisher
+LR  - 20231004
+IS  - 2768-3613 (Electronic)
+IS  - 2768-3605 (Linking)
+DP  - 2023 Oct 4
+TI  - Can ChatGPT Provide Quality Information on Integrative Oncology? A Brief Report.
+LID - 10.1089/jicm.2023.0290 [doi]
+AB  - This short report evaluated the accuracy and quality of information provided by 
+      ChatGPT regarding the use of complementary and integrative medicine for cancer. 
+      Using the QUality Evaluation Scoring Tool, a panel of 12 reviewers assessed 
+      ChatGPT's responses to 8 questions. The study found that ChatGPT provided 
+      moderate-quality responses that were relatively unbiased and not misleading. 
+      However, the chatbot's inability to reference specific scientific studies was a 
+      significant limitation. Patients with cancer should not rely on ChatGPT for 
+      clinical advice until further systematic validation. Future studies should 
+      examine how patients perceive ChatGPT's information and its impact on 
+      communication with health care professionals.
+FAU - Lam, Chun Sing
+AU  - Lam CS
+AD  - School of Pharmacy, Faculty of Medicine, The Chinese University of Hong Kong, 
+      Hong Kong, China.
+FAU - Hua, Rong
+AU  - Hua R
+AD  - School of Pharmacy, Faculty of Medicine, The Chinese University of Hong Kong, 
+      Hong Kong, China.
+FAU - Koon, Ho Kee
+AU  - Koon HK
+AD  - School of Chinese Medicine, Faculty of Medicine, The Chinese University of Hong 
+      Kong, Hong Kong, China.
+FAU - Zhou, Keary Rui
+AU  - Zhou KR
+AD  - School of Pharmacy, Faculty of Medicine, The Chinese University of Hong Kong, 
+      Hong Kong, China.
+FAU - Lam, Teddy Tai Ning
+AU  - Lam TTN
+AD  - School of Pharmacy, Faculty of Medicine, The Chinese University of Hong Kong, 
+      Hong Kong, China.
+FAU - Lee, Chui Ping
+AU  - Lee CP
+AD  - School of Pharmacy, Faculty of Medicine, The Chinese University of Hong Kong, 
+      Hong Kong, China.
+FAU - Lin, Wai Ling
+AU  - Lin WL
+AD  - School of Chinese Medicine, Faculty of Medicine, The Chinese University of Hong 
+      Kong, Hong Kong, China.
+FAU - Wong, Cho Lee
+AU  - Wong CL
+AD  - The Nethersole School of Nursing, Faculty of Medicine, The Chinese University of 
+      Hong Kong, Hong Kong, China.
+FAU - Lau, Yat Ming
+AU  - Lau YM
+AD  - Department of Medical Oncology, The Kinghorn Cancer Centre, St Vincent's 
+      Hospital, Sydney, Australia.
+FAU - Loong, Herbert Ho-Fung
+AU  - Loong HH
+AD  - Department of Clinical Oncology, The Chinese University of Hong Kong, Hong Kong, 
+      China.
+FAU - Chung, Vincent Chi-Ho
+AU  - Chung VC
+AUID- ORCID: 0000-0002-5947-4492
+AD  - School of Chinese Medicine, Faculty of Medicine, The Chinese University of Hong 
+      Kong, Hong Kong, China.
+AD  - Jockey Club School of Public Health and Primary Care, Faculty of Medicine, The 
+      Chinese University of Hong Kong, Hong Kong, China.
+FAU - Cheung, Yin Ting
+AU  - Cheung YT
+AUID- ORCID: 0000-0001-9874-8938
+AD  - School of Pharmacy, Faculty of Medicine, The Chinese University of Hong Kong, 
+      Hong Kong, China.
+AD  - Hong Kong Hub of Paediatric Excellence, The Chinese University of Hong Kong, Hong 
+      Kong, China.
+LA  - eng
+PT  - Journal Article
+DEP - 20231004
+PL  - United States
+TA  - J Integr Complement Med
+JT  - Journal of integrative and complementary medicine
+JID - 9918283075806676
+SB  - IM
+OTO - NOTNLM
+OT  - ChatGPT
+OT  - artificial intelligence
+OT  - cancer
+OT  - complementary medicine
+OT  - integrative medicine
+OT  - integrative oncology
+EDAT- 2023/10/04 12:44
+MHDA- 2023/10/04 12:44
+CRDT- 2023/10/04 11:33
+PHST- 2023/10/04 12:44 [medline]
+PHST- 2023/10/04 12:44 [pubmed]
+PHST- 2023/10/04 11:33 [entrez]
+AID - 10.1089/jicm.2023.0290 [doi]
+PST - aheadofprint
+SO  - J Integr Complement Med. 2023 Oct 4. doi: 10.1089/jicm.2023.0290.
+
+PMID- 37792334
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20231005
+LR  - 20231013
+IS  - 1552-5783 (Electronic)
+IS  - 0146-0404 (Print)
+IS  - 0146-0404 (Linking)
+VI  - 64
+IP  - 13
+DP  - 2023 Oct 3
+TI  - A Fully Automatic Estimation of Tear Meniscus Height Using Artificial 
+      Intelligence.
+PG  - 7
+LID - 10.1167/iovs.64.13.7 [doi]
+LID - 7
+AB  - PURPOSE: Accurate quantification measurement of tear meniscus is vital for the 
+      precise diagnosis of dry eye. In current clinical practice, the measurement of 
+      tear meniscus height (TMH) relies on doctors' manual operation. This study aims 
+      to propose a novel automatic artificial intelligence (AI) system to evaluate TMH. 
+      METHODS: A total of 510 photographs obtained by the oculus camera were labeled. 
+      Three thousand and five hundred images were finally attained by data enhancement 
+      to train the neural network model parameters, and 60 were used to evaluate the 
+      model performance in segmenting the cornea and tear meniscus region. One hundred 
+      images were used to test generalization ability of the model. We modified a 
+      segmentation model of the cornea and the tear meniscus based on the UNet-like 
+      network. The output of the segmentation model is followed by a calculation module 
+      that calculates and reports the TMH. RESULTS: Compared with ground truth (GT) 
+      manually labeled by clinicians, our modified model achieved a Dice Similarity 
+      Coefficient (DSC) and Intersection over union (Iou) of 0.99/0.98 in the corneal 
+      segmentation task and 0.92/0.86 for the detection of tear meniscus on the 
+      validation set, respectively. On the test set, the TMH automatically measured by 
+      our AI system strongly correlates with the results manually calculated by the 
+      ophthalmologists. CONCLUSIONS: We developed a fully automated and reliable AI 
+      system to obtain TMH. After large-scale clinical testing, our method could be 
+      used for dry eye screening in clinical practice.
+FAU - Wang, Shaopan
+AU  - Wang S
+AD  - Institute of Artificial Intelligence, Xiamen University, Xiamen, Fujian, China.
+AD  - Xiamen University affiliated Xiamen Eye Center; Fujian Provincial Key Laboratory 
+      of Ophthalmology and Visual Science, Fujian Engineering and Research Center of 
+      Eye Regenerative Medicine, Eye Institute of Xiamen University, School of 
+      Medicine, Xiamen University, Xiamen, Fujian, China.
+FAU - He, Xin
+AU  - He X
+AD  - Xiamen University affiliated Xiamen Eye Center; Fujian Provincial Key Laboratory 
+      of Ophthalmology and Visual Science, Fujian Engineering and Research Center of 
+      Eye Regenerative Medicine, Eye Institute of Xiamen University, School of 
+      Medicine, Xiamen University, Xiamen, Fujian, China.
+AD  - Department of Ophthalmology, the First Affiliated Hospital of Xiamen University, 
+      Xiamen University, Xiamen, Fujian, China.
+FAU - He, Jiezhou
+AU  - He J
+AD  - Institute of Artificial Intelligence, Xiamen University, Xiamen, Fujian, China.
+FAU - Li, Shuang
+AU  - Li S
+AD  - Xiamen University affiliated Xiamen Eye Center; Fujian Provincial Key Laboratory 
+      of Ophthalmology and Visual Science, Fujian Engineering and Research Center of 
+      Eye Regenerative Medicine, Eye Institute of Xiamen University, School of 
+      Medicine, Xiamen University, Xiamen, Fujian, China.
+FAU - Chen, Yuguang
+AU  - Chen Y
+AD  - Institute of Artificial Intelligence, Xiamen University, Xiamen, Fujian, China.
+AD  - Xiamen University affiliated Xiamen Eye Center; Fujian Provincial Key Laboratory 
+      of Ophthalmology and Visual Science, Fujian Engineering and Research Center of 
+      Eye Regenerative Medicine, Eye Institute of Xiamen University, School of 
+      Medicine, Xiamen University, Xiamen, Fujian, China.
+FAU - Xu, Changsheng
+AU  - Xu C
+AD  - Institute of Artificial Intelligence, Xiamen University, Xiamen, Fujian, China.
+AD  - Xiamen University affiliated Xiamen Eye Center; Fujian Provincial Key Laboratory 
+      of Ophthalmology and Visual Science, Fujian Engineering and Research Center of 
+      Eye Regenerative Medicine, Eye Institute of Xiamen University, School of 
+      Medicine, Xiamen University, Xiamen, Fujian, China.
+FAU - Lin, Xiang
+AU  - Lin X
+AD  - Department of Ophthalmology, Xiang'an Hospital of Xiamen University; Xiamen, 
+      Fujian, China.
+FAU - Kang, Jie
+AU  - Kang J
+AD  - Department of Ophthalmology, Xiang'an Hospital of Xiamen University; Xiamen, 
+      Fujian, China.
+FAU - Li, Wei
+AU  - Li W
+AD  - Xiamen University affiliated Xiamen Eye Center; Fujian Provincial Key Laboratory 
+      of Ophthalmology and Visual Science, Fujian Engineering and Research Center of 
+      Eye Regenerative Medicine, Eye Institute of Xiamen University, School of 
+      Medicine, Xiamen University, Xiamen, Fujian, China.
+AD  - Department of Ophthalmology, Xiang'an Hospital of Xiamen University; Xiamen, 
+      Fujian, China.
+FAU - Luo, Zhiming
+AU  - Luo Z
+AD  - Institute of Artificial Intelligence, Xiamen University, Xiamen, Fujian, China.
+FAU - Liu, Zuguo
+AU  - Liu Z
+AD  - Institute of Artificial Intelligence, Xiamen University, Xiamen, Fujian, China.
+AD  - Xiamen University affiliated Xiamen Eye Center; Fujian Provincial Key Laboratory 
+      of Ophthalmology and Visual Science, Fujian Engineering and Research Center of 
+      Eye Regenerative Medicine, Eye Institute of Xiamen University, School of 
+      Medicine, Xiamen University, Xiamen, Fujian, China.
+AD  - Department of Ophthalmology, Xiang'an Hospital of Xiamen University; Xiamen, 
+      Fujian, China.
+AD  - Department of Ophthalmology, The First Affiliated Hospital of University of South 
+      China, Hengyang, Hunan, China.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PL  - United States
+TA  - Invest Ophthalmol Vis Sci
+JT  - Investigative ophthalmology & visual science
+JID - 7703701
+SB  - IM
+MH  - Humans
+MH  - Artificial Intelligence
+MH  - Neural Networks, Computer
+MH  - Cornea
+MH  - *Dry Eye Syndromes/diagnosis
+MH  - *Meniscus
+PMC - PMC10565704
+COIS- Disclosure: S. Wang, None; X. He, None; J. He, None; S. Li, None; Y. Chen, None; 
+      C. Xu, None; X. Lin, None; J. Kang, None; W. Li, None; Z. Luo, None; Z. Liu, None
+EDAT- 2023/10/04 12:42
+MHDA- 2023/10/05 06:43
+CRDT- 2023/10/04 11:33
+PHST- 2023/10/05 06:43 [medline]
+PHST- 2023/10/04 12:42 [pubmed]
+PHST- 2023/10/04 11:33 [entrez]
+AID - 2792896 [pii]
+AID - IOVS-23-37269 [pii]
+AID - 10.1167/iovs.64.13.7 [doi]
+PST - ppublish
+SO  - Invest Ophthalmol Vis Sci. 2023 Oct 3;64(13):7. doi: 10.1167/iovs.64.13.7.
+
+PMID- 37792134
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20231129
+LR  - 20231130
+IS  - 1534-3170 (Electronic)
+IS  - 1523-3782 (Print)
+IS  - 1523-3782 (Linking)
+VI  - 25
+IP  - 11
+DP  - 2023 Nov
+TI  - Artificial Intelligence and Machine Learning Applications in Sudden Cardiac 
+      Arrest Prediction and Management: A Comprehensive Review.
+PG  - 1391-1396
+LID - 10.1007/s11886-023-01964-w [doi]
+AB  - PURPOSE OF REVIEW: This literature review aims to provide a comprehensive 
+      overview of the recent advances in prediction models and the deployment of AI and 
+      ML in the prediction of cardiopulmonary resuscitation (CPR) success. The 
+      objectives are to understand the role of AI and ML in healthcare, specifically in 
+      medical diagnosis, statistics, and precision medicine, and to explore their 
+      applications in predicting and managing sudden cardiac arrest outcomes, 
+      especially in the context of prehospital emergency care. RECENT FINDINGS: The 
+      role of AI and ML in healthcare is expanding, with applications evident in 
+      medical diagnosis, statistics, and precision medicine. Deep learning is gaining 
+      prominence in radiomics and population health for disease risk prediction. 
+      There's a significant focus on the integration of AI and ML in prehospital 
+      emergency care, particularly in using ML algorithms for predicting outcomes in 
+      COVID-19 patients and enhancing the recognition of out-of-hospital cardiac arrest 
+      (OHCA). Furthermore, the combination of AI with automated external defibrillators 
+      (AEDs) shows potential in better detecting shockable rhythms during cardiac 
+      arrest incidents. AI and ML hold immense promise in revolutionizing the 
+      prediction and management of sudden cardiac arrest, hinting at improved survival 
+      rates and more efficient healthcare interventions in the future. Sudden cardiac 
+      arrest (SCA) continues to be a major global cause of death, with survival rates 
+      remaining low despite advanced first responder systems. The ongoing challenge is 
+      the prediction and prevention of SCA. However, with the rise in the adoption of 
+      AI and ML tools in clinical electrophysiology in recent times, there is optimism 
+      about addressing these challenges more effectively.
+CI  - © 2023. The Author(s).
+FAU - Aqel, Sarah
+AU  - Aqel S
+AD  - Medical Research Center, Hamad Medical Corporation, Doha, Qatar. Saqel1@hamad.qa.
+FAU - Syaj, Sebawe
+AU  - Syaj S
+AD  - Faculty of Medicine, Jordan University of Science and Technology, Irbid, Jordan.
+FAU - Al-Bzour, Ayah
+AU  - Al-Bzour A
+AD  - Faculty of Medicine, Jordan University of Science and Technology, Irbid, Jordan.
+FAU - Abuzanouneh, Faris
+AU  - Abuzanouneh F
+AD  - Faculty of Medicine, Jordan University of Science and Technology, Irbid, Jordan.
+FAU - Al-Bzour, Noor
+AU  - Al-Bzour N
+AD  - Faculty of Medicine, Jordan University of Science and Technology, Irbid, Jordan.
+FAU - Ahmad, Jamil
+AU  - Ahmad J
+AD  - Department of Urology, Hamad Medical Corporation, Doha, Qatar.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+DEP - 20231004
+PL  - United States
+TA  - Curr Cardiol Rep
+JT  - Current cardiology reports
+JID - 100888969
+SB  - IM
+MH  - Humans
+MH  - Artificial Intelligence
+MH  - *Cardiopulmonary Resuscitation
+MH  - Death, Sudden, Cardiac/etiology/prevention & control
+MH  - *Out-of-Hospital Cardiac Arrest/diagnosis/therapy
+MH  - Machine Learning
+PMC - PMC10682172
+OTO - NOTNLM
+OT  - Artificial intelligence
+OT  - Cardiopulmonary resuscitation
+OT  - Machine learning
+OT  - Prediction models
+OT  - Sudden cardiac arrest
+COIS- The authors declare competing interests.
+EDAT- 2023/10/04 12:43
+MHDA- 2023/11/29 06:42
+CRDT- 2023/10/04 11:09
+PHST- 2023/09/06 00:00 [accepted]
+PHST- 2023/11/29 06:42 [medline]
+PHST- 2023/10/04 12:43 [pubmed]
+PHST- 2023/10/04 11:09 [entrez]
+AID - 10.1007/s11886-023-01964-w [pii]
+AID - 1964 [pii]
+AID - 10.1007/s11886-023-01964-w [doi]
+PST - ppublish
+SO  - Curr Cardiol Rep. 2023 Nov;25(11):1391-1396. doi: 10.1007/s11886-023-01964-w. 
+      Epub 2023 Oct 4.
+
+PMID- 37791803
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20231216
+LR  - 20231216
+IS  - 2165-0497 (Electronic)
+IS  - 2165-0497 (Linking)
+VI  - 11
+IP  - 6
+DP  - 2023 Dec 12
+TI  - Reply to "A failure of Fourier transform infrared spectroscopy to type 
+      Burkholderia isolates from chronically infected patients with cystic fibrosis".
+PG  - e0228823
+LID - 10.1128/spectrum.02288-23 [doi]
+LID - e02288-23
+FAU - Barker, K R
+AU  - Barker KR
+AUID- ORCID: 0000-0002-9288-6544
+AD  - Division of Microbiology, Department of Laboratory Medicine and Genetics, 
+      Trillium Health Partners , Mississauga, Ontario, Canada.
+AD  - Department of Laboratory Medicine and Pathobiology, University of Toronto , 
+      Toronto, Ontario, Canada.
+AD  - Institute for Better Health, Trillium Health Partners , Mississauga, Ontario, 
+      Canada.
+FAU - Tadros, M
+AU  - Tadros M
+AUID- ORCID: 0000-0002-5546-0261
+AD  - Department of Laboratory Medicine and Pathobiology, University of Toronto , 
+      Toronto, Ontario, Canada.
+AD  - Division of Microbiology, Department of Paediatric Laboratory Medicine, Hospital 
+      for Sick Children , Toronto, Ontario, Canada.
+LA  - eng
+PT  - Letter
+DEP - 20231004
+PL  - United States
+TA  - Microbiol Spectr
+JT  - Microbiology spectrum
+JID - 101634614
+SB  - IM
+CIN - doi: 10.1128/spectrum.02214-23
+MH  - Humans
+MH  - *Burkholderia
+MH  - *Cystic Fibrosis/complications
+MH  - Spectroscopy, Fourier Transform Infrared/methods
+MH  - *Burkholderia Infections
+MH  - Bacterial Typing Techniques/methods
+PMC - PMC10715228
+OTO - NOTNLM
+OT  - AI
+OT  - Burkholderia
+OT  - Burkholderia cenocepacia
+OT  - ET12
+OT  - Fourier-transform infrared spectroscopy
+OT  - IR biotyper
+OT  - artificial intelligence
+OT  - cystic fibrosis
+OT  - outbreak
+OT  - typing
+COIS- The authors declare no conflict of interest.
+EDAT- 2023/10/04 12:42
+MHDA- 2023/12/17 09:43
+CRDT- 2023/10/04 09:13
+PHST- 2023/12/17 09:43 [medline]
+PHST- 2023/10/04 12:42 [pubmed]
+PHST- 2023/10/04 09:13 [entrez]
+AID - 02288-23 [pii]
+AID - spectrum.02288-23 [pii]
+AID - 10.1128/spectrum.02288-23 [doi]
+PST - ppublish
+SO  - Microbiol Spectr. 2023 Dec 12;11(6):e0228823. doi: 10.1128/spectrum.02288-23. 
+      Epub 2023 Oct 4.
+
+PMID- 37791734
+OWN - NLM
+STAT- Publisher
+LR  - 20231129
+IS  - 1546-3141 (Electronic)
+IS  - 0361-803X (Linking)
+DP  - 2023 Oct 4
+TI  - Editorial Comment: Artificial Intelligence for Detection of Endotracheal Tube 
+      Malposition-Augmented Rather Than Autonomous Radiology Interpretation.
+LID - 10.2214/AJR.23.30297 [doi]
+FAU - Little, Brent P
+AU  - Little BP
+AD  - Mayo Clinic Florida, 4500 San Pablo Road, Jacksonville, FL 32224.
+LA  - eng
+PT  - Comment
+PT  - Journal Article
+DEP - 20231004
+PL  - United States
+TA  - AJR Am J Roentgenol
+JT  - AJR. American journal of roentgenology
+JID - 7708173
+SB  - IM
+CON - AJR Am J Roentgenol. 2023 Sep 13;:. PMID: 37703195
+EDAT- 2023/10/04 12:43
+MHDA- 2023/10/04 12:43
+CRDT- 2023/10/04 08:43
+PHST- 2023/10/04 12:43 [medline]
+PHST- 2023/10/04 12:43 [pubmed]
+PHST- 2023/10/04 08:43 [entrez]
+AID - 10.2214/AJR.23.30297 [doi]
+PST - aheadofprint
+SO  - AJR Am J Roentgenol. 2023 Oct 4. doi: 10.2214/AJR.23.30297.
+
+PMID- 37791604
+OWN - NLM
+STAT- Publisher
+LR  - 20231004
+IS  - 1873-1953 (Electronic)
+IS  - 1474-5151 (Linking)
+DP  - 2023 Oct 4
+TI  - For better or for worse: When chatbots influence human emotions and behaviours.
+LID - zvad098 [pii]
+LID - 10.1093/eurjcn/zvad098 [doi]
+FAU - Moons, Philip
+AU  - Moons P
+AUID- ORCID: 0000-0002-8609-4516
+AD  - KU Leuven Department of Public Health and Primary Care, KU Leuven - University of 
+      Leuven, Kapucijnenvoer 35 PB7001, 3000 Leuven, Belgium.
+AD  - Institute of Health and Care Sciences, University of Gothenburg, Arvid Wallgrens 
+      backe 1, 413 46 Gothenburg, Sweden.
+AD  - Department of Paediatrics and Child Health, University of Cape Town, Klipfontein 
+      Rd, Rondebosch, 7700 Cape Town, South Africa.
+LA  - eng
+PT  - Journal Article
+DEP - 20231004
+PL  - England
+TA  - Eur J Cardiovasc Nurs
+JT  - European journal of cardiovascular nursing
+JID - 101128793
+SB  - IM
+OTO - NOTNLM
+OT  - ChatGPT
+OT  - artificial intelligence
+OT  - chatbots
+OT  - conversational agents
+OT  - lifestyle
+OT  - natural language processing
+EDAT- 2023/10/04 12:44
+MHDA- 2023/10/04 12:44
+CRDT- 2023/10/04 07:03
+PHST- 2023/09/18 00:00 [received]
+PHST- 2023/09/23 00:00 [revised]
+PHST- 2023/09/29 00:00 [accepted]
+PHST- 2023/10/04 12:44 [medline]
+PHST- 2023/10/04 12:44 [pubmed]
+PHST- 2023/10/04 07:03 [entrez]
+AID - 7288763 [pii]
+AID - 10.1093/eurjcn/zvad098 [doi]
+PST - aheadofprint
+SO  - Eur J Cardiovasc Nurs. 2023 Oct 4:zvad098. doi: 10.1093/eurjcn/zvad098.
+
+PMID- 37791506
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20231216
+LR  - 20231224
+IS  - 1896-494X (Electronic)
+IS  - 1232-1087 (Print)
+IS  - 1232-1087 (Linking)
+VI  - 36
+IP  - 6
+DP  - 2023 Dec 15
+TI  - Symmetry and asymmetry in atherosclerosis.
+PG  - 693-703
+LID - 170934 [pii]
+LID - 10.13075/ijomeh.1896.02171 [doi]
+AB  - Atherosclerosis remains the main cause of death worldwide. Most important issues 
+      concerning atherosclerosis are hemodynamics and how it affects plaque prevalence 
+      and distribution, as well as the symmetry and asymmetry of vasculature and 
+      plaques. To present the symmetry in the vascular system an analysis of PubMed and 
+      MEDLINE databases was performed. As of February 21, 2023, the results were as 
+      follows: for "symmetry" AND "atherosclerosis" there were 47 results; for 
+      "symmetry" AND "atherosclerotic lesions" - 20 results; for "symmetry" AND "artery 
+      stenosis" - 82 results; for "asymmetry" AND "atherosclerosis" - 87 results. Not 
+      without meaning are preventive measures. In the light of the Fourth Industrial 
+      Revolution artificial intelligence (AI) solutions help to develop new tools 
+      outperforming already existing cardiovascular risk scales. The aim of this paper 
+      is to present a current view on symmetry within vasculature and atherosclerosis 
+      as well as present a new approach to assess individuals' cardiovascular risk in 
+      accordance with precision medicine assumptions. Symmetry and asymmetry within the 
+      human vascular system play a crucial role in understanding of arterial diseases, 
+      including atherosclerosis. Moreover, it is unavoidable to use AI in 
+      cardiovascular risk stratification. Int J Occup Med Environ Health. 
+      2023;36(6):693-703.
+CI  - This work is available in Open Access model and licensed under a CC BY-NC 3.0 PL 
+      license.
+FAU - Kolaszyńska, Oliwia
+AU  - Kolaszyńska O
+AD  - Asklepios Klinikum Uckermark, Schwedt, Germany (I Department of Internal 
+      Medicine).
+FAU - Lorkowski, Jacek
+AU  - Lorkowski J
+AD  - Central Clinical Hospital of Interior and Administration, Warsaw, Poland 
+      (Department of Orthopedics, Traumatology and Sports Medicine).
+LA  - eng
+PT  - Journal Article
+PT  - Review
+DEP - 20231002
+PL  - Poland
+TA  - Int J Occup Med Environ Health
+JT  - International journal of occupational medicine and environmental health
+JID - 9437093
+SB  - IM
+MH  - Humans
+MH  - Artificial Intelligence
+MH  - *Atherosclerosis/epidemiology
+MH  - *Plaque, Atherosclerotic
+PMC - PMC10743353
+OTO - NOTNLM
+OT  - artificial intelligence
+OT  - asymmetry
+OT  - atherosclerosis
+OT  - cardiovascular risk
+OT  - symmetry
+OT  - vascular system
+EDAT- 2023/10/04 06:43
+MHDA- 2023/12/17 09:45
+CRDT- 2023/10/04 05:33
+PHST- 2023/12/17 09:45 [medline]
+PHST- 2023/10/04 06:43 [pubmed]
+PHST- 2023/10/04 05:33 [entrez]
+AID - 170934 [pii]
+AID - ijomeh.1896.02171 [pii]
+AID - 10.13075/ijomeh.1896.02171 [doi]
+PST - ppublish
+SO  - Int J Occup Med Environ Health. 2023 Dec 15;36(6):693-703. doi: 
+      10.13075/ijomeh.1896.02171. Epub 2023 Oct 2.
+
+PMID- 37791364
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20231005
+IS  - 0021-8898 (Print)
+IS  - 1600-5767 (Electronic)
+IS  - 0021-8898 (Linking)
+VI  - 56
+IP  - Pt 5
+DP  - 2023 Oct 1
+TI  - Explainable machine learning for diffraction patterns.
+PG  - 1494-1504
+LID - 10.1107/S1600576723007446 [doi]
+AB  - Serial crystallography experiments at X-ray free-electron laser facilities 
+      produce massive amounts of data but only a fraction of these data are useful for 
+      downstream analysis. Thus, it is essential to differentiate between acceptable 
+      and unacceptable data, generally known as 'hit' and 'miss', respectively. Image 
+      classification methods from artificial intelligence, or more specifically 
+      convolutional neural networks (CNNs), classify the data into hit and miss 
+      categories in order to achieve data reduction. The quantitative performance 
+      established in previous work indicates that CNNs successfully classify serial 
+      crystallography data into desired categories [Ke, Brewster, Yu, Ushizima, Yang & 
+      Sauter (2018). J. Synchrotron Rad.25, 655-670], but no qualitative evidence on 
+      the internal workings of these networks has been provided. For example, there are 
+      no visualization methods that highlight the features contributing to a specific 
+      prediction while classifying data in serial crystallography experiments. 
+      Therefore, existing deep learning methods, including CNNs classifying serial 
+      crystallography data, are like a 'black box'. To this end, presented here is a 
+      qualitative study to unpack the internal workings of CNNs with the aim of 
+      visualizing information in the fundamental blocks of a standard network with 
+      serial crystallography data. The region(s) or part(s) of an image that mostly 
+      contribute to a hit or miss prediction are visualized.
+CI  - © Shah Nawaz et al. 2023.
+FAU - Nawaz, Shah
+AU  - Nawaz S
+AD  - Deutsches Elektronen-Synchrotron DESY, Notkestraße 85, 22607 Hamburg, Germany.
+FAU - Rahmani, Vahid
+AU  - Rahmani V
+AD  - Deutsches Elektronen-Synchrotron DESY, Notkestraße 85, 22607 Hamburg, Germany.
+FAU - Pennicard, David
+AU  - Pennicard D
+AD  - Deutsches Elektronen-Synchrotron DESY, Notkestraße 85, 22607 Hamburg, Germany.
+FAU - Setty, Shabarish Pala Ramakantha
+AU  - Setty SPR
+AD  - Deutsches Elektronen-Synchrotron DESY, Notkestraße 85, 22607 Hamburg, Germany.
+FAU - Klaudel, Barbara
+AU  - Klaudel B
+AD  - Gdańsk University of Technology, Gdańsk, Poland.
+FAU - Graafsma, Heinz
+AU  - Graafsma H
+AUID- ORCID: 0000-0003-2304-667X
+AD  - Deutsches Elektronen-Synchrotron DESY, Notkestraße 85, 22607 Hamburg, Germany.
+AD  - Mid-Sweden University, Sundsvall, Sweden.
+LA  - eng
+PT  - Journal Article
+DEP - 20230920
+PL  - United States
+TA  - J Appl Crystallogr
+JT  - Journal of applied crystallography
+JID - 9876190
+PMC - PMC10543671
+OTO - NOTNLM
+OT  - Grad-CAM
+OT  - explainable machine learning
+OT  - gradient-weighted class activation mapping
+OT  - visualization of representations
+EDAT- 2023/10/04 06:44
+MHDA- 2023/10/04 06:45
+CRDT- 2023/10/04 04:19
+PHST- 2022/12/05 00:00 [received]
+PHST- 2023/08/24 00:00 [accepted]
+PHST- 2023/10/04 06:45 [medline]
+PHST- 2023/10/04 06:44 [pubmed]
+PHST- 2023/10/04 04:19 [entrez]
+AID - S1600576723007446 [pii]
+AID - te5112 [pii]
+AID - 10.1107/S1600576723007446 [doi]
+PST - epublish
+SO  - J Appl Crystallogr. 2023 Sep 20;56(Pt 5):1494-1504. doi: 
+      10.1107/S1600576723007446. eCollection 2023 Oct 1.
+
+PMID- 37791172
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20231005
+IS  - 2168-8184 (Print)
+IS  - 2168-8184 (Electronic)
+IS  - 2168-8184 (Linking)
+VI  - 15
+IP  - 8
+DP  - 2023 Aug
+TI  - The Effects of Various Teaching Methods on Chest X-ray Interpretation Skills 
+      Among Medical Students and Interns: A Systematic Review.
+PG  - e44399
+LID - 10.7759/cureus.44399 [doi]
+LID - e44399
+AB  - Chest X-ray (CXR) is a common tool used in medical practice. Medical students and 
+      interns should acquire knowledge of CXR interpretation, as it is an essential 
+      diagnostic tool for a large spectrum of diseases. This systematic review aimed to 
+      compare the effect of different intervention techniques on the competency of 
+      medical students and interns to demonstrate the level of confidence and 
+      competence in interpreting common presentations of CXRs. The population, 
+      intervention, comparison, and outcomes (PICO) framework was used to formulate the 
+      review question. All related articles in five databases (PubMed, Web of Science, 
+      Scopus, Medline, and Embase) were retrieved and the search was completed in March 
+      2023 with no limiters on date and time. The number of relevant studies was 469. A 
+      multi-level approach through the Rayyan platform was used for the screening and 
+      exclusion processes. Eleven articles were included in the systematic review 
+      consisting of eight randomized controlled trials, one quasi-experimental study, 
+      one cross-sectional study, and one interventional cohort. Results showed 
+      significant effects of teaching methods utilizing deductive or inductive 
+      approach, clinical history, patient care comfort survey, and SAFMEDS 
+      (Say-All-Fast-Minute-Every-Day-Shuffled). Contrarily, no significant effect was 
+      shown by flipped classroom models and mixed and blocked practice, peer-assisted 
+      learning vs. expert-assisted learning, and Chester, an artificial intelligence 
+      tool. This review identified beneficial approaches that may enhance the learning 
+      outcomes of interpreting CXRs for medical students and interns, highlighting the 
+      remarkable impact of SAFMEDS on medical students' ability to identify CXR 
+      findings as well as the availability and practicality of online and e-learning 
+      resources for students.
+CI  - Copyright © 2023, Al Elq et al.
+FAU - Al Elq, Abdulmohsen
+AU  - Al Elq A
+AD  - Department of Internal Medicine, College of Medicine, Imam Abdulrahman Bin Faisal 
+      University, Dammam, SAU.
+FAU - Alfayez, Abdulaziz A
+AU  - Alfayez AA
+AD  - College of Medicine, Imam Abdulrahman Bin Faisal University, Dammam, SAU.
+FAU - AlQahtani, Muhannad I
+AU  - AlQahtani MI
+AD  - College of Medicine, Imam Abdulrahman Bin Faisal University, Dammam, SAU.
+FAU - Alshahrani, Rakan S
+AU  - Alshahrani RS
+AD  - College of Medicine, Imam Abdulrahman Bin Faisal University, Dammam, SAU.
+FAU - Alotaibi, Ghazi A
+AU  - Alotaibi GA
+AD  - College of Medicine, Imam Abdulrahman Bin Faisal University, Dammam, SAU.
+FAU - Aldakheel, Abdullah A
+AU  - Aldakheel AA
+AD  - College of Medicine, Imam Abdulrahman Bin Faisal University, Dammam, SAU.
+FAU - Alhammad, Ali A
+AU  - Alhammad AA
+AD  - College of Medicine, Imam Abdulrahman Bin Faisal University, Dammam, SAU.
+FAU - Bakr Mohamed, Radwa H
+AU  - Bakr Mohamed RH
+AD  - Vice Deanship for Development and Community Partnership, College of Medicine, 
+      Imam Abdulrahman Bin Faisal University, Dammam, SAU.
+FAU - Jarrar, Mu'taman
+AU  - Jarrar M
+AD  - Vice Deanship for Development and Community Partnership, College of Medicine, 
+      Imam Abdulrahman Bin Faisal University, Dammam, SAU.
+AD  - Department of Medical Education, King Fahd Hospital of the University, Al-Khobar, 
+      SAU.
+FAU - Abusalah, Mai Abdel Haleem A
+AU  - Abusalah MAHA
+AD  - Department of Medical Laboratory Sciences, Faculty of Allied Medical Sciences, 
+      Zarqa University, Al-Zarqa, JOR.
+FAU - Al-Bsheish, Mohammad
+AU  - Al-Bsheish M
+AD  - Department of Health Management, Batterjee Medical College, Jeddah, SAU.
+AD  - Department of Occupational Health, Al-Nadeem Governmental Hospital, Ministry of 
+      Health, Amman, JOR.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+DEP - 20230830
+PL  - United States
+TA  - Cureus
+JT  - Cureus
+JID - 101596737
+PMC - PMC10542214
+OTO - NOTNLM
+OT  - chest x-ray
+OT  - chest x-ray interpretation
+OT  - medical students
+OT  - pico framework
+OT  - rayyan platform
+OT  - systematic review
+COIS- The authors have declared that no competing interests exist.
+EDAT- 2023/10/04 06:43
+MHDA- 2023/10/04 06:44
+CRDT- 2023/10/04 04:18
+PHST- 2023/08/30 00:00 [accepted]
+PHST- 2023/10/04 06:44 [medline]
+PHST- 2023/10/04 06:43 [pubmed]
+PHST- 2023/10/04 04:18 [entrez]
+AID - 10.7759/cureus.44399 [doi]
+PST - epublish
+SO  - Cureus. 2023 Aug 30;15(8):e44399. doi: 10.7759/cureus.44399. eCollection 2023 
+      Aug.

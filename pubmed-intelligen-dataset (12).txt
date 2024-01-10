@@ -1,0 +1,873 @@
+PMID- 37781135
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20231003
+IS  - 1932-1058 (Print)
+IS  - 1932-1058 (Electronic)
+IS  - 1932-1058 (Linking)
+VI  - 17
+IP  - 5
+DP  - 2023 Sep
+TI  - Bio-inspired microfluidics: A review.
+PG  - 051503
+LID - 10.1063/5.0161809 [doi]
+LID - 051503
+AB  - Biomicrofluidics, a subdomain of microfluidics, has been inspired by several 
+      ideas from nature. However, while the basic inspiration for the same may be drawn 
+      from the living world, the translation of all relevant essential functionalities 
+      to an artificially engineered framework does not remain trivial. Here, we review 
+      the recent progress in bio-inspired microfluidic systems via harnessing the 
+      integration of experimental and simulation tools delving into the interface of 
+      engineering and biology. Development of "on-chip" technologies as well as their 
+      multifarious applications is subsequently discussed, accompanying the relevant 
+      advancements in materials and fabrication technology. Pointers toward new 
+      directions in research, including an amalgamated fusion of data-driven modeling 
+      (such as artificial intelligence and machine learning) and physics-based 
+      paradigm, to come up with a human physiological replica on a synthetic bio-chip 
+      with due accounting of personalized features, are suggested. These are likely to 
+      facilitate physiologically replicating disease modeling on an artificially 
+      engineered biochip as well as advance drug development and screening in an 
+      expedited route with the minimization of animal and human trials.
+CI  - © 2023 Author(s).
+FAU - Raj M, Kiran
+AU  - Raj M K
+AUID- ORCID: 0000-0002-0108-1338
+AD  - Department of Applied Mechanics and Biomedical Engineering, Indian Institute of 
+      Technology Madras, Chennai, Tamil Nadu 600036, India.
+FAU - Priyadarshani, Jyotsana
+AU  - Priyadarshani J
+AUID- ORCID: 0000-0001-5413-140X
+AD  - Department of Mechanical Engineering, Biomechanics Section (BMe), KU Leuven, 
+      Celestijnenlaan 300, 3001 Louvain, Belgium.
+FAU - Karan, Pratyaksh
+AU  - Karan P
+AUID- ORCID: 0000-0001-5611-0856
+AD  - Géosciences Rennes Univ Rennes, CNRS, Géosciences Rennes, UMR 6118, 35000 Rennes, 
+      France.
+FAU - Bandyopadhyay, Saumyadwip
+AU  - Bandyopadhyay S
+AUID- ORCID: 0000-0003-4057-3420
+AD  - Advanced Technology Development Centre, Indian Institute of Technology Kharagpur, 
+      Kharagpur, West Bengal 721302, India.
+FAU - Bhattacharya, Soumya
+AU  - Bhattacharya S
+AUID- ORCID: 0000-0002-6142-5139
+AD  - Achira Labs Private Limited, 66b, 13th Cross Rd., Dollar Layout, 3-Phase, JP 
+      Nagar, Bangalore, Karnataka 560078, India.
+FAU - Chakraborty, Suman
+AU  - Chakraborty S
+AUID- ORCID: 0000-0002-6430-4017
+AD  - Department of Mechanical Engineering, Indian Institute of Technology Kharagpur, 
+      Kharagpur, West Bengal 721302, India.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+DEP - 20230927
+PL  - United States
+TA  - Biomicrofluidics
+JT  - Biomicrofluidics
+JID - 101293825
+PMC - PMC10539033
+COIS- The authors have no conflicts to disclose.
+EDAT- 2023/10/02 06:42
+MHDA- 2023/10/02 06:43
+PMCR- 2024/09/27
+CRDT- 2023/10/02 04:39
+PHST- 2023/06/12 00:00 [received]
+PHST- 2023/09/01 00:00 [accepted]
+PHST- 2024/09/27 00:00 [pmc-release]
+PHST- 2023/10/02 06:43 [medline]
+PHST- 2023/10/02 06:42 [pubmed]
+PHST- 2023/10/02 04:39 [entrez]
+AID - 5.0161809 [pii]
+AID - 10.1063/5.0161809 [doi]
+PST - epublish
+SO  - Biomicrofluidics. 2023 Sep 27;17(5):051503. doi: 10.1063/5.0161809. eCollection 
+      2023 Sep.
+
+PMID- 37780996
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20231003
+LR  - 20231004
+IS  - 1551-4056 (Electronic)
+IS  - 0044-0086 (Print)
+IS  - 0044-0086 (Linking)
+VI  - 96
+IP  - 3
+DP  - 2023 Sep
+TI  - "Big Data" Analyses Underlie Clinical Discoveries at the Aortic Institute.
+PG  - 427-440
+LID - 10.59249/LNDZ2964 [doi]
+AB  - This issue of the Yale Journal of Biology and Medicine (YJBM) focuses on Big Data 
+      and precision analytics in medical research. At the Aortic Institute at Yale New 
+      Haven Hospital, the vast majority of our investigations have emanated from our 
+      large, prospective clinical database of patients with thoracic aortic aneurysm 
+      (TAA), supplemented by ultra-large genetic sequencing files. Among the 
+      fundamental clinical and scientific discoveries enabled by application of 
+      advanced statistical and artificial intelligence techniques on these clinical and 
+      genetic databases are the following: From analysis of Traditional "Big Data" 
+      (Large data sets). 1. Ascending aortic aneurysms should be resected at 5 cm to 
+      prevent dissection and rupture. 2. Indexing aortic size to height improves aortic 
+      risk prognostication. 3. Aortic root dilatation is more malignant than 
+      mid-ascending aortic dilatation. 4. Ascending aortic aneurysm patients with 
+      bicuspid aortic valves do not carry the poorer prognosis previously postulated. 
+      5. The descending and thoracoabdominal aorta are capable of rupture without 
+      dissection. 6. Female patients with TAA do more poorly than male patients. 7. 
+      Ascending aortic length is even better than aortic diameter at predicting 
+      dissection. 8. A "silver lining" of TAA disease is the profound, lifelong 
+      protection from atherosclerosis. From Modern "Big Data" Machine 
+      Learning/Artificial Intelligence analysis: 1. Machine learning models for TAA: 
+      outperforming traditional anatomic criteria. 2. Genetic testing for TAA and 
+      dissection and discovery of novel causative genes. 3. Phenotypic genetic 
+      characterization by Artificial Intelligence. 4. Panel of RNAs "detects" TAA. Such 
+      findings, based on (a) long-standing application of advanced conventional 
+      statistical analysis to large clinical data sets, and (b) recent application of 
+      advanced machine learning/artificial intelligence to large genetic data sets at 
+      the Yale Aortic Institute have advanced the diagnosis and medical and surgical 
+      treatment of TAA.
+CI  - Copyright ©2023, Yale Journal of Biology and Medicine.
+FAU - Zafar, Mohammad A
+AU  - Zafar MA
+AD  - Aortic Institute at Yale New Haven Hospital, Yale University School of Medicine, 
+      New Haven, CT, USA.
+FAU - Ziganshin, Bulat A
+AU  - Ziganshin BA
+AD  - Aortic Institute at Yale New Haven Hospital, Yale University School of Medicine, 
+      New Haven, CT, USA.
+FAU - Li, Yupeng
+AU  - Li Y
+AD  - Department of Political Sciences and Economics, Rowan University, Glassboro, NJ 
+      USA.
+FAU - Ostberg, Nicolai P
+AU  - Ostberg NP
+AD  - Aortic Institute at Yale New Haven Hospital, Yale University School of Medicine, 
+      New Haven, CT, USA.
+AD  - New York University Grossman School of Medicine, New York, NY, USA.
+FAU - Rizzo, John A
+AU  - Rizzo JA
+AD  - Department of Economics and Department of Preventive Medicine, Stony Brook 
+      University, Stony Brook, NY, USA.
+FAU - Tranquilli, Maryann
+AU  - Tranquilli M
+AD  - Aortic Institute at Yale New Haven Hospital, Yale University School of Medicine, 
+      New Haven, CT, USA.
+FAU - Mukherjee, Sandip K
+AU  - Mukherjee SK
+AD  - Aortic Institute at Yale New Haven Hospital, Yale University School of Medicine, 
+      New Haven, CT, USA.
+FAU - Elefteriades, John A
+AU  - Elefteriades JA
+AD  - Aortic Institute at Yale New Haven Hospital, Yale University School of Medicine, 
+      New Haven, CT, USA.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+DEP - 20230929
+PL  - United States
+TA  - Yale J Biol Med
+JT  - The Yale journal of biology and medicine
+JID - 0417414
+SB  - IM
+MH  - Humans
+MH  - Male
+MH  - Female
+MH  - *Aortic Dissection/genetics
+MH  - Artificial Intelligence
+MH  - Prospective Studies
+MH  - Aorta/pathology
+MH  - *Aortic Aneurysm, Thoracic/genetics/diagnosis
+PMC - PMC10524815
+OTO - NOTNLM
+OT  - aortic dissection
+OT  - aortic root
+OT  - ascending aorta
+OT  - big data
+OT  - database
+OT  - descending aorta
+OT  - machine learning
+OT  - natural history
+OT  - risk prediction
+OT  - thoracic aortic aneurysm
+OT  - type A dissection
+OT  - type B dissection
+EDAT- 2023/10/02 06:42
+MHDA- 2023/10/03 06:47
+CRDT- 2023/10/02 04:37
+PHST- 2023/10/03 06:47 [medline]
+PHST- 2023/10/02 06:42 [pubmed]
+PHST- 2023/10/02 04:37 [entrez]
+AID - yjbm963427 [pii]
+AID - 10.59249/LNDZ2964 [doi]
+PST - epublish
+SO  - Yale J Biol Med. 2023 Sep 29;96(3):427-440. doi: 10.59249/LNDZ2964. eCollection 
+      2023 Sep.
+
+PMID- 37780993
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20231031
+LR  - 20231031
+IS  - 1551-4056 (Electronic)
+IS  - 0044-0086 (Print)
+IS  - 0044-0086 (Linking)
+VI  - 96
+IP  - 3
+DP  - 2023 Sep
+TI  - ChatGPT and the Future of Journal Reviews: A Feasibility Study.
+PG  - 415-420
+LID - 10.59249/SKDH9286 [doi]
+AB  - The increasing volume of research submissions to academic journals poses a 
+      significant challenge for traditional peer-review processes. To address this 
+      issue, this study explores the potential of employing ChatGPT, an advanced large 
+      language model (LLM), developed by OpenAI, as an artificial intelligence (AI) 
+      reviewer for academic journals. By leveraging the vast knowledge and natural 
+      language processing capabilities of ChatGPT, we hypothesize it may be possible to 
+      enhance the efficiency, consistency, and quality of the peer-review process. This 
+      research investigated key aspects of integrating ChatGPT into the journal review 
+      workflow. We compared the critical analysis of ChatGPT, acting as an AI reviewer, 
+      to human reviews for a single published article. Our methodological framework 
+      involved subjecting ChatGPT to an intricate examination, wherein its evaluative 
+      acumen was juxtaposed against human-authored reviews of a singular published 
+      article. As this is a feasibility study, one article was reviewed, which was a 
+      case report on scurvy. The entire article was used as an input into ChatGPT and 
+      commanded it to "Please perform a review of the following article and give points 
+      for revision." Since this was a case report with a limited word count the entire 
+      article could fit in one chat box. The output by ChatGPT was then compared with 
+      the comments by human reviewers. Key performance metrics, including precision and 
+      overall agreement, were judiciously and subjectively measured to portray the 
+      efficacy of ChatGPT as an AI reviewer in comparison to its human counterparts. 
+      The outcomes of this rigorous analysis unveiled compelling evidence regarding 
+      ChatGPT's performance as an AI reviewer. We demonstrated that ChatGPT's critical 
+      analyses aligned with those of human reviewers, as evidenced by the inter-rater 
+      agreement. Notably, ChatGPT exhibited commendable capability in identifying 
+      methodological flaws, articulating insightful feedback on theoretical frameworks, 
+      and gauging the overall contribution of the articles to their respective fields. 
+      While the integration of ChatGPT showcased immense promise, certain challenges 
+      and caveats surfaced. For example, ambiguities might present with complex 
+      research articles, leading to nuanced discrepancies between AI and human reviews. 
+      Also figures and images cannot be reviewed by ChatGPT. Lengthy articles need to 
+      be reviewed in parts by ChatGPT as the entire article will not fit in one 
+      chat/response. The benefits consist of reduction in time needed by journals to 
+      review the articles submitted to them, as well as an AI assistant to give a 
+      different perspective about the research papers other than the human reviewers. 
+      In conclusion, this research contributes a groundbreaking foundation for 
+      incorporating ChatGPT into the pantheon of journal reviewers. The delineated 
+      guidelines distill key insights into operationalizing ChatGPT as a proficient 
+      reviewer within academic journal frameworks, paving the way for a more efficient 
+      and insightful review process.
+CI  - Copyright ©2023, Yale Journal of Biology and Medicine.
+FAU - Biswas, Som
+AU  - Biswas S
+AD  - Le Bonheur Children's Hospital, The University of Tennessee Health Science 
+      Center, Memphis, TN, USA.
+FAU - Dobaria, Dushyant
+AU  - Dobaria D
+AD  - Le Bonheur Children's Hospital, The University of Tennessee Health Science 
+      Center, Memphis, TN, USA.
+FAU - Cohen, Harris L
+AU  - Cohen HL
+AD  - Le Bonheur Children's Hospital, The University of Tennessee Health Science 
+      Center, Memphis, TN, USA.
+LA  - eng
+PT  - Case Reports
+PT  - Journal Article
+PT  - Review
+DEP - 20230929
+PL  - United States
+TA  - Yale J Biol Med
+JT  - The Yale journal of biology and medicine
+JID - 0417414
+SB  - IM
+MH  - Humans
+MH  - Feasibility Studies
+MH  - *Artificial Intelligence
+PMC - PMC10524821
+OTO - NOTNLM
+OT  - chatGPT
+OT  - journal review
+OT  - review
+EDAT- 2023/10/02 06:42
+MHDA- 2023/10/31 06:42
+CRDT- 2023/10/02 04:37
+PHST- 2023/10/31 06:42 [medline]
+PHST- 2023/10/02 06:42 [pubmed]
+PHST- 2023/10/02 04:37 [entrez]
+AID - yjbm963415 [pii]
+AID - 10.59249/SKDH9286 [doi]
+PST - epublish
+SO  - Yale J Biol Med. 2023 Sep 29;96(3):415-420. doi: 10.59249/SKDH9286. eCollection 
+      2023 Sep.
+
+PMID- 37780992
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20231004
+LR  - 20231020
+IS  - 1551-4056 (Electronic)
+IS  - 0044-0086 (Print)
+IS  - 0044-0086 (Linking)
+VI  - 96
+IP  - 3
+DP  - 2023 Sep
+TI  - Artificial Intelligence to Improve Patient Understanding of Radiology Reports.
+PG  - 407-417
+LID - 10.59249/NKOY5498 [doi]
+AB  - Diagnostic imaging reports are generally written with a target audience of other 
+      providers. As a result, the reports are written with medical jargon and technical 
+      detail to ensure accurate communication. With implementation of the 21st Century 
+      Cures Act, patients have greater and quicker access to their imaging reports, but 
+      these reports are still written above the comprehension level of the average 
+      patient. Consequently, many patients have requested reports to be conveyed in 
+      language accessible to them. Numerous studies have shown that improving patient 
+      understanding of their condition results in better outcomes, so driving 
+      comprehension of imaging reports is essential. Summary statements, second 
+      reports, and the inclusion of the radiologist's phone number have been proposed, 
+      but these solutions have implications for radiologist workflow. Artificial 
+      intelligence (AI) has the potential to simplify imaging reports without 
+      significant disruptions. Many AI technologies have been applied to radiology 
+      reports in the past for various clinical and research purposes, but patient 
+      focused solutions have largely been ignored. New natural language processing 
+      technologies and large language models (LLMs) have the potential to improve 
+      patient understanding of their imaging reports. However, LLMs are a nascent 
+      technology and significant research is required before LLM-driven report 
+      simplification is used in patient care.
+CI  - Copyright ©2023, Yale Journal of Biology and Medicine.
+FAU - Amin, Kanhai
+AU  - Amin K
+AD  - Yale University, New Haven, CT, USA.
+FAU - Khosla, Pavan
+AU  - Khosla P
+AD  - Yale School of Medicine, New Haven, CT, USA.
+FAU - Doshi, Rushabh
+AU  - Doshi R
+AD  - Yale School of Medicine, New Haven, CT, USA.
+FAU - Chheang, Sophie
+AU  - Chheang S
+AD  - Department of Radiology and Biomedical Imaging, Yale School of Medicine, New 
+      Haven, CT, USA.
+FAU - Forman, Howard P
+AU  - Forman HP
+AD  - Department of Radiology and Biomedical Imaging, Yale School of Medicine, New 
+      Haven, CT, USA.
+AD  - Yale School of Management, New Haven, CT, USA.
+AD  - Department of Health Policy and Management, Yale School of Public Health, New 
+      Haven, CT, USA.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+DEP - 20230929
+PL  - United States
+TA  - Yale J Biol Med
+JT  - The Yale journal of biology and medicine
+JID - 0417414
+SB  - IM
+MH  - Humans
+MH  - *Artificial Intelligence
+MH  - *Radiology/methods
+MH  - Communication
+PMC - PMC10524809
+OTO - NOTNLM
+OT  - 21st Century Cures Act
+OT  - Artificial Intelligence
+OT  - Imaging Report
+OT  - Large Language Model
+OT  - Natural Language Processing
+OT  - Radiology Report
+EDAT- 2023/10/02 06:42
+MHDA- 2023/10/04 06:43
+CRDT- 2023/10/02 04:37
+PHST- 2023/10/04 06:43 [medline]
+PHST- 2023/10/02 06:42 [pubmed]
+PHST- 2023/10/02 04:37 [entrez]
+AID - yjbm963407 [pii]
+AID - 10.59249/NKOY5498 [doi]
+PST - epublish
+SO  - Yale J Biol Med. 2023 Sep 29;96(3):407-417. doi: 10.59249/NKOY5498. eCollection 
+      2023 Sep.
+
+PMID- 37780898
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20231003
+IS  - 2347-3584 (Print)
+IS  - 2347-3517 (Electronic)
+IS  - 2347-3584 (Linking)
+VI  - 34
+IP  - 3
+DP  - 2023 Sep
+TI  - Integrated point-of-care RT-PCR methods during and after COVID-19 pandemic.
+PG  - 356-364
+LID - 10.1007/s13337-023-00834-x [doi]
+AB  - The COVID-19 pandemic has taken the world by surprise and people and 
+      organisations worldwide worked in some way or the other to combat the spread; 
+      isolate from the infected and get back to normal life, as it was before the 
+      pandemic hit. In this regard, the diagnosis of COVID-19 was at the centre of 
+      control and prevention and have seen a vehement change in every aspect, 
+      especially development of point-of-care testing for better and quick diagnosis. 
+      Among different types of techniques developed, the most important was the RT-PCR 
+      method of detection which detects nucleic acid of the virus in samples. RT-PCR is 
+      a laboratory-based method requiring trained professionals and precise steps for 
+      accurate testing. With the advent and spread of the pandemic, number of RT-PCR 
+      diagnostic centres rose significantly, and the detection process became less 
+      cumbersome, easy to use, ability to handle large volume of samples, more 
+      accurate, less time-consuming, and cost-effective. Different industries developed 
+      RT-PCR kits, reducing the efforts to prepare laboratory samples. Machines were 
+      employed for labour-driven tasks in PCR testing. In addition, new age 
+      technologies such as artificial intelligence, IoT, digital systems were combined 
+      with RT-PCR for accurate and easy testing. In this review, point-of-care RT-PCR 
+      methods, when the COVID-19 started, and the methods now, has been compared on the 
+      basis of technological advancements.
+CI  - © The Author(s), under exclusive licence to Indian Virological Society 2023. 
+      Springer Nature or its licensor (e.g. a society or other partner) holds exclusive 
+      rights to this article under a publishing agreement with the author(s) or other 
+      rightsholder(s); author self-archiving of the accepted manuscript version of this 
+      article is solely governed by the terms of such publishing agreement and 
+      applicable law.
+FAU - Sharma, Shagun
+AU  - Sharma S
+AD  - Department of Zoology, University of Rajasthan, JLN Marg, Jaipur, 302004 India. 
+      ROR: https://ror.org/05arfhc56. GRID: grid.412746.2. ISNI: 0000 0000 8498 7826
+FAU - Shrivastava, Surabhi
+AU  - Shrivastava S
+AD  - Physical Sciences Research Area, TCS Research, Tata Research Development and 
+      Design Centre, Tata Consultancy Services Limited, Pune, 411013 India. GRID: 
+      grid.452790.d. ISNI: 0000 0001 2167 8812
+FAU - Kausley, Shankar B
+AU  - Kausley SB
+AUID- ORCID: 0000-0003-0617-4338
+AD  - Physical Sciences Research Area, TCS Research, Tata Research Development and 
+      Design Centre, Tata Consultancy Services Limited, Pune, 411013 India. GRID: 
+      grid.452790.d. ISNI: 0000 0001 2167 8812
+FAU - Rai, Beena
+AU  - Rai B
+AD  - Physical Sciences Research Area, TCS Research, Tata Research Development and 
+      Design Centre, Tata Consultancy Services Limited, Pune, 411013 India. GRID: 
+      grid.452790.d. ISNI: 0000 0001 2167 8812
+LA  - eng
+PT  - Journal Article
+PT  - Review
+DEP - 20230907
+PL  - India
+TA  - Virusdisease
+JT  - Virusdisease
+JID - 101624144
+PMC - PMC10533447
+OTO - NOTNLM
+OT  - COVID-19
+OT  - Point-of-care diagnosis
+OT  - RT-PCR
+OT  - SARS-CoV-2
+EDAT- 2023/10/02 06:42
+MHDA- 2023/10/02 06:43
+PMCR- 2024/09/01
+CRDT- 2023/10/02 04:35
+PHST- 2022/12/19 00:00 [received]
+PHST- 2023/08/07 00:00 [accepted]
+PHST- 2024/09/01 00:00 [pmc-release]
+PHST- 2023/10/02 06:43 [medline]
+PHST- 2023/10/02 06:42 [pubmed]
+PHST- 2023/10/02 04:35 [entrez]
+AID - 834 [pii]
+AID - 10.1007/s13337-023-00834-x [doi]
+PST - ppublish
+SO  - Virusdisease. 2023 Sep;34(3):356-364. doi: 10.1007/s13337-023-00834-x. Epub 2023 
+      Sep 7.
+
+PMID- 37780897
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20231003
+IS  - 2347-3584 (Print)
+IS  - 2347-3517 (Electronic)
+IS  - 2347-3584 (Linking)
+VI  - 34
+IP  - 3
+DP  - 2023 Sep
+TI  - Transforming clinical virology with AI, machine learning and deep learning: a 
+      comprehensive review and outlook.
+PG  - 345-355
+LID - 10.1007/s13337-023-00841-y [doi]
+AB  - In the rapidly evolving field of clinical virology, technological advancements 
+      have always played a pivotal role in driving transformative changes. This 
+      comprehensive review delves into the burgeoning integration of artificial 
+      intelligence (AI), machine learning, and deep learning into virological research 
+      and practice. As we elucidate, these computational tools have significantly 
+      enhanced diagnostic precision, therapeutic interventions, and epidemiological 
+      monitoring. Through in-depth analyses of notable case studies, we showcase how 
+      algorithms can optimize viral genome sequencing, accelerate drug discovery, and 
+      offer predictive insights into viral outbreaks. However, with these advancements 
+      come inherent challenges, particularly in data security, algorithmic biases, and 
+      ethical considerations. Addressing these challenges head-on, we discuss potential 
+      remedial measures and underscore the significance of interdisciplinary 
+      collaboration between virologists, data scientists, and ethicists. Conclusively, 
+      this review posits an outlook that anticipates a symbiotic relationship between 
+      AI-driven tools and virology, heralding a new era of proactive and personalized 
+      patient care.
+CI  - © The Author(s), under exclusive licence to Indian Virological Society 2023. 
+      Springer Nature or its licensor (e.g. a society or other partner) holds exclusive 
+      rights to this article under a publishing agreement with the author(s) or other 
+      rightsholder(s); author self-archiving of the accepted manuscript version of this 
+      article is solely governed by the terms of such publishing agreement and 
+      applicable law.
+FAU - Padhi, Abhishek
+AU  - Padhi A
+AD  - Department of Microbiology, All India Institute of Medical Sciences, Rajkot, 
+      Gujarat 360110 India. ROR: https://ror.org/02dwcqs71. GRID: grid.413618.9. ISNI: 
+      0000 0004 1767 6103
+FAU - Agarwal, Ashwini
+AU  - Agarwal A
+AD  - Department of Microbiology, All India Institute of Medical Sciences, Rajkot, 
+      Gujarat 360110 India. ROR: https://ror.org/02dwcqs71. GRID: grid.413618.9. ISNI: 
+      0000 0004 1767 6103
+FAU - Saxena, Shailendra K
+AU  - Saxena SK
+AUID- ORCID: 0000-0003-2856-4185
+AD  - Centre for Advanced Research (CFAR), Faculty of Medicine, King George's Medical 
+      University (KGMU), Lucknow, India. ROR: https://ror.org/00gvw6327. GRID: 
+      grid.411275.4. ISNI: 0000 0004 0645 6578
+FAU - Katoch, C D S
+AU  - Katoch CDS
+AD  - All India Institute of Medical Sciences, Rajkot, Gujarat 360110 India. ROR: 
+      https://ror.org/02dwcqs71. GRID: grid.413618.9. ISNI: 0000 0004 1767 6103
+LA  - eng
+PT  - Journal Article
+PT  - Review
+DEP - 20230921
+PL  - India
+TA  - Virusdisease
+JT  - Virusdisease
+JID - 101624144
+PMC - PMC10533451
+OTO - NOTNLM
+OT  - Artificial intelligence
+OT  - Clinical virology
+OT  - Deep learning
+OT  - Machine learning
+OT  - Precision medicine
+EDAT- 2023/10/02 06:42
+MHDA- 2023/10/02 06:43
+PMCR- 2024/09/01
+CRDT- 2023/10/02 04:35
+PHST- 2023/08/30 00:00 [accepted]
+PHST- 2024/09/01 00:00 [pmc-release]
+PHST- 2023/10/02 06:43 [medline]
+PHST- 2023/10/02 06:42 [pubmed]
+PHST- 2023/10/02 04:35 [entrez]
+AID - 841 [pii]
+AID - 10.1007/s13337-023-00841-y [doi]
+PST - ppublish
+SO  - Virusdisease. 2023 Sep;34(3):345-355. doi: 10.1007/s13337-023-00841-y. Epub 2023 
+      Sep 21.
+
+PMID- 37780837
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20231003
+IS  - 2624-8212 (Electronic)
+IS  - 2624-8212 (Linking)
+VI  - 6
+DP  - 2023
+TI  - Early breast cancer detection and differentiation tool based on tissue impedance 
+      characteristics and machine learning.
+PG  - 1248977
+LID - 10.3389/frai.2023.1248977 [doi]
+LID - 1248977
+AB  - During Basic screening, it is challenging, if not impossible to detect breast 
+      cancer especially in the earliest stage of tumor development. However, measuring 
+      the electrical impedance of biological tissue can detect abnormalities even 
+      before being palpable. Thus, we used impedance characteristics data of various 
+      breast tissue to develop a breast cancer screening tool guided and augmented by a 
+      deep learning (DL). A DL algorithm was trained to ideally classify six classes of 
+      breast cancer based on electrical impedance characteristics data of the breast 
+      tissue. The tool correctly predicted breast cancer in data of patients whose 
+      breast tissue impedance was reported to have been measured when other methods 
+      detected no anomaly in the tissue. Furthermore, a DL-based approach using Long 
+      Short-Term Memory (LSTM) effectively classified breast tissue with an accuracy of 
+      96.67%. Thus, the DL algorithm and method we developed accurately augmented 
+      breast tissue classification using electrical impedance and enhanced the ability 
+      to detect and differentiate cancerous tissue in very early stages. However, more 
+      data and pre-clinical is required to improve the accuracy of this early breast 
+      cancer detection and differentiation tool.
+CI  - Copyright © 2023 Salem, Ali, Leo, Lachiri and Mkandawire.
+FAU - Salem, Soumaya Ben
+AU  - Salem SB
+AD  - SITI Laboratory, National School of Engineers of Tunis, University of Tunis El 
+      Manar, Tunis, Tunisia.
+AD  - Department of Chemistry, School Science and Technology, Cape Breton University, 
+      Sydney, NS, Canada.
+FAU - Ali, Samar Zahra
+AU  - Ali SZ
+AD  - Department of Chemistry, School Science and Technology, Cape Breton University, 
+      Sydney, NS, Canada.
+FAU - Leo, Anyik John
+AU  - Leo AJ
+AD  - Department of Chemistry, School Science and Technology, Cape Breton University, 
+      Sydney, NS, Canada.
+FAU - Lachiri, Zied
+AU  - Lachiri Z
+AD  - SITI Laboratory, National School of Engineers of Tunis, University of Tunis El 
+      Manar, Tunis, Tunisia.
+FAU - Mkandawire, Martin
+AU  - Mkandawire M
+AD  - Department of Chemistry, School Science and Technology, Cape Breton University, 
+      Sydney, NS, Canada.
+LA  - eng
+PT  - Journal Article
+DEP - 20230913
+PL  - Switzerland
+TA  - Front Artif Intell
+JT  - Frontiers in artificial intelligence
+JID - 101770551
+PMC - PMC10534039
+OTO - NOTNLM
+OT  - artificial intelligence
+OT  - cancer differentiation
+OT  - electrical impedance spectroscopy
+OT  - machine learning
+OT  - malignant lesion
+OT  - mammography imaging
+COIS- The authors declare that the research was conducted in the absence of any 
+      commercial or financial relationships that could be construed as a potential 
+      conflict of interest.
+EDAT- 2023/10/02 06:42
+MHDA- 2023/10/02 06:43
+CRDT- 2023/10/02 04:34
+PHST- 2023/06/27 00:00 [received]
+PHST- 2023/08/14 00:00 [accepted]
+PHST- 2023/10/02 06:43 [medline]
+PHST- 2023/10/02 06:42 [pubmed]
+PHST- 2023/10/02 04:34 [entrez]
+AID - 10.3389/frai.2023.1248977 [doi]
+PST - epublish
+SO  - Front Artif Intell. 2023 Sep 13;6:1248977. doi: 10.3389/frai.2023.1248977. 
+      eCollection 2023.
+
+PMID- 37780736
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20231030
+IS  - 2046-2069 (Electronic)
+IS  - 2046-2069 (Linking)
+VI  - 13
+IP  - 41
+DP  - 2023 Sep 26
+TI  - AI based image analysis of red blood cells in oscillating microchannels.
+PG  - 28576-28582
+LID - 10.1039/d3ra04644c [doi]
+AB  - The flow dynamics of red blood cells in vivo in blood capillaries and in vitro in 
+      microfluidic channels is complex. Cells can obtain different shapes such as 
+      discoid, parachute, slipper-like shapes and various intermediate states depending 
+      on flow conditions and their viscoelastic properties. We use artificial 
+      intelligence based analysis of red blood cells (RBCs) in an oscillating 
+      microchannel to distinguish healthy red blood cells from red blood cells treated 
+      with formaldehyde to chemically modify their viscoelastic behavior. We used 
+      TensorFlow to train and validate a deep learning model and achieved a testing 
+      accuracy of over 97%. This method is a first step to a non-invasive, label-free 
+      characterization of diseased red blood cells and will be useful for diagnostic 
+      purposes in haematology labs. This method provides quantitative data on the 
+      number of affected cells based on single cell classification.
+CI  - This journal is © The Royal Society of Chemistry.
+FAU - Link, Andreas
+AU  - Link A
+AUID- ORCID: 0000-0002-1141-2831
+AD  - Division of Biomedical Engineering, School of Engineering, University of Glasgow 
+      Oakfield Avenue G12 8LT Glasgow UK Thomas.franke@glasgow.ac.uk.
+FAU - Pardo, Irene Luna
+AU  - Pardo IL
+AUID- ORCID: 0009-0004-7846-2608
+AD  - Division of Biomedical Engineering, School of Engineering, University of Glasgow 
+      Oakfield Avenue G12 8LT Glasgow UK Thomas.franke@glasgow.ac.uk.
+FAU - Porr, Bernd
+AU  - Porr B
+AUID- ORCID: 0000-0001-8157-998X
+AD  - Division of Biomedical Engineering, School of Engineering, University of Glasgow 
+      Oakfield Avenue G12 8LT Glasgow UK Thomas.franke@glasgow.ac.uk.
+FAU - Franke, Thomas
+AU  - Franke T
+AUID- ORCID: 0000-0001-5018-7545
+AD  - Division of Biomedical Engineering, School of Engineering, University of Glasgow 
+      Oakfield Avenue G12 8LT Glasgow UK Thomas.franke@glasgow.ac.uk.
+LA  - eng
+PT  - Journal Article
+DEP - 20230928
+PL  - England
+TA  - RSC Adv
+JT  - RSC advances
+JID - 101581657
+PMC - PMC10537593
+COIS- There are no conflicts to declare.
+EDAT- 2023/10/02 06:42
+MHDA- 2023/10/02 06:43
+CRDT- 2023/10/02 04:32
+PHST- 2023/07/11 00:00 [received]
+PHST- 2023/08/29 00:00 [accepted]
+PHST- 2023/10/02 06:43 [medline]
+PHST- 2023/10/02 06:42 [pubmed]
+PHST- 2023/10/02 04:32 [entrez]
+AID - d3ra04644c [pii]
+AID - 10.1039/d3ra04644c [doi]
+PST - epublish
+SO  - RSC Adv. 2023 Sep 28;13(41):28576-28582. doi: 10.1039/d3ra04644c. eCollection 
+      2023 Sep 26.
+
+PMID- 37780621
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20231004
+LR  - 20231010
+IS  - 1664-2392 (Print)
+IS  - 1664-2392 (Electronic)
+IS  - 1664-2392 (Linking)
+VI  - 14
+DP  - 2023
+TI  - A multicenter study on the application of artificial intelligence radiological 
+      characteristics to predict prognosis after percutaneous nephrolithotomy.
+PG  - 1184608
+LID - 10.3389/fendo.2023.1184608 [doi]
+LID - 1184608
+AB  - BACKGROUND: A model to predict preoperative outcomes after percutaneous 
+      nephrolithotomy (PCNL) with renal staghorn stones is developed to be an essential 
+      preoperative consultation tool. OBJECTIVE: In this study, we constructed a 
+      predictive model for one-time stone clearance after PCNL for renal staghorn 
+      calculi, so as to predict the stone clearance rate of patients in one operation, 
+      and provide a reference direction for patients and clinicians. METHODS: According 
+      to the 175 patients with renal staghorn stones undergoing PCNL at two centers, 
+      preoperative/postoperative variables were collected. After identifying 
+      characteristic variables using PCA analysis to avoid overfitting. A predictive 
+      model was developed for preoperative outcomes after PCNL in patients with renal 
+      staghorn stones. In addition, we repeatedly cross-validated their model's 
+      predictive efficacy and clinical application using data from two different 
+      centers. RESULTS: The study included 175 patients from two centers treated with 
+      PCNL. We used a training set and an external validation set. Radionics 
+      characteristics, deep migration learning, clinical characteristics, and 
+      DTL+Rad-signature were successfully constructed using machine learning based on 
+      patients' pre/postoperative imaging characteristics and clinical variables using 
+      minimum absolute shrinkage and selection operator algorithms. In this study, 
+      DTL-Rad signal was found to be the outstanding predictor of stone clearance in 
+      patients with renal deer antler-like stones treated by PCNL. The DTL+Rad 
+      signature showed good discriminatory ability in both the training and external 
+      validation groups with AUC values of 0.871 (95% CI, 0.800-0.942) and 0.744 (95% 
+      CI, 0.617-0.871). The decision curve demonstrated the radiographic model's 
+      clinical utility and illustrated specificities of 0.935 and 0.806, respectively. 
+      CONCLUSION: We found a prediction model combining imaging characteristics, neural 
+      networks, and clinical characteristics can be used as an effective preoperative 
+      prediction method.
+CI  - Copyright © 2023 Hou, Wen, Qu, Chen, Xu, Wu, Ji, Wei, Liang, Huang and Xiong.
+FAU - Hou, Jian
+AU  - Hou J
+AD  - Division of Urology, Department of Surgery, The University of Hongkong-Shenzhen 
+      Hosipital, ShenZhen, China.
+FAU - Wen, Xiangyang
+AU  - Wen X
+AD  - Division of Urology, Department of Surgery, The University of Hongkong-Shenzhen 
+      Hosipital, ShenZhen, China.
+FAU - Qu, Genyi
+AU  - Qu G
+AD  - Department of Urology, Zhuzhou Central Hospital, Zhuzhou, China.
+FAU - Chen, Wenwen
+AU  - Chen W
+AD  - Department of Radiology, Zixing First People's Hospital, Chenzhou, China.
+FAU - Xu, Xiang
+AU  - Xu X
+AD  - Division of Urology, Department of Surgery, The University of Hongkong-Shenzhen 
+      Hosipital, ShenZhen, China.
+FAU - Wu, Guoqing
+AU  - Wu G
+AD  - Division of Urology, Department of Surgery, The University of Hongkong-Shenzhen 
+      Hosipital, ShenZhen, China.
+FAU - Ji, Ruidong
+AU  - Ji R
+AD  - Division of Urology, Department of Surgery, The University of Hongkong-Shenzhen 
+      Hosipital, ShenZhen, China.
+FAU - Wei, Genggeng
+AU  - Wei G
+AD  - Division of Urology, Department of Surgery, The University of Hongkong-Shenzhen 
+      Hosipital, ShenZhen, China.
+FAU - Liang, Tuo
+AU  - Liang T
+AD  - Division of Urology, Department of Surgery, The University of Hongkong-Shenzhen 
+      Hosipital, ShenZhen, China.
+FAU - Huang, Wenyan
+AU  - Huang W
+AD  - Division of Urology, Department of Surgery, The University of Hongkong-Shenzhen 
+      Hosipital, ShenZhen, China.
+FAU - Xiong, Lin
+AU  - Xiong L
+AD  - Division of Urology, Department of Surgery, The University of Hongkong-Shenzhen 
+      Hosipital, ShenZhen, China.
+LA  - eng
+PT  - Journal Article
+PT  - Multicenter Study
+DEP - 20230915
+PL  - Switzerland
+TA  - Front Endocrinol (Lausanne)
+JT  - Frontiers in endocrinology
+JID - 101555782
+SB  - IM
+MH  - Animals
+MH  - Humans
+MH  - *Nephrolithotomy, Percutaneous/methods
+MH  - Artificial Intelligence
+MH  - *Nephrostomy, Percutaneous/adverse effects/methods
+MH  - *Deer
+MH  - Prognosis
+MH  - *Kidney Calculi/diagnostic imaging/surgery/etiology
+PMC - PMC10541026
+OTO - NOTNLM
+OT  - artificial intelligence
+OT  - clinical-radionics model
+OT  - decision support system
+OT  - percutaneous nephrolithotomy
+OT  - renal staghorn stones
+COIS- The authors declare that the research was conducted in the absence of any 
+      commercial or financial relationships that could be construed as a potential 
+      conflict of interest.
+EDAT- 2023/10/02 06:42
+MHDA- 2023/10/04 06:44
+CRDT- 2023/10/02 04:31
+PHST- 2023/03/12 00:00 [received]
+PHST- 2023/08/30 00:00 [accepted]
+PHST- 2023/10/04 06:44 [medline]
+PHST- 2023/10/02 06:42 [pubmed]
+PHST- 2023/10/02 04:31 [entrez]
+AID - 10.3389/fendo.2023.1184608 [doi]
+PST - epublish
+SO  - Front Endocrinol (Lausanne). 2023 Sep 15;14:1184608. doi: 
+      10.3389/fendo.2023.1184608. eCollection 2023.
+
+PMID- 37780472
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20231003
+LR  - 20240102
+IS  - 0008-5286 (Print)
+IS  - 0008-5286 (Linking)
+VI  - 64
+IP  - 10
+DP  - 2023 Oct
+TI  - Artificial intelligence in veterinary medicine requires regulation.
+PG  - 968-970
+FAU - Bellamy, James E C
+AU  - Bellamy JEC
+AD  - Stratford, Prince Edward Island C1B 0G7.
+LA  - eng
+PT  - Journal Article
+PL  - Canada
+TA  - Can Vet J
+JT  - The Canadian veterinary journal = La revue veterinaire canadienne
+JID - 0004653
+SB  - IM
+MH  - Animals
+MH  - *Artificial Intelligence
+MH  - *Veterinary Medicine
+PMC - PMC10506349
+EDAT- 2023/10/02 06:42
+MHDA- 2023/10/03 06:47
+CRDT- 2023/10/02 04:28
+PHST- 2023/10/03 06:47 [medline]
+PHST- 2023/10/02 06:42 [pubmed]
+PHST- 2023/10/02 04:28 [entrez]
+AID - cvj_10_968 [pii]
+PST - ppublish
+SO  - Can Vet J. 2023 Oct;64(10):968-970.

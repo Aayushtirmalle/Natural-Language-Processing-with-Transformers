@@ -1,0 +1,778 @@
+PMID- 37790274
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20231031
+IS  - 2589-0042 (Electronic)
+IS  - 2589-0042 (Linking)
+VI  - 26
+IP  - 10
+DP  - 2023 Oct 20
+TI  - Estimation of vital signs from facial videos via video magnification and deep 
+      learning.
+PG  - 107845
+LID - 10.1016/j.isci.2023.107845 [doi]
+LID - 107845
+AB  - The continuous monitoring of vital signs is one of the hottest topics in 
+      healthcare. Recent technological advances in sensors, signal processing, and 
+      image processing spawned the development of no-contact techniques such as remote 
+      photoplethysmography (rPPG). To solve the common problems of rPPG including weak 
+      extracted signals, body movements, and generalization with limited data 
+      resources, we proposed a dual-path estimation method based on video magnification 
+      and deep learning. First, image processes are applied to detect, track, and 
+      magnificate facial ROIs automatically. Then, the steady part of the wave of each 
+      processed ROI is used for the extraction of features including heart rate, PTT, 
+      and features of pulse wave waveform. The blood pressures are estimated from the 
+      features via a small CNN. Results comply with the current standard and promise 
+      potential clinical applications in the future.
+CI  - © 2023 The Author(s).
+FAU - Lin, Bin
+AU  - Lin B
+AD  - Key Laboratory of Opto-Electronic Science and Technology for Medicine of Ministry 
+      of Education, Fujian Provincial Key Laboratory of Photonics Technology, College 
+      of Photonic and Electronic Engineering, Fujian Normal University, Fuzhou, Fujian 
+      350117, China.
+FAU - Tao, Jing
+AU  - Tao J
+AD  - Key Laboratory of Opto-Electronic Science and Technology for Medicine of Ministry 
+      of Education, Fujian Provincial Key Laboratory of Photonics Technology, College 
+      of Photonic and Electronic Engineering, Fujian Normal University, Fuzhou, Fujian 
+      350117, China.
+FAU - Xu, Jingjing
+AU  - Xu J
+AD  - Key Laboratory of Opto-Electronic Science and Technology for Medicine of Ministry 
+      of Education, Fujian Provincial Key Laboratory of Photonics Technology, College 
+      of Photonic and Electronic Engineering, Fujian Normal University, Fuzhou, Fujian 
+      350117, China.
+FAU - He, Liang
+AU  - He L
+AD  - Key Laboratory of Opto-Electronic Science and Technology for Medicine of Ministry 
+      of Education, Fujian Provincial Key Laboratory of Photonics Technology, College 
+      of Photonic and Electronic Engineering, Fujian Normal University, Fuzhou, Fujian 
+      350117, China.
+FAU - Liu, Nenrong
+AU  - Liu N
+AD  - Fujian Provincial Key Laboratory of Quantum Manipulation and New Energy 
+      Materials, Fujian Provincial Collaborative Innovation Center for Advanced 
+      High-Field Superconducting Materials and Engineering, College of Physics and 
+      Energy, Fujian Normal University, Fuzhou, Fujian 350117, China.
+FAU - Zhang, Xianzeng
+AU  - Zhang X
+AD  - Key Laboratory of Opto-Electronic Science and Technology for Medicine of Ministry 
+      of Education, Fujian Provincial Key Laboratory of Photonics Technology, College 
+      of Photonic and Electronic Engineering, Fujian Normal University, Fuzhou, Fujian 
+      350117, China.
+LA  - eng
+PT  - Journal Article
+DEP - 20230906
+PL  - United States
+TA  - iScience
+JT  - iScience
+JID - 101724038
+PMC - PMC10542939
+OTO - NOTNLM
+OT  - Artificial intelligence
+OT  - Machine learning
+OT  - Physics
+COIS- The authors declare no competing interests.
+EDAT- 2023/10/04 06:43
+MHDA- 2023/10/04 06:44
+CRDT- 2023/10/04 04:01
+PHST- 2023/05/25 00:00 [received]
+PHST- 2023/07/27 00:00 [revised]
+PHST- 2023/09/05 00:00 [accepted]
+PHST- 2023/10/04 06:44 [medline]
+PHST- 2023/10/04 06:43 [pubmed]
+PHST- 2023/10/04 04:01 [entrez]
+AID - S2589-0042(23)01922-3 [pii]
+AID - 107845 [pii]
+AID - 10.1016/j.isci.2023.107845 [doi]
+PST - epublish
+SO  - iScience. 2023 Sep 6;26(10):107845. doi: 10.1016/j.isci.2023.107845. eCollection 
+      2023 Oct 20.
+
+PMID- 37790256
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20231005
+IS  - 2296-4185 (Print)
+IS  - 2296-4185 (Electronic)
+IS  - 2296-4185 (Linking)
+VI  - 11
+DP  - 2023
+TI  - Self-powered intelligent pulse sensor based on triboelectric nanogenerators with 
+      AI assistance.
+PG  - 1236292
+LID - 10.3389/fbioe.2023.1236292 [doi]
+LID - 1236292
+FAU - Tian, Yifei
+AU  - Tian Y
+AD  - Chongqing Key Laboratory of Nonlinear Circuits and Intelligent Information 
+      Processing, College of Electronic and Information Engineering, Southwest 
+      University, Chongqing, China.
+FAU - Hu, Cong
+AU  - Hu C
+AD  - Guangxi Key Laboratory of Automatic Detecting Technology and Instruments, Guilin 
+      University of Electronic Technology, Guilin, China.
+FAU - Peng, Deguang
+AU  - Peng D
+AD  - Chongqing Megalight Technology Co., Ltd., Chongqing, China.
+FAU - Zhu, Zhiyuan
+AU  - Zhu Z
+AD  - Chongqing Key Laboratory of Nonlinear Circuits and Intelligent Information 
+      Processing, College of Electronic and Information Engineering, Southwest 
+      University, Chongqing, China.
+LA  - eng
+PT  - Journal Article
+DEP - 20230915
+PL  - Switzerland
+TA  - Front Bioeng Biotechnol
+JT  - Frontiers in bioengineering and biotechnology
+JID - 101632513
+PMC - PMC10543276
+OTO - NOTNLM
+OT  - AI
+OT  - TENG
+OT  - artificial intelligence
+OT  - pulse detection
+OT  - triboelectric nanogenerators
+COIS- Author DP was employed by the company Chongqing Megalight Technology Co., Ltd. 
+      The remaining authors declare that the research was conducted in the absence of 
+      any commercial or financial relationships that could be construed as a potential 
+      conflict of interest.
+EDAT- 2023/10/04 06:43
+MHDA- 2023/10/04 06:44
+CRDT- 2023/10/04 04:01
+PHST- 2023/06/07 00:00 [received]
+PHST- 2023/09/06 00:00 [accepted]
+PHST- 2023/10/04 06:44 [medline]
+PHST- 2023/10/04 06:43 [pubmed]
+PHST- 2023/10/04 04:01 [entrez]
+AID - 1236292 [pii]
+AID - 10.3389/fbioe.2023.1236292 [doi]
+PST - epublish
+SO  - Front Bioeng Biotechnol. 2023 Sep 15;11:1236292. doi: 10.3389/fbioe.2023.1236292. 
+      eCollection 2023.
+
+PMID- 37790247
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20231005
+IS  - 2666-688X (Electronic)
+IS  - 2666-688X (Linking)
+VI  - 60
+DP  - 2023
+TI  - Ethics and Legal Framework for Trustworthy Artificial Intelligence in Vascular 
+      Surgery.
+PG  - 42-44
+LID - 10.1016/j.ejvsvf.2023.08.003 [doi]
+FAU - Lareyre, Fabien
+AU  - Lareyre F
+AD  - Department of Vascular Surgery, Hospital of Antibes Juan-les-Pins, France.
+AD  - Université Côte d'Azur, Inserm U1065, C3M, Nice, France.
+FAU - Maresch, Martin
+AU  - Maresch M
+AD  - Department of Vascular and Endovascular Surgery, BDF Hospital- Royal Medical 
+      Services, Kingdom of Bahrain.
+FAU - Chaudhuri, Arindam
+AU  - Chaudhuri A
+AD  - Bedfordshire - Milton Keynes Vascular Centre, Bedfordshire Hospitals, NHS 
+      Foundation Trust, Bedford, UK.
+FAU - Raffort, Juliette
+AU  - Raffort J
+AD  - Université Côte d'Azur, Inserm U1065, C3M, Nice, France.
+AD  - Université Côte d'Azur, 3IA Institute, Nice, France.
+AD  - Department of Clinical Biochemistry, University Hospital of Nice, Nice, France.
+LA  - eng
+PT  - Editorial
+DEP - 20230902
+PL  - England
+TA  - EJVES Vasc Forum
+JT  - EJVES vascular forum
+JID - 101766732
+PMC - PMC10542591
+OTO - NOTNLM
+OT  - Artificial intelligence
+OT  - Ethics
+OT  - Machine learning
+OT  - Regulation
+OT  - Vascular disease
+OT  - Vascular surgery
+EDAT- 2023/10/04 06:43
+MHDA- 2023/10/04 06:44
+CRDT- 2023/10/04 04:00
+PHST- 2023/07/05 00:00 [received]
+PHST- 2023/08/01 00:00 [revised]
+PHST- 2023/08/23 00:00 [accepted]
+PHST- 2023/10/04 06:44 [medline]
+PHST- 2023/10/04 06:43 [pubmed]
+PHST- 2023/10/04 04:00 [entrez]
+AID - S2666-688X(23)00073-4 [pii]
+AID - 10.1016/j.ejvsvf.2023.08.003 [doi]
+PST - epublish
+SO  - EJVES Vasc Forum. 2023 Sep 2;60:42-44. doi: 10.1016/j.ejvsvf.2023.08.003. 
+      eCollection 2023.
+
+PMID- 37790086
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20231005
+IS  - 2624-909X (Electronic)
+IS  - 2624-909X (Linking)
+VI  - 6
+DP  - 2023
+TI  - An intelligent telemonitoring application for coronavirus patients: reCOVeryaID.
+PG  - 1205766
+LID - 10.3389/fdata.2023.1205766 [doi]
+LID - 1205766
+AB  - The COVID-19 emergency underscored the importance of resolving crucial issues of 
+      territorial health monitoring, such as overloaded phone lines, doctors exposed to 
+      infection, chronically ill patients unable to access hospitals, etc. In fact, it 
+      often happened that people would call doctors/hospitals just out of anxiety, not 
+      realizing that they were clogging up communications, thus causing problems for 
+      those who needed them most; such people, often elderly, have often felt lonely 
+      and abandoned by the health care system because of poor telemedicine. In 
+      addition, doctors were unable to follow up on the most serious cases or make sure 
+      that others did not worsen. Thus, uring the first pandemic wave we had the idea 
+      to design a system that could help people alleviate their fears and be constantly 
+      monitored by doctors both in hospitals and at home; consequently, we developed 
+      reCOVeryaID, a telemonitoring application for coronavirus patients. It is an 
+      autonomous application supported by a knowledge base that can react promptly and 
+      inform medical doctors if dangerous trends in the patient's short- and long-term 
+      vital signs are detected. In this paper, we also validate the knowledge-base 
+      rules in real-world settings by testing them on data from real patients infected 
+      with COVID-19.
+CI  - Copyright © 2023 D'Auria, Russo, Fedele, Addabbo and Calvanese.
+FAU - D'Auria, Daniela
+AU  - D'Auria D
+AD  - Faculty of Engineering, Free University of Bozen-Bolzano, Bolzano, Italy.
+FAU - Russo, Raffaele
+AU  - Russo R
+AD  - Pineta Grande Hospital, Caserta, Italy.
+FAU - Fedele, Alfonso
+AU  - Fedele A
+AD  - University Riuniti Hospital, Ancona, Italy.
+FAU - Addabbo, Federica
+AU  - Addabbo F
+AD  - Kronosan Srl, Montevergine Hospital, Mercogliano, Italy.
+FAU - Calvanese, Diego
+AU  - Calvanese D
+AD  - Faculty of Engineering, Free University of Bozen-Bolzano, Bolzano, Italy.
+AD  - Department of Computing Science, Umeå University, Umeå, Sweden.
+LA  - eng
+PT  - Journal Article
+DEP - 20230918
+PL  - Switzerland
+TA  - Front Big Data
+JT  - Frontiers in big data
+JID - 101770603
+PMC - PMC10543687
+OTO - NOTNLM
+OT  - COVID-19
+OT  - artificial intelligence
+OT  - coronavirus
+OT  - eHealth
+OT  - long-term monitoring
+OT  - rule-based system
+OT  - telehealth
+OT  - telemedicine
+COIS- The authors declare that the research was conducted in the absence of any 
+      commercial or financial relationships that could be construed as a potential 
+      conflict of interest.
+EDAT- 2023/10/04 06:43
+MHDA- 2023/10/04 06:44
+CRDT- 2023/10/04 03:58
+PHST- 2023/04/17 00:00 [received]
+PHST- 2023/08/29 00:00 [accepted]
+PHST- 2023/10/04 06:44 [medline]
+PHST- 2023/10/04 06:43 [pubmed]
+PHST- 2023/10/04 03:58 [entrez]
+AID - 10.3389/fdata.2023.1205766 [doi]
+PST - epublish
+SO  - Front Big Data. 2023 Sep 18;6:1205766. doi: 10.3389/fdata.2023.1205766. 
+      eCollection 2023.
+
+PMID- 37790062
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20231005
+IS  - 2168-8184 (Print)
+IS  - 2168-8184 (Electronic)
+IS  - 2168-8184 (Linking)
+VI  - 15
+IP  - 9
+DP  - 2023 Sep
+TI  - A Radiation Oncology Board Exam of ChatGPT.
+PG  - e44541
+LID - 10.7759/cureus.44541 [doi]
+LID - e44541
+AB  - As artificial intelligence (AI) models improve and become widely integrated into 
+      healthcare systems, healthcare providers must understand the strengths and 
+      limitations of AI tools to realize the full spectrum of potential patient-care 
+      benefits. However, most providers have a poor understanding of AI, leading to 
+      distrust and poor adoption of this emerging technology. To bridge this divide, 
+      this editorial presents a novel view of ChatGPT's current capabilities in the 
+      medical field of radiation oncology. By replicating the format of the oral 
+      qualification exam required for radiation oncology board certification, we 
+      demonstrate ChatGPT's ability to analyze a commonly encountered patient case, 
+      make diagnostic decisions, and integrate information to generate treatment 
+      recommendations. Through this simulation, we highlight ChatGPT's strengths and 
+      limitations in replicating human decision-making in clinical radiation oncology, 
+      while providing an accessible resource to educate radiation oncologists on the 
+      capabilities of AI chatbots.
+CI  - Copyright © 2023, Barbour et al.
+FAU - Barbour, Andrew B
+AU  - Barbour AB
+AD  - Radiation Oncology, University of Washington - Fred Hutchinson Cancer Center, 
+      Seattle, USA.
+FAU - Barbour, T Aleksandr
+AU  - Barbour TA
+AD  - Starlink, SpaceX, Redmond, USA.
+LA  - eng
+PT  - Editorial
+DEP - 20230901
+PL  - United States
+TA  - Cureus
+JT  - Cureus
+JID - 101596737
+PMC - PMC10544698
+OTO - NOTNLM
+OT  - ai & robotics in healthcare
+OT  - ai in medicine
+OT  - ai tools
+OT  - radiation oncology
+OT  - radiotherapy
+COIS- The authors have declared that no competing interests exist.
+EDAT- 2023/10/04 06:44
+MHDA- 2023/10/04 06:45
+CRDT- 2023/10/04 03:58
+PHST- 2023/09/01 00:00 [accepted]
+PHST- 2023/10/04 06:45 [medline]
+PHST- 2023/10/04 06:44 [pubmed]
+PHST- 2023/10/04 03:58 [entrez]
+AID - 10.7759/cureus.44541 [doi]
+PST - epublish
+SO  - Cureus. 2023 Sep 1;15(9):e44541. doi: 10.7759/cureus.44541. eCollection 2023 Sep.
+
+PMID- 37789960
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20231220
+IS  - 2749-9642 (Electronic)
+IS  - 2097-0773 (Print)
+IS  - 2749-9642 (Linking)
+VI  - 3
+IP  - 3
+DP  - 2023 Jun
+TI  - Artificial intelligence in theranostics of gastric cancer, a review.
+PG  - 214-229
+LID - 10.1515/mr-2022-0042 [doi]
+AB  - Gastric cancer (GC) is one of the commonest cancers with high morbidity and 
+      mortality in the world. How to realize precise diagnosis and therapy of GC owns 
+      great clinical requirement. In recent years, artificial intelligence (AI) has 
+      been actively explored to apply to early diagnosis and treatment and prognosis of 
+      gastric carcinoma. Herein, we review recent advance of AI in early screening, 
+      diagnosis, therapy and prognosis of stomach carcinoma. Especially AI combined 
+      with breath screening early GC system improved 97.4 % of early GC diagnosis 
+      ratio, AI model on stomach cancer diagnosis system of saliva biomarkers obtained 
+      an overall accuracy of 97.18 %, specificity of 97.44 %, and sensitivity of 
+      96.88 %. We also discuss concept, issues, approaches and challenges of AI applied 
+      in stomach cancer. This review provides a comprehensive view and roadmap for 
+      readers working in this field, with the aim of pushing application of AI in 
+      theranostics of stomach cancer to increase the early discovery ratio and curative 
+      ratio of GC patients.
+CI  - © 2023 the author(s), published by De Gruyter, Berlin/Boston.
+FAU - Zha, Yiqian
+AU  - Zha Y
+AD  - Institute of Nano Biomedicine and Engineering, Shanghai Engineering Research 
+      Center for Intelligent Diagnosis and Treatment Instrument, School of Sensing 
+      Science and Engineering, Shanghai Jiao Tong University, Shanghai, China.
+AD  - National Engineering Research Center for Nanotechnology, Shanghai, China.
+FAU - Xue, Cuili
+AU  - Xue C
+AD  - Institute of Nano Biomedicine and Engineering, Shanghai Engineering Research 
+      Center for Intelligent Diagnosis and Treatment Instrument, School of Sensing 
+      Science and Engineering, Shanghai Jiao Tong University, Shanghai, China.
+AD  - National Engineering Research Center for Nanotechnology, Shanghai, China.
+FAU - Liu, Yanlei
+AU  - Liu Y
+AD  - Institute of Nano Biomedicine and Engineering, Shanghai Engineering Research 
+      Center for Intelligent Diagnosis and Treatment Instrument, School of Sensing 
+      Science and Engineering, Shanghai Jiao Tong University, Shanghai, China.
+AD  - National Engineering Research Center for Nanotechnology, Shanghai, China.
+FAU - Ni, Jian
+AU  - Ni J
+AD  - Institute of Nano Biomedicine and Engineering, Shanghai Engineering Research 
+      Center for Intelligent Diagnosis and Treatment Instrument, School of Sensing 
+      Science and Engineering, Shanghai Jiao Tong University, Shanghai, China.
+AD  - National Engineering Research Center for Nanotechnology, Shanghai, China.
+FAU - De La Fuente, Jesus M
+AU  - De La Fuente JM
+AD  - Institute of Aragon Nanoscience, University of Zaragoza, Zaragoza, Spain.
+FAU - Cui, Daxiang
+AU  - Cui D
+AUID- ORCID: 0000-0003-4513-905X
+AD  - Institute of Nano Biomedicine and Engineering, Shanghai Engineering Research 
+      Center for Intelligent Diagnosis and Treatment Instrument, School of Sensing 
+      Science and Engineering, Shanghai Jiao Tong University, Shanghai, China.
+AD  - National Engineering Research Center for Nanotechnology, Shanghai, China.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+DEP - 20230727
+PL  - Germany
+TA  - Med Rev (2021)
+JT  - Medical review (2021)
+JID - 9918383871606676
+PMC - PMC10542883
+OTO - NOTNLM
+OT  - artificial intelligence
+OT  - diagnosis
+OT  - gastric cancer
+OT  - prognosis
+OT  - screening
+OT  - therapy
+COIS- Conflict of interest: The authors declare to have no conflicts of interest.
+EDAT- 2023/10/04 06:44
+MHDA- 2023/10/04 06:45
+CRDT- 2023/10/04 03:57
+PHST- 2022/12/04 00:00 [received]
+PHST- 2023/04/26 00:00 [accepted]
+PHST- 2023/10/04 06:45 [medline]
+PHST- 2023/10/04 06:44 [pubmed]
+PHST- 2023/10/04 03:57 [entrez]
+AID - mr-2022-0042 [pii]
+AID - 10.1515/mr-2022-0042 [doi]
+PST - epublish
+SO  - Med Rev (2021). 2023 Jul 27;3(3):214-229. doi: 10.1515/mr-2022-0042. eCollection 
+      2023 Jun.
+
+PMID- 37789956
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20231220
+IS  - 2749-9642 (Electronic)
+IS  - 2097-0773 (Print)
+IS  - 2749-9642 (Linking)
+VI  - 3
+IP  - 3
+DP  - 2023 Jun
+TI  - Applications of cutting-edge artificial intelligence technologies in biomedical 
+      literature and document mining.
+PG  - 200-204
+LID - 10.1515/mr-2023-0011 [doi]
+AB  - The biomedical literature is a vast and invaluable resource for biomedical 
+      research. Integrating knowledge from the literature with biomedical data can help 
+      biological studies and the clinical decision-making process. Efforts have been 
+      made to gather information from the biomedical literature and create biomedical 
+      knowledge bases, such as KEGG and Reactome. However, manual curation remains the 
+      primary method to retrieve accurate biomedical entities and relationships. Manual 
+      curation becomes increasingly challenging and costly as the volume of biomedical 
+      publications quickly grows. Fortunately, recent advancements in Artificial 
+      Intelligence (AI) technologies offer the potential to automate the process of 
+      curating, updating, and integrating knowledge from the literature. Herein, we 
+      highlight the AI capabilities to aid in mining knowledge and building the 
+      knowledge base from the biomedical literature.
+CI  - © 2023 the author(s), published by De Gruyter, Berlin/Boston.
+FAU - He, Fei
+AU  - He F
+AD  - School of Information Science and Technology, Northeast Normal University, 
+      Changchun, Jilin Province, China.
+AD  - Department of Electrical Engineer and Computer Science, Christopher S. Bond Life 
+      Sciences Center, University of Missouri, Columbia, USA.
+FAU - Liu, Kai
+AU  - Liu K
+AD  - School of Information Science and Technology, Northeast Normal University, 
+      Changchun, Jilin Province, China.
+FAU - Yang, Zhiyuan
+AU  - Yang Z
+AD  - School of Information Science and Technology, Northeast Normal University, 
+      Changchun, Jilin Province, China.
+FAU - Hannink, Mark
+AU  - Hannink M
+AD  - Department of Biochemistry, Christopher S. Bond Life Sciences Center, University 
+      of Missouri, Columbia, USA.
+FAU - Hammer, Richard D
+AU  - Hammer RD
+AD  - Department of Pathology and Anatomical Sciences, University of Missouri, 
+      Columbia, USA.
+FAU - Popescu, Mihail
+AU  - Popescu M
+AD  - Department of Health Management and Informatics, University of Missouri, 
+      Columbia, USA.
+FAU - Xu, Dong
+AU  - Xu D
+AUID- ORCID: 0000-0002-4809-0514
+AD  - Department of Electrical Engineer and Computer Science, Christopher S. Bond Life 
+      Sciences Center, University of Missouri, Columbia, USA.
+LA  - eng
+GR  - R01 LM013392/LM/NLM NIH HHS/United States
+PT  - Journal Article
+DEP - 20230627
+PL  - Germany
+TA  - Med Rev (2021)
+JT  - Medical review (2021)
+JID - 9918383871606676
+PMC - PMC10542881
+OTO - NOTNLM
+OT  - artificial intelligence technologies
+OT  - biomedical literature mining
+OT  - pathway figure mining
+OT  - text mining
+COIS- Competing interests: Authors state no conflict of interest.
+EDAT- 2023/10/04 06:43
+MHDA- 2023/10/04 06:44
+CRDT- 2023/10/04 03:57
+PHST- 2023/03/09 00:00 [received]
+PHST- 2023/05/29 00:00 [accepted]
+PHST- 2023/10/04 06:44 [medline]
+PHST- 2023/10/04 06:43 [pubmed]
+PHST- 2023/10/04 03:57 [entrez]
+AID - mr-2023-0011 [pii]
+AID - 10.1515/mr-2023-0011 [doi]
+PST - epublish
+SO  - Med Rev (2021). 2023 Jun 27;3(3):200-204. doi: 10.1515/mr-2023-0011. eCollection 
+      2023 Jun.
+
+PMID- 37789927
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20231031
+IS  - 1179-7258 (Print)
+IS  - 1179-7258 (Electronic)
+IS  - 1179-7258 (Linking)
+VI  - 14
+DP  - 2023
+TI  - A Response to "Concern About Returning to Face-to-Face Classes After the 
+      Pandemic: Importance of Emotional Intelligence and Stress Coping Strategies in 
+      Health Science Students" [Letter].
+PG  - 1065-1066
+LID - 10.2147/AMEP.S440186 [doi]
+FAU - Gosrani, Riya
+AU  - Gosrani R
+AD  - UCL Medical School, University College London, London, UK.
+FAU - Hang, Man Kien
+AU  - Hang MK
+AD  - UCL Medical School, University College London, London, UK.
+LA  - eng
+PT  - Journal Article
+DEP - 20230926
+PL  - New Zealand
+TA  - Adv Med Educ Pract
+JT  - Advances in medical education and practice
+JID - 101562700
+PMC - PMC10542508
+COIS- The authors report no conflicts of interest in this communication.
+EDAT- 2023/10/04 06:44
+MHDA- 2023/10/04 06:45
+CRDT- 2023/10/04 03:56
+PHST- 2023/09/19 00:00 [received]
+PHST- 2023/09/21 00:00 [accepted]
+PHST- 2023/10/04 06:45 [medline]
+PHST- 2023/10/04 06:44 [pubmed]
+PHST- 2023/10/04 03:56 [entrez]
+AID - 440186 [pii]
+AID - 10.2147/AMEP.S440186 [doi]
+PST - epublish
+SO  - Adv Med Educ Pract. 2023 Sep 26;14:1065-1066. doi: 10.2147/AMEP.S440186. 
+      eCollection 2023.
+
+PMID- 37789758
+OWN - NLM
+STAT- Publisher
+LR  - 20231004
+IS  - 1879-3479 (Electronic)
+IS  - 0020-7292 (Linking)
+DP  - 2023 Oct 4
+TI  - Development and validation of an artificial intelligence assisted prenatal 
+      ultrasonography screening system for trainees.
+LID - 10.1002/ijgo.15167 [doi]
+AB  - OBJECTIVE: Fetal anomaly screening via ultrasonography, which involves capturing 
+      and interpreting standard views, is highly challenging for inexperienced 
+      operators. We aimed to develop and validate a prenatal-screening artificial 
+      intelligence system (PSAIS) for real-time evaluation of the quality of anatomical 
+      images, indicating existing and missing structures. METHODS: Still 
+      ultrasonographic images obtained from fetuses of 18-32 weeks of gestation between 
+      2017 and 2018 were used to develop PSAIS based on YOLOv3 with global (anatomic 
+      site) and local (structures) feature extraction that could evaluate the image 
+      quality and indicate existing and missing structures in the fetal anatomical 
+      images. The performance of the PSAIS in recognizing 19 standard views was 
+      evaluated using retrospective real-world fetal scan video validation datasets 
+      from four hospitals. We stratified sampled frames (standard, similar-to-standard, 
+      and background views at approximately 1:1:1) for experts to blindly verify the 
+      results. RESULTS: The PSAIS was trained using 134 696 images and validated using 
+      836 videos with 12 697 images. For internal and external validations, the 
+      multiclass macro-average areas under the receiver operating characteristic curve 
+      were 0.943 (95% confidence interval [CI], 0.815-1.000) and 0.958 (0.864-1.000); 
+      the micro-average areas were 0.974 (0.970-0.979) and 0.973 (0.965-0.981), 
+      respectively. For similar-to-standard views, the PSAIS accurately labeled 90.9% 
+      (90.0%-91.4%) with key structures and indicated missing structures. CONCLUSIONS: 
+      An artificial intelligence system developed to assist trainees in fetal anomaly 
+      screening demonstrated high agreement with experts in standard view 
+      identification.
+CI  - © 2023 International Federation of Gynecology and Obstetrics.
+FAU - Lei, Ting
+AU  - Lei T
+AUID- ORCID: 0000-0001-7911-2264
+AD  - Department of Ultrasonic Medicine, The First Affiliated Hospital of Sun Yat-sen 
+      University, Guangzhou, Guangdong, China.
+FAU - Feng, Jie Ling
+AU  - Feng JL
+AD  - Department of Ultrasonic Medicine, The First Affiliated Hospital of Sun Yat-sen 
+      University, Guangzhou, Guangdong, China.
+FAU - Lin, Mei Fang
+AU  - Lin MF
+AD  - Department of Ultrasonic Medicine, The First Affiliated Hospital of Sun Yat-sen 
+      University, Guangzhou, Guangdong, China.
+FAU - Xie, Bai Hong
+AU  - Xie BH
+AD  - Guangzhou Aiyunji Information Technology Co., Ltd, Guangzhou, Guangdong, China.
+FAU - Zhou, Qian
+AU  - Zhou Q
+AD  - Clinical Trials Unit, The First Affiliated Hospital of Sun Yat-sen University, 
+      Guangzhou, Guangdong, China.
+FAU - Wang, Nan
+AU  - Wang N
+AD  - Guangzhou Aiyunji Information Technology Co., Ltd, Guangzhou, Guangdong, China.
+FAU - Zheng, Qiao
+AU  - Zheng Q
+AD  - Department of Ultrasonic Medicine, The First Affiliated Hospital of Sun Yat-sen 
+      University, Guangzhou, Guangdong, China.
+FAU - Yang, Yan Dong
+AU  - Yang YD
+AD  - Department of Ultrasonic Medicine, The Sixth Affiliated Hospital of Sun Yat-sen 
+      University, Guangzhou, China.
+FAU - Guo, Hong Mei
+AU  - Guo HM
+AD  - Department of Ultrasonic Medicine, DongGuan City Maternal and Child Health 
+      Hospital, DongGuan, China.
+FAU - Xie, Hong Ning
+AU  - Xie HN
+AUID- ORCID: 0000-0002-1705-1328
+AD  - Department of Ultrasonic Medicine, The First Affiliated Hospital of Sun Yat-sen 
+      University, Guangzhou, Guangdong, China.
+LA  - eng
+GR  - SL2024A04J01835/The Guangzhou Basic and Applied Foundation Project through the 
+      Young Doctor 'Sailing' Project/
+GR  - 80000-12220011/2023 Teaching Quality and Teaching Reform Engineering Project of 
+      Sun Yat-sen University/
+GR  - 2022A1515220200/Guangdong Provincial Enterprise Joint Fund Project/
+GR  - 2022YFF0606302/National Key Research and Development Program of China/
+GR  - 81801705/The National Scientific Foundation Committee of China/
+GR  - 82171938/The National Scientific Foundation Committee of China/
+PT  - Journal Article
+DEP - 20231004
+PL  - United States
+TA  - Int J Gynaecol Obstet
+JT  - International journal of gynaecology and obstetrics: the official organ of the 
+      International Federation of Gynaecology and Obstetrics
+JID - 0210174
+SB  - IM
+OTO - NOTNLM
+OT  - artificial intelligence
+OT  - deep learning
+OT  - fetal anomaly screening
+OT  - prenatal ultrasonography
+OT  - standard view
+OT  - training
+EDAT- 2023/10/04 06:44
+MHDA- 2023/10/04 06:44
+CRDT- 2023/10/04 03:34
+PHST- 2023/09/10 00:00 [revised]
+PHST- 2023/07/15 00:00 [received]
+PHST- 2023/09/16 00:00 [accepted]
+PHST- 2023/10/04 06:44 [medline]
+PHST- 2023/10/04 06:44 [pubmed]
+PHST- 2023/10/04 03:34 [entrez]
+AID - 10.1002/ijgo.15167 [doi]
+PST - aheadofprint
+SO  - Int J Gynaecol Obstet. 2023 Oct 4. doi: 10.1002/ijgo.15167.
+
+PMID- 37789719
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20231113
+LR  - 20231114
+IS  - 1097-0347 (Electronic)
+IS  - 1043-3074 (Linking)
+VI  - 45
+IP  - 12
+DP  - 2023 Dec
+TI  - Prediction of postoperative recurrence of oral cancer by artificial intelligence 
+      model: Multilayer perceptron.
+PG  - 3053-3066
+LID - 10.1002/hed.27533 [doi]
+AB  - BACKGROUND: Postoperative recurrence of oral cancer is an important factor 
+      affecting the prognosis of patients. Artificial intelligence is used to establish 
+      a machine learning model to predict the risk of postoperative recurrence of oral 
+      cancer. METHODS: The information of 387 patients with postoperative oral cancer 
+      were collected to establish the multilayer perceptron (MLP) model. The 
+      comprehensive variable model was compared with the characteristic variable model, 
+      and the MLP model was compared with other models to evaluate the sensitivity of 
+      different models in the prediction of postoperative recurrence of oral cancer. 
+      RESULTS: The overall performance of the MLP model under comprehensive variable 
+      input was the best. CONCLUSION: The MLP model has good sensitivity to predict 
+      postoperative recurrence of oral cancer, and the predictive model with variable 
+      input training is better than that with characteristic variable input.
+CI  - © 2023 Wiley Periodicals LLC.
+FAU - Cai, Yongkang
+AU  - Cai Y
+AD  - Department of Oral and Maxillofacial Surgery, Sun Yat-sen Memorial Hospital, 
+      Guangzhou, China.
+FAU - Xie, Yutong
+AU  - Xie Y
+AD  - Australian Institute for Machine Learning, University of Adelaide, Adelaide, 
+      South Australia, Australia.
+FAU - Zhang, Shulian
+AU  - Zhang S
+AD  - School of Software Engineering, South China University of Technology, Guangzhou, 
+      China.
+FAU - Wang, Yuepeng
+AU  - Wang Y
+AD  - Department of Oral and Maxillofacial Surgery, Sun Yat-sen Memorial Hospital, 
+      Guangzhou, China.
+FAU - Wang, Yan
+AU  - Wang Y
+AUID- ORCID: 0000-0003-3298-4043
+AD  - Department of Oral and Maxillofacial Surgery, Sun Yat-sen Memorial Hospital, 
+      Guangzhou, China.
+FAU - Chen, Jian
+AU  - Chen J
+AD  - School of Software Engineering, South China University of Technology, Guangzhou, 
+      China.
+FAU - Huang, Zhiquan
+AU  - Huang Z
+AUID- ORCID: 0000-0003-0527-9795
+AD  - Department of Oral and Maxillofacial Surgery, Sun Yat-sen Memorial Hospital, 
+      Guangzhou, China.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20231003
+PL  - United States
+TA  - Head Neck
+JT  - Head & neck
+JID - 8902541
+SB  - IM
+MH  - Humans
+MH  - *Artificial Intelligence
+MH  - Neural Networks, Computer
+MH  - Machine Learning
+MH  - *Mouth Neoplasms/surgery
+OTO - NOTNLM
+OT  - artificial intelligence
+OT  - machine learning
+OT  - multilayer perceptron
+OT  - oral cancer
+OT  - postoperative recurrence
+EDAT- 2023/10/04 06:44
+MHDA- 2023/11/13 06:43
+CRDT- 2023/10/04 02:54
+PHST- 2023/09/06 00:00 [revised]
+PHST- 2023/04/06 00:00 [received]
+PHST- 2023/09/17 00:00 [accepted]
+PHST- 2023/11/13 06:43 [medline]
+PHST- 2023/10/04 06:44 [pubmed]
+PHST- 2023/10/04 02:54 [entrez]
+AID - 10.1002/hed.27533 [doi]
+PST - ppublish
+SO  - Head Neck. 2023 Dec;45(12):3053-3066. doi: 10.1002/hed.27533. Epub 2023 Oct 3.
