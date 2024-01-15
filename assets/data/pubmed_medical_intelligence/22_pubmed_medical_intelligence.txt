@@ -1,10 +1,3 @@
-PMID: 38131402
-Title: Evaluation of a chat GPT generated patient information leaflet about laparoscopic cholecystectomy.
-Author: ['Lockie E', 'Choi J']
-Journal Title: ANZ journal of surgery
-Publication Date: 2023 Dec 22
-Abstract: BACKGROUND: Artificial intelligence is increasingly being used in all aspects of life in information compilation and writing, and this includes healthcare. This study aimed to evaluate a Chat GPT generated patient information leaflet (PIL) against a surgeon generated version, in order to explore a potential application of this artificial intelligence language processing model. METHODS: Cross-sectional study, undertaken May to June 2023, asking two cohorts (patients and doctors) to complete a questionnaire evaluating a Chat GPT generated PIL and a surgeon generated PIL about laparoscopic cholecystectomy. The patients were having laparoscopic cholecystectomy at large private Hospital in Melbourne, Australia, and doctors were recruited from this hospital and a public quaternary hospital in Melbourne, Australia. The study included a convenience sample of 28 patients and 16 doctors. The main outcome measure was a questionnaire (maximum score out of 8) based on validated evaluation instrument for PILs. RESULTS: The study recruited 28 patients and 15 doctors to complete the questionnaire. The Chat GPT and surgeon generated PILs were scored similarly by patients (median 8 for both PIL; mean 7.5 for Chat GPT PIL vs. 7.1 for surgeon PIL). Doctors also scored both versions similarly, with slightly higher scores for Chat GPT over surgeon version (median 7 vs. 6; mean 6.7 vs. 5.6, respectively). CONCLUSIONS: The Chat GPT generated PIL was assessed as being as good or slightly better than the surgeon generated version. This study shows that PIL are a feasible application of AI language processing models.
----------------------------------
 PMID: 38131343
 Title: Machine learning in predicting gastric cancer survival Presenting a novel decision support system model.
 Author: ['Altinsoy E', 'Bakirarar B', 'Culcu S']
@@ -137,4 +130,11 @@ Author: ['Thorp HH']
 Journal Title: Science (New York, N.Y.)
 Publication Date: 2023 Dec 22
 Abstract: Last week, Science reflected on major achievements in science in 2023, from weight loss drugs and a malaria vaccine to exascale computing and advances in artificial intelligence. These are all impressive developments and provide yet more testimony to the power of science to continually expand the quality of our lives while deepening our understanding of the world. Even so, it's hard to end the year without some worries about 2024. Wars in Ukraine and Gaza will grind on in the new year, and the United States is headed toward perhaps the most consequential and divisive presidential election in more than 160 years. These events-and similar ones around the world-will challenge the cohesiveness and determination of the scientific community as never before.
+---------------------------------
+PMID: 38127735
+Title: AI is transforming how science is done. Science education must reflect this change.
+Author: ['Erduran S']
+Journal Title: Science (New York, N.Y.)
+Publication Date: 2023 Dec 22
+Abstract: There is growing interest in the use of artificial intelligence (AI) in science education. Many issues and questions raised about the role of AI in science education target primarily science learning objectives. They relate to AI's capacity to generate tools for teaching, learning, and assessment, as well as the advantages and disadvantages of using such tools. But another important discussion receiving far too little attention in science education concerns how AI is transforming the nature of science (NOS) itself and what such transformation implies for the education of young children. For education, it is critical to ask what AI-informed NOS is, what skills it demands of learners, and how schools can aim to achieve them.
 ---------------------------------

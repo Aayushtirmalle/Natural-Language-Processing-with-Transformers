@@ -1,10 +1,3 @@
-PMID: 38141160
-Title: Where developmental toxicity meets explainable artificial intelligence: state-of-the-art and perspectives.
-Author: ['Vittoria Togo M', 'Mastrolorito F', 'Orfino A', 'Graps EA', 'Tondo AR', 'Altomare CD', 'Ciriaco F', 'Trisciuzzi D', 'Nicolotti O', 'Amoroso N']
-Journal Title: Expert opinion on drug metabolism & toxicology
-Publication Date: 2023 Dec 23
-Abstract: INTRODUCTION: The application of Artificial Intelligence (AI) to predictive toxicology is rapidly increasing, particularly aiming to develop non-testing methods that effectively address ethical concerns and reduce economic costs. In this context, Developmental Toxicity (Dev Tox) stands as a key human health endpoint, especially significant for safeguarding maternal and child well-being. AREAS COVERED: This review outlines the existing methods employed in Dev Tox predictions and underscores the benefits of utilizing New Approach Methodologies (NAMs), specifically focusing on eXplainable Artificial Intelligence (XAI), which proves highly efficient in constructing reliable and transparent models aligned with recommendations from international regulatory bodies. EXPERT OPINION: The limited availability of high-quality data and the absence of dependable Dev Tox methodologies render XAI an appealing avenue for systematically developing interpretable and transparent models, which hold immense potential for both scientific evaluations and regulatory decision-making.
----------------------------------
 PMID: 38141065
 Title: Social chatbot use (e.g., ChatGPT) among individuals with social deficits: Risks and opportunities.
 Author: ['Franze A', 'Galanis CR', 'King DL']
@@ -137,4 +130,11 @@ Author: ['Ieracitano C', 'Mahmud M', 'Doborjeh M', 'Lay-Ekuakille A']
 Journal Title: Sensors (Basel, Switzerland)
 Publication Date: 2023 Dec 9
 Abstract: Machine learning (ML) is a well-known subfield of artificial intelligence (AI) that aims at developing algorithms and statistical models able to empower computer systems to automatically adapt to a specific task through experience or learning from data [...].
+---------------------------------
+PMID: 38139548
+Title: Visual Sensing and Depth Perception for Welding Robots and Their Industrial Applications.
+Author: ['Wang J', 'Li L', 'Xu P']
+Journal Title: Sensors (Basel, Switzerland)
+Publication Date: 2023 Dec 8
+Abstract: With the rapid development of vision sensing, artificial intelligence, and robotics technology, one of the challenges we face is installing more advanced vision sensors on welding robots to achieve intelligent welding manufacturing and obtain high-quality welding components. Depth perception is one of the bottlenecks in the development of welding sensors. This review provides an assessment of active and passive sensing methods for depth perception and classifies and elaborates on the depth perception mechanisms based on monocular vision, binocular vision, and multi-view vision. It explores the principles and means of using deep learning for depth perception in robotic welding processes. Further, the application of welding robot visual perception in different industrial scenarios is summarized. Finally, the problems and countermeasures of welding robot visual perception technology are analyzed, and developments for the future are proposed. This review has analyzed a total of 2662 articles and cited 152 as references. The potential future research topics are suggested to include deep learning for object detection and recognition, transfer deep learning for welding robot adaptation, developing multi-modal sensor fusion, integrating models and hardware, and performing a comprehensive requirement analysis and system evaluation in collaboration with welding experts to design a multi-modal sensor fusion architecture.
 ---------------------------------
