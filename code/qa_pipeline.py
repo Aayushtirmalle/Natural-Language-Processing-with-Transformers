@@ -55,5 +55,11 @@ result = querying_pipeline.run(query=query, params={"Retriever": {"top_k": 10}, 
 # prediction = querying_pipeline.run(
 #     query="Name the female actresses.", params={"Retriever": {"top_k": 5}, "Reader": {"top_k": 3}}
 # )
-print_answers(result, details="all", max_text_len=100)
-
+n = 1
+for answer in result['answers']:
+    print(f"Top {n}:\n")
+    print(f"Answer: {answer.answer}")
+    print(f"Score: {answer.score}")
+    print(f"Context: {answer.context}")
+    print(f"DocumentId: {answer.document_ids}\n")
+    n = n + 1
