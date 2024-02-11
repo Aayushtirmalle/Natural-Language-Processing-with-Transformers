@@ -1,6 +1,12 @@
 # QA-Robot-Med-INLPT-WS2023
 Question Answering (QA) system tailored for the medical domain on <em>Intelligence</em>
 
+#GitHub Name Mapping 
+CoreSheep - Li Jiufeng
+Aayushtirmalle - Aayush Tirmalle
+Swathi1110 - Swathi Thiruppathi Kannan
+Alagu17 - Alagumeena Thiruppathi Kannan
+
 ## Table of Contents
 
 - [Dataset](#dataset)
