@@ -1,7 +1,7 @@
 # QA-Robot-Med-INLPT-WS2023
 Question Answering (QA) system tailored for the medical domain on <em>Intelligence</em>
 
-#GitHub Name Mapping 
+# GitHub Name Mapping 
 - CoreSheep - Li Jiufeng,
 - Aayushtirmalle - Aayush Tirmalle,
 - Swathi1110 - Swathi Thiruppathi Kannan
@@ -86,6 +86,13 @@ result = querying_pipeline.run(query=query, params={"Retriever": {"top_k": 3}, "
 
 - Answering
 ![example_answers](assets/images/answers_example.jpg)
+
+
+# References
+[Haystack Documentation](https://haystack.deepset.ai/)
+[Streamlit Documentation](https://docs.streamlit.io/)
+[Langchain Documentation](https://python.langchain.com/docs/get_started/introduction)
+
 
 
 
