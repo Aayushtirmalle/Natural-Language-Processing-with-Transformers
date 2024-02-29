@@ -7,6 +7,12 @@ Question Answering (QA) system tailored for the medical domain on <em>Intelligen
 - Swathi1110 - Swathi Thiruppathi Kannan
 - Alagu17 - Alagumeena Thiruppathi Kannan
 
+# Email Addresses:
+jiufeng.li@stud.uni-heidelberg.de - Li Jiufeng
+aayush.tirmalle@stud.uni-heidelberg.de - Aayush Tirmalle
+alagumeena.thiruppathi_kannan@stud.uni-heidelberg.de - Alagumeena Thiruppathi Kannan
+swathi.thiruppathi_kannan@stud.uni-heidelberg.de - Swathi Thiruppathi Kannan
+
 ## Table of Contents
 
 - [Dataset](#dataset)
