@@ -73,7 +73,8 @@ def main():
     model_options = ["gpt-3.5-turbo", "gpt-3.5", "gpt-4"]
 
     # Create a select box widget on the Streamlit app
-    chat_model = st.sidebar.selectbox("Choose a model:", model_options)
+    chat_model_selected = st.sidebar.selectbox("Choose a model:", model_options)
+
     # eval_mode = st.sidebar.checkbox("Evaluation mode")
     # debug = st.sidebar.checkbox("Show debug info")
 
@@ -210,7 +211,9 @@ def main():
         )):
             try:
                 st.session_state.results, retriever_results = chatbot.query(index, question,
-                                                                            top_k_retriever, text_field, chat_model)
+                                                                            top_k_retriever,
+                                                                            text_field,
+                                                                            chat_model_selected)
             except JSONDecodeError as je:
                 st.error("👓 &nbsp;&nbsp; An error occurred reading the results. Is the document store working?")
                 return
