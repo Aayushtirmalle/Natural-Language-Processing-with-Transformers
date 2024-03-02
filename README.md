@@ -1,22 +1,40 @@
-# QA-Robot-Med-INLPT-WS2023
-Question Answering (QA) system tailored for the medical domain on <em>Intelligence</em>
+# A Medical Question-Answering Demo Based On RAG
+A QA system for the medical field on <em>Intelligence</em>, utilizing the RAG model, 
+langchain for chunking texts, Pinecone for vector storage, and ChatGPT for generating answers.
+
+![chat](assets/images/screenshot.png)
 
 # GitHub Name Mapping 
-- CoreSheep - Li Jiufeng,
+- CoreSheep - Jiufeng Li
 - Aayushtirmalle - Aayush Tirmalle,
 - Swathi1110 - Swathi Thiruppathi Kannan
 - Alagu17 - Alagumeena Thiruppathi Kannan
 
 # Email Addresses:
-jiufeng.li@stud.uni-heidelberg.de - Li Jiufeng
+jiufeng.li@stud.uni-heidelberg.de - Jiufeng Li
 aayush.tirmalle@stud.uni-heidelberg.de - Aayush Tirmalle
 alagumeena.thiruppathi_kannan@stud.uni-heidelberg.de - Alagumeena Thiruppathi Kannan
 swathi.thiruppathi_kannan@stud.uni-heidelberg.de - Swathi Thiruppathi Kannan
 
 ## Table of Contents
-
+- [Get Started](#get-started)
 - [Dataset](#dataset)
 - [Pipeline](#pipeline)
+
+## Get Started
+1. install all the dependencies
+```bash
+# run the script /data_preprocess/load_data.py to download more data
+git clone https://github.com/Aayushtirmalle/QA-Robot-Med-INLPT-WS2023.git
+cd ./src
+pip install .
+```
+2. run the webapp
+```bash
+cd ./src
+streamlit run webapp.py
+```
+
 
 ## Dataset
 
@@ -26,79 +44,104 @@ swathi.thiruppathi_kannan@stud.uni-heidelberg.de - Swathi Thiruppathi Kannan
       - PMID
       - Title
       - Author
+      - Chunk-id
       - Journal Title
       - Publication Date
-      - Abstract
-    - data size: there are 20 articles in a txt file, so we have 20 * 50 = 1000 articles.
+      - Chunk (of abstract)
+    - data size: 991 articles
 - Example
-![dataset example](assets/images/dataset_example.jpg)
+![dataset example](assets/images/dataset_example.png)
+- Text splitter
+  - We use our customized text splitter to get the small-size chunk
+```python
+def custom_text_splitter(text, chunk_size):
+    """Split the text into chunks of specified size."""
+    text_splitter = CharacterTextSplitter(
+        separator="\n",
+        chunk_size=chunk_size,
+        chunk_overlap=20
+    )
+    return text_splitter.create_documents(text)
+```
 
-- Download
-
-```bash
-# run the script /data_process/load_data.py to download more data
-pip install Bio
-python /data_process/load_data.py
+- Versatility  
+If you want to create another dataset, instead of "intelligence", using our data model, you can simply pass 
+different search term.
+```python
+from load_data import get_chunks
+search_term = "machine learning"
+get_chunks(search_term, chunk_size, email, output_file='assets/data/medical_articles.json')
 ```
 
 ## Pipeline
-This pipeline is based on [haystack](https://github.com/deepset-ai/haystack), which is an opensource nlp framework.
-- Initializing document store
+This pipeline is based on [langchain](https://python.langchain.com/docs/get_started/introduction), which is an opensource nlp framework.
+- Initializing pinecone vector store
 ```python
-# Initializing the OpensearchDocumentStore
-document_store = OpenSearchDocumentStore()
+# Initializing the Pinecone vector store
+def load_vectorstore(self):
+    from pinecone import Pinecone
+    return Pinecone(api_key=self.PINECONE_API_KEY)
+```
+- Initializing embedding model for creating embeddings of chunk
+```python
+# We use ada as our embed model
+self.embedding_model = "text-embedding-ada-002" 
+self.embed_model = OpenAIEmbeddings(model=self.embedding_model, api_key=self.OPENAI_API_KEY)
 ```
 
-- Indexing the documents with a data preprocessing pipeline
+- Creating index
 ```python
-# Indexing Documents with a Pipeline
-doc_dir = "../assets/data/pubmed_medical_intelligence"
-
-# Initialize the pipeline, TextConverter, and PreProcessor
-indexing_pipeline = Pipeline()
-text_converter = TextConverter()
-preprocessor = PreProcessor(
-    clean_whitespace=True,
-    clean_header_footer=True,
-    clean_empty_lines=True,
-    split_by="word",
-    split_length=200,
-    split_overlap=20,
-    split_respect_sentence_boundary=True,
-)
-
-# Add the nodes into an indexing pipeline.
-indexing_pipeline.add_node(component=text_converter, name="TextConverter", inputs=["File"])
-indexing_pipeline.add_node(component=preprocessor, name="PreProcessor", inputs=["TextConverter"])
-indexing_pipeline.add_node(component=document_store, name="DocumentStore", inputs=["PreProcessor"])
+# check if index already exists (it shouldn't if this is first time)
+if self.index_name not in existing_indexes:
+    # if does not exist, create index
+    vector_store.create_index(
+        self.index_name,
+        dimension=1536,  # dimensionality of ada 002
+        metric='dotproduct',
+        spec=self.spec
+    )
 ```
 
-- Initializing the Retriever
+- Upsert all the embeddings to pinecone in batch
 ```python
-retriever = BM25Retriever(document_store=document_store)
-```
+for i in tqdm(range(0, len(dataset), batch_size)):
+        i_end = min(len(dataset), i + batch_size)
+        # get batch of data
+        batch = dataset.iloc[i:i_end]
 
-- Initializing the Reader
-```python
-reader = FARMReader(model_name_or_path="deepset/roberta-base-squad2", use_gpu=False)
-```
-
-- Creating  query pipeline
-```python
-querying_pipeline = ExtractiveQAPipeline(reader, retriever)
-query = "How does artificial intelligence contribute to reducing drug development time in USA?"
-result = querying_pipeline.run(query=query, params={"Retriever": {"top_k": 3}, "Reader": {"top_k": 3}})
+        # generate unique ids for each chunk
+        ids = [f"{x['articles']['id']}-{x['articles']['chunk-id']}" for i, x in batch.iterrows()]
+        # get text to embed
+        texts = [x['articles']['chunk'] for _, x in batch.iterrows()]
+        # embed text
+        embeds = self.embed_model.embed_documents(texts)
+        # get metadata to store in Pinecone
+        metadata = [
+            {'text': x['articles']['chunk'],
+             'source': x['articles']['source'],
+             'title': x['articles']['title'],
+             'authors': x['articles']['authors'],
+             'journal_ref': x['articles']['journal_ref'],
+             'published': x['articles']['published']
+             } for i, x in batch.iterrows()
+        ]
+        # add to Pinecone
+        index.upsert(vectors=zip(ids, embeds, metadata))
+print(index.describe_index_stats())
 ```
 
 - Answering
-![example_answers](assets/images/answers_example.jpg)
+```python
+chatbot = MedChatbot()
+# data = chatbot.load_data()
+vc = chatbot.load_vectorstore()
+# index = chatbot.create_index(vc, data, batch_size=100)
+index = chatbot.get_index(vc)
+chatbot.query(index, question, top_k_retriever, text_field, chat_model_selected)
+```
 
+![answer_example](assets/images/answers_example.png)
 
 # References
-[Haystack Documentation](https://haystack.deepset.ai/)
 [Streamlit Documentation](https://docs.streamlit.io/)
 [Langchain Documentation](https://python.langchain.com/docs/get_started/introduction)
-
-
-
-
