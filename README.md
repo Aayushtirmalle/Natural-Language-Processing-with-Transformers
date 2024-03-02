@@ -12,8 +12,8 @@ langchain for chunking texts, Pinecone for vector storage, and ChatGPT for gener
 
 # Email Addresses:
 jiufeng.li@stud.uni-heidelberg.de - Jiufeng Li  
-aayush.tirmalle@stud.uni-heidelberg.de - Aayush Tirmalle
-alagumeena.thiruppathi_kannan@stud.uni-heidelberg.de - Alagumeena Thiruppathi Kannan
+aayush.tirmalle@stud.uni-heidelberg.de - Aayush Tirmalle  
+alagumeena.thiruppathi_kannan@stud.uni-heidelberg.de - Alagumeena Thiruppathi Kannan  
 swathi.thiruppathi_kannan@stud.uni-heidelberg.de - Swathi Thiruppathi Kannan
 
 ## Table of Contents
