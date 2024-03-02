@@ -10,23 +10,26 @@ import datasets
 from pinecone import PodSpec
 from langchain.embeddings.openai import OpenAIEmbeddings
 from tqdm.auto import tqdm  # for progress bar
+import pandas as pd
 import time
 import requests
 import os
+
 
 class MedChatbot:
     def __init__(self):
         # Initialize API_KEYS
         self.PINECONE_API_KEY = "27b401fd-4cb4-43cf-9fba-4d0827cc6d31"
         self.PINECONE_ENVIRONMENT = "gcp-starter"
-        self.OPENAI_API_KEY = "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"
-        self.data_path = "jamescalam/llama-2-arxiv-papers-chunked"
+        self.OPENAI_API_KEY = "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"
+        # self.data_path = "jamescalam/llama-2-arxiv-papers-chunked"
+        self.data_path = "../assets/data/medical_articles.json"
         self.embedding_model = "text-embedding-ada-002"
         self.embed_model = OpenAIEmbeddings(model=self.embedding_model, api_key=self.OPENAI_API_KEY)
         self.spec = PodSpec(
             environment=self.PINECONE_ENVIRONMENT, pod_type="starter"
         )
-        self.index_name = 'llama-2-rag'
+        self.index_name = 'medical-intelligence-rag'
 
     def load_data(self):
         """
@@ -36,11 +39,20 @@ class MedChatbot:
         requests.packages.urllib3.disable_warnings()
         datasets.utils.VerificationMode = False
 
-        dataset = load_dataset(
-            self.data_path,
-            split="train"
-        )
-        return dataset
+        # dataset = load_dataset(
+        #     self.data_path,
+        #     split="train"
+        # )
+        # print(dataset.to_pandas())
+        # data = dataset.to_pandas()
+
+        # Read the JSON file
+        with open(self.data_path, 'r', encoding='utf-8') as file:
+            data = pd.read_json(file)
+
+        # Convert the 'articles' list in the JSON data to a DataFrame
+        df = pd.DataFrame(data['articles'])
+        return df
 
     def load_vectorstore(self):
         from pinecone import Pinecone
@@ -64,31 +76,36 @@ class MedChatbot:
                 spec=self.spec
             )
             # wait for index to be initialized
-            while not vector_store.describe_index(index_name).status['ready']:
+            while not vector_store.describe_index(self.index_name).status['ready']:
                 time.sleep(1)
 
         # connect to index
         index = vector_store.Index(self.index_name)
         time.sleep(1)
 
-        dataset = data.to_pandas()  # this makes it easier to iterate over the dataset
+        dataset = data  # this makes it easier to iterate over the dataset
 
         print("Creating embeddings for data ...\n")
         for i in tqdm(range(0, len(dataset), batch_size)):
             i_end = min(len(dataset), i + batch_size)
             # get batch of data
             batch = dataset.iloc[i:i_end]
+
             # generate unique ids for each chunk
-            ids = [f"{x['doi']}-{x['chunk-id']}" for i, x in batch.iterrows()]
+            ids = [f"{x['articles']['id']}-{x['articles']['chunk-id']}" for i, x in batch.iterrows()]
             # get text to embed
-            texts = [x['chunk'] for _, x in batch.iterrows()]
+            texts = [x['articles']['chunk'] for _, x in batch.iterrows()]
             # embed text
             embeds = self.embed_model.embed_documents(texts)
             # get metadata to store in Pinecone
             metadata = [
-                {'text': x['chunk'],
-                 'source': x['source'],
-                 'title': x['title']} for i, x in batch.iterrows()
+                {'text': x['articles']['chunk'],
+                 'source': x['articles']['source'],
+                 'title': x['articles']['title'],
+                 'authors': x['articles']['authors'],
+                 'journal_ref': x['articles']['journal_ref'],
+                 'published': x['articles']['published']
+                 } for i, x in batch.iterrows()
             ]
             # add to Pinecone
             index.upsert(vectors=zip(ids, embeds, metadata))
@@ -138,14 +155,15 @@ class MedChatbot:
 
 if __name__ == '__main__':
     chatbot = MedChatbot()
-    data = chatbot.load_data()
+    # data = chatbot.load_data()
     vc = chatbot.load_vectorstore()
     # index = chatbot.create_index(vc, data, batch_size=100)
     index = chatbot.get_index(vc)
 
-    query = "Can you explain the key improvements made in LLaMA 2" \
-            " regarding model architecture and performance?"
+    query = "What are the primary imaging modalities mentioned in the article titled 'Artificial Intelligence " \
+            "for Breast US' for the detection and diagnosis of breast cancer in low-resource settings?"
     text_field = "text"
     chat_model = "gpt-3.5-turbo"
     k = 3
     res, results = chatbot.query(index, query, k, text_field, chat_model)
+    print(res, results)
