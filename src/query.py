@@ -21,7 +21,7 @@ class MedChatbot:
         # Initialize API_KEYS
         self.PINECONE_API_KEY = "27b401fd-4cb4-43cf-9fba-4d0827cc6d31"
         self.PINECONE_ENVIRONMENT = "gcp-starter"
-        self.OPENAI_API_KEY = "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"
+        self.OPENAI_API_KEY = "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"
         # self.data_path = "jamescalam/llama-2-arxiv-papers-chunked"
         self.data_path = "../assets/data/medical_articles.json"
         self.embedding_model = "text-embedding-ada-002"
@@ -159,11 +159,3 @@ if __name__ == '__main__':
     vc = chatbot.load_vectorstore()
     # index = chatbot.create_index(vc, data, batch_size=100)
     index = chatbot.get_index(vc)
-
-    query = "What are the primary imaging modalities mentioned in the article titled 'Artificial Intelligence " \
-            "for Breast US' for the detection and diagnosis of breast cancer in low-resource settings?"
-    text_field = "text"
-    chat_model = "gpt-3.5-turbo"
-    k = 3
-    res, results = chatbot.query(index, query, k, text_field, chat_model)
-    print(res, results)
