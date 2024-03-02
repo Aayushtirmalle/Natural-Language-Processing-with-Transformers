@@ -143,5 +143,7 @@ chatbot.query(index, question, top_k_retriever, text_field, chat_model_selected)
 ![answer_example](assets/images/answers_example.png)
 
 # References
-[Streamlit Documentation](https://docs.streamlit.io/)
 [Langchain Documentation](https://python.langchain.com/docs/get_started/introduction)
+[Pinecone Documentation](https://docs.pinecone.io/docs/overview)
+[OpenAI Documentation](https://platform.openai.com/docs/api-reference)
+[Streamlit Documentation](https://docs.streamlit.io/)
