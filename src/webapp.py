@@ -1,6 +1,5 @@
 import os
 import sys
-from query import *
 import logging
 from pathlib import Path
 from json import JSONDecodeError
@@ -75,28 +74,6 @@ def main():
 
     # Create a select box widget on the Streamlit app
     chat_model_selected = st.sidebar.selectbox("Choose a model:", model_options)
-
-    # eval_mode = st.sidebar.checkbox("Evaluation mode")
-    # debug = st.sidebar.checkbox("Show debug info")
-
-    # # File upload block
-    # if not DISABLE_FILE_UPLOAD:
-    #     st.sidebar.write("## File Upload:")
-    #     data_files = st.sidebar.file_uploader(
-    #         "upload", type=["pdf", "txt", "docx"], accept_multiple_files=True, label_visibility="hidden"
-    #     )
-    #     for data_file in data_files:
-    #         # Upload file
-    #         if data_file:
-    #             try:
-    #                 raw_json = upload_doc(data_file)
-    #                 st.sidebar.write(str(data_file.name) + " &nbsp;&nbsp; ✅ ")
-    #                 if debug:
-    #                     st.subheader("REST API JSON response")
-    #                     st.sidebar.write(raw_json)
-    #             except Exception as e:
-    #                 st.sidebar.write(str(data_file.name) + " &nbsp;&nbsp; ❌ ")
-    #                 st.sidebar.write("_This file could not be parsed, see the logs for more information._")
 
     langchain_version = ""
     try:
@@ -182,9 +159,7 @@ def main():
     st.session_state.random_question_requested = False
 
     chatbot = MedChatbot()
-    # data = chatbot.load_data()
     vc = chatbot.load_vectorstore()
-    # index = chatbot.create_index(vc, data, batch_size=100)
     index = chatbot.get_index(vc)
 
     query = "How does artificial intelligence contribute to the diagnosis of uveitis?"
@@ -245,37 +220,5 @@ def main():
                 st.markdown(f"**Title:** {metadata['title']}&nbsp;&nbsp;&nbsp;**Source:** {metadata['source']} ")
 
 
-        #     if eval_mode and run_query:
-        #         # Define columns for buttons
-        #         is_correct_answer = None
-        #         is_correct_document = None
-        #
-        #         button_col1, button_col2, button_col3, _ = st.columns([1, 1, 1, 6])
-        #         if button_col1.button("👍", key=f"{page_content}{count}1", help="Correct answer"):
-        #             is_correct_answer = True
-        #             is_correct_document = True
-        #
-        #         if button_col2.button("👎", key=f"{page_content}{count}2", help="Wrong answer and wrong passage"):
-        #             is_correct_answer = False
-        #             is_correct_document = False
-        #
-        #         if button_col3.button(
-        #                 "👎👍", key=f"{page_content}{count}3", help="Wrong answer, but correct passage"
-        #         ):
-        #             is_correct_answer = False
-        #             is_correct_document = True
-        #
-        #         if is_correct_answer is not None and is_correct_document is not None:
-        #             try:
-        #                 st.success("✨ &nbsp;&nbsp; Thanks for your feedback! &nbsp;&nbsp; ✨")
-        #             except Exception as e:
-        #                 logging.exception(e)
-        #                 st.error("🐞 &nbsp;&nbsp; An error occurred while submitting your feedback!")
-        # st.write("___")
-        #
-        # if debug:
-        #     st.subheader("REST API JSON response")
-        #     st.write(st.session_state.raw_json)
-
-
-main()
+if __name__ == '__main__':
+    main()
