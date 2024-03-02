@@ -14,7 +14,7 @@ def custom_text_splitter(text, chunk_size):
     return text_splitter.create_documents(text)
 
 
-def get_chunks(search_term, chunk_size, email, output_file='medical_articles.json'):
+def get_chunks(search_term, chunk_size, email, output_file='../assets/data/medical_articles.json'):
     Entrez.email = email
     search_results = Entrez.read(
         Entrez.esearch(db="pubmed", term=f"{search_term}[Abstract]", retmax=100, datetype="pdat")
