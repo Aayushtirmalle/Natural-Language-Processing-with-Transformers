@@ -11,7 +11,8 @@ from markdown import markdown
 
 # Adjust to a question that you would like users to see in the search bar when they load the UI:
 DEFAULT_QUESTION_AT_STARTUP = os.getenv("DEFAULT_QUESTION_AT_STARTUP",
-                                        "what safety measures were used in the development of llama 2?")
+                                        "What role does artificial intelligence play in analyzing bibliometric data "
+                                        "within medical research?")
 DEFAULT_ANSWER_AT_STARTUP = os.getenv("DEFAULT_ANSWER_AT_STARTUP", "RAG Model")
 
 # Sliders
@@ -31,7 +32,7 @@ def set_state_if_absent(key, value):
 
 
 def main():
-    st.set_page_config(page_title="Medical Rag-Chatbot Demo")
+    st.set_page_config(page_title="A Medical Question-Answering Demo Based On RAG")
 
     # Persistent state
     set_state_if_absent("question", DEFAULT_QUESTION_AT_STARTUP)
@@ -47,7 +48,7 @@ def main():
         st.session_state.raw_json = None
 
     # Title
-    st.write("# A Medical Question-Answering Demo")
+    st.write("# A Medical Question-Answering Demo Based On RAG")
     st.markdown(
         """
             Ask a question and see if our rag model can find the correct answer to your query!
@@ -70,7 +71,7 @@ def main():
     )
 
     # Define your options for the selector
-    model_options = ["gpt-3.5-turbo", "gpt-3.5", "gpt-4"]
+    model_options = ["gpt-3.5-turbo", "gpt-4"]
 
     # Create a select box widget on the Streamlit app
     chat_model_selected = st.sidebar.selectbox("Choose a model:", model_options)
@@ -186,12 +187,11 @@ def main():
     # index = chatbot.create_index(vc, data, batch_size=100)
     index = chatbot.get_index(vc)
 
-    query = "Can you explain the key improvements made in LLaMA 2" \
-            " regarding model architecture and performance?"
+    query = "How does artificial intelligence contribute to the diagnosis of uveitis?"
     text_field = "text"
 
     run_query = (
-                        run_pressed or question != st.session_state.question
+                    run_pressed or question != st.session_state.question
                 ) and not st.session_state.random_question_requested
 
     # Check the connection
@@ -242,8 +242,8 @@ def main():
                     markdown(str(annotation(page_content, "CHUNK", "#13678A"))),
                     unsafe_allow_html=True
                 )
-                source, title = metadata['source'], metadata['title']
-                st.markdown(f"**Title:** {title}&nbsp;&nbsp;&nbsp;**Source:** {source} ")
+                st.markdown(f"**Title:** {metadata['title']}&nbsp;&nbsp;&nbsp;**Source:** {metadata['source']} ")
+
 
         #     if eval_mode and run_query:
         #         # Define columns for buttons
