@@ -19,6 +19,8 @@ setup(
         'langchain',
         'pinecone-client',
         'openai',
+        'st-annotated_text',
+        'markdown'
     ],
     classifiers=[
         'Development Status :: 3 - Alpha',
