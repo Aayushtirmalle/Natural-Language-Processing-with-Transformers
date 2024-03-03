@@ -21,7 +21,7 @@ class MedChatbot:
         # Initialize API_KEYS
         self.PINECONE_API_KEY = "27b401fd-4cb4-43cf-9fba-4d0827cc6d31"
         self.PINECONE_ENVIRONMENT = "gcp-starter"
-        self.OPENAI_API_KEY = "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"
+        self.OPENAI_API_KEY = "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"
         # self.data_path = "jamescalam/llama-2-arxiv-papers-chunked"
         self.data_path = "../assets/data/medical_articles.json"
         self.embedding_model = "text-embedding-ada-002"
@@ -123,7 +123,7 @@ class MedChatbot:
         source_knowledge = "\n".join([x.page_content for x in results])
         # feed into an augmented prompt
         augmented_prompt = f"""Using the contexts below, answer the query.
-
+        
         Contexts:
         {source_knowledge}
 
@@ -146,8 +146,10 @@ class MedChatbot:
             AIMessage(content="I'm great thank you. How can I help you?")
         ]
         augment_prompt, retriever_results = self.augment_prompt(query, k, vectorstore)
+
         prompt = HumanMessage(
             content=augment_prompt
+            # content=query
         )
         res = chat(messages + [prompt])
         return res, retriever_results
