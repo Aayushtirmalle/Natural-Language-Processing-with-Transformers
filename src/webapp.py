@@ -2,6 +2,7 @@ import os
 import sys
 import logging
 from pathlib import Path
+from query import *
 from json import JSONDecodeError
 import pandas as pd
 import streamlit as st
@@ -75,12 +76,6 @@ def main():
     # Create a select box widget on the Streamlit app
     chat_model_selected = st.sidebar.selectbox("Choose a model:", model_options)
 
-    langchain_version = ""
-    try:
-        langchain_version = f" <small>(v{(langchain_version())})</small>"
-    except Exception:
-        pass
-
     st.sidebar.markdown(
         f"""
     <style>
@@ -115,7 +110,8 @@ def main():
         df = pd.read_csv(EVAL_LABELS, sep=";")
     except Exception:
         st.error(
-            f"The eval file was not found. Please check the demo's [README](https://github.com/deepset-ai/haystack/tree/main/ui/README.md) for more information."
+            f"The eval file was not found. Please check the demo's [README]("
+            f"https://github.com/deepset-ai/haystack/tree/main/ui/README.md) for more information."
         )
         sys.exit(
             f"The eval file was not found under `{EVAL_LABELS}`. Please check the README (https://github.com/deepset-ai/haystack/tree/main/ui/README.md) for more information."
@@ -142,13 +138,11 @@ def main():
         new_row = df.sample(1)
         while (
                 new_row["Question Text"].values[0] == st.session_state.question
-        ):  # Avoid picking the same question twice (the change is not visible on the UI)
+        ):
             new_row = df.sample(1)
         st.session_state.question = new_row["Question Text"].values[0]
         st.session_state.answer = new_row["Answer"].values[0]
         st.session_state.random_question_requested = True
-        # Re-runs the script setting the random question as the textbox value
-        # Unfortunately necessary as the Random Question button is _below_ the textbox
         if hasattr(st, "scriptrunner"):
             raise st.scriptrunner.script_runner.RerunException(
                 st.scriptrunner.script_requests.RerunData(widget_states=None)
@@ -158,11 +152,10 @@ def main():
         )
     st.session_state.random_question_requested = False
 
+    # Initialize the MedChatbot and Pinecone vector store
     chatbot = MedChatbot()
     vc = chatbot.load_vectorstore()
     index = chatbot.get_index(vc)
-
-    query = "How does artificial intelligence contribute to the diagnosis of uveitis?"
     text_field = "text"
 
     run_query = (
@@ -176,7 +169,7 @@ def main():
             run_query = False
             reset_results()
 
-    # Get results for query
+    # Get the query results from our RAG pipeline
     if run_query and question:
         reset_results()
         st.session_state.question = question
@@ -200,6 +193,7 @@ def main():
                     st.error("🐞 &nbsp;&nbsp; An error occurred during the request.")
                 return
 
+    # Show the answers on the screen
     if st.session_state.results:
         st.write("## Answer:")
         st.write(
@@ -211,7 +205,7 @@ def main():
         if run_query and question:
             for count, result in enumerate(retriever_results):
                 page_content, metadata = result.page_content, result.metadata
-
+                # Display each chunk
                 st.markdown(f"##### Chunk {count + 1}")
                 st.write(
                     markdown(str(annotation(page_content, "CHUNK", "#13678A"))),
