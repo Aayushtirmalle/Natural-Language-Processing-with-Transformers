@@ -20,7 +20,8 @@ setup(
         'pinecone-client',
         'openai',
         'st-annotated_text',
-        'markdown'
+        'markdown',
+        'tiktoken'
     ],
     classifiers=[
         'Development Status :: 3 - Alpha',
