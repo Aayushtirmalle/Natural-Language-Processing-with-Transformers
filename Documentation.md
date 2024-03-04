@@ -71,7 +71,7 @@ While previous research has laid the groundwork for question answering systems u
 ## **Methods/Approach** (Jiufeng Li)
 Our project employs the RAG model to refine document retrieval and text chunking for our QA system. By leveraging fine-grained vector similarity searches through Pinecone, we efficiently retrieve and rank the most relevant information as it shows in Figure 1. This, coupled with Streamlit's interactive UI, enables rapid and accurate answer generation based on state-of-the-art language models, like ChatGPT 4. 
 
-![RAG Pipeline](./pipeline.jpg "The Pipeline of Our Medical Question-Answering System")
+![RAG Pipeline](/assets/images/pipeline.jpg "The Pipeline of Our Medical Question-Answering System")
 <p align="center">Figure 1: The Pipeline of Our RAG Medical Question-Answering System</p>
 
 1. *Langchain Framework:*
@@ -97,7 +97,7 @@ The gathered dataset undergoes a rigorous preprocessing regimen, where we employ
 
 Figure 2 encapsulates our robust data model, showcasing the systematic organization and readiness for user interaction.
 
-![Data model](../assets/images/data_model.png "The Pipeline of Our Medical Question-Answering System")
+![Data model](/assets/images/data_model.png "The Pipeline of Our Medical Question-Answering System")
 <p align="center">Figure 2: Data model</p>
 
 ```python
@@ -243,7 +243,7 @@ res = chat(messages + [prompt])
 7. Streamlit UI  
 To present the results to users, our project utilizes Streamlit, an agile web framework renowned for its simplicity and efficiency. The interface elegantly showcases the *Answer* and the *Top-k Retrieval Results*, with each chunk distinctly highlighted for clarity. Additionally, the application provides interactive elements, allowing users to customize parameters such as 'k' for retrieval depth and to choose from various chat models to tailor the response generation to their preferences.
 
-![Streamlit UI](../assets/images/screenshot.png "UI")
+![Streamlit UI](/assets/images/screenshot.png "UI")
 <p align="center">Figure 3: Streamlit UI of Our Medical Question-Answering System</p>
 
 ### Evaluation Method (Jiufeng Li, Aayush Manoj Tirmalle)
@@ -258,7 +258,7 @@ Cosine similarity is particularly well-suited for this task as it measures the c
 In essence, the use of embeddings and cosine similarity in evaluating QA systems reflects a move towards more context-aware, semantically-focused assessment criteria, aligning more closely with the way humans understand and process language. This method provides a more sophisticated means of assessing the performance of LLMs in QA tasks, which is particularly relevant as these models become increasingly central to AI-driven applications.
 
 
-![Evaluation](../assets/images/evaluation_plot.png )
+![Evaluation](/assets/images/evaluation_plot.png )
 <p align="center">Figure 4: Evaluation of Our RAG Model</p>
 As delineated in Figure 4, the Retrieval-Augmented Generation (RAG) model, enhanced with a pretrained ChatGPT-3.5-turbo model, demonstrates superior performance over standalone GPT-3 and GPT-4 models in the absence of an external knowledge base. This empirical evidence suggests that augmenting pretrained large language models (LLMs) with contextually relevant information segments substantially boosts the model's accuracy. The efficacy of the RAG model is attributable to its strategic integration of retrieval mechanisms, which dynamically enrich the LLM's response generation process with pertinent data, thereby refining its decision-making and predictive capabilities.
 
